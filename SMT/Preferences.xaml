@@ -43,7 +43,7 @@
                                     </StackPanel>
                                 </GroupBox>
 
-                                <GroupBox Header="日志（需重启程序）" Margin="4" Height="125">
+                                <GroupBox Header="日志（更改需重启程序）" Margin="4" Height="125">
                                     <StackPanel>
                                         <Label Content="当前日志目录：" />
                                         <Label Content="{Binding Path=CurrentEveLogFolderLocation}" />
