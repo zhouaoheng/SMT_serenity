@@ -28,22 +28,24 @@
 
             <Separator />
 
-            <MenuItem Header="Set Destination" Click="SysContexMenuItemSetDestination_Click" IsEnabled="False" />
-            <MenuItem Header="Set Destination (All)" Click="SysContexMenuItemSetDestinationAll_Click" />
-            <MenuItem Header="Add Waypoint" Click="SysContexMenuItemAddWaypoint_Click" IsEnabled="False" />
-            <MenuItem Header="Add Waypoint (All)" Click="SysContexMenuItemAddWaypointAll_Click" />
-            <MenuItem Header="Clear Route" Click="SysContexMenuItemClearRoute_Click" IsEnabled="False" />
+          <MenuItem Header="设定目的地" Click="SysContexMenuItemSetDestination_Click" IsEnabled="False" />
+          <MenuItem Header="设定目的地 (全部)" Click="SysContexMenuItemSetDestinationAll_Click"  />
+          <MenuItem Header="添加航标" Click="SysContexMenuItemAddWaypoint_Click" IsEnabled="False" />
+          <MenuItem Header="添加航标 (全部)" Click="SysContexMenuItemAddWaypointAll_Click" />
+
+          <MenuItem Header="清除路线" Click="SysContexMenuItemClearRoute_Click" IsEnabled="False" />
 
             <Separator />
 
-            <MenuItem Header="Show Jump Range">
-                <MenuItem Header="Remove All" DataContext="-1" Click="SetJumpRange_Click" />
-                <MenuItem Header="None" DataContext="0" Click="SetJumpRange_Click" />
-                <MenuItem Header="Ansiblex  (5.0LY)" DataContext="5" Click="SetJumpRange_Click" />
-                <MenuItem Header="Super/Titan  (6.0LY)" DataContext="6" Click="SetJumpRange_Click" />
-                <MenuItem Header="Carriers/Fax (7.0LY)" DataContext="7" Click="SetJumpRange_Click" />
-                <MenuItem Header="Black Ops    (8.0LY)" DataContext="8" Click="SetJumpRange_Click" />
-                <MenuItem Header="JF/Rorq     (10.0LY)" DataContext="10" Click="SetJumpRange_Click" />
+            <MenuItem Header="显示跳跃范围">
+              <MenuItem Header="移除全部" DataContext="-1" Click="SetJumpRange_Click" />
+              <MenuItem Header="空" DataContext="0" Click="SetJumpRange_Click" />
+              <MenuItem Header="安塞波跳桥  (5.0LY)" DataContext="5" Click="SetJumpRange_Click" />
+              <MenuItem Header="超旗/泰坦  (6.0LY)" DataContext="6" Click="SetJumpRange_Click" />
+              <MenuItem Header="无畏/小航/FAX (7.0LY)" DataContext="7" Click="SetJumpRange_Click" />
+              <MenuItem Header="黑隐  (8.0LY)" DataContext="8" Click="SetJumpRange_Click" />
+              <MenuItem Header="大鱼/跳货  (10.0LY)" DataContext="10" Click="SetJumpRange_Click" />
+              <MenuItem Header="座头鲸  (12.0LY)" DataContext="12" Click="SetJumpRange_Click" />
             </MenuItem>
 
             <MenuItem Header="SOV">
@@ -51,11 +53,11 @@
                 <MenuItem  Header="IHub" />
             </MenuItem>
 
-            <MenuItem Header="Info" />
+            <MenuItem Header="信息" />
 
             <MenuItem Header="DotLan" Click="SysContexMenuItemDotlan_Click" />
             <MenuItem Header="ZKillBoard" Click="SysContexMenuItemZKB_Click" />
-            <MenuItem Header="Show In Regions" Click="SysContexMenuShowInRegion_Click" />
+            <MenuItem Header="在星域中显示" Click="SysContexMenuShowInRegion_Click" />
         </ContextMenu>
     </UserControl.Resources>
 

@@ -40,13 +40,14 @@
             <MenuItem Header="角色" IsEnabled="False" />
 
             <MenuItem Header="显示跳跃范围">
-                <MenuItem Header="移除全部" DataContext="-1" Click="SetJumpRange_Click" />
-                <MenuItem Header="空" DataContext="0" Click="SetJumpRange_Click" />
-                <MenuItem Header="超旗/泰坦  (6.0LY)" DataContext="6" Click="SetJumpRange_Click" />
-                <MenuItem Header="无畏/小航/FAX (7.0LY)" DataContext="7" Click="SetJumpRange_Click" />
-                <MenuItem Header="黑隐  (8.0LY)" DataContext="8" Click="SetJumpRange_Click" />
-                <MenuItem Header="大鱼/跳货  (10.0LY)" DataContext="10" Click="SetJumpRange_Click" />
-                <MenuItem Header="座头鲸  (12.0LY)" DataContext="12" Click="SetJumpRange_Click" />
+              <MenuItem Header="移除全部" DataContext="-1" Click="SetJumpRange_Click" />
+              <MenuItem Header="空" DataContext="0" Click="SetJumpRange_Click" />
+              <MenuItem Header="安塞波跳桥  (5.0LY)" DataContext="5" Click="SetJumpRange_Click" />
+              <MenuItem Header="超旗/泰坦  (6.0LY)" DataContext="6" Click="SetJumpRange_Click" />
+              <MenuItem Header="无畏/小航/FAX (7.0LY)" DataContext="7" Click="SetJumpRange_Click" />
+              <MenuItem Header="黑隐  (8.0LY)" DataContext="8" Click="SetJumpRange_Click" />
+              <MenuItem Header="大鱼/跳货  (10.0LY)" DataContext="10" Click="SetJumpRange_Click" />
+              <MenuItem Header="座头鲸  (12.0LY)" DataContext="12" Click="SetJumpRange_Click" />
             </MenuItem>
 
             <Separator />

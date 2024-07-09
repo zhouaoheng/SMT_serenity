@@ -3126,6 +3126,11 @@ namespace SMT
                     js = EveManager.JumpShip.JF;
                 }
 
+                if (mi.DataContext as string == "12")
+                {
+                    js = EveManager.JumpShip.HW;
+                }
+
                 if (mi.DataContext as string == "0")
                 {
                     showJumpDistance = false;
