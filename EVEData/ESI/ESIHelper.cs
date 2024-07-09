@@ -7,7 +7,7 @@ namespace SMT.EVEData
     {
         public static bool ValidateESICall<T>(EsiResponse<T> esiR)
         {
-            if (esiR.StatusCode == HttpStatusCode.OK || esiR.StatusCode == HttpStatusCode.NoContent)
+            if (esiR.StatusCode is HttpStatusCode.OK or HttpStatusCode.NoContent)
             {
                 return true;
             }
