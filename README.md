@@ -13,3 +13,6 @@ Discord :  https://discord.gg/QSuJjNn
 - clone a repository locally using the GitHub url
 - run using Debug>Start Without Debugging
 - to submit changes: fork on GitHub, clone and edit your fork, create a pull request
+
+
+#### 2024.07.09 计划进行晨曦服适配
