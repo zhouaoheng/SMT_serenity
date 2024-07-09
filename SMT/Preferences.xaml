@@ -16,7 +16,7 @@
     <Grid Background="{DynamicResource ButtonBorder}" Height="Auto" Width="Auto" HorizontalAlignment="Left" VerticalAlignment="Top">
         <DockPanel HorizontalAlignment="Stretch"  VerticalAlignment="Stretch">
             <TabControl x:Name="tabControl" DockPanel.Dock="Top" Height="487">
-                <TabItem Header="General">
+                <TabItem Header="常规">
                     <Grid>
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition Width="50*" />
@@ -27,15 +27,15 @@
                             <StackPanel>
                                 <GroupBox Margin="4" Height="Auto">
                                     <GroupBox.Header>
-                                        <TextBlock FontWeight="Bold">General</TextBlock>
+                                        <TextBlock FontWeight="Bold">常规</TextBlock>
                                     </GroupBox.Header>
                                     <StackPanel>
-                                        <CheckBox IsChecked="{Binding Path=AlwaysOnTop}" Margin="0,3" Content="Always on top" />
-                                        <CheckBox IsChecked="{Binding Path=SyncActiveCharacterBasedOnActiveEVEClient}" Margin="0,3">Auto sync character to active window</CheckBox>
-                                        <CheckBox x:Name="syncESIPositionChk" Margin="0,3" Checked="syncESIPositionChk_Checked" Unchecked="syncESIPositionChk_Checked">Use ESI for character positions</CheckBox>
-                                        <CheckBox IsChecked="{Binding Path=DrawRoute}" Margin="0,3" Content="Draw Route" />
-                                        <CheckBox IsChecked="{Binding MinimizeToTray}" Margin="0,3" Content="Minimize to tray" />
-                                        <CheckBox IsChecked="{Binding CloseToTray}" Margin="0,3" Content="Close to tray">
+                                        <CheckBox IsChecked="{Binding Path=AlwaysOnTop}" Margin="0,3" Content="始终置顶" />
+                                        <CheckBox IsChecked="{Binding Path=SyncActiveCharacterBasedOnActiveEVEClient}" Margin="0,3">自动选择角色</CheckBox>
+                                        <CheckBox x:Name="syncESIPositionChk" Margin="0,3" Checked="syncESIPositionChk_Checked" Unchecked="syncESIPositionChk_Checked">使用ESI获取角色位置</CheckBox>
+                                        <CheckBox IsChecked="{Binding Path=DrawRoute}" Margin="0,3" Content="绘制航线" />
+                                        <CheckBox IsChecked="{Binding MinimizeToTray}" Margin="0,3" Content="最小化至托盘" />
+                                        <CheckBox IsChecked="{Binding CloseToTray}" Margin="0,3" Content="关闭至托盘">
                                             <CheckBox.IsEnabled>
                                                 <Binding Path="MinimizeToTray" Converter="{StaticResource NegateBooleanConverter}" />
                                             </CheckBox.IsEnabled>
@@ -43,29 +43,29 @@
                                     </StackPanel>
                                 </GroupBox>
 
-                                <GroupBox Header="Logs (changing these requires a restart)" Margin="4" Height="125">
+                                <GroupBox Header="日志（需重启程序）" Margin="4" Height="125">
                                     <StackPanel>
-                                        <Label Content="Current Log Folder : " />
+                                        <Label Content="当前日志目录：" />
                                         <Label Content="{Binding Path=CurrentEveLogFolderLocation}" />
 
-                                        <Button Name="SetLogLocation" Content="Set Custom Log Folder" Click="SetLogLocation_Click" Margin="3" Width="140" HorizontalAlignment="Left" />
-                                        <Button Name="DefaultLogLocation" Content="Set Default Log Folder" Click="DefaultLogLocation_Click" Margin="3" Width="140" HorizontalAlignment="Left" />
+                                        <Button Name="SetLogLocation" Content="自定义日志文件夹" Click="SetLogLocation_Click" Margin="3" Width="140" HorizontalAlignment="Left" />
+                                        <Button Name="DefaultLogLocation" Content="重置日志文件夹" Click="DefaultLogLocation_Click" Margin="3" Width="140" HorizontalAlignment="Left" />
                                     </StackPanel>
                                 </GroupBox>
                             </StackPanel>
                         </StackPanel>
 
                         <StackPanel Grid.Column="1">
-                            <GroupBox Header="Performance" Margin="4" Height="Auto">
+                            <GroupBox Header="图像" Margin="4" Height="Auto">
                                 <StackPanel>
-                                    <CheckBox IsChecked="{Binding Path=DisableJumpBridgesPathAnimation}" Margin="0,3">Disable jump bridges path animation</CheckBox>
-                                    <CheckBox IsChecked="{Binding Path=DisableRoutePathAnimation}" Margin="0,3">Disable route path animation</CheckBox>
+                                    <CheckBox IsChecked="{Binding Path=DisableJumpBridgesPathAnimation}" Margin="0,3">关闭跳桥动画</CheckBox>
+                                    <CheckBox IsChecked="{Binding Path=DisableRoutePathAnimation}" Margin="0,3">关闭路径动画</CheckBox>
                                 </StackPanel>
                             </GroupBox>
                         </StackPanel>
                     </Grid>
                 </TabItem>
-                <TabItem Header="Region" HorizontalAlignment="Left">
+                <TabItem Header="显示" HorizontalAlignment="Left">
                     <Grid>
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition Width="50*" />
@@ -75,20 +75,20 @@
                         <StackPanel Grid.Column="0">
                             <GroupBox  Margin="4" Height="Auto">
                                 <StackPanel>
-                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowActiveIncursions}" Content="Show Active Incursions" />
-                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowJoveObservatories}" Content="Show Jove Observatories" />
-                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowToolBox}" Content="Show Toolbox" />
-                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowTrueSec}" Content="Show TrueSec" />
-                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowSystemPopup}" Content="Show System Popups" />
-                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowZKillData}" Content="Show ZKill Data" />
+                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowActiveIncursions}" Content="显示活动入侵" />
+                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowJoveObservatories}" Content="显示朱庇特天文台" />
+                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowToolBox}" Content="显示工具箱" />
+                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowTrueSec}" Content="显示真实安全性" />
+                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowSystemPopup}" Content="显示系统菜单" />
+                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowZKillData}" Content="显示KB数据" />
                                     <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowNegativeRattingDelta}" Content="Show Negative Ratting Delta" />
                                     <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowRattingDataAsDelta}" Content="Show Ratting Data as Delta" />
-                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowSimpleSecurityView}" Content="Show Simple Security View (Just HS/LS/null)" />
-                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowTrigInvasions}" Content="Show Trig Invasions" />
+                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowSimpleSecurityView}" Content="简写安全情况（仅 高安全/低安全/无）" />
+                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowTrigInvasions}" Content="显示三神裔入侵" />
 
                                     <StackPanel Orientation="Horizontal" Margin="0,0">
                                         <xctk:IntegerUpDown Margin="1,3" Value="{Binding Path=MaxESIOverlayValue}" Minimum="30" Maximum="300" Width="60"  Foreground="White" />
-                                        <Label>Maximum Overlay Size</Label>
+                                        <Label>最大显示尺寸</Label>
                                     </StackPanel>
                                 </StackPanel>
                             </GroupBox>
@@ -97,12 +97,12 @@
                         <StackPanel Grid.Column="1">
                             <GroupBox Margin="4" Height="Auto">
                                 <StackPanel>
-                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowCompactCharactersOnMap}" Content="Compact Character Mode" />
-                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowOfflineCharactersOnMap}" Content="Show Offline Characters" />
+                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowCompactCharactersOnMap}" Content="简约显示模式" />
+                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowOfflineCharactersOnMap}" Content="显示离线玩家" />
 
-                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=LimitESIDataToRegion}" Content="Limit data overlay to in-region only" />
-                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=FollowOnZoom}" Content="Follow Selected System when Zoomed" />
-                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ClampMaxESIOverlayValue}" Content="Clamp overlay Data to Maximum" />
+                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=LimitESIDataToRegion}" Content="仅在选中区域中显示" />
+                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=FollowOnZoom}" Content="缩放跟踪视角" />
+                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ClampMaxESIOverlayValue}" Content="最大化显示数据" />
                                 </StackPanel>
                             </GroupBox>
                         </StackPanel>
@@ -364,8 +364,8 @@
                 </TabItem>
             </TabControl>
             <StackPanel Orientation="Horizontal" DockPanel.Dock="Bottom" Height="20" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="0,2">
-                <Button Content="Default" Margin="3,0" Width="55" Click="Prefs_Default_Click" />
-                <Button Content="OK" Margin="3,0" Width="55" Click="Prefs_OK_Click" />
+                <Button Content="重置" Margin="3,0" Width="55" Click="Prefs_Default_Click" />
+                <Button Content="应用" Margin="3,0" Width="55" Click="Prefs_OK_Click" />
             </StackPanel>
         </DockPanel>
     </Grid>
