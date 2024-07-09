@@ -70,7 +70,7 @@
                 </MenuItem>
             </Menu>
 
-            <Label Margin="30,0,0,0" Padding="7">活跃角色 :</Label>
+            <Label Margin="30,0,0,0" Padding="7">活动角色 :</Label>
             <ComboBox x:Name="CurrentActiveCharacterCombo" Width="180"  IsReadOnly="True" SelectionChanged="CurrentActiveCharacterCombo_Selected"  Height="18" />
         </StackPanel>
 
