@@ -162,7 +162,7 @@ namespace SMT.EVEData
         {
             SerializableDictionary<string, List<string>> rangeCache = new SerializableDictionary<string, List<string>>();
 
-            decimal maxRange = 10;
+            decimal maxRange = 12;
 
             // now create the jumpable system links
             foreach (System sysa in eveSystems)
@@ -214,7 +214,7 @@ namespace SMT.EVEData
             TheraLinks = new List<string>();
             ZarzakhLinks = new List<string>();
 
-            // build up the nav structures
+            // 构建导航结构
             foreach (System sys in eveSystems)
             {
                 MapNode mn = new MapNode
@@ -233,6 +233,7 @@ namespace SMT.EVEData
                     ActualSystem = sys
                 };
 
+                // 添加系统连接
                 foreach (string s in sys.Jumps)
                 {
                     mn.Connections.Add(s);
@@ -241,10 +242,12 @@ namespace SMT.EVEData
                 MapNodes[mn.Name] = mn;
             }
 
+            // 更新跳跃桥
             UpdateJumpBridges(jumpBridges);
 
-            decimal MaxRange = 10;
+            decimal MaxRange = 12;
 
+            // 构建跳跃范围缓存
             foreach (string s in jumpRangeCache.Keys)
             {
                 MapNode sysMN = MapNodes[s];
@@ -253,14 +256,17 @@ namespace SMT.EVEData
                     decimal Distance = EveManager.Instance.GetRangeBetweenSystems(sysMN.Name, t);
                     if (Distance < MaxRange && Distance > 0)
                     {
-                        JumpLink jl = new JumpLink();
-                        jl.System = t;
-                        jl.RangeLY = Distance;
+                        JumpLink jl = new JumpLink
+                        {
+                            System = t,
+                            RangeLY = Distance
+                        };
                         sysMN.JumpableSystems.Add(jl);
                     }
                 }
             }
         }
+
 
         public static List<RoutePoint> Navigate(string From, string To, bool UseJumpGates, bool UseThera, bool UseZarzakh, RoutingMode routingMode)
         {
@@ -474,17 +480,18 @@ namespace SMT.EVEData
             return ActualRoute;
         }
 
-        public static List<RoutePoint> NavigateCapitals(string From, string To, double MaxLY, LocalCharacter lc, List<string> systemsToAvoid)
+        public static List<RoutePoint> NavigateCapitals(string from, string to, double maxLY, LocalCharacter lc, List<string> systemsToAvoid)
         {
-            if (!(MapNodes.ContainsKey(From)) || !(MapNodes.ContainsKey(To)) || From == "" || To == "")
+            // 输入检查
+            if (!MapNodes.ContainsKey(from) || !MapNodes.ContainsKey(to) || string.IsNullOrEmpty(from) || string.IsNullOrEmpty(to))
             {
                 return null;
             }
 
-            double ExtraJumpFactor = 5.0;
-            double AvoidFactor = 0.0;
+            double extraJumpFactor = 5.0;
+            double avoidFactor = 0.0;
 
-            // clear the scores, values and parents from the list
+            // 清除路径信息
             foreach (MapNode mapNode in MapNodes.Values)
             {
                 mapNode.NearestToStart = null;
@@ -492,99 +499,85 @@ namespace SMT.EVEData
                 mapNode.Visited = false;
             }
 
-            MapNode Start = MapNodes[From];
-            MapNode End = MapNodes[To];
+            MapNode startNode = MapNodes[from];
+            MapNode endNode = MapNodes[to];
 
-            List<MapNode> OpenList = new List<MapNode>();
-            List<MapNode> ClosedList = new List<MapNode>();
+            List<MapNode> openList = new List<MapNode> { startNode };
+            List<MapNode> closedList = new List<MapNode>();
 
-            MapNode CurrentNode = null;
+            MapNode currentNode = null;
 
-            // add the start to the open list
-            OpenList.Add(Start);
-
-            while (OpenList.Count > 0)
+            // A* 路径搜索算法
+            while (openList.Count > 0)
             {
-                // get the MapNode with the lowest F score
-                double lowest = OpenList.Min(mn => mn.MinCostToStart);
-                CurrentNode = OpenList.First(mn => mn.MinCostToStart == lowest);
+                currentNode = openList.OrderBy(n => n.MinCostToStart).First();
+                closedList.Add(currentNode);
+                openList.Remove(currentNode);
 
-                // add the list to the closed list
-                ClosedList.Add(CurrentNode);
-
-                // remove it from the open list
-                OpenList.Remove(CurrentNode);
-
-                // walk the connections
-                foreach (JumpLink connection in CurrentNode.JumpableSystems)
+                // 处理当前节点的所有连接
+                foreach (JumpLink connection in currentNode.JumpableSystems)
                 {
-                    if (connection.RangeLY > (decimal)MaxLY)
-                    {
-                        continue;
-                    }
-
-                    MapNode CMN = MapNodes[connection.System];
-
-                    if (CMN.Visited)
+                    if (connection.RangeLY > (decimal)maxLY)
                         continue;
 
-                    if (systemsToAvoid.Contains(connection.System))
-                    {
-                        AvoidFactor = 10000;
-                    }
-                    else
-                    {
-                        AvoidFactor = 0.0;
-                    }
+                    MapNode connectedNode = MapNodes[connection.System];
 
-                    if (CMN.MinCostToStart == 0 || CurrentNode.MinCostToStart + (double)connection.RangeLY + ExtraJumpFactor + AvoidFactor < CMN.MinCostToStart)
+                    if (connectedNode.Visited)
+                        continue;
+
+                    avoidFactor = systemsToAvoid.Contains(connection.System) ? 10000 : 0.0;
+
+                    double costToConnectedNode = currentNode.MinCostToStart + (double)connection.RangeLY + extraJumpFactor + avoidFactor;
+
+                    if (connectedNode.MinCostToStart == 0 || costToConnectedNode < connectedNode.MinCostToStart)
                     {
-                        CMN.MinCostToStart = CurrentNode.MinCostToStart + (double)connection.RangeLY + ExtraJumpFactor + AvoidFactor;
-                        CMN.NearestToStart = CurrentNode;
-                        if (!OpenList.Contains(CMN))
+                        connectedNode.MinCostToStart = costToConnectedNode;
+                        connectedNode.NearestToStart = currentNode;
+                        if (!openList.Contains(connectedNode))
                         {
-                            OpenList.Add(CMN);
+                            openList.Add(connectedNode);
                         }
                     }
                 }
 
-                CurrentNode.Visited = true;
+                currentNode.Visited = true;
             }
 
-            // build the path
+            // 构建路径
+            List<string> route = new List<string>();
+            currentNode = endNode;
 
-            List<string> Route = new List<string>();
-
-            CurrentNode = End;
-            if (End.NearestToStart != null)
+            if (endNode.NearestToStart != null)
             {
-                while (CurrentNode != null)
+                while (currentNode != null)
                 {
-                    Route.Add(CurrentNode.Name);
-                    CurrentNode = CurrentNode.NearestToStart;
+                    route.Add(currentNode.Name);
+                    currentNode = currentNode.NearestToStart;
                 }
             }
 
-            List<RoutePoint> ActualRoute = new List<RoutePoint>();
-
-            for (int i = 0; i < Route.Count; i++)
+            if (route.Count == 0)
             {
-                RoutePoint RP = new RoutePoint();
-                RP.GateToTake = GateType.JumpTo;
-                RP.LY = 0.0m;
-                RP.SystemName = Route[i];
-
-                if (i > 0)
-                {
-                    RP.LY = EveManager.Instance.GetRangeBetweenSystems(Route[i], Route[i - 1]);
-                }
-                ActualRoute.Add(RP);
+                return new List<RoutePoint>();
             }
 
-            ActualRoute.Reverse();
+            List<RoutePoint> actualRoute = new List<RoutePoint>();
 
-            return ActualRoute;
+            for (int i = 0; i < route.Count; i++)
+            {
+                RoutePoint routePoint = new RoutePoint
+                {
+                    GateToTake = GateType.JumpTo,
+                    LY = i > 0 ? EveManager.Instance.GetRangeBetweenSystems(route[i], route[i - 1]) : 0.0m,
+                    SystemName = route[i]
+                };
+                actualRoute.Add(routePoint);
+            }
+
+            actualRoute.Reverse();
+            return actualRoute;
         }
+
 
         public static void UpdateJumpBridges(List<JumpBridge> jumpBridges)
         {

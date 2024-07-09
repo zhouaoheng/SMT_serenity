@@ -1103,7 +1103,7 @@ namespace SMT
 
                                 case 2:
                                     charText.Fill = localCharacterOfflineText;
-                                    charText.Text += "(Offline)";
+                                    charText.Text += "(离线)";
                                     break;
 
                                 case 3:
@@ -1271,11 +1271,11 @@ namespace SMT
                     string text = "";
                     if (MapConf.ShowCharacterNamesOnMap)
                     {
-                        text = $"{jumpShipType} range from {currentJumpCharacter} : {currentCharacterJumpSystem} ({js.Region})";
+                        text = $"{jumpShipType} 跳跃范围 从 {currentJumpCharacter} : {currentCharacterJumpSystem} ({js.Region})";
                     }
                     else
                     {
-                        text = $"{jumpShipType} range from {currentCharacterJumpSystem} ({js.Region})";
+                        text = $"{jumpShipType} 跳跃范围 从 {currentCharacterJumpSystem} ({js.Region})";
                     }
 
                     Label l = new Label();
@@ -1290,7 +1290,7 @@ namespace SMT
             foreach (string key in activeJumpSpheres.Keys)
             {
                 EVEData.System js = EM.GetEveSystem(key);
-                string text = $"{activeJumpSpheres[key]} range from {key} ({js.Region})";
+                string text = $"{activeJumpSpheres[key]} 跳跃范围 从 {key} ({js.Region})";
 
                 Label l = new Label();
                 l.Content = text;
@@ -1584,6 +1584,7 @@ namespace SMT
                             case EVEData.EveManager.JumpShip.Blops: { Max = 8.0m; } break;
                             case EVEData.EveManager.JumpShip.Rorqual: { Max = 10.0m; } break;
                             case EVEData.EveManager.JumpShip.JF: { Max = 10.0m; } break;
+                            case EVEData.EveManager.JumpShip.HW: { Max = 12.0m; } break;
                         }
 
                         if (Distance < Max && Distance > 0.0m && sys.ActualSystem.TrueSec <= 0.45 && currentCharacterJumpSystem != sys.Name)
@@ -1612,6 +1613,7 @@ namespace SMT
                             case EVEData.EveManager.JumpShip.Blops: { Max = 8.0m; } break;
                             case EVEData.EveManager.JumpShip.Rorqual: { Max = 10.0m; } break;
                             case EVEData.EveManager.JumpShip.JF: { Max = 10.0m; } break;
+                            case EVEData.EveManager.JumpShip.HW: { Max = 12.0m; } break;
                         }
 
                         if (Distance < Max && Distance > 0.0m && sys.ActualSystem.TrueSec <= 0.45 && key != sys.Name)
@@ -3241,6 +3243,11 @@ namespace SMT
                     js = EveManager.JumpShip.JF;
                 }
 
+                if (mi.DataContext as string == "12")
+                {
+                    js = EveManager.JumpShip.HW;
+                }
+
                 activeJumpSpheres[eveSys.Name] = js;
 
                 if (mi.DataContext as string == "0")
@@ -3496,14 +3503,14 @@ namespace SMT
                 Label constellation = new Label();
                 constellation.Padding = one;
                 constellation.Margin = one;
-                constellation.Content = "Const\t:  " + selectedSys.ActualSystem.ConstellationName;
+                constellation.Content = "星座\t:  " + selectedSys.ActualSystem.ConstellationName;
                 constellation.Foreground = new SolidColorBrush(MapConf.ActiveColourScheme.PopupText);
                 SystemInfoPopupSP.Children.Add(constellation);
 
                 Label secstatus = new Label();
                 secstatus.Padding = one;
                 secstatus.Margin = one;
-                secstatus.Content = "Security\t:  " + string.Format("{0:0.00}", selectedSys.ActualSystem.TrueSec) + " (" + selectedSys.ActualSystem.SecType + ")";
+                secstatus.Content = "安等\t:  " + string.Format("{0:0.00}", selectedSys.ActualSystem.TrueSec) + " (" + selectedSys.ActualSystem.SecType + ")";
                 secstatus.Foreground = new SolidColorBrush(MapConf.ActiveColourScheme.PopupText);
                 SystemInfoPopupSP.Children.Add(secstatus);
 
@@ -3514,7 +3521,7 @@ namespace SMT
                     Label data = new Label();
                     data.Padding = one;
                     data.Margin = one;
-                    data.Content = $"Ship Kills\t:  {selectedSys.ActualSystem.ShipKillsLastHour}";
+                    data.Content = $"舰船击毁数量\t:  {selectedSys.ActualSystem.ShipKillsLastHour}";
                     data.Foreground = new SolidColorBrush(MapConf.ActiveColourScheme.PopupText);
                     SystemInfoPopupSP.Children.Add(data);
                 }
@@ -3524,7 +3531,7 @@ namespace SMT
                     Label data = new Label();
                     data.Padding = one;
                     data.Margin = one;
-                    data.Content = $"Pod Kills\t:  {selectedSys.ActualSystem.PodKillsLastHour}";
+                    data.Content = $"太空舱击毁数量\t:  {selectedSys.ActualSystem.PodKillsLastHour}";
                     data.Foreground = new SolidColorBrush(MapConf.ActiveColourScheme.PopupText);
                     SystemInfoPopupSP.Children.Add(data);
                 }
@@ -3534,7 +3541,7 @@ namespace SMT
                     Label data = new Label();
                     data.Padding = one;
                     data.Margin = one;
-                    data.Content = $"NPC Kills\t:  {selectedSys.ActualSystem.NPCKillsLastHour}, Delta ({selectedSys.ActualSystem.NPCKillsDeltaLastHour})";
+                    data.Content = $"NPC 击毁数量\t:  {selectedSys.ActualSystem.NPCKillsLastHour}, Delta ({selectedSys.ActualSystem.NPCKillsDeltaLastHour})";
                     data.Foreground = new SolidColorBrush(MapConf.ActiveColourScheme.PopupText);
                     SystemInfoPopupSP.Children.Add(data);
                 }
@@ -3545,7 +3552,7 @@ namespace SMT
                     data.Padding = one;
                     data.Margin = one;
 
-                    data.Content = $"Jumps\t:  {selectedSys.ActualSystem.JumpsLastHour}";
+                    data.Content = $"跳跃次数\t:  {selectedSys.ActualSystem.JumpsLastHour}";
                     data.Foreground = new SolidColorBrush(MapConf.ActiveColourScheme.PopupText);
                     SystemInfoPopupSP.Children.Add(data);
                 }
@@ -3565,7 +3572,7 @@ namespace SMT
                             jbl.Margin = one;
                             jbl.Foreground = new SolidColorBrush(MapConf.ActiveColourScheme.PopupText);
 
-                            jbl.Content = $"JB\t: {jb.To}";
+                            jbl.Content = $"跳桥\t: {jb.To}";
 
                             if (!Region.IsSystemOnMap(jb.To))
                             {
@@ -3594,7 +3601,7 @@ namespace SMT
                             jbl.Margin = one;
                             jbl.Foreground = new SolidColorBrush(MapConf.ActiveColourScheme.PopupText);
 
-                            jbl.Content = $"JB\t: {jb.From}";
+                            jbl.Content = $"跳桥\t: {jb.From}";
 
                             if (!Region.IsSystemOnMap(jb.From))
                             {
@@ -3703,14 +3710,14 @@ namespace SMT
                         Label tl = new Label();
                         tl.Padding = one;
                         tl.Margin = one;
-                        tl.Content = $"Thera\t: in {tc.InSignatureID}";
+                        tl.Content = $"希拉\t: in {tc.InSignatureID}";
                         tl.Foreground = new SolidColorBrush(MapConf.ActiveColourScheme.PopupText);
                         SystemInfoPopupSP.Children.Add(tl);
 
                         tl = new Label();
                         tl.Padding = one;
                         tl.Margin = one;
-                        tl.Content = $"Thera\t: out {tc.OutSignatureID}";
+                        tl.Content = $"希拉\t: out {tc.OutSignatureID}";
                         tl.Foreground = new SolidColorBrush(MapConf.ActiveColourScheme.PopupText);
                         SystemInfoPopupSP.Children.Add(tl);
                     }
@@ -3726,7 +3733,7 @@ namespace SMT
                         Label tl = new Label();
                         tl.Padding = one;
                         tl.Margin = one;
-                        tl.Content = $"Storm\t: {s.Type}";
+                        tl.Content = $"风暴\t: {s.Type}";
                         tl.Foreground = new SolidColorBrush(MapConf.ActiveColourScheme.PopupText);
                         SystemInfoPopupSP.Children.Add(tl);
                     }
@@ -3753,7 +3760,7 @@ namespace SMT
                     Label trigInfo = new Label();
                     trigInfo.Padding = one;
                     trigInfo.Margin = one;
-                    trigInfo.Content = $"Invasion : {selectedSys.ActualSystem.TrigInvasionStatus}";
+                    trigInfo.Content = $"入侵 : {selectedSys.ActualSystem.TrigInvasionStatus}";
                     trigInfo.Foreground = new SolidColorBrush(MapConf.ActiveColourScheme.PopupText);
                     SystemInfoPopupSP.Children.Add(trigInfo);
                 }

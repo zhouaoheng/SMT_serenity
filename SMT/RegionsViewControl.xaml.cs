@@ -211,7 +211,7 @@ namespace SMT
                 RegionTheraInfoSP.Children.Clear();
 
                 Label header = new Label();
-                header.Content = "Thera Connections";
+                header.Content = "希拉连接";
                 header.FontWeight = FontWeights.Bold;
                 header.Margin = new Thickness(1);
                 header.Padding = new Thickness(1);

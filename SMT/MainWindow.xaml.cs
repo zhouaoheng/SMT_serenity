@@ -1510,11 +1510,11 @@ namespace SMT
 
                 if (CapitalRoute.CurrentRoute.Count == 0)
                 {
-                    lblCapitalRouteSummary.Content = "No Valid Route Found";
+                    lblCapitalRouteSummary.Content = "没有找到有效路线";
                 }
                 else
                 {
-                    lblCapitalRouteSummary.Content = $"{CapitalRoute.CurrentRoute.Count - 2} Mids";
+                    lblCapitalRouteSummary.Content = $"{CapitalRoute.CurrentRoute.Count - 2} 中转点";
                 }
 
                 refreshJumpRouteUI();
@@ -1536,11 +1536,11 @@ namespace SMT
 
                 if (CapitalRoute.CurrentRoute.Count == 0)
                 {
-                    lblCapitalRouteSummary.Content = "No Valid Route Found";
+                    lblCapitalRouteSummary.Content = "没有找到有效路线";
                 }
                 else
                 {
-                    lblCapitalRouteSummary.Content = $"{CapitalRoute.CurrentRoute.Count - 2} Mids";
+                    lblCapitalRouteSummary.Content = $"{CapitalRoute.CurrentRoute.Count - 2} 中转点";
                 }
 
                 refreshJumpRouteUI();
@@ -2350,11 +2350,11 @@ namespace SMT
 
                 if (CapitalRoute.CurrentRoute.Count == 0)
                 {
-                    lblCapitalRouteSummary.Content = "No Valid Route Found";
+                    lblCapitalRouteSummary.Content = "没有找到有效路线";
                 }
                 else
                 {
-                    lblCapitalRouteSummary.Content = $"{CapitalRoute.CurrentRoute.Count - 2} Mids";
+                    lblCapitalRouteSummary.Content = $"{CapitalRoute.CurrentRoute.Count - 2} 中转点";
                 }
 
                 refreshJumpRouteUI();
@@ -2372,11 +2372,11 @@ namespace SMT
 
                 if (CapitalRoute.CurrentRoute.Count == 0)
                 {
-                    lblCapitalRouteSummary.Content = "No Valid Route Found";
+                    lblCapitalRouteSummary.Content = "没有找到有效路线";
                 }
                 else
                 {
-                    lblCapitalRouteSummary.Content = $"{CapitalRoute.CurrentRoute.Count - 2} Mids";
+                    lblCapitalRouteSummary.Content = $"{CapitalRoute.CurrentRoute.Count - 2} 中转点";
                 }
 
                 refreshJumpRouteUI();

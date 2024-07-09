@@ -167,7 +167,8 @@ namespace SMT.EVEData
             Titan,
             Blops,
             JF,
-            Rorqual
+            Rorqual,
+            HW,
         }
 
         /// <summary>

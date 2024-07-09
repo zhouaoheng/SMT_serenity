@@ -10,7 +10,7 @@
         mc:Ignorable="d"
         Closed="Window_Closed"
         Loaded="Window_Loaded"
-        Title="Characters" Height="450" Width="750" ResizeMode="NoResize" WindowStartupLocation="CenterOwner">
+        Title="角色" Height="450" Width="750" ResizeMode="NoResize" WindowStartupLocation="CenterOwner">
 
     <Window.Resources>
         <ObjectDataProvider x:Key="navigationEnumData" MethodName="GetValues" ObjectType="{x:Type System:Enum}">
@@ -39,7 +39,7 @@
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>
-        <Button DockPanel.Dock="Bottom" Content="Add Character" Grid.Row="1" Click="AddCharacter_Click" Margin="4" />
+        <Button DockPanel.Dock="Bottom" Content="添加角色" Grid.Row="1" Click="AddCharacter_Click" Margin="4" />
 
         <Grid x:Name="characterInfoGrid" Grid.Column="1" Grid.RowSpan="2" Visibility="Hidden"
               Background="{DynamicResource ListBackground}">
@@ -120,15 +120,15 @@
                 </TextBlock>
             </StackPanel>
 
-            <GroupBox Header="Navigation Options" Grid.Row="1" Grid.RowSpan="8" BorderBrush="DarkGray" Margin="5">
+            <GroupBox Header="导航选项" Grid.Row="1" Grid.RowSpan="8" BorderBrush="DarkGray" Margin="5">
                 <StackPanel Margin="4">
                     <StackPanel Orientation="Horizontal" Margin="4">
                         <Label Content="Autopilot" />
                         <ComboBox ItemsSource="{Binding Source={StaticResource navigationEnumData}}" SelectedItem="{Binding NavigationMode, Mode=TwoWay}" Margin="2" Width="140"  Background="Black" />
                     </StackPanel>
-                    <CheckBox IsChecked="{Binding UseAnsiblexGates}"  HorizontalAlignment="Left" Content="Use Ansiblex Gates" Margin="4" />
-                    <CheckBox IsChecked="{Binding UseTheraRouting}"  HorizontalAlignment="Left" Content="Use Thera" Margin="4" />
-                    <CheckBox IsChecked="{Binding UseZarzakhRouting}"  HorizontalAlignment="Left" Content="Use Zarzakh" Margin="4" />
+                    <CheckBox IsChecked="{Binding UseAnsiblexGates}"  HorizontalAlignment="Left" Content="使用跳桥" Margin="4" />
+                    <CheckBox IsChecked="{Binding UseTheraRouting}"  HorizontalAlignment="Left" Content="使用希拉" Margin="4" />
+                    <CheckBox IsChecked="{Binding UseZarzakhRouting}"  HorizontalAlignment="Left" Content="使用 Zarzakh" Margin="4" />
                 </StackPanel>
             </GroupBox>
 

@@ -5,11 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SMT"
         mc:Ignorable="d"
-        Title="Auth.." Height="120" Width="270" WindowStartupLocation="CenterOwner" ResizeMode="NoResize" Closed="Window_Closed">
+        Title="授权.." Height="120" Width="270" WindowStartupLocation="CenterOwner" ResizeMode="NoResize" Closed="Window_Closed">
     <Grid>
         <StackPanel Background="#FF232223">
-            <Label Height="23">logon using the browser that opened..</Label>
-            <Label Height="23">Close this window when you've added everyone</Label>
+            <Label Height="23">使用打开的浏览器登录..</Label>
+            <Label Height="23">添加所有人物后关闭此窗口</Label>
         </StackPanel>
     </Grid>
 </Window>
