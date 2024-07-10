@@ -13,12 +13,12 @@ namespace SMT.EVEData
         /// <summary>
         /// Callback URL for eve
         /// </summary>
-        public const string CallbackURL = @"http://localhost:8762/callback/";
+        public const string CallbackURL = @"https://ali-esi.evepc.163.com/ui/oauth2-redirect.html";
 
         /// <summary>
         /// Client ID from the EVE Developer setup
         /// </summary>
-        public const string ClientID = "ID Goes here.. ";
+        public const string ClientID = "bc90aa496a404724a93f41b4f4e97761";
 
         /// <summary>
         /// SMT Version Tagline
