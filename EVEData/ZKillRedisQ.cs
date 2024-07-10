@@ -152,7 +152,7 @@ namespace SMT.EVEData
             e.Result = 0;
         }
 
-        private void zkb_DoWorkComplete(object sender, RunWorkerCompletedEventArgs e)
+        private async void zkb_DoWorkComplete(object sender, RunWorkerCompletedEventArgs e)
         {
             bool updatedKillList = false;
 
@@ -181,6 +181,7 @@ namespace SMT.EVEData
             }
             if (AllianceIDs.Count > 0)
             {
+                await
                 EveManager.Instance.ResolveAllianceIDs(AllianceIDs);
             }
 
