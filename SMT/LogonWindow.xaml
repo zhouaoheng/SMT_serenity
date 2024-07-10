@@ -5,11 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SMT"
         mc:Ignorable="d"
-        Title="授权.." Height="120" Width="270" WindowStartupLocation="CenterOwner" ResizeMode="NoResize" Closed="Window_Closed">
+        Title="授权.." Height="180" Width="270" WindowStartupLocation="CenterOwner" ResizeMode="NoResize" Closed="Window_Closed">
     <Grid>
         <StackPanel Background="#FF232223">
-            <Label Height="23">使用打开的浏览器登录..</Label>
-            <Label Height="23">添加所有人物后关闭此窗口</Label>
+            <Label Height="23">1.请无视第一个提示错误的页面。</Label>
+            <Label Height="23">2.请在弹出的登陆网页内登陆并选择角色授权。</Label>
+            <Label Height="23">3.将空白页面的URL粘贴到下面的输入框中。</Label>
+            <TextBox Name="urlTextBox" Height="23" Margin="5"/>
+            <Button Content="提交" Height="23" Margin="5" Click="SubmitButton_Click"/>
         </StackPanel>
     </Grid>
 </Window>

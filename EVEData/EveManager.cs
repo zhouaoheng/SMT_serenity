@@ -5,9 +5,12 @@
 using System;
 using System.Data;
 using System.Globalization;
+using System.IdentityModel.Tokens.Jwt;
 using System.Net;
 using System.Net.Http.Headers;
 using System.Numerics;
+using System.Runtime.CompilerServices;
+using System.Security.Claims;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Transactions;
@@ -16,10 +19,12 @@ using System.Xml;
 using System.Xml.Serialization;
 using ESI.NET;
 using ESI.NET.Enumerations;
+using ESI.NET.Models.Character;
 using ESI.NET.Models.SSO;
 using EVEDataUtils;
 using HtmlAgilityPack;
 using Microsoft.Extensions.Options;
+using Microsoft.IdentityModel.Tokens;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
@@ -1469,9 +1474,9 @@ namespace SMT.EVEData
         /// <summary>
         /// Get the ESI Logon URL String
         /// </summary>
-        public string GetESILogonURL(string challengeCode)
+        public string GetESILogonURL()
         {
-            string URL = ESIClient.SSO.CreateAuthenticationUrl(ESIScopes, VersionStr, challengeCode);
+            string URL = CreateAuthenticationUrl(ESIScopes, VersionStr);
             return URL;
         }
 
@@ -1578,7 +1583,7 @@ namespace SMT.EVEData
         /// <summary>
         /// Hand the custom smtauth- url we get back from the logon screen
         /// </summary>
-        public async void HandleEveAuthSMTUri(Uri uri, string challengeCode)
+        public async void HandleEveAuthSMTUri(Uri uri)
         {
             // parse the uri
             var query = HttpUtility.ParseQueryString(uri.Query);
@@ -1589,11 +1594,15 @@ namespace SMT.EVEData
             }
 
             string code = query["code"];
+            if (code.Contains("&"))
+            {
+                code = code.Split('&')[0];
+            }
             SsoToken sst;
 
             try
             {
-                sst = await ESIClient.SSO.GetToken(GrantType.AuthorizationCode, code, challengeCode);
+                sst = await GetToken(GrantType.AuthorizationCode, code);
                 if (sst == null || sst.ExpiresIn == 0)
                 {
                     return;
@@ -1604,7 +1613,7 @@ namespace SMT.EVEData
                 return;
             }
 
-            AuthorizedCharacterData acd = await ESIClient.SSO.Verify(sst);
+            AuthorizedCharacterData acd = await Verify(sst);
 
             // now find the matching character and update..
             LocalCharacter esiChar = null;
@@ -2437,8 +2446,8 @@ namespace SMT.EVEData
         {
             IOptions<EsiConfig> config = Options.Create(new EsiConfig()
             {
-                EsiUrl = "https://esi.evetech.net/",
-                DataSource = DataSource.Tranquility,
+                EsiUrl = "https://ali-esi.evepc.163.com/",
+                DataSource = DataSource.Serenity,
                 ClientId = EveAppConfig.ClientID,
                 SecretKey = "Unneeded",
                 CallbackUrl = EveAppConfig.CallbackURL,
@@ -2448,7 +2457,6 @@ namespace SMT.EVEData
             ESIClient = new ESI.NET.EsiClient(config);
             ESIScopes = new List<string>
             {
-                "publicData",
                 "esi-location.read_location.v1",
                 "esi-search.search_structures.v1",
                 "esi-clones.read_clones.v1",
@@ -3376,7 +3384,7 @@ namespace SMT.EVEData
         /// </summary>
         private async void UpdateSOVFromESI()
         {
-            string url = @"https://esi.evetech.net/v1/sovereignty/map/?datasource=tranquility";
+            string url = @"https://ali-esi.evepc.163.com/v1/sovereignty/map/?datasource=serenity";
             string strContent = string.Empty;
 
             try
@@ -3485,6 +3493,108 @@ namespace SMT.EVEData
             {
                 LocalCharacterUpdateEvent();
             }
+        }
+
+        public string CreateAuthenticationUrl(List<string> scope = null, string state = null)
+        {
+            DefaultInterpolatedStringHandler interpolatedStringHandler = new DefaultInterpolatedStringHandler(72, 3);
+            interpolatedStringHandler.AppendLiteral("https://");
+            interpolatedStringHandler.AppendFormatted("login.evepc.163.com");
+            interpolatedStringHandler.AppendLiteral("/v2/oauth/authorize/?response_type=code&redirect_uri=");
+            interpolatedStringHandler.AppendFormatted(Uri.EscapeDataString(EveAppConfig.CallbackURL));
+            interpolatedStringHandler.AppendLiteral("&client_id=");
+            interpolatedStringHandler.AppendFormatted(EveAppConfig.ClientID);
+            string authenticationUrl = interpolatedStringHandler.ToStringAndClear();
+            if (scope != null)
+                authenticationUrl = authenticationUrl + "&scope=" + string.Join("%20", (IEnumerable<string>) scope.Distinct<string>().ToList<string>());
+            if (state != null)
+            {
+                authenticationUrl = authenticationUrl + "&state=" + state;
+                authenticationUrl = authenticationUrl + "&device_id=" + state;
+            }
+            return authenticationUrl;
+        }
+        
+        public static async Task<SsoToken> GetToken(GrantType grantType, string code)
+        {
+            string body = "grant_type=" + grantType.ToEsiValue();
+            switch (grantType)
+            {
+              case GrantType.AuthorizationCode:
+                body = body + "&code=" + code;
+                body = body + "&client_id=" + EveAppConfig.ClientID;
+                break;
+              case GrantType.RefreshToken:
+                body = body + "&refresh_token=" + Uri.EscapeDataString(code);
+                body = body + "&client_id=" + EveAppConfig.ClientID;
+                break;
+            }
+            HttpRequestMessage request = new HttpRequestMessage(HttpMethod.Post, "https://login.evepc.163.com/v2/oauth/token")
+            {
+              Content = (HttpContent) new StringContent(body, Encoding.UTF8, "application/x-www-form-urlencoded")
+            };
+            
+            HttpResponseMessage response = await new HttpClient().SendAsync(request);
+            string content = await response.Content.ReadAsStringAsync();
+            if (response.StatusCode != HttpStatusCode.OK)
+            {
+              string error = JsonConvert.DeserializeAnonymousType(content, new
+              {
+                error_description = string.Empty
+              }).error_description;
+              throw new ArgumentException(error);
+            }
+            SsoToken token = JsonConvert.DeserializeObject<SsoToken>(content);
+            SsoToken token1 = token;
+            return token1;
+        }
+        
+        public static async Task<AuthorizedCharacterData> Verify(SsoToken token)
+        {
+            AuthorizedCharacterData authorizedCharacter = new AuthorizedCharacterData();
+            try
+            {
+                // 向https://ali-esi.evepc.163.com/verify?token= 发送get请求
+                HttpResponseMessage response = await new HttpClient().GetAsync("https://ali-esi.evepc.163.com/verify?token=" + token.AccessToken);
+                string content = await response.Content.ReadAsStringAsync();
+                if (response.StatusCode != HttpStatusCode.OK)
+                {
+                    string error = JsonConvert.DeserializeAnonymousType(content, new
+                    {
+                        error_description = string.Empty
+                    }).error_description;
+                    throw new ArgumentException(error);
+                }
+                authorizedCharacter = JsonConvert.DeserializeObject<AuthorizedCharacterData>(content);
+                
+                string url = "https://ali-esi.evepc.163.com/latest/characters/affiliation/?datasource=serenity";
+                StringContent body = new StringContent(JsonConvert.SerializeObject((object) new int[1]
+                {
+                    authorizedCharacter.CharacterID
+                }), Encoding.UTF8, "application/json");
+                HttpClient client = new HttpClient();
+                HttpResponseMessage characterResponse = await client.PostAsync(url, (HttpContent) body).ConfigureAwait(false);
+                if (characterResponse.StatusCode == HttpStatusCode.OK)
+                {
+                    EsiResponse<List<Affiliation>> affiliations = new EsiResponse<List<Affiliation>>(characterResponse, "Post|/character/affiliations/");
+                    Affiliation characterData = affiliations.Data.First<Affiliation>();
+                    authorizedCharacter.AllianceID = characterData.AllianceId;
+                    authorizedCharacter.CorporationID = characterData.CorporationId;
+                    authorizedCharacter.FactionID = characterData.FactionId;
+                    affiliations = (EsiResponse<List<Affiliation>>) null;
+                    characterData = (Affiliation) null;
+                }
+            }
+            catch (Exception e)
+            {
+                
+            }
+           
+            
+            AuthorizedCharacterData authorizedCharacterData = authorizedCharacter;
+            authorizedCharacter = (AuthorizedCharacterData) null;
+            return authorizedCharacterData;
+
         }
     }
 }

@@ -86,7 +86,7 @@
             <Separator />
 
             <StatusBarItem>
-                <TextBlock><Run Text="宁静服版本号:" /></TextBlock>
+                <TextBlock><Run Text="晨曦服版本号:" /></TextBlock>
             </StatusBarItem>
 
             <StatusBarItem>
@@ -212,7 +212,7 @@
 
                                             <DataGrid.ContextMenu>
                                                 <ContextMenu>
-                                                    <MenuItem Header="Delete" Click="CharactersListMenuItemDelete_Click" />
+                                                    <MenuItem Header="删除" Click="CharactersListMenuItemDelete_Click" />
                                                 </ContextMenu>
                                             </DataGrid.ContextMenu>
 
