@@ -37,6 +37,7 @@ namespace SMT.EVEData
     {
         /// <summary>
         /// singleton instance of this class
+        /// 此类的singleton实例
         /// </summary>
         private static EveManager instance;
 
@@ -44,26 +45,31 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Read position map for the intel files
+        /// 读取情报文件的位置图
         /// </summary>
         private Dictionary<string, int> intelFileReadPos;
 
         /// <summary>
         /// Read position map for the intel files
+        /// 读取情报文件的位置图
         /// </summary>
         private Dictionary<string, int> gameFileReadPos;
 
         /// <summary>
         /// Read position map for the intel files
+        /// 读取情报文件的位置图
         /// </summary>
         private Dictionary<string, string> gamelogFileCharacterMap;
 
         /// <summary>
         /// File system watcher
+        /// 文件系统观察程序
         /// </summary>
         private FileSystemWatcher intelFileWatcher;
 
         /// <summary>
         /// File system watcher
+        /// 文件系统观察程序
         /// </summary>
         private FileSystemWatcher gameLogFileWatcher;
 
@@ -85,6 +91,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Initializes a new instance of the <see cref="EveManager" /> class
+        /// <see cref="EveManager" /> 类的新实例初始化
         /// </summary>
         public EveManager(string version)
         {
@@ -125,43 +132,65 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Intel Updated Event Handler
+        /// 信息更新事件处理
         /// </summary>
         public delegate void IntelUpdatedEventHandler(List<IntelData> idl);
 
         /// <summary>
         /// Intel Updated Event
+        /// 信息更新事件
         /// </summary>
         public event IntelUpdatedEventHandler IntelUpdatedEvent;
 
         /// <summary>
         /// GameLog Added Event Handler
+        /// 游戏日志新增信息处理
         /// </summary>
         public delegate void GameLogAddedEventHandler(List<GameLogData> gll);
 
         /// <summary>
         /// Intel Added Event
+        /// 信息添加事件
         /// </summary>
         public event GameLogAddedEventHandler GameLogAddedEvent;
 
         /// <summary>
         /// Ship Decloak Event Handler
+        /// 舰船解除隐形时间处理
         /// </summary>
         public delegate void ShipDecloakedEventHandler(string pilot, string text);
 
         /// <summary>
         /// Ship Decloaked
+        /// 舰船解除隐形
         /// </summary>
         public event ShipDecloakedEventHandler ShipDecloakedEvent;
 
         /// <summary>
         /// Combat Event Handler
+        /// 战斗时间处理
         /// </summary>
         public delegate void CombatEventHandler(string pilot, string text);
 
         /// <summary>
         /// Combat Events
+        /// 战斗事件
         /// </summary>
         public event CombatEventHandler CombatEvent;
+        
+        /*
+         * JumpShip
+         * 旗舰跳舰船类型
+         * Dread  Dreadnought 无畏舰
+         * Carrier 航母
+         * FAX  Force Auxiliary  后勤航
+         * Super  超级航母
+         * Titan  泰坦
+         * Blops  Black Ops  黑隐
+         * JF  Jump Freighter  跳货
+         * Rorqual  矿船/大鱼
+         * HW Humpback whale 座头鲸
+         */
 
         public enum JumpShip
         {
@@ -178,6 +207,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Gets or sets the Singleton Instance of the EVEManager
+        /// 获取或设置EVEManager的单例实例
         /// </summary>
         public static EveManager Instance
         {
@@ -196,41 +226,49 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Sov Campaign Updated Event Handler
+        /// Sov Campaign 更新事件处理
         /// </summary>
         public delegate void SovCampaignUpdatedHandler();
 
         /// <summary>
         /// Sov Campaign updated Added Events
+        /// Sov Campaign 更新事件
         /// </summary>
         public event SovCampaignUpdatedHandler SovUpdateEvent;
 
         /// <summary>
         /// Thera Connections Updated Event Handler
+        /// 希拉连接更新事件处理
         /// </summary>
         public delegate void TheraUpdatedHandler();
 
         /// <summary>
         /// Thera Updated Added Events
+        /// 希拉更新事件
         /// </summary>
         public event TheraUpdatedHandler TheraUpdateEvent;
 
         /// <summary>
         /// Storms Updated Event Handler
+        /// 风暴更新事件处理
         /// </summary>
         public delegate void StormsUpdatedHandler();
 
         /// <summary>
         /// Storms Updated Added Events
+        /// 风暴更新事件
         /// </summary>
         public event StormsUpdatedHandler StormsUpdateEvent;
 
         /// <summary>
         /// Local Characters Updated Event Handler
+        /// 本地角色更新事件处理
         /// </summary>
         public delegate void LocalCharactersUpdatedHandler();
 
         /// <summary>
         /// Local Characters Updated Events
+        /// 本地角色更新事件
         /// </summary>
         public event LocalCharactersUpdatedHandler LocalCharacterUpdateEvent;
 
@@ -238,22 +276,26 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Gets or sets the Alliance ID to Name dictionary
+        /// 获取或设置联盟ID到名称的字典
         /// </summary>
         public SerializableDictionary<int, string> AllianceIDToName { get; set; }
 
         /// <summary>
         /// Gets or sets the Alliance ID to Alliance Ticker dictionary
+        /// 获取或设置联盟ID到联盟标记的字典
         /// </summary>
         public SerializableDictionary<int, string> AllianceIDToTicker { get; set; }
 
         /// <summary>
         /// Gets or sets the character cache
+        /// 获取或设置角色缓存
         /// </summary>
         [XmlIgnoreAttribute]
         public SerializableDictionary<string, Character> CharacterCache { get; set; }
 
         /// <summary>
         /// Gets or sets the Alliance ID to Name dictionary
+        /// 获取或设置联盟ID到名称的字典
         /// </summary>
         public SerializableDictionary<int, string> CharacterIDToName { get; set; }
 
@@ -265,49 +307,58 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Gets or sets the Intel List
+        /// 获取或设置情报列表
         /// </summary>
         public FixedQueue<EVEData.IntelData> IntelDataList { get; set; }
 
         /// <summary>
         /// Gets or sets the Gamelog List
+        /// 获取或设置游戏日志列表
         /// </summary>
         public FixedQueue<EVEData.GameLogData> GameLogList { get; set; }
 
         /// <summary>
         /// Gets or sets the current list of Jump Bridges
+        /// 获取或设置当前的跳桥列表
         /// </summary>
         public List<JumpBridge> JumpBridges { get; set; }
 
         /// <summary>
         /// Gets or sets the list of Characters we are tracking
+        /// 获取或设置我们正在跟踪的角色列表
         /// </summary>
         [XmlIgnoreAttribute]
         public List<LocalCharacter> LocalCharacters { get; set; }
 
         /// <summary>
         /// Gets or sets the list of Faction warfare systems
+        /// 获取或设置阵营战争系统列表
         /// </summary>
         [XmlIgnoreAttribute]
         public List<FactionWarfareSystemInfo> FactionWarfareSystems { get; set; }
 
         /// <summary>
         /// Gets or sets the master list of Regions
+        /// 获取或设置区域的主列表
         /// </summary>
         public List<MapRegion> Regions { get; set; }
 
 
         /// <summary>
         /// Location of the static data distributed with the exectuable
+        /// 本地静态数据的位置
         /// </summary>
         public string DataRootFolder { get; set; }
 
         /// <summary>
         /// Gets or sets the folder to cache dotland svg's etc to
+        /// 获取或设置缓存dotland svg等的文件夹
         /// </summary>
         public string SaveDataRootFolder { get; set; }
 
         /// <summary>
         /// Gets or sets the folder to cache dotland svg's etc to
+        /// 获取或设置缓存dotland svg等的文件夹
         /// </summary>
         public string SaveDataVersionFolder { get; set; }
 
@@ -315,21 +366,25 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Gets or sets the ShipTypes ID to Name dictionary
+        /// 获取或设置船舶类型ID到名称的字典
         /// </summary>
         public SerializableDictionary<string, string> ShipTypes { get; set; }
 
         /// <summary>
         /// Gets or sets the System ID to Name dictionary
+        /// 获取或设置系统ID到名称的字典
         /// </summary>
         public SerializableDictionary<long, string> SystemIDToName { get; set; }
 
         /// <summary>
         /// Gets or sets the master List of Systems
+        /// 获取或设置星系的主列表
         /// </summary>
         public List<System> Systems { get; set; }
 
         /// <summary>
         /// Gets or sets the current list of thera connections
+        /// 获取或设置当前的希拉连接列表
         /// </summary>
         public List<TheraConnection> TheraConnections { get; set; }
 
@@ -341,50 +396,60 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Gets or sets the current list of ZKillData
+        /// 获取或设置当前的ZKillData列表
         /// </summary>
         public ZKillRedisQ ZKillFeed { get; set; }
 
         /// <summary>
         /// Gets or sets the current list of clear markers for the intel (eg "Clear" "Clr" etc)
+        /// 获取或设置情报的清除标记列表（例如“Clear”“Clr”等）
         /// </summary>
         public List<string> IntelClearFilters { get; set; }
 
         /// <summary>
         /// Gets or sets the current list of intel filters used to monitor the local log files
+        /// 获取或设置用于监视本地日志文件的情报过滤器列表
         /// </summary>
         public List<string> IntelFilters { get; set; }
 
         /// <summary>
         /// Gets or sets the current list of ignore markers for the intel (eg "status")
+        /// 获取或设置情报的忽略标记列表（例如“status”）
         /// </summary>
         public List<string> IntelIgnoreFilters { get; set; }
 
         /// <summary>
         /// Gets or sets the current list of alerting intel market for intel (eg "pilot538 Maken")
+        /// 获取或设置情报的警报情报市场（例如“pilot538 Maken”）
         /// </summary>
         public List<string> IntelAlertFilters { get; set; }
 
         /// <summary>
         /// Gets or sets the Name to System dictionary
+        /// 获取或设置名称到星系的字典
         /// </summary>
         private Dictionary<string, System> NameToSystem { get; }
 
         /// <summary>
         /// Gets or sets the ID to System dictionary
+        /// 获取或设置ID到星系的字典
         /// </summary>
         private Dictionary<long, System> IDToSystem { get; }
 
         /// <summary>
         /// Scrape the maps from dotlan and initialise the region data from dotlan
+        /// 从dotlan中抓取地图并从dotlan初始化区域数据
         /// </summary>
         public void CreateFromScratch(string sourceFolder, string outputFolder)
         {
             // allow parsing to work for all locales (comma/dot in csv float)
+            // 允许解析所有区域（csv浮点数中的逗号/点）
             Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
 
             Regions = new List<MapRegion>();
 
             // manually add the regions we care about
+            // 手动添加我们关心的区域
             Regions.Add(new MapRegion("艾里迪亚", "10000054", "Amarr", 280, 810));
             Regions.Add(new MapRegion("暗涌之域", "10000069", "Caldari", 900, 500));
             Regions.Add(new MapRegion("幽暗之域", "10000038", "Amarr", 1000, 920));
@@ -459,6 +524,7 @@ namespace SMT.EVEData
             Systems = new List<System>();
 
             // update the region cache
+            // 更新区域缓存
             foreach (MapRegion rd in Regions)
             {
 
@@ -468,10 +534,12 @@ namespace SMT.EVEData
                 if (!File.Exists(localSVG))
                 {
                     // error
+                    // 错误
                     throw new NullReferenceException();
                 }
 
                 // parse the svg as xml
+                // 将svg解析为xml
                 XmlDocument xmldoc = new XmlDocument
                 {
                     XmlResolver = null
@@ -480,6 +548,7 @@ namespace SMT.EVEData
                 xmldoc.Load(fs);
 
                 // get the svg/g/g sys use child nodes
+                // 获取svg/g/g sys使用子节点
                 string systemsXpath = @"//*[@Type='system']";
                 XmlNodeList xnl = xmldoc.SelectNodes(systemsXpath);
 
@@ -511,6 +580,7 @@ namespace SMT.EVEData
                     bool hasIceBelt = false;
 
                     // create and add the system
+                    // 创建并添加星系
                     if (region == rd.Name)
                     {
                         System s = new System(name, systemID, rd.Name, hasStation, hasIceBelt);
@@ -525,6 +595,7 @@ namespace SMT.EVEData
                     }
 
                     // create and add the map version
+                    // 创建并添加地图版本
                     rd.MapSystems[name] = new MapSystem
                     {
                         Name = name,
@@ -536,12 +607,14 @@ namespace SMT.EVEData
             }
 
             // now open up the eve static data export and extract some info from it
+            // 现在打开EVE静态数据导出并从中提取一些信息
             string eveStaticDataSolarSystemFile = sourceFolder + @"\data\mapSolarSystems.csv";
             if (File.Exists(eveStaticDataSolarSystemFile))
             {
                 StreamReader file = new StreamReader(eveStaticDataSolarSystemFile);
 
                 // read the headers..
+                // 读取标题
                 string line;
                 line = file.ReadLine();
                 while ((line = file.ReadLine()) != null)
@@ -555,6 +628,8 @@ namespace SMT.EVEData
 
                     //CCP have their own version of what a Light Year is.. so instead of 9460730472580800.0 its this
                     // beware when converting units
+                    // CCP有自己的光年版本。所以，不是9460730472580800.0，而是这个
+                    // 转换单位时要小心
                     decimal LYScale = 9460000000000000.0m;
 
                     decimal x = Convert.ToDecimal(bits[4]);
@@ -568,6 +643,8 @@ namespace SMT.EVEData
                     {
                         // note : scale the coordinates to Light Year scale as at M double doesnt have enough precision however decimal doesnt
                         // have the range for the calculations
+                        // 注意：将坐标缩放到光年比例，因为在M double中没有足够的精度，但是十进制数没有
+                        // 有计算的范围
                         s.ActualX = x / LYScale;
                         s.ActualY = y / LYScale;
                         s.ActualZ = z / LYScale;
@@ -576,6 +653,7 @@ namespace SMT.EVEData
                         s.RadiusAU = radius / 149597870700;
 
                         // manually patch pochven
+                        // 手动修补pochven
                         if (regionID == "10000070")
                         {
                             s.Region = "Pochven";
@@ -590,19 +668,21 @@ namespace SMT.EVEData
             }
 
             // now open up the eve static data export for the regions and extract some info from it
+            // 现在打开EVE静态数据导出的区域并从中提取一些信息
             string eveStaticDataRegionFile = sourceFolder + @"\data\mapRegions.csv";
             if (File.Exists(eveStaticDataRegionFile))
             {
                 StreamReader file = new StreamReader(eveStaticDataRegionFile);
 
                 // read the headers..
+                // 读取标题
                 string line;
                 line = file.ReadLine();
                 while ((line = file.ReadLine()) != null)
                 {
                     string[] bits = line.Split(',');
 
-                    string regionName = bits[1]; // SystemIDToName[SystemID];
+                    string regionName = bits[1]; // SystemIDToName[SystemID]; 星系ID到名称
 
                     double x = Convert.ToDouble(bits[2]);
                     double y = Convert.ToDouble(bits[3]);
@@ -627,6 +707,7 @@ namespace SMT.EVEData
                 StreamReader file = new StreamReader(eveStaticDataJumpsFile);
 
                 // read the headers..
+                // 读取标题
                 string line;
                 line = file.ReadLine();
                 while ((line = file.ReadLine()) != null)
@@ -659,6 +740,7 @@ namespace SMT.EVEData
                 StreamReader file = new StreamReader(eveStaticDataJumpsExtraFile);
 
                 // read the headers..
+                // 读取标题
                 string line;
                 line = file.ReadLine();
                 while ((line = file.ReadLine()) != null)
@@ -686,12 +768,14 @@ namespace SMT.EVEData
             }
 
             // now open up the eve static data export and extract some info from it
+            // 现在打开EVE静态数据导出并从中提取一些信息
             string eveStaticDataStationsFile = sourceFolder + @"\data\staStations.csv";
             if (File.Exists(eveStaticDataStationsFile))
             {
                 StreamReader file = new StreamReader(eveStaticDataStationsFile);
 
                 // read the headers..
+                // 读取标题
                 string line;
                 line = file.ReadLine();
                 while ((line = file.ReadLine()) != null)
@@ -713,6 +797,7 @@ namespace SMT.EVEData
             }
 
             // now open up the eve static data export and extract some info from it
+            // 现在打开EVE静态数据导出并从中提取一些信息
             string eveStaticDataConstellationFile = sourceFolder + @"\data\mapConstellations.csv";
             if (File.Exists(eveStaticDataConstellationFile))
             {
@@ -721,6 +806,7 @@ namespace SMT.EVEData
                 Dictionary<string, string> constMap = new Dictionary<string, string>();
 
                 // read the headers..
+                // 读取标题
                 string line;
                 line = file.ReadLine();
                 while ((line = file.ReadLine()) != null)
@@ -734,6 +820,7 @@ namespace SMT.EVEData
                 }
 
                 // TEMP : Manually add 
+                // 临时：手动添加
                 constMap["20010000"] = "Duzna Kah";
 
                 foreach (System s in Systems)
@@ -747,11 +834,13 @@ namespace SMT.EVEData
             }
 
             // now open up the ice systems
+            // 现在打开有冰带的星系
             string iceSystemsFile = sourceFolder + @"\data\iceSystems.csv";
             if (File.Exists(iceSystemsFile))
             {
                 StreamReader file = new StreamReader(iceSystemsFile);
                 // read the headers..
+                // 读取标题
                 string line;
                 line = file.ReadLine();
                 while ((line = file.ReadLine()) != null)
@@ -769,11 +858,13 @@ namespace SMT.EVEData
             }
 
             // now open up the ice systems
+            // 现在打开有冰带的星系
             string fwSystemsFile = sourceFolder + @"\data\factionWarfareSystems.csv";
             if (File.Exists(fwSystemsFile))
             {
                 StreamReader file = new StreamReader(fwSystemsFile);
                 // read the headers..
+                // 读取标题
                 string line;
                 line = file.ReadLine();
                 while ((line = file.ReadLine()) != null)
@@ -791,11 +882,13 @@ namespace SMT.EVEData
             }
 
             // now open up the blue a0 sun systems
+            // 现在打开有蓝色a0太阳的星系
             string blueSunSystemsFile = sourceFolder + @"\data\a0BlueStarSystems.csv";
             if (File.Exists(blueSunSystemsFile))
             {
                 StreamReader file = new StreamReader(blueSunSystemsFile);
                 // read the headers..
+                // 读取标题
                 string line;
                 line = file.ReadLine();
                 while ((line = file.ReadLine()) != null)
@@ -818,6 +911,7 @@ namespace SMT.EVEData
                 IDToSystem[s.ID] = s;
 
                 // default to no invasion
+                // 默认为无入侵
                 s.TrigInvasionStatus = System.EdenComTrigStatus.None;
             }
 
@@ -827,6 +921,7 @@ namespace SMT.EVEData
                 StreamReader file = new StreamReader(trigSystemsFile);
 
                 // read the headers..
+                // 读取标题
                 string line;
                 line = file.ReadLine();
                 while ((line = file.ReadLine()) != null)
@@ -868,9 +963,11 @@ namespace SMT.EVEData
             }
 
             // now create the voronoi regions
+            // 现在创建Voronoi区域
             foreach (MapRegion mr in Regions)
             {
                 // enforce a minimum spread
+                // 强制最小传播
                 bool mrDone = false;
                 int mrIteration = 0;
                 float mrMinSpread = 49.0f;
@@ -900,6 +997,7 @@ namespace SMT.EVEData
                                 movedThisTime = true;
 
                                 // move apart
+                                // 分开
                                 dx = dx / l;
                                 dy = dy / l;
 
@@ -921,6 +1019,7 @@ namespace SMT.EVEData
                 }
 
                 // collect the system points to generate them from
+                // 收集系统点以生成它们
                 List<Vector2f> points = new List<Vector2f>();
 
                 foreach (MapSystem ms in mr.MapSystems.Values.ToList())
@@ -929,6 +1028,7 @@ namespace SMT.EVEData
                 }
 
                 // generate filler points to help the voronoi to get better partitioning of open areas
+                // 生成填充点以帮助voronoi更好地划分开放区域
                 int division = 5;
                 int minDistance = 100;
                 int minDistanceOOR = 70;
@@ -977,10 +1077,12 @@ namespace SMT.EVEData
                 Rectf clipRect = new Rectf(-margin, -margin, 1050 + 2 * margin, 800 + 2 * margin);
 
                 // create the voronoi
+                // 创建voronoi
                 csDelaunay.Voronoi v = new csDelaunay.Voronoi(points, clipRect, 0);
 
                 int i = 0;
                 // extract the points from the graph for each cell
+                // 从每个单元格的图中提取点
                 foreach (MapSystem ms in mr.MapSystems.Values.ToList())
                 {
                     csDelaunay.Site s = v.SitesIndexedByLocation[points[i]];
@@ -1009,6 +1111,7 @@ namespace SMT.EVEData
             foreach (MapRegion rr in Regions)
             {
                 // link to the real systems
+                // 链接到真实星系
                 foreach (MapSystem ms in rr.MapSystems.Values.ToList())
                 {
                     ms.ActualSystem = GetEveSystem(ms.Name);
@@ -1039,9 +1142,11 @@ namespace SMT.EVEData
             }
 
             // collect the system points to generate them from
+            // 收集星系点以生成它们
             List<Vector2f> regionpoints = new List<Vector2f>();
 
             // now Generate the region links
+            // 现在生成区域链接
             foreach (MapRegion mr in Regions)
             {
                 mr.RegionLinks = new List<string>();
@@ -1051,6 +1156,7 @@ namespace SMT.EVEData
                 foreach (MapSystem ms in mr.MapSystems.Values.ToList())
                 {
                     // only check systems in the region
+                    // 只检查区域内的星系
                     if (ms.ActualSystem.Region == mr.Name)
                     {
                         foreach (string s in ms.ActualSystem.Jumps)
@@ -1058,6 +1164,7 @@ namespace SMT.EVEData
                             System sys = GetEveSystem(s);
 
                             // we have link to another region
+                            // 我们有到另一个区域的链接
                             if (sys.Region != mr.Name)
                             {
                                 if (!mr.RegionLinks.Contains(sys.Region))
@@ -1071,6 +1178,7 @@ namespace SMT.EVEData
             }
 
             // now get the ships
+            // 现在获取船只
             string eveStaticDataItemTypesFile = sourceFolder + @"\data\invTypes.csv";
             if (File.Exists(eveStaticDataItemTypesFile))
             {
