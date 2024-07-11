@@ -515,9 +515,9 @@ namespace SMT.EVEData
             Regions.Add(new MapRegion("维格温铎", "10000068", "Gallente", 490, 660));
             Regions.Add(new MapRegion("邪恶湾流", "10000006", string.Empty, 1580, 1230));
             Regions.Add(new MapRegion("灼热之径", "10000008", "Triglavian", 50, 50));
-            Regions.Add(new MapRegion("Warzone - Amarr vs Minmatar", "", "Faction War", 50, 120, true));
-            Regions.Add(new MapRegion("Warzone - Caldari vs Gallente", "", "Faction War", 50, 190, true));
-            Regions.Add(new MapRegion("Yasna Zakh", "", string.Empty, 50, 260));
+            Regions.Add(new MapRegion("战争地带 - 艾玛 vs 米玛塔尔", "", "Faction War", 50, 120, true));
+            Regions.Add(new MapRegion("战争地带 - 加达里 vs 盖伦特", "", "Faction War", 50, 190, true));
+            Regions.Add(new MapRegion("伊甸乐园边境", "", string.Empty, 50, 260));
 
             SystemIDToName = new SerializableDictionary<long, string>();
 
@@ -656,7 +656,7 @@ namespace SMT.EVEData
                         // 手动修补pochven
                         if (regionID == "10000070")
                         {
-                            s.Region = "Pochven";
+                            s.Region = "波赫文";
                         }
                     }
 
@@ -821,7 +821,7 @@ namespace SMT.EVEData
 
                 // TEMP : Manually add 
                 // 临时：手动添加
-                constMap["20010000"] = "Duzna Kah";
+                constMap["20010000"] = "踱罪彷徨之海";
 
                 foreach (System s in Systems)
                 {
@@ -1186,83 +1186,88 @@ namespace SMT.EVEData
 
                 List<string> ValidShipGroupIDs = new List<string>();
 
-                ValidShipGroupIDs.Add("25"); //  Frigate
-                ValidShipGroupIDs.Add("26"); //  Cruiser
-                ValidShipGroupIDs.Add("27"); //  Battleship
-                ValidShipGroupIDs.Add("28"); //  Industrial
-                ValidShipGroupIDs.Add("29"); //  Capsule
-                ValidShipGroupIDs.Add("30"); //  Titan
-                ValidShipGroupIDs.Add("31"); //  Shuttle
-                ValidShipGroupIDs.Add("237"); //  Corvette
-                ValidShipGroupIDs.Add("324"); //  Assault Frigate
-                ValidShipGroupIDs.Add("358"); //  Heavy Assault Cruiser
-                ValidShipGroupIDs.Add("380"); //  Deep Space Transport
-                ValidShipGroupIDs.Add("381"); //  Elite Battleship
-                ValidShipGroupIDs.Add("419"); //  Combat Battlecruiser
-                ValidShipGroupIDs.Add("420"); //  Destroyer
-                ValidShipGroupIDs.Add("463"); //  Mining Barge
-                ValidShipGroupIDs.Add("485"); //  Dreadnought
-                ValidShipGroupIDs.Add("513"); //  Freighter
-                ValidShipGroupIDs.Add("540"); //  Command Ship
-                ValidShipGroupIDs.Add("541"); //  Interdictor
-                ValidShipGroupIDs.Add("543"); //  Exhumer
-                ValidShipGroupIDs.Add("547"); //  Carrier
-                ValidShipGroupIDs.Add("659"); //  Supercarrier
-                ValidShipGroupIDs.Add("830"); //  Covert Ops
-                ValidShipGroupIDs.Add("831"); //  Interceptor
-                ValidShipGroupIDs.Add("832"); //  Logistics
-                ValidShipGroupIDs.Add("833"); //  Force Recon Ship
-                ValidShipGroupIDs.Add("834"); //  Stealth Bomber
-                ValidShipGroupIDs.Add("883"); //  Capital Industrial Ship
-                ValidShipGroupIDs.Add("893"); //  Electronic Attack Ship
-                ValidShipGroupIDs.Add("894"); //  Heavy Interdiction Cruiser
-                ValidShipGroupIDs.Add("898"); //  Black Ops
-                ValidShipGroupIDs.Add("900"); //  Marauder
-                ValidShipGroupIDs.Add("902"); //  Jump Freighter
-                ValidShipGroupIDs.Add("906"); //  Combat Recon Ship
-                ValidShipGroupIDs.Add("941"); //  Industrial Command Ship
-                ValidShipGroupIDs.Add("963"); //  Strategic Cruiser
-                ValidShipGroupIDs.Add("1022"); //  Prototype Exploration Ship
-                ValidShipGroupIDs.Add("1201"); //  Attack Battlecruiser
-                ValidShipGroupIDs.Add("1202"); //  Blockade Runner
-                ValidShipGroupIDs.Add("1283"); //  Expedition Frigate
-                ValidShipGroupIDs.Add("1305"); //  Tactical Destroyer
-                ValidShipGroupIDs.Add("1527"); //  Logistics Frigate
-                ValidShipGroupIDs.Add("1534"); //  Command Destroyer
-                ValidShipGroupIDs.Add("1538"); //  Force Auxiliary
-                ValidShipGroupIDs.Add("1972"); //  Flag Cruiser
+                ValidShipGroupIDs.Add("25"); //  Frigate 护卫舰
+                ValidShipGroupIDs.Add("26"); //  Cruiser 巡洋舰
+                ValidShipGroupIDs.Add("27"); //  Battleship 战列舰
+                ValidShipGroupIDs.Add("28"); //  Industrial 工业舰
+                ValidShipGroupIDs.Add("29"); //  Capsule 太空舱
+                ValidShipGroupIDs.Add("30"); //  Titan 泰坦
+                ValidShipGroupIDs.Add("31"); //  Shuttle 穿梭机
+                ValidShipGroupIDs.Add("237"); //  Corvette 新手船
+                ValidShipGroupIDs.Add("324"); //  Assault Frigate 突击护卫舰
+                ValidShipGroupIDs.Add("358"); //  Heavy Assault Cruiser 重型突击巡洋舰
+                ValidShipGroupIDs.Add("380"); //  Deep Space Transport 深空运输舰
+                ValidShipGroupIDs.Add("381"); //  Elite Battleship 精英战列舰
+                ValidShipGroupIDs.Add("419"); //  Combat Battlecruiser 战斗巡洋舰
+                ValidShipGroupIDs.Add("420"); //  Destroyer 驱逐舰
+                ValidShipGroupIDs.Add("463"); //  Mining Barge 采矿驳船
+                ValidShipGroupIDs.Add("485"); //  Dreadnought 无畏舰
+                ValidShipGroupIDs.Add("513"); //  Freighter 运输舰
+                ValidShipGroupIDs.Add("540"); //  Command Ship 指挥舰
+                ValidShipGroupIDs.Add("541"); //  Interdictor 拦截舰
+                ValidShipGroupIDs.Add("543"); //  Exhumer 采矿船
+                ValidShipGroupIDs.Add("547"); //  Carrier 航母
+                ValidShipGroupIDs.Add("659"); //  Supercarrier 超级航母
+                ValidShipGroupIDs.Add("830"); //  Covert Ops 隐形特勤舰
+                ValidShipGroupIDs.Add("831"); //  Interceptor 拦截舰
+                ValidShipGroupIDs.Add("832"); //  Logistics 战术护卫舰
+                ValidShipGroupIDs.Add("833"); //  Force Recon Ship 侦察舰
+                ValidShipGroupIDs.Add("834"); //  Stealth Bomber 隐轰
+                ValidShipGroupIDs.Add("883"); //  Capital Industrial Ship 旗舰级工业船
+                ValidShipGroupIDs.Add("893"); //  Electronic Attack Ship 电子干扰舰
+                ValidShipGroupIDs.Add("894"); //  Heavy Interdiction Cruiser 重型拦截巡洋舰
+                ValidShipGroupIDs.Add("898"); //  Black Ops 黑隐特勤舰
+                ValidShipGroupIDs.Add("900"); //  Marauder 掠夺者
+                ValidShipGroupIDs.Add("902"); //  Jump Freighter 跳货
+                ValidShipGroupIDs.Add("906"); //  Combat Recon Ship 战术侦察舰
+                ValidShipGroupIDs.Add("941"); //  Industrial Command Ship 工业指挥舰
+                ValidShipGroupIDs.Add("963"); //  Strategic Cruiser 战略巡洋舰
+                ValidShipGroupIDs.Add("1022"); //  Prototype Exploration Ship 原型探测船
+                ValidShipGroupIDs.Add("1201"); //  Attack Battlecruiser 攻击巡洋舰
+                ValidShipGroupIDs.Add("1202"); //  Blockade Runner 封锁舰
+                ValidShipGroupIDs.Add("1283"); //  Expedition Frigate 探险护卫舰
+                ValidShipGroupIDs.Add("1305"); //  Tactical Destroyer 战术驱逐舰
+                ValidShipGroupIDs.Add("1527"); //  Logistics Frigate 战术护卫舰
+                ValidShipGroupIDs.Add("1534"); //  Command Destroyer 指挥驱逐舰
+                ValidShipGroupIDs.Add("1538"); //  Force Auxiliary 舰队辅助舰
+                ValidShipGroupIDs.Add("1972"); //  Flag Cruiser 旗舰巡洋舰
+                
                 // fighters
-                ValidShipGroupIDs.Add("1537"); //  Support Fighter None    0   0   0   0   1
-                ValidShipGroupIDs.Add("1652"); //  Light Fighter   None    0   0   0   0   1
-                ValidShipGroupIDs.Add("1653"); //  Heavy Fighter   None    0   0   0   0   1
+                // 战斗机
+                ValidShipGroupIDs.Add("1537"); //  Support Fighter None    0   0   0   0   1 铁甲战斗机
+                ValidShipGroupIDs.Add("1652"); //  Light Fighter   None    0   0   0   0   1 轻型战斗机
+                ValidShipGroupIDs.Add("1653"); //  Heavy Fighter   None    0   0   0   0   1 重型战斗机
 
                 // deployables
-                ValidShipGroupIDs.Add("361");  //  Mobile Warp Disruptor
-                ValidShipGroupIDs.Add("1149"); //  Mobile Jump Disruptor
-                ValidShipGroupIDs.Add("1246"); //  Mobile Depot
-                ValidShipGroupIDs.Add("1247"); //  Mobile Siphon Unit
-                ValidShipGroupIDs.Add("1249"); //  Mobile Cyno Inhibitor
-                ValidShipGroupIDs.Add("1250"); //  Mobile Tractor Unit
-                ValidShipGroupIDs.Add("1273"); //  Encounter Surveillance System
-                ValidShipGroupIDs.Add("1274"); //  Mobile Decoy Unit
-                ValidShipGroupIDs.Add("1275"); //  Mobile Scan Inhibitor
-                ValidShipGroupIDs.Add("1276"); //  Mobile Micro Jump Unit
-                ValidShipGroupIDs.Add("1297"); //  Mobile Vault
+                // 部署物
+                ValidShipGroupIDs.Add("361");  //  Mobile Warp Disruptor 移动式跃迁干扰器
+                ValidShipGroupIDs.Add("1149"); //  Mobile Jump Disruptor 移动式跃迁干扰器
+                ValidShipGroupIDs.Add("1246"); //  Mobile Depot 移动式仓库
+                ValidShipGroupIDs.Add("1247"); //  Mobile Siphon Unit 移动式吸取装置
+                ValidShipGroupIDs.Add("1249"); //  Mobile Cyno Inhibitor 移动式跃迁干扰器
+                ValidShipGroupIDs.Add("1250"); //  Mobile Tractor Unit 移动式牵引装置
+                ValidShipGroupIDs.Add("1273"); //  Encounter Surveillance System 遭遇监视系统
+                ValidShipGroupIDs.Add("1274"); //  Mobile Decoy Unit 移动式诱饵装置
+                ValidShipGroupIDs.Add("1275"); //  Mobile Scan Inhibitor 移动式扫描干扰器
+                ValidShipGroupIDs.Add("1276"); //  Mobile Micro Jump Unit 移动式微型跃迁装置
+                ValidShipGroupIDs.Add("1297"); //  Mobile Vault 移动式保险箱
 
                 // structures
-                ValidShipGroupIDs.Add("1312"); //  Observatory Structures
-                ValidShipGroupIDs.Add("1404"); //  Engineering Complex
-                ValidShipGroupIDs.Add("1405"); //  Laboratory
-                ValidShipGroupIDs.Add("1406"); //  Refinery
-                ValidShipGroupIDs.Add("1407"); //  Observatory Array
-                ValidShipGroupIDs.Add("1408"); //  Stargate
-                ValidShipGroupIDs.Add("1409"); //  Administration Hub
-                ValidShipGroupIDs.Add("1410"); //  Advertisement Center
+                // 结构
+                ValidShipGroupIDs.Add("1312"); //  Observatory Structures 观测站
+                ValidShipGroupIDs.Add("1404"); //  Engineering Complex 工程复合体
+                ValidShipGroupIDs.Add("1405"); //  Laboratory 实验室
+                ValidShipGroupIDs.Add("1406"); //  Refinery 炼油厂
+                ValidShipGroupIDs.Add("1407"); //  Observatory Array 观测站
+                ValidShipGroupIDs.Add("1408"); //  Stargate 星门
+                ValidShipGroupIDs.Add("1409"); //  Administration Hub 管理中心
+                ValidShipGroupIDs.Add("1410"); //  Advertisement Center 广告中心
 
                 // citadels
-                ValidShipGroupIDs.Add("1657"); //  Citadel
-                ValidShipGroupIDs.Add("1876"); //  Engineering Complex
-                ValidShipGroupIDs.Add("1924"); //  Forward Operating Base
+                // 堡垒
+                ValidShipGroupIDs.Add("1657"); //  Citadel 堡垒
+                ValidShipGroupIDs.Add("1876"); //  Engineering Complex 工程复合体
+                ValidShipGroupIDs.Add("1924"); //  Forward Operating Base 前沿作战基地
 
                 StreamReader file = new StreamReader(eveStaticDataItemTypesFile);
 
@@ -1298,6 +1303,7 @@ namespace SMT.EVEData
             }
 
             // now add the jove systems
+            // 现在添加朱庇特星系
             string eveStaticDataJoveObservatories = sourceFolder + @"\data\JoveSystems.csv";
             if (File.Exists(eveStaticDataJoveObservatories))
             {
@@ -1312,7 +1318,7 @@ namespace SMT.EVEData
                     {
                         continue;
                     }
-                    string[] bits = line.Split(';');
+                    string[] bits = line.Split(',');
 
                     if (bits.Length != 4)
                     {
@@ -1335,6 +1341,7 @@ namespace SMT.EVEData
 
 
             // Now add the joveGate Systems
+            // 现在添加朱庇特星系
             string eveStaticDataJoveGates = sourceFolder + @"\data\JoveGates.csv";
             if (File.Exists(eveStaticDataJoveGates))
             {
@@ -1357,6 +1364,7 @@ namespace SMT.EVEData
 
 
             // now generate the 2d universe view coordinates
+            // 现在生成2D宇宙视图坐标
 
             double RenderSize = 5000;
             double universeXMin = 484452845697854000;
@@ -1405,6 +1413,7 @@ namespace SMT.EVEData
             }
 
             // now create the region outlines and recalc the centre
+            // 现在创建区域轮廓并重新计算中心
             foreach (MapRegion mr in Regions)
             {
                 mr.RegionX = (mr.RegionX - universeXMin) * universeScale;
@@ -1514,9 +1523,11 @@ namespace SMT.EVEData
             }
 
             // cache the navigation data
+            // 缓存导航数据
             SerializableDictionary<string, List<string>> jumpRangeCache = Navigation.CreateStaticNavigationCache(Systems);
 
             // now serialise the classes to disk
+            // 现在将类序列化到磁盘
 
             string saveDataFolder = outputFolder + @"\data\";
 
@@ -1528,12 +1539,14 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Does the System Exist ?
+        /// 系统是否存在 ?
         /// </summary>
         /// <param name="name">Name (not ID) of the system</param>
         public bool DoesSystemExist(string name) => GetEveSystem(name) != null;
 
         /// <summary>
         /// Get the alliance name from the alliance ID
+        /// 获取联盟名称
         /// </summary>
         /// <param name="id">Alliance ID</param>
         /// <returns>Alliance Name</returns>
@@ -1550,6 +1563,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Gets the alliance ticker eg "TEST" from the alliance ID
+        /// 获取联盟标记
         /// </summary>
         /// <param name="id">Alliance ID</param>
         /// <returns>Alliance Ticker</returns>
@@ -1577,6 +1591,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Get the ESI Logon URL String
+        /// 获取ESI登录URL字符串
         /// </summary>
         public string GetESILogonURL()
         {
@@ -1586,7 +1601,9 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Get a System object from the name, note : for regions which have other region systems in it wont return
+        /// 获取系统对象: 对于其中有其他区域系统的区域不会返回
         /// them.. eg TR07-s is on the esoteria map, but the object corresponding to the feythabolis map will be returned
+        /// 例如 TR07-s 在埃索特里亚地图上，但将返回对应于费塞博利斯地图的对象
         /// </summary>
         /// <param name="name">Name (not ID) of the system</param>
         public System GetEveSystem(string name)
@@ -1601,6 +1618,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Get a System object from the ID
+        /// 获取星系对象
         /// </summary>
         /// <param name="id">ID of the system</param>
         public System GetEveSystemFromID(long id)
@@ -1615,6 +1633,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Get a System name from the ID
+        /// 获取星系名称
         /// </summary>
         /// <param name="id">ID of the system</param>
         public string GetEveSystemNameFromID(long id)
@@ -1630,6 +1649,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Calculate the range between the two systems
+        /// 计算两个星系之间的范围
         /// </summary>
         public decimal GetRangeBetweenSystems(string from, string to)
         {
@@ -1652,6 +1672,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Get the MapRegion from the name
+        /// 获取星域名称
         /// </summary>
         /// <param name="name">Name of the Region</param>
         /// <returns>Region Object</returns>
@@ -1670,6 +1691,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Get the System name from the System ID
+        /// 获取星系名称
         /// </summary>
         /// <param name="id">System ID</param>
         /// <returns>System Name</returns>
@@ -1686,6 +1708,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Hand the custom smtauth- url we get back from the logon screen
+        /// 处理我们从登录屏幕获得的自定义smtauth- URL
         /// </summary>
         public async void HandleEveAuthSMTUri(Uri uri)
         {
@@ -1720,6 +1743,7 @@ namespace SMT.EVEData
             AuthorizedCharacterData acd = await Verify(sst);
 
             // now find the matching character and update..
+            // 现在找到匹配的角色并更新
             LocalCharacter esiChar = null;
             foreach (LocalCharacter c in LocalCharacters)
             {
@@ -1748,6 +1772,7 @@ namespace SMT.EVEData
             esiChar.ESIAuthData = acd;
 
             // now to find if a matching character
+            // 现在找到匹配的角色
         }
 
         public void InitNavigation()
@@ -1771,6 +1796,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Load the EVE Manager Data from Disk
+        /// 加载磁盘上的EVE管理器数据
         /// </summary>
         public void LoadFromDisk()
         {
@@ -1822,6 +1848,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Load the jump bridge data from disk
+        /// 加载磁盘上的跳桥数据
         /// </summary>
         public void LoadJumpBridgeData()
         {
@@ -1855,6 +1882,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Update the Alliance and Ticker data for specified list
+        /// 更新指定列表的联盟和标记数据
         /// </summary>
         public async Task ResolveAllianceIDs(List<int> IDs)
         {
@@ -1864,6 +1892,7 @@ namespace SMT.EVEData
             }
 
             // strip out any ID's we already know..
+            // 去除已知ID
             List<int> UnknownIDs = new List<int>();
             foreach (int l in IDs)
             {
@@ -1908,6 +1937,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Update the Character ID data for specified list
+        /// 更新指定列表的角色ID数据
         /// </summary>
         public async Task ResolveCharacterIDs(List<int> IDs)
         {
@@ -1950,10 +1980,12 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Save the Data to disk
+        /// 保存数据到磁盘
         /// </summary>
         public void SaveData()
         {
             // save off only the ESI authenticated Characters so create a new copy to serialise from..
+            // 仅保存ESI认证的角色，因此创建一个新副本以序列化..
             List<LocalCharacter> saveList = new List<LocalCharacter>();
 
             foreach (LocalCharacter c in LocalCharacters)
@@ -1985,6 +2017,7 @@ namespace SMT.EVEData
             }
 
             // save the intel channels / intel filters
+            // 保存情报频道/情报过滤器
             File.WriteAllLines(Path.Combine(SaveDataRootFolder, "IntelChannels.txt"), IntelFilters);
             File.WriteAllLines(Path.Combine(SaveDataRootFolder, "IntelClearFilters.txt"), IntelClearFilters);
             File.WriteAllLines(Path.Combine(SaveDataRootFolder, "IntelIgnoreFilters.txt"), IntelIgnoreFilters);
@@ -1994,6 +2027,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Setup the intel watcher;  Loads the intel channel filter list and creates the file system watchers
+        /// 设置情报观察者; 加载情报频道过滤器列表并创建文件系统观察者
         /// </summary>
         public void SetupIntelWatcher()
         {
@@ -2113,6 +2147,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Setup the game log0 watcher
+        /// 设置游戏日志观察者
         /// </summary>
         public void SetupGameLogWatcher()
         {
@@ -2254,6 +2289,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Update The Universe Data from the various ESI end points
+        /// 更新各种ESI端点的宇宙数据
         /// </summary>
         public void UpdateESIUniverseData()
         {
@@ -2270,6 +2306,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Update the Alliance and Ticker data for all SOV owners in the specified region
+        /// 更新指定区域所有SOV所有者的联盟和标记数据
         /// </summary>
         public void UpdateIDsForMapRegion(string name)
         {
@@ -2294,9 +2331,11 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Update the current Thera Connections from EVE-Scout
+        /// 更新当前的Thera连接
         /// </summary>
         public async void UpdateTheraConnections()
         {
+            // 欧服专属 国服没有
             string theraApiURL = "https://api.eve-scout.com/v2/public/signatures?system_name=Thera";
             string strContent = string.Empty;
 
@@ -2389,18 +2428,23 @@ namespace SMT.EVEData
             }
 
             // now update the Strong and weak areas around the storm
+            // 现在更新风暴周围的强弱区域
             foreach (Storm s in MetaliminalStorms)
             {
                 // The Strong area is 1 jump out from the centre
+                // 强区域距中心1跳
                 List<string> strongArea = Navigation.GetSystemsXJumpsFrom(new List<string>(), s.System, 1);
 
                 // The weak area is 3 jumps out from the centre
+                // 弱区域距中心3跳
                 List<string> weakArea = Navigation.GetSystemsXJumpsFrom(new List<string>(), s.System, 3);
 
                 // strip the strong area out of the weak so we dont have overlapping icons
+                // 剥离弱区域，以免有重叠的图标
                 s.WeakArea = weakArea.Except(strongArea).ToList();
 
                 // strip the centre out of the strong area
+                // 剥离中心，以免有重叠的图标
                 strongArea.Remove(s.Name);
 
                 s.StrongArea = strongArea;
@@ -2447,6 +2491,7 @@ namespace SMT.EVEData
                 }
 
                 // step 1, identify all the Frontline systems, these will be systems with connections to other systems with a different occupier
+                // 步骤1，识别所有前线系统，这些系统将与其他占领者不同的系统连接
                 foreach (FactionWarfareSystemInfo fws in FactionWarfareSystems)
                 {
                     System s = GetEveSystemFromID(fws.SystemID);
@@ -2464,6 +2509,7 @@ namespace SMT.EVEData
                 }
 
                 // step 2, itendify all commandline operations by flooding out one from the frontlines
+                // 步骤2，通过从前线中排除一个来识别所有命令行操作
                 foreach (FactionWarfareSystemInfo fws in FactionWarfareSystems)
                 {
                     if (fws.SystemState == FactionWarfareSystemInfo.State.Frontline)
@@ -2485,6 +2531,7 @@ namespace SMT.EVEData
                 }
 
                 // step 3, itendify all Rearguard operations by flooding out one from the command lines
+                // 步骤3，通过从命令行中排除一个来识别所有后卫操作
                 foreach (FactionWarfareSystemInfo fws in FactionWarfareSystems)
                 {
                     if (fws.SystemState == FactionWarfareSystemInfo.State.CommandLineOperation)
@@ -2514,6 +2561,7 @@ namespace SMT.EVEData
         public void AddUpdateJumpBridge(string from, string to, long stationID)
         {
             // validate
+            // 验证
             if (GetEveSystem(from) == null || GetEveSystem(to) == null)
             {
                 return;
@@ -2650,6 +2698,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Initialise the Thera Connection Data from EVE-Scout
+        /// 从EVE-Scout初始化Thera连接数据
         /// </summary>
         private void InitTheraConnections()
         {
@@ -2658,7 +2707,8 @@ namespace SMT.EVEData
         }
 
         /// <summary>
-        /// Initialise the Zarzakh Connection Data 
+        /// Initialise the Zarzakh Connection Data
+        /// 初始化Zarzakh连接数据
         /// </summary>
         private void InitZarzakhConnections()
         {
@@ -2688,6 +2738,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Initialise the ZKillBoard Feed
+        /// 初始化KB
         /// </summary>
         private void InitZKillFeed()
         {
@@ -2698,6 +2749,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Intel File watcher changed handler
+        /// 信息文件改变处理程序
         /// </summary>
         private void IntelFileWatcher_Changed(object sender, FileSystemEventArgs e)
         {
@@ -2710,6 +2762,7 @@ namespace SMT.EVEData
             bool localChat = false;
 
             // check if the changed file path contains the name of a channel we're looking for
+            // 检查更改的文件路径是否包含我们正在查找的频道名称
             foreach (string intelFilterStr in IntelFilters)
             {
                 if (changedFile.Contains(intelFilterStr, StringComparison.OrdinalIgnoreCase))
@@ -2755,7 +2808,7 @@ namespace SMT.EVEData
                                 fileReadFrom++;
 
                                 // explicitly skip just "local"
-                                if (l.Contains("Channel Name:    Local"))
+                                if (l.Contains("Channel Name:    本地"))
                                 {
                                     // now can read the next line
                                     l = file.ReadLine(); // should be the "Listener : <CharName>"
@@ -2816,7 +2869,8 @@ namespace SMT.EVEData
                     string line = file.ReadLine();
 
                     while (line != null)
-                    {                    // trim any items off the front
+                    {                    
+                        // trim any items off the front
                         if (line.Contains('[') && line.Contains(']'))
                         {
                             line = line.Substring(line.IndexOf("["));
@@ -2832,7 +2886,7 @@ namespace SMT.EVEData
 
                         if (localChat)
                         {
-                            if (line.StartsWith("[") && line.Contains("EVE System > Channel changed to Local"))
+                            if (line.StartsWith("[") && line.Contains("EVE系统 > 频道更换为本地"))
                             {
                                 string system = line.Split(':').Last().Trim();
 
@@ -2848,6 +2902,7 @@ namespace SMT.EVEData
                         else
                         {
                             // check if it is in the intel list already (ie if you have multiple clients running)
+                            // 检查它是否已在情报列表中（即如果您有多个客户端正在运行）
                             bool addToIntel = true;
 
                             int start = line.IndexOf('>') + 1;
@@ -2868,7 +2923,7 @@ namespace SMT.EVEData
                             {
                                 addToIntel = false;
                             }
-
+                            // TODO - 暂时不知道国服怎么显示
                             if (line.Contains("Channel MOTD:"))
                             {
                                 addToIntel = false;
@@ -2941,6 +2996,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// GameLog File watcher changed handler
+        /// 日志文件观察者更改处理程序
         /// </summary>
         private void GameLogFileWatcher_Changed(object sender, FileSystemEventArgs e)
         {
@@ -2976,7 +3032,7 @@ namespace SMT.EVEData
                             l = file.ReadLine(); // should be the "Listener : <CharName>"
 
                             // something wrong with the log file; clear
-                            if (!l.Contains("Listener"))
+                            if (!l.Contains("收听者"))
                             {
                                 if (gameFileReadPos.ContainsKey(changedFile))
                                 {
@@ -3077,7 +3133,7 @@ namespace SMT.EVEData
                                     CombatEvent(characterName, line);
                                 }
                             }
-
+                            // TODO - 暂时不知道国服怎么显示
                             if (line.Contains("cloak deactivates due to a pulse from a Mobile Observatory") || line.Contains("Your cloak deactivates due to proximity to"))
                             {
                                 if (ShipDecloakedEvent != null)
@@ -3104,6 +3160,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Load the character data from disk
+        /// 加载磁盘上的角色数据
         /// </summary>
         private void LoadCharacters()
         {
@@ -3147,6 +3204,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Start the Low Frequency Update Thread
+        /// 开始低频更新线程
         /// </summary>
         private void StartBackgroundThread()
         {
@@ -3202,7 +3260,9 @@ namespace SMT.EVEData
         {
             // set the update for 20 minutes from now initially which will be pushed further once we have the last-modified
             // however if the request fails we still push out the request..
+            // 设置更新为20分钟后，最初将被推迟，一旦我们有了最后修改的时间 但是如果请求失败，我们仍然推出请求
             NextDotlanUpdate = DateTime.Now + TimeSpan.FromMinutes(20);
+            // TODO 国服暂时没有这个接口
 
 
             try
@@ -3277,6 +3337,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Start the ESI download for the Jump info
+        /// 开始从ESI下载跳跃信息
         /// </summary>
         private async void UpdateIncursionsFromESI()
         {
@@ -3438,7 +3499,7 @@ namespace SMT.EVEData
 
                         int NodesToWin = (int)Math.Ceiling(ss.DefendersScore / 0.07);
                         int NodesToDefend = (int)Math.Ceiling(ss.AttackersScore / 0.07);
-                        ss.State = $"Nodes Remaining\nAttackers : {NodesToWin}\nDefenders : {NodesToDefend}";
+                        ss.State = $"节点剩余\n进攻方 : {NodesToWin}\n防守方 : {NodesToDefend}";
 
                         ss.TimeToStart = ss.StartTime - DateTime.UtcNow;
 
@@ -3575,13 +3636,13 @@ namespace SMT.EVEData
 
                 if (ESIHelpers.ValidateESICall<ESI.NET.Models.Status.Status>(esr))
                 {
-                    ServerInfo.Name = "Tranquility";
+                    ServerInfo.Name = "Serenity";
                     ServerInfo.NumPlayers = esr.Data.Players;
                     ServerInfo.ServerVersion = esr.Data.ServerVersion.ToString();
                 }
                 else
                 {
-                    ServerInfo.Name = "Tranquility";
+                    ServerInfo.Name = "Serenity";
                     ServerInfo.NumPlayers = 0;
                     ServerInfo.ServerVersion = "";
                 }
