@@ -385,77 +385,73 @@ namespace SMT.EVEData
             Regions = new List<MapRegion>();
 
             // manually add the regions we care about
-            Regions.Add(new MapRegion("Aridia", "10000054", "Amarr", 280, 810));
-            Regions.Add(new MapRegion("Black Rise", "10000069", "Caldari", 900, 500));
-            Regions.Add(new MapRegion("The Bleak Lands", "10000038", "Amarr", 1000, 920));
-            Regions.Add(new MapRegion("Branch", "10000055", string.Empty, 1040, 100));
-            Regions.Add(new MapRegion("Cache", "10000007", string.Empty, 1930, 800));
-            Regions.Add(new MapRegion("Catch", "10000014", string.Empty, 1110, 1280));
-            Regions.Add(new MapRegion("The Citadel", "10000033", "Caldari", 1010, 620));
-            Regions.Add(new MapRegion("Cloud Ring", "10000051", string.Empty, 500, 240));
-            Regions.Add(new MapRegion("Cobalt Edge", "10000053", string.Empty, 1900, 130));
-            Regions.Add(new MapRegion("Curse", "10000012", "Angel Cartel", 1350, 1120));
-            Regions.Add(new MapRegion("Deklein", "10000035", string.Empty, 820, 150));
-            Regions.Add(new MapRegion("Delve", "10000060", "Blood Raider", 230, 1210));
-            Regions.Add(new MapRegion("Derelik", "10000001", "Ammatar", 1300, 970));
-            Regions.Add(new MapRegion("Detorid", "10000005", string.Empty, 1760, 1400));
-            Regions.Add(new MapRegion("Devoid", "10000036", "Amarr", 990, 1060));
-            Regions.Add(new MapRegion("Domain", "10000043", "Amarr", 810, 960));
-            Regions.Add(new MapRegion("Esoteria", "10000039", string.Empty, 880, 1450));
-            Regions.Add(new MapRegion("Essence", "10000064", "Gallente", 740, 580));
-            Regions.Add(new MapRegion("Etherium Reach", "10000027", string.Empty, 1570, 620));
-            Regions.Add(new MapRegion("Everyshore", "10000037", "Gallente", 660, 730));
-            Regions.Add(new MapRegion("Fade", "10000046", string.Empty, 720, 260));
-            Regions.Add(new MapRegion("Feythabolis", "10000056", string.Empty, 1070, 1510));
-            Regions.Add(new MapRegion("The Forge", "10000002", "Caldari", 1200, 620));
-            Regions.Add(new MapRegion("Fountain", "10000058", string.Empty, 120, 500));
-            Regions.Add(new MapRegion("Geminate", "10000029", "The Society", 1330, 490));
-            Regions.Add(new MapRegion("Genesis", "10000067", "Amarr", 480, 860));
-            Regions.Add(new MapRegion("Great Wildlands", "10000011", "Thukker Tribe", 1630, 920));
-            Regions.Add(new MapRegion("Heimatar", "10000030", "Minmatar", 1220, 860));
-            Regions.Add(new MapRegion("Immensea", "10000025", string.Empty, 1350, 1230));
-            Regions.Add(new MapRegion("Impass", "10000031", string.Empty, 1200, 1390));
-            Regions.Add(new MapRegion("Insmother", "10000009", string.Empty, 1880, 1160));
-            Regions.Add(new MapRegion("Kador", "10000052", "Amarr", 660, 880));
-            Regions.Add(new MapRegion("The Kalevala Expanse", "10000034", string.Empty, 1490, 370));
-            Regions.Add(new MapRegion("Khanid", "10000049", "Khanid", 470, 1140));
-            Regions.Add(new MapRegion("Kor-Azor", "10000065", "Amarr", 500, 1010));
-            Regions.Add(new MapRegion("Lonetrek", "10000016", "Caldari", 1100, 460));
-            Regions.Add(new MapRegion("Malpais", "10000013", string.Empty, 1770, 520));
-            Regions.Add(new MapRegion("Metropolis", "10000042", "Minmatar", 1330, 730));
-            Regions.Add(new MapRegion("Molden Heath", "10000028", "Minmatar", 1460, 860));
-            Regions.Add(new MapRegion("Oasa", "10000040", string.Empty, 1890, 320));
-            Regions.Add(new MapRegion("Omist", "10000062", string.Empty, 1440, 1480));
-            Regions.Add(new MapRegion("Outer Passage", "10000021", string.Empty, 1930, 460));
-            Regions.Add(new MapRegion("Outer Ring", "10000057", "ORE", 240, 280));
-            Regions.Add(new MapRegion("Paragon Soul", "10000059", string.Empty, 640, 1480));
-            Regions.Add(new MapRegion("Period Basis", "10000063", string.Empty, 440, 1400));
-            Regions.Add(new MapRegion("Perrigen Falls", "10000066", string.Empty, 1600, 260));
-            Regions.Add(new MapRegion("Placid", "10000048", "Gallente", 600, 440));
-            Regions.Add(new MapRegion("Providence", "10000047", string.Empty, 1010, 1130));
-            Regions.Add(new MapRegion("Pure Blind", "10000023", string.Empty, 870, 380));
-            Regions.Add(new MapRegion("Querious", "10000050", string.Empty, 680, 1280));
-            Regions.Add(new MapRegion("Scalding Pass", "10000008", string.Empty, 1600, 1080));
-            Regions.Add(new MapRegion("Sinq Laison", "10000032", "Gallente", 950, 770));
-            Regions.Add(new MapRegion("Solitude", "10000044", "Gallente", 310, 670));
-            Regions.Add(new MapRegion("The Spire", "10000018", string.Empty, 1720, 700));
-            Regions.Add(new MapRegion("Stain", "10000022", "Sansha", 900, 1350));
-            Regions.Add(new MapRegion("Syndicate", "10000041", "Syndicate", 360, 500));
-            Regions.Add(new MapRegion("Tash-Murkon", "10000020", "Amarr", 730, 1090));
-
-            Regions.Add(new MapRegion("Tenal", "10000045", string.Empty, 1400, 140));
-            Regions.Add(new MapRegion("Tenerifis", "10000061", string.Empty, 1430, 1350));
-            Regions.Add(new MapRegion("Tribute", "10000010", string.Empty, 1070, 290));
-
-            Regions.Add(new MapRegion("Vale of the Silent", "10000003", string.Empty, 1230, 380));
-            Regions.Add(new MapRegion("Venal", "10000015", "Guristas", 1140, 210));
-            Regions.Add(new MapRegion("Verge Vendor", "10000068", "Gallente", 490, 660));
-            Regions.Add(new MapRegion("Wicked Creek", "10000006", string.Empty, 1580, 1230));
-            Regions.Add(new MapRegion("Pochven", "10000008", "Triglavian", 50, 50));
-
+            Regions.Add(new MapRegion("艾里迪亚", "10000054", "Amarr", 280, 810));
+            Regions.Add(new MapRegion("暗涌之域", "10000069", "Caldari", 900, 500));
+            Regions.Add(new MapRegion("幽暗之域", "10000038", "Amarr", 1000, 920));
+            Regions.Add(new MapRegion("血脉", "10000055", string.Empty, 1040, 100));
+            Regions.Add(new MapRegion("地窖", "10000007", string.Empty, 1930, 800));
+            Regions.Add(new MapRegion("卡彻", "10000014", string.Empty, 1110, 1280));
+            Regions.Add(new MapRegion("赛塔德洱", "10000033", "Caldari", 1010, 620));
+            Regions.Add(new MapRegion("云环", "10000051", string.Empty, 500, 240));
+            Regions.Add(new MapRegion("钴蓝边域", "10000053", string.Empty, 1900, 130));
+            Regions.Add(new MapRegion("柯尔斯", "10000012", "Angel Cartel", 1350, 1120));
+            Regions.Add(new MapRegion("德克廉", "10000035", string.Empty, 820, 150));
+            Regions.Add(new MapRegion("绝地之域", "10000060", "Blood Raider", 230, 1210));
+            Regions.Add(new MapRegion("绝地之域", "10000001", "Ammatar", 1300, 970));
+            Regions.Add(new MapRegion("底特里德", "10000005", string.Empty, 1760, 1400));
+            Regions.Add(new MapRegion("破碎", "10000036", "Amarr", 990, 1060));
+            Regions.Add(new MapRegion("多美", "10000043", "Amarr", 810, 960));
+            Regions.Add(new MapRegion("埃索特亚", "10000039", string.Empty, 880, 1450));
+            Regions.Add(new MapRegion("精华之域", "10000064", "Gallente", 740, 580));
+            Regions.Add(new MapRegion("琉蓝之穹", "10000027", string.Empty, 1570, 620));
+            Regions.Add(new MapRegion("埃维希尔", "10000037", "Gallente", 660, 730));
+            Regions.Add(new MapRegion("斐德", "10000046", string.Empty, 720, 260));
+            Regions.Add(new MapRegion("非塔波利斯", "10000056", string.Empty, 1070, 1510));
+            Regions.Add(new MapRegion("伏尔戈", "10000002", "Caldari", 1200, 620));
+            Regions.Add(new MapRegion("源泉之域", "10000058", string.Empty, 120, 500));
+            Regions.Add(new MapRegion("对舞之域", "10000029", "The Society", 1330, 490));
+            Regions.Add(new MapRegion("吉勒西斯", "10000067", "Amarr", 480, 860));
+            Regions.Add(new MapRegion("大荒野", "10000011", "Thukker Tribe", 1630, 920));
+            Regions.Add(new MapRegion("西玛特尔", "10000030", "Minmatar", 1220, 860));
+            Regions.Add(new MapRegion("伊梅瑟亚", "10000025", string.Empty, 1350, 1230));
+            Regions.Add(new MapRegion("绝径", "10000031", string.Empty, 1200, 1390));
+            Regions.Add(new MapRegion("因斯姆尔", "10000009", string.Empty, 1880, 1160));
+            Regions.Add(new MapRegion("卡多尔", "10000052", "Amarr", 660, 880));
+            Regions.Add(new MapRegion("卡勒瓦拉阔地", "10000034", string.Empty, 1490, 370));
+            Regions.Add(new MapRegion("卡尼迪", "10000049", "Khanid", 470, 1140));
+            Regions.Add(new MapRegion("柯埃佐", "10000065", "Amarr", 500, 1010));
+            Regions.Add(new MapRegion("长征", "10000016", "Caldari", 1100, 460));
+            Regions.Add(new MapRegion("糟粕之域", "10000013", string.Empty, 1770, 520));
+            Regions.Add(new MapRegion("美特伯里斯", "10000042", "Minmatar", 1330, 730));
+            Regions.Add(new MapRegion("摩登赫斯", "10000028", "Minmatar", 1460, 860));
+            Regions.Add(new MapRegion("欧莎", "10000040", string.Empty, 1890, 320));
+            Regions.Add(new MapRegion("欧米斯特", "10000062", string.Empty, 1440, 1480));
+            Regions.Add(new MapRegion("域外走廊", "10000021", string.Empty, 1930, 460));
+            Regions.Add(new MapRegion("外环", "10000057", "ORE", 240, 280));
+            Regions.Add(new MapRegion("摄魂之域", "10000059", string.Empty, 640, 1480));
+            Regions.Add(new MapRegion("贝斯", "10000063", string.Empty, 440, 1400));
+            Regions.Add(new MapRegion("佩利根弗", "10000066", string.Empty, 1600, 260));
+            Regions.Add(new MapRegion("宁静之域", "10000048", "Gallente", 600, 440));
+            Regions.Add(new MapRegion("普罗维登斯", "10000047", string.Empty, 1010, 1130));
+            Regions.Add(new MapRegion("黑渊", "10000023", string.Empty, 870, 380));
+            Regions.Add(new MapRegion("逑瑞斯", "10000050", string.Empty, 680, 1280));
+            Regions.Add(new MapRegion("灼热之径", "10000008", string.Empty, 1600, 1080));
+            Regions.Add(new MapRegion("金纳泽", "10000032", "Gallente", 950, 770));
+            Regions.Add(new MapRegion("孤独之域", "10000044", "Gallente", 310, 670));
+            Regions.Add(new MapRegion("螺旋之域", "10000018", string.Empty, 1720, 700));
+            Regions.Add(new MapRegion("混浊", "10000022", "Sansha", 900, 1350));
+            Regions.Add(new MapRegion("辛迪加", "10000041", "Syndicate", 360, 500));
+            Regions.Add(new MapRegion("塔什蒙贡", "10000020", "Amarr", 730, 1090));
+            Regions.Add(new MapRegion("特纳", "10000045", string.Empty, 1400, 140));
+            Regions.Add(new MapRegion("特里菲斯", "10000061", string.Empty, 1430, 1350));
+            Regions.Add(new MapRegion("特布特", "10000010", string.Empty, 1070, 290));
+            Regions.Add(new MapRegion("静寂谷", "10000003", string.Empty, 1230, 380));
+            Regions.Add(new MapRegion("维纳尔", "10000015", "Guristas", 1140, 210));
+            Regions.Add(new MapRegion("维格温铎", "10000068", "Gallente", 490, 660));
+            Regions.Add(new MapRegion("邪恶湾流", "10000006", string.Empty, 1580, 1230));
+            Regions.Add(new MapRegion("灼热之径", "10000008", "Triglavian", 50, 50));
             Regions.Add(new MapRegion("Warzone - Amarr vs Minmatar", "", "Faction War", 50, 120, true));
             Regions.Add(new MapRegion("Warzone - Caldari vs Gallente", "", "Faction War", 50, 190, true));
-
             Regions.Add(new MapRegion("Yasna Zakh", "", string.Empty, 50, 260));
 
             SystemIDToName = new SerializableDictionary<long, string>();
@@ -468,7 +464,7 @@ namespace SMT.EVEData
 
 
                 string localSVG = sourceFolder + @"\data\SourceMaps\raw\" + rd.DotLanRef + "_layout.svg";
-
+                Console.WriteLine(localSVG);
                 if (!File.Exists(localSVG))
                 {
                     // error
