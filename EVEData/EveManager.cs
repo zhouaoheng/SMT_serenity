@@ -1744,6 +1744,9 @@ namespace SMT.EVEData
 
             AuthorizedCharacterData acd = await Verify(sst);
 
+            acd.RefreshToken = sst.RefreshToken;
+            acd.Token = sst.AccessToken;
+            
             // now find the matching character and update..
             // 现在找到匹配的角色并更新
             LocalCharacter esiChar = null;
@@ -1766,8 +1769,8 @@ namespace SMT.EVEData
                 }
             }
             
-            // 修改到期时间为15天后
-            acd.ExpiresOn = DateTime.UtcNow.AddSeconds(15 * 24 * 60 * 60);
+            // Token失效时间为10分钟
+            acd.ExpiresOn = DateTime.UtcNow.AddSeconds(10 * 60);
             esiChar.ESIRefreshToken = acd.RefreshToken;
             esiChar.ESILinked = true;
             esiChar.ESIAccessToken = acd.Token;
@@ -3269,7 +3272,7 @@ namespace SMT.EVEData
             // TODO 国服暂时没有这个接口
 
 
-            try
+            /*try
             {
                 string dotlanNPCDeltaAPIurl = "https://evemaps.dotlan.net/ajax/npcdelta";
 
@@ -3336,7 +3339,7 @@ namespace SMT.EVEData
             }
             catch (Exception e)
             {
-            }
+            }*/
         }
 
         /// <summary>

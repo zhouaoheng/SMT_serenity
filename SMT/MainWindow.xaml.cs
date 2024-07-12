@@ -796,7 +796,7 @@ namespace SMT
 
         public void OnCharacterSelectionChanged()
         {
-            CollectionViewSource.GetDefaultView(ZKBFeed.ItemsSource).Refresh();
+            /*CollectionViewSource.GetDefaultView(ZKBFeed.ItemsSource).Refresh();*/
         }
 
         private void RegionUC_RegionChanged(object sender, PropertyChangedEventArgs e)

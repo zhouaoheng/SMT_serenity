@@ -668,14 +668,14 @@ namespace SMT
 
         private void VHSystems_SOV_Clicked(object sender, RoutedEventArgs e)
         {
-            MenuItem mi = sender as MenuItem;
+            /*MenuItem mi = sender as MenuItem;
             long ID = (long)mi.DataContext;
 
             if (ID != 0)
             {
                 string uRL = string.Format("https://evewho.com/alliance/{0}", ID);
                 System.Diagnostics.Process.Start(new System.Diagnostics.ProcessStartInfo(uRL) { UseShellExecute = true });
-            }
+            }*/
         }
 
         private void UniverseControl_PropertyChanged(object sender, PropertyChangedEventArgs e)
