@@ -514,10 +514,9 @@ namespace SMT.EVEData
             Regions.Add(new MapRegion("维纳尔", "10000015", "Guristas", 1140, 210));
             Regions.Add(new MapRegion("维格温铎", "10000068", "Gallente", 490, 660));
             Regions.Add(new MapRegion("邪恶湾流", "10000006", string.Empty, 1580, 1230));
-            Regions.Add(new MapRegion("灼热之径", "10000008", "Triglavian", 50, 50));
             Regions.Add(new MapRegion("战争地带 - 艾玛 vs 米玛塔尔", "", "Faction War", 50, 120, true));
             Regions.Add(new MapRegion("战争地带 - 加达里 vs 盖伦特", "", "Faction War", 50, 190, true));
-            Regions.Add(new MapRegion("伊甸乐园边境", "", string.Empty, 50, 260));
+            Regions.Add(new MapRegion("伊甸乐园边境", "10001000", string.Empty, 50, 260));
 
             SystemIDToName = new SerializableDictionary<long, string>();
 
@@ -821,25 +820,13 @@ namespace SMT.EVEData
 
                 // TEMP : Manually add 
                 // 临时：手动添加
-                // constMap["20010000"] = "踱罪彷徨之海";
-                foreach (var x in constMap.Keys)
-                {
-                    Console.Write(x);
-                    Console.WriteLine(constMap[x]);
-                }
+                constMap["20010000"] = "踱罪彷徨之海";
+
                 foreach (System s in Systems)
-                {
-
-                    // if (s.ConstellationID == null)
-                    // {
-                    //     continue;
-                    // }
-                    // else
-                    // {
-                        s.ConstellationName = constMap[s.ConstellationID];
-                    // }
-
+                { 
+                    s.ConstellationName = constMap[s.ConstellationID];
                 }
+                
             }
             else
             {
