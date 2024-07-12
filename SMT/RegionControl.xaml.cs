@@ -1685,7 +1685,7 @@ namespace SMT
                 }
             }
 
-            Dictionary<string, int> ZKBBaseFeed = new Dictionary<string, int>();
+            /*Dictionary<string, int> ZKBBaseFeed = new Dictionary<string, int>();
             {
                 foreach (EVEData.ZKillRedisQ.ZKBDataSimple zs in EM.ZKillFeed.KillStream.ToList())
                 {
@@ -1717,7 +1717,7 @@ namespace SMT
                         DynamicMapElements.Add(infoCircle);
                     }
                 }
-            }
+            }*/
         }
 
         private Brush Gallente_FL = new SolidColorBrush(Color.FromArgb(100, 73, 171, 104));

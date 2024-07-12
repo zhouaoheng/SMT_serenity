@@ -2288,7 +2288,7 @@ namespace SMT.EVEData
             ShuddownGameLogWatcher();
             BackgroundThreadShouldTerminate = true;
 
-            ZKillFeed.ShutDown();
+            /*ZKillFeed.ShutDown();*/
         }
 
         /// <summary>

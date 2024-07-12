@@ -806,7 +806,7 @@ namespace SMT
                 RegionLayoutDoc.Title = RegionUC.Region.Name;
             }
 
-            CollectionViewSource.GetDefaultView(ZKBFeed.ItemsSource).Refresh();
+            /*CollectionViewSource.GetDefaultView(ZKBFeed.ItemsSource).Refresh();*/
         }
 
         private void RegionUC_UniverseSystemSelect(object sender, RoutedEventArgs e)

@@ -1302,7 +1302,7 @@ namespace SMT
 
         public void SetDefaults()
         {
-            DefaultRegion = "Molden Heath";
+            DefaultRegion = "卡彻";
             ShowSystemPopup = true;
             MaxIntelSeconds = 120;
             UpcomingSovMinutes = 30;

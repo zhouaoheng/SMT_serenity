@@ -66,7 +66,7 @@
 
         <StackPanel Margin="4,2,1,2"  Orientation="Horizontal" HorizontalAlignment="Left">
             <ComboBox x:Name="RegionSelectCB"  Width="120" Margin="5,0" FontSize="12" SelectionChanged="RegionSelectCB_SelectionChanged" />
-            <ComboBox x:Name="SystemDropDownAC" IsEditable="True" Text="System"  Width="100" FontSize="12" Margin="5,0" SelectionChanged="SystemDropDownAC_SelectionChanged" />
+            <ComboBox x:Name="SystemDropDownAC" IsEditable="True" Text="星系"  Width="100" FontSize="12" Margin="5,0" SelectionChanged="SystemDropDownAC_SelectionChanged" />
             <Label Content="搜索 :" HorizontalAlignment="Center" VerticalAlignment="Center" />
             <dotNetKitControls:AutoCompleteComboBox x:Name="GlobalSystemDropDownAC" Width="200" FontSize="12" Margin="5,0" SelectionChanged="GlobalSystemDropDownAC_SelectionChanged" Foreground="Black" TextSearch.TextPath="Name">
                 <dotNetKitControls:AutoCompleteComboBox.ItemsPanel>
@@ -140,7 +140,7 @@
                     <Grid Canvas.Left="0" Canvas.Top="0" Width="167" HorizontalAlignment="Center">
 
                         <StackPanel Orientation="Vertical" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0">
-                            <Label x:Name="RegionNameLabel" Content="Region" FontSize="16" Grid.Column="1" Margin="0" HorizontalAlignment="Center" VerticalAlignment="Center"  Foreground="#FF767576" FontFamily="Ebrima" />
+                            <Label x:Name="RegionNameLabel" Content="星域" FontSize="16" Grid.Column="1" Margin="0" HorizontalAlignment="Center" VerticalAlignment="Center"  Foreground="#FF767576" FontFamily="Ebrima" />
 
                             <StackPanel Orientation="Horizontal" Margin="0" HorizontalAlignment="Center" VerticalAlignment="Center">
 

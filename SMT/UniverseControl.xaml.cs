@@ -1088,7 +1088,7 @@ namespace SMT
                 }
 
                 // now add the zkill data
-                Dictionary<string, int> ZKBBaseFeed = new Dictionary<string, int>();
+                /*Dictionary<string, int> ZKBBaseFeed = new Dictionary<string, int>();
                 {
                     foreach (EVEData.ZKillRedisQ.ZKBDataSimple zs in EM.ZKillFeed.KillStream.ToList())
                     {
@@ -1129,7 +1129,7 @@ namespace SMT
                         dc.Close();
                         VHZKB.AddChild(zkbVisual, "ZKBData");
                     }
-                }
+                }*/
 
                 if (CapitalRoute != null && CapitalRoute.CurrentRoute.Count > 1)
                 {
