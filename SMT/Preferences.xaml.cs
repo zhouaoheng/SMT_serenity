@@ -81,7 +81,7 @@ namespace SMT
 
         private void zkilltime_ValueChanged(object sender, RoutedPropertyChangedEventArgs<object> e)
         {
-            EveManager.Instance.ZKillFeed.KillExpireTimeMinutes = MapConf.ZkillExpireTimeMinutes;
+            /*EveManager.Instance.ZKillFeed.KillExpireTimeMinutes = MapConf.ZkillExpireTimeMinutes;*/
         }
 
         private void ResetColourData_Click(object sender, RoutedEventArgs e)

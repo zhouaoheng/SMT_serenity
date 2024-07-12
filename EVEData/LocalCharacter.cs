@@ -680,12 +680,16 @@ namespace SMT.EVEData
                 }
 
                 acd = await EveManager.Verify(sst);
+                acd.RefreshToken = sst.RefreshToken;
+                acd.Token = sst.AccessToken;
 
                 if (String.IsNullOrEmpty(acd.Token))
                 {
                     return;
                 }
 
+                // Token失效时间为10分钟
+                acd.ExpiresOn = DateTime.UtcNow.AddSeconds(10 * 60);
                 ESIAccessToken = acd.Token;
                 ESIAccessTokenExpiry = acd.ExpiresOn.ToLocalTime();
                 ESIRefreshToken = acd.RefreshToken;

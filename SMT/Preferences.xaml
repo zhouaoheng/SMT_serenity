@@ -218,23 +218,23 @@
                         </Grid.ColumnDefinitions>
 
                         <StackPanel Grid.Column="0">
-                            <GroupBox Header="General" Margin="4" Height="auto">
+                            <GroupBox Header="常规" Margin="4" Height="auto">
                                 <StackPanel>
-                                    <CheckBox IsChecked="{Binding Path=ShowCoalition}" Margin="0,2">Show SOV as Coalitions</CheckBox>
-                                    <CheckBox IsChecked="{Binding Path=ShowIhubVunerabilities}" Margin="0,2">Show IHub Timer</CheckBox>
+                                    <CheckBox IsChecked="{Binding Path=ShowCoalition}" Margin="0,2">将SOV显示为联盟</CheckBox>
+                                    <CheckBox IsChecked="{Binding Path=ShowIhubVunerabilities}" Margin="0,2">显示 IHub 窗口</CheckBox>
 
                                     <StackPanel Orientation="Horizontal" Margin="0,2">
                                         <xctk:IntegerUpDown Value="{Binding Path=UpcomingSovMinutes}" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0" Width="70" Minimum="5" Maximum="360" Background="Transparent"  Foreground="White" />
-                                        <Label Content="Upcoming Period (Mins)" />
+                                        <Label Content="倒计时 (分钟)" />
                                     </StackPanel>
                                 </StackPanel>
                             </GroupBox>
                         </StackPanel>
 
                         <StackPanel Grid.Column="1">
-                            <GroupBox Header="Beacons" Margin="4" Height="auto">
+                            <GroupBox Header="信标" Margin="4" Height="auto">
                                 <StackPanel>
-                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowCynoBeacons}" Content="Show Cyno Beacons" />
+                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowCynoBeacons}" Content="显示Cyno信标" />
                                     <TextBox Width="271" Height="300" Text="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=Window}, Path=CynoBeaconSystems, Converter={StaticResource stringJoiner}, Mode=TwoWay}"  TextWrapping="Wrap" AcceptsReturn="True" />
                                 </StackPanel>
                             </GroupBox>

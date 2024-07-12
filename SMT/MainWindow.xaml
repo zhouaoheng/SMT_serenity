@@ -134,22 +134,22 @@
                                             <Style TargetType="{x:Type DataGridCell}">
                                                 <Setter Property="BorderThickness" Value="0" />
                                                 <Style.Triggers>
-                                                    <DataTrigger Binding="{Binding Type}" Value="Unknown">
+                                                    <DataTrigger Binding="{Binding Type}" Value="未知">
                                                         <Setter Property="Foreground" Value="Red" />
                                                     </DataTrigger>
-                                                    <DataTrigger Binding="{Binding Type}" Value="Wormhole">
+                                                    <DataTrigger Binding="{Binding Type}" Value="虫洞">
                                                         <Setter Property="Foreground" Value="DeepSkyBlue" />
                                                     </DataTrigger>
-                                                    <DataTrigger Binding="{Binding Type}" Value="Relic Site">
+                                                    <DataTrigger Binding="{Binding Type}" Value="遗迹地点">
                                                         <Setter Property="Foreground" Value="Gold" />
                                                     </DataTrigger>
-                                                    <DataTrigger Binding="{Binding Type}" Value="Data Site">
+                                                    <DataTrigger Binding="{Binding Type}" Value="数据地点">
                                                         <Setter Property="Foreground" Value="LightBlue" />
                                                     </DataTrigger>
-                                                    <DataTrigger Binding="{Binding Type}" Value="Combat Site">
+                                                    <DataTrigger Binding="{Binding Type}" Value="战斗地点">
                                                         <Setter Property="Foreground" Value="Tomato" />
                                                     </DataTrigger>
-                                                    <DataTrigger Binding="{Binding Type}" Value="Gas Site">
+                                                    <DataTrigger Binding="{Binding Type}" Value="气云地点">
                                                         <Setter Property="Foreground" Value="LightGreen" />
                                                     </DataTrigger>
                                                     <Trigger Property="IsSelected" Value="True">
@@ -384,8 +384,8 @@
                                                         </DataGrid.CellStyle>
                                                         <DataGrid.Columns>
                                                             <DataGridTextColumn Header="星系" Binding="{Binding SystemName}" Width="15*" CanUserSort="False" />
-                                                            <DataGridTextColumn Header="Con" Binding="{Binding GateToTake}" Width="8*" CanUserSort="False" />
-                                                            <DataGridTextColumn Header="Jumps" Binding="{Binding ActualSystem.JumpsLastHour}" Width="5*" CanUserSort="False" />
+                                                            <DataGridTextColumn Header="类型" Binding="{Binding GateToTake}" Width="8*" CanUserSort="False" />
+                                                            <DataGridTextColumn Header="跳跃次数" Binding="{Binding ActualSystem.JumpsLastHour}" Width="5*" CanUserSort="False" />
                                                             <DataGridTextColumn Header="SK" Binding="{Binding ActualSystem.ShipKillsLastHour}" Width="5*" CanUserSort="False" />
                                                             <DataGridTextColumn Header="PK" Binding="{Binding ActualSystem.PodKillsLastHour}" Width="5*" CanUserSort="False" />
                                                             <DataGridTextColumn Header="Trig" Binding="{Binding ActualSystem.TrigInvasionStatus}" Width="5*" CanUserSort="False" />

@@ -24,6 +24,7 @@ namespace SMT.EVEData
             CosmicSignatureTags.Add("Cosmic Signature");
             CosmicSignatureTags.Add("Kosmische Signatur");
             CosmicSignatureTags.Add("Signature cosmique");
+            CosmicSignatureTags.Add("空间信号");
         }
 
         /// <summary>
