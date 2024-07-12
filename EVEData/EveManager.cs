@@ -462,7 +462,7 @@ namespace SMT.EVEData
             Regions.Add(new MapRegion("柯尔斯", "10000012", "Angel Cartel", 1350, 1120));
             Regions.Add(new MapRegion("德克廉", "10000035", string.Empty, 820, 150));
             Regions.Add(new MapRegion("绝地之域", "10000060", "Blood Raider", 230, 1210));
-            Regions.Add(new MapRegion("绝地之域", "10000001", "Ammatar", 1300, 970));
+            Regions.Add(new MapRegion("德里克", "10000001", "Ammatar", 1300, 970));
             Regions.Add(new MapRegion("底特里德", "10000005", string.Empty, 1760, 1400));
             Regions.Add(new MapRegion("破碎", "10000036", "Amarr", 990, 1060));
             Regions.Add(new MapRegion("多美", "10000043", "Amarr", 810, 960));
@@ -821,23 +821,23 @@ namespace SMT.EVEData
 
                 // TEMP : Manually add 
                 // 临时：手动添加
-                constMap["20010000"] = "踱罪彷徨之海";
-
+                // constMap["20010000"] = "踱罪彷徨之海";
+                foreach (var x in constMap.Keys)
+                {
+                    Console.Write(x);
+                    Console.WriteLine(constMap[x]);
+                }
                 foreach (System s in Systems)
                 {
-                    // foreach (var x in constMap.Keys)
+
+                    // if (s.ConstellationID == null)
                     // {
-                    //     Console.Write(x);
-                    //     Console.WriteLine(constMap[x]);
+                    //     continue;
                     // }
-                    if (s.ConstellationID == null)
-                    {
-                        continue;
-                    }
-                    else
-                    {
+                    // else
+                    // {
                         s.ConstellationName = constMap[s.ConstellationID];
-                    }
+                    // }
 
                 }
             }
