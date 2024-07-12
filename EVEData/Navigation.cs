@@ -180,13 +180,13 @@ namespace SMT.EVEData
                     }
 
                     // cant jump into Pochven systems
-                    if (sysb.Region == "Pochven")
+                    if (sysb.Region == "波赫文")
                     {
                         continue;
                     }
 
                     // cant jump into Zarzakh
-                    if (sysb.Name == "Zarzakh")
+                    if (sysb.Name == "赞颂之域")
                     {
                         continue;
                     }
@@ -221,7 +221,7 @@ namespace SMT.EVEData
                 {
                     Name = sys.Name,
                     HighSec = sys.TrueSec > 0.45,
-                    Pochven = sys.Region == "Pochven",
+                    Pochven = sys.Region == "波赫文",
                     Connections = new List<string>(),
                     JumpableSystems = new List<JumpLink>(),
                     Cost = 1,
@@ -642,17 +642,17 @@ namespace SMT.EVEData
                 string s = SystemName;
                 if (GateToTake == GateType.Ansiblex)
                 {
-                    s += " (Ansiblex)";
+                    s += " (安塞波)";
                 }
 
                 if (GateToTake == GateType.Thera)
                 {
-                    s += " (Thera)";
+                    s += " (希拉)";
                 }
 
                 if (GateToTake == GateType.Zarzakh)
                 {
-                    s += " (Zarzakh)";
+                    s += " (赞颂之域)";
                 }
 
                 if (GateToTake == GateType.JumpTo && LY > 0.0m)

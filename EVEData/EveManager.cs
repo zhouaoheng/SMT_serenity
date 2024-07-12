@@ -483,8 +483,8 @@ namespace SMT.EVEData
             Regions.Add(new MapRegion("因斯姆尔", "10000009", string.Empty, 1880, 1160));
             Regions.Add(new MapRegion("卡多尔", "10000052", "Amarr", 660, 880));
             Regions.Add(new MapRegion("卡勒瓦拉阔地", "10000034", string.Empty, 1490, 370));
-            Regions.Add(new MapRegion("卡尼迪首星", "10000049", "Khanid", 470, 1140));
-            Regions.Add(new MapRegion("柯埃佐首星", "10000065", "Amarr", 500, 1010));
+            Regions.Add(new MapRegion("卡尼迪", "10000049", "Khanid", 470, 1140));
+            Regions.Add(new MapRegion("柯埃佐", "10000065", "Amarr", 500, 1010));
             Regions.Add(new MapRegion("长征", "10000016", "Caldari", 1100, 460));
             Regions.Add(new MapRegion("糟粕之域", "10000013", string.Empty, 1770, 520));
             Regions.Add(new MapRegion("美特伯里斯", "10000042", "Minmatar", 1330, 730));
@@ -506,7 +506,7 @@ namespace SMT.EVEData
             Regions.Add(new MapRegion("螺旋之域", "10000018", string.Empty, 1720, 700));
             Regions.Add(new MapRegion("混浊", "10000022", "Sansha", 900, 1350));
             Regions.Add(new MapRegion("辛迪加", "10000041", "Syndicate", 360, 500));
-            Regions.Add(new MapRegion("塔什蒙贡首星", "10000020", "Amarr", 730, 1090));
+            Regions.Add(new MapRegion("塔什蒙贡", "10000020", "Amarr", 730, 1090));
             Regions.Add(new MapRegion("特纳", "10000045", string.Empty, 1400, 140));
             Regions.Add(new MapRegion("特里菲斯", "10000061", string.Empty, 1430, 1350));
             Regions.Add(new MapRegion("特布特", "10000010", string.Empty, 1070, 290));
@@ -514,6 +514,8 @@ namespace SMT.EVEData
             Regions.Add(new MapRegion("维纳尔", "10000015", "Guristas", 1140, 210));
             Regions.Add(new MapRegion("维格温铎", "10000068", "Gallente", 490, 660));
             Regions.Add(new MapRegion("邪恶湾流", "10000006", string.Empty, 1580, 1230));
+            Regions.Add(new MapRegion("波赫文", "10000008", "Triglavian", 50, 50));
+            
             Regions.Add(new MapRegion("战争地带 - 艾玛 vs 米玛塔尔", "", "Faction War", 50, 120, true));
             Regions.Add(new MapRegion("战争地带 - 加达里 vs 盖伦特", "", "Faction War", 50, 190, true));
             Regions.Add(new MapRegion("赞颂之域", "10001000", string.Empty, 50, 260));
@@ -1123,7 +1125,7 @@ namespace SMT.EVEData
                             rr.HasHighSecSystems = true;
                         }
 
-                        if (ms.ActualSystem.TrueSec is > 0.0 and < 0.45)
+                        if (ms.ActualSystem.TrueSec > 0.0 && ms.ActualSystem.TrueSec < 0.45)
                         {
                             rr.HasLowSecSystems = true;
                         }
@@ -1136,8 +1138,7 @@ namespace SMT.EVEData
 
                     if (rr.MetaRegion)
                     {
-                            ms.OutOfRegion = !ms.ActualSystem.FactionWarSystem;
-                       
+                        ms.OutOfRegion = !ms.ActualSystem.FactionWarSystem;
                     }
                 }
             }
@@ -1602,7 +1603,7 @@ namespace SMT.EVEData
 
         /// <summary>
         /// Get a System object from the name, note : for regions which have other region systems in it wont return
-        /// 获取系统对象: 对于其中有其他区域系统的区域不会返回
+        /// 获取星系对象: 对于其中有其他区域系统的区域不会返回
         /// them.. eg TR07-s is on the esoteria map, but the object corresponding to the feythabolis map will be returned
         /// 例如 TR07-s 在埃索特里亚地图上，但将返回对应于费塞博利斯地图的对象
         /// </summary>
@@ -2644,7 +2645,7 @@ namespace SMT.EVEData
 
             ActiveSovCampaigns = new List<SOVCampaign>();
 
-            InitZKillFeed();
+            /*InitZKillFeed();*/
 
             // Removed as the api site is down
             //UpdateCoalitionInfo();

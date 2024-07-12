@@ -11,10 +11,10 @@ using Newtonsoft.Json.Converters;
 namespace StructureHunter
 {
     public enum RegionName
-    { AR00001, AR00002, AR00003, Aridia, BR00004, BR00005, BR00006, BR00007, BR00008, BlackRise, Branch, CR00009, CR00010, CR00011, CR00012, CR00013, CR00014, CR00015, Cache, Catch, CloudRing, CobaltEdge, Curse, DR00016, DR00017, DR00018, DR00019, DR00020, DR00021, DR00022, DR00023, Deklein, Delve, Derelik, Detorid, Devoid, Domain, ER00024, ER00025, ER00026, ER00027, ER00028, ER00029, Esoteria, Essence, EtheriumReach, Everyshore, FR00030, Fade, Feythabolis, Fountain, Geminate, Genesis, GreatWildlands, Heimatar, Immensea, Impass, Insmother, Kador, Khanid, KorAzor, Lonetrek, Malpais, Metropolis, MoldenHeath, Oasa, Omist, OuterPassage, OuterRing, ParagonSoul, PeriodBasis, PerrigenFalls, Placid, Providence, PureBlind, Querious, ScaldingPass, SinqLaison, Solitude, Stain, Syndicate, TashMurkon, Tenal, Tenerifis, TheBleakLands, TheCitadel, TheForge, TheKalevalaExpanse, TheSpire, Tribute, ValeOfTheSilent, Venal, VergeVendor, WickedCreek };
+    { AR00001, AR00002, AR00003, 艾里迪亚, BR00004, BR00005, BR00006, BR00007, BR00008, 暗涌之域, 血脉, CR00009, CR00010, CR00011, CR00012, CR00013, CR00014, CR00015, 地窖, 卡彻, 云环, 钴蓝边域, 柯尔斯, DR00016, DR00017, DR00018, DR00019, DR00020, DR00021, DR00022, DR00023, 德克廉, 绝地之域, 德里克, 底特里德, 破碎, 多美, ER00024, ER00025, ER00026, ER00027, ER00028, ER00029, 埃索特亚, 精华之域, 琉蓝之穹, 埃维希尔, FR00030, 斐德, 非塔波利斯, 源泉之域, 对舞之域, 吉勒西斯, 大荒野, 西玛特尔, 伊梅瑟亚, 绝径, 因斯姆尔, 卡多尔, 卡尼迪, 柯埃佐, 长征, 糟粕之域, 美特伯里斯, 摩登赫斯, 欧莎, 欧米斯特, 域外走廊, 外环, 摄魂之域, 贝斯, 佩利根弗, 宁静之域, 普罗维登斯, 黑渊, 逑瑞斯, 灼热之径, 金纳泽, 孤独之域, 混浊, 辛迪加, 塔什蒙贡, 特纳, 特里菲斯, 幽暗之域, 赛塔德洱, 伏尔戈, 卡勒瓦拉阔地, 螺旋之域, 特布特, 静寂谷, 维纳尔, 维格温铎, 邪恶湾流 };
 
     public enum TypeName
-    { Astrahus, Athanor, Azbel, Fortizar, Keepstar, Raitaru, Sotiyo, Tatara };
+    { 空堡, 阿塔诺, 阿兹贝尔, 铁壁, 星城, 莱塔卢, 索迪约, 塔塔拉 };
 
     public static class Serialize
     {
@@ -109,8 +109,8 @@ namespace StructureHunter
                 case "A-R00003":
                     return RegionName.AR00003;
 
-                case "Aridia":
-                    return RegionName.Aridia;
+                case "艾里迪亚":
+                    return RegionName.艾里迪亚;
 
                 case "B-R00004":
                     return RegionName.BR00004;
@@ -127,11 +127,11 @@ namespace StructureHunter
                 case "B-R00008":
                     return RegionName.BR00008;
 
-                case "Black Rise":
-                    return RegionName.BlackRise;
+                case "暗涌之域":
+                    return RegionName.暗涌之域;
 
-                case "Branch":
-                    return RegionName.Branch;
+                case "血脉":
+                    return RegionName.血脉;
 
                 case "C-R00009":
                     return RegionName.CR00009;
@@ -154,20 +154,20 @@ namespace StructureHunter
                 case "C-R00015":
                     return RegionName.CR00015;
 
-                case "Cache":
-                    return RegionName.Cache;
+                case "地窖":
+                    return RegionName.地窖;
 
-                case "Catch":
-                    return RegionName.Catch;
+                case "卡彻":
+                    return RegionName.卡彻;
 
-                case "Cloud Ring":
-                    return RegionName.CloudRing;
+                case "云环":
+                    return RegionName.云环;
 
-                case "Cobalt Edge":
-                    return RegionName.CobaltEdge;
+                case "钴蓝边域":
+                    return RegionName.钴蓝边域;
 
-                case "Curse":
-                    return RegionName.Curse;
+                case "柯尔斯":
+                    return RegionName.柯尔斯;
 
                 case "D-R00016":
                     return RegionName.DR00016;
@@ -193,23 +193,23 @@ namespace StructureHunter
                 case "D-R00023":
                     return RegionName.DR00023;
 
-                case "Deklein":
-                    return RegionName.Deklein;
+                case "德克廉":
+                    return RegionName.德克廉;
 
-                case "Delve":
-                    return RegionName.Delve;
+                case "绝地之域":
+                    return RegionName.绝地之域;
 
-                case "Derelik":
-                    return RegionName.Derelik;
+                case "德里克":
+                    return RegionName.德里克;
 
-                case "Detorid":
-                    return RegionName.Detorid;
+                case "底特里德":
+                    return RegionName.底特里德;
 
-                case "Devoid":
-                    return RegionName.Devoid;
+                case "破碎":
+                    return RegionName.破碎;
 
-                case "Domain":
-                    return RegionName.Domain;
+                case "多美":
+                    return RegionName.多美;
 
                 case "E-R00024":
                     return RegionName.ER00024;
@@ -229,158 +229,158 @@ namespace StructureHunter
                 case "E-R00029":
                     return RegionName.ER00029;
 
-                case "Esoteria":
-                    return RegionName.Esoteria;
+                case "埃索特亚":
+                    return RegionName.埃索特亚;
 
-                case "Essence":
-                    return RegionName.Essence;
+                case "精华之域":
+                    return RegionName.精华之域;
 
-                case "Etherium Reach":
-                    return RegionName.EtheriumReach;
+                case "琉蓝之穹":
+                    return RegionName.琉蓝之穹;
 
-                case "Everyshore":
-                    return RegionName.Everyshore;
+                case "埃维希尔":
+                    return RegionName.埃维希尔;
 
                 case "F-R00030":
                     return RegionName.FR00030;
 
-                case "Fade":
-                    return RegionName.Fade;
+                case "斐德":
+                    return RegionName.斐德;
 
-                case "Feythabolis":
-                    return RegionName.Feythabolis;
+                case "非塔波利斯":
+                    return RegionName.非塔波利斯;
 
-                case "Fountain":
-                    return RegionName.Fountain;
+                case "源泉之域":
+                    return RegionName.源泉之域;
 
-                case "Geminate":
-                    return RegionName.Geminate;
+                case "对舞之域":
+                    return RegionName.对舞之域;
 
-                case "Genesis":
-                    return RegionName.Genesis;
+                case "吉勒西斯":
+                    return RegionName.吉勒西斯;
 
-                case "Great Wildlands":
-                    return RegionName.GreatWildlands;
+                case "大荒野":
+                    return RegionName.大荒野;
 
-                case "Heimatar":
-                    return RegionName.Heimatar;
+                case "西玛特尔":
+                    return RegionName.西玛特尔;
 
-                case "Immensea":
-                    return RegionName.Immensea;
+                case "伊梅瑟亚":
+                    return RegionName.伊梅瑟亚;
 
-                case "Impass":
-                    return RegionName.Impass;
+                case "绝径":
+                    return RegionName.绝径;
 
-                case "Insmother":
-                    return RegionName.Insmother;
+                case "因斯姆尔":
+                    return RegionName.因斯姆尔;
 
-                case "Kador":
-                    return RegionName.Kador;
+                case "卡多尔":
+                    return RegionName.卡多尔;
 
-                case "Khanid":
-                    return RegionName.Khanid;
+                case "卡尼迪":
+                    return RegionName.卡尼迪;
 
-                case "Kor-Azor":
-                    return RegionName.KorAzor;
+                case "柯埃佐":
+                    return RegionName.柯埃佐;
 
-                case "Lonetrek":
-                    return RegionName.Lonetrek;
+                case "长征":
+                    return RegionName.长征;
 
-                case "Malpais":
-                    return RegionName.Malpais;
+                case "糟粕之域":
+                    return RegionName.糟粕之域;
 
-                case "Metropolis":
-                    return RegionName.Metropolis;
+                case "美特伯里斯":
+                    return RegionName.美特伯里斯;
 
-                case "Molden Heath":
-                    return RegionName.MoldenHeath;
+                case "摩登赫斯":
+                    return RegionName.摩登赫斯;
 
-                case "Oasa":
-                    return RegionName.Oasa;
+                case "欧莎":
+                    return RegionName.欧莎;
 
-                case "Omist":
-                    return RegionName.Omist;
+                case "欧米斯特":
+                    return RegionName.欧米斯特;
 
-                case "Outer Passage":
-                    return RegionName.OuterPassage;
+                case "域外走廊":
+                    return RegionName.域外走廊;
 
-                case "Outer Ring":
-                    return RegionName.OuterRing;
+                case "外环":
+                    return RegionName.外环;
 
-                case "Paragon Soul":
-                    return RegionName.ParagonSoul;
+                case "摄魂之域":
+                    return RegionName.摄魂之域;
 
-                case "Period Basis":
-                    return RegionName.PeriodBasis;
+                case "贝斯":
+                    return RegionName.贝斯;
 
-                case "Perrigen Falls":
-                    return RegionName.PerrigenFalls;
+                case "佩利根弗":
+                    return RegionName.佩利根弗;
 
-                case "Placid":
-                    return RegionName.Placid;
+                case "宁静之域":
+                    return RegionName.宁静之域;
 
-                case "Providence":
-                    return RegionName.Providence;
+                case "普罗维登斯":
+                    return RegionName.普罗维登斯;
 
-                case "Pure Blind":
-                    return RegionName.PureBlind;
+                case "黑渊":
+                    return RegionName.黑渊;
 
-                case "Querious":
-                    return RegionName.Querious;
+                case "逑瑞斯":
+                    return RegionName.逑瑞斯;
 
-                case "Scalding Pass":
-                    return RegionName.ScaldingPass;
+                case "灼热之径":
+                    return RegionName.灼热之径;
 
-                case "Sinq Laison":
-                    return RegionName.SinqLaison;
+                case "金纳泽":
+                    return RegionName.金纳泽;
 
-                case "Solitude":
-                    return RegionName.Solitude;
+                case "孤独之域":
+                    return RegionName.孤独之域;
 
-                case "Stain":
-                    return RegionName.Stain;
+                case "混浊":
+                    return RegionName.混浊;
 
-                case "Syndicate":
-                    return RegionName.Syndicate;
+                case "辛迪加":
+                    return RegionName.辛迪加;
 
-                case "Tash-Murkon":
-                    return RegionName.TashMurkon;
+                case "塔什蒙贡":
+                    return RegionName.塔什蒙贡;
 
-                case "Tenal":
-                    return RegionName.Tenal;
+                case "特纳":
+                    return RegionName.特纳;
 
-                case "Tenerifis":
-                    return RegionName.Tenerifis;
+                case "特里菲斯":
+                    return RegionName.特里菲斯;
 
-                case "The Bleak Lands":
-                    return RegionName.TheBleakLands;
+                case "幽暗之域":
+                    return RegionName.幽暗之域;
 
-                case "The Citadel":
-                    return RegionName.TheCitadel;
+                case "赛塔德洱":
+                    return RegionName.赛塔德洱;
 
-                case "The Forge":
-                    return RegionName.TheForge;
+                case "伏尔戈":
+                    return RegionName.伏尔戈;
 
-                case "The Kalevala Expanse":
-                    return RegionName.TheKalevalaExpanse;
+                case "卡勒瓦拉阔地":
+                    return RegionName.卡勒瓦拉阔地;
 
-                case "The Spire":
-                    return RegionName.TheSpire;
+                case "螺旋之域":
+                    return RegionName.螺旋之域;
 
-                case "Tribute":
-                    return RegionName.Tribute;
+                case "特布特":
+                    return RegionName.特布特;
 
-                case "Vale of the Silent":
-                    return RegionName.ValeOfTheSilent;
+                case "静寂谷":
+                    return RegionName.静寂谷;
 
-                case "Venal":
-                    return RegionName.Venal;
+                case "维纳尔":
+                    return RegionName.维纳尔;
 
-                case "Verge Vendor":
-                    return RegionName.VergeVendor;
+                case "维格温铎":
+                    return RegionName.维格温铎;
 
-                case "Wicked Creek":
-                    return RegionName.WickedCreek;
+                case "邪恶湾流":
+                    return RegionName.邪恶湾流;
             }
             throw new Exception("Cannot unmarshal type RegionName");
         }
@@ -407,8 +407,8 @@ namespace StructureHunter
                     serializer.Serialize(writer, "A-R00003");
                     return;
 
-                case RegionName.Aridia:
-                    serializer.Serialize(writer, "Aridia");
+                case RegionName.艾里迪亚:
+                    serializer.Serialize(writer, "艾里迪亚");
                     return;
 
                 case RegionName.BR00004:
@@ -431,12 +431,12 @@ namespace StructureHunter
                     serializer.Serialize(writer, "B-R00008");
                     return;
 
-                case RegionName.BlackRise:
-                    serializer.Serialize(writer, "Black Rise");
+                case RegionName.暗涌之域:
+                    serializer.Serialize(writer, "暗涌之域");
                     return;
 
-                case RegionName.Branch:
-                    serializer.Serialize(writer, "Branch");
+                case RegionName.血脉:
+                    serializer.Serialize(writer, "血脉");
                     return;
 
                 case RegionName.CR00009:
@@ -467,24 +467,24 @@ namespace StructureHunter
                     serializer.Serialize(writer, "C-R00015");
                     return;
 
-                case RegionName.Cache:
-                    serializer.Serialize(writer, "Cache");
+                case RegionName.地窖:
+                    serializer.Serialize(writer, "地窖");
                     return;
 
-                case RegionName.Catch:
-                    serializer.Serialize(writer, "Catch");
+                case RegionName.卡彻:
+                    serializer.Serialize(writer, "卡彻");
                     return;
 
-                case RegionName.CloudRing:
-                    serializer.Serialize(writer, "Cloud Ring");
+                case RegionName.云环:
+                    serializer.Serialize(writer, "云环");
                     return;
 
-                case RegionName.CobaltEdge:
-                    serializer.Serialize(writer, "Cobalt Edge");
+                case RegionName.钴蓝边域:
+                    serializer.Serialize(writer, "钴蓝边域");
                     return;
 
-                case RegionName.Curse:
-                    serializer.Serialize(writer, "Curse");
+                case RegionName.柯尔斯:
+                    serializer.Serialize(writer, "柯尔斯");
                     return;
 
                 case RegionName.DR00016:
@@ -519,28 +519,28 @@ namespace StructureHunter
                     serializer.Serialize(writer, "D-R00023");
                     return;
 
-                case RegionName.Deklein:
-                    serializer.Serialize(writer, "Deklein");
+                case RegionName.德克廉:
+                    serializer.Serialize(writer, "德克廉");
                     return;
 
-                case RegionName.Delve:
-                    serializer.Serialize(writer, "Delve");
+                case RegionName.绝地之域:
+                    serializer.Serialize(writer, "绝地之域");
                     return;
 
-                case RegionName.Derelik:
-                    serializer.Serialize(writer, "Derelik");
+                case RegionName.德里克:
+                    serializer.Serialize(writer, "德里克");
                     return;
 
-                case RegionName.Detorid:
-                    serializer.Serialize(writer, "Detorid");
+                case RegionName.底特里德:
+                    serializer.Serialize(writer, "底特里德");
                     return;
 
-                case RegionName.Devoid:
-                    serializer.Serialize(writer, "Devoid");
+                case RegionName.破碎:
+                    serializer.Serialize(writer, "破碎");
                     return;
 
-                case RegionName.Domain:
-                    serializer.Serialize(writer, "Domain");
+                case RegionName.多美:
+                    serializer.Serialize(writer, "多美");
                     return;
 
                 case RegionName.ER00024:
@@ -567,208 +567,208 @@ namespace StructureHunter
                     serializer.Serialize(writer, "E-R00029");
                     return;
 
-                case RegionName.Esoteria:
-                    serializer.Serialize(writer, "Esoteria");
+                case RegionName.埃索特亚:
+                    serializer.Serialize(writer, "埃索特亚");
                     return;
 
-                case RegionName.Essence:
-                    serializer.Serialize(writer, "Essence");
+                case RegionName.精华之域:
+                    serializer.Serialize(writer, "精华之域");
                     return;
 
-                case RegionName.EtheriumReach:
-                    serializer.Serialize(writer, "Etherium Reach");
+                case RegionName.琉蓝之穹:
+                    serializer.Serialize(writer, "琉蓝之穹");
                     return;
 
-                case RegionName.Everyshore:
-                    serializer.Serialize(writer, "Everyshore");
+                case RegionName.埃维希尔:
+                    serializer.Serialize(writer, "埃维希尔");
                     return;
 
                 case RegionName.FR00030:
                     serializer.Serialize(writer, "F-R00030");
                     return;
 
-                case RegionName.Fade:
-                    serializer.Serialize(writer, "Fade");
+                case RegionName.斐德:
+                    serializer.Serialize(writer, "斐德");
                     return;
 
-                case RegionName.Feythabolis:
-                    serializer.Serialize(writer, "Feythabolis");
+                case RegionName.非塔波利斯:
+                    serializer.Serialize(writer, "非塔波利斯");
                     return;
 
-                case RegionName.Fountain:
-                    serializer.Serialize(writer, "Fountain");
+                case RegionName.源泉之域:
+                    serializer.Serialize(writer, "源泉之域");
                     return;
 
-                case RegionName.Geminate:
-                    serializer.Serialize(writer, "Geminate");
+                case RegionName.对舞之域:
+                    serializer.Serialize(writer, "对舞之域");
                     return;
 
-                case RegionName.Genesis:
-                    serializer.Serialize(writer, "Genesis");
+                case RegionName.吉勒西斯:
+                    serializer.Serialize(writer, "吉勒西斯");
                     return;
 
-                case RegionName.GreatWildlands:
-                    serializer.Serialize(writer, "Great Wildlands");
+                case RegionName.大荒野:
+                    serializer.Serialize(writer, "大荒野");
                     return;
 
-                case RegionName.Heimatar:
-                    serializer.Serialize(writer, "Heimatar");
+                case RegionName.西玛特尔:
+                    serializer.Serialize(writer, "西玛特尔");
                     return;
 
-                case RegionName.Immensea:
-                    serializer.Serialize(writer, "Immensea");
+                case RegionName.伊梅瑟亚:
+                    serializer.Serialize(writer, "伊梅瑟亚");
                     return;
 
-                case RegionName.Impass:
-                    serializer.Serialize(writer, "Impass");
+                case RegionName.绝径:
+                    serializer.Serialize(writer, "绝径");
                     return;
 
-                case RegionName.Insmother:
-                    serializer.Serialize(writer, "Insmother");
+                case RegionName.因斯姆尔:
+                    serializer.Serialize(writer, "因斯姆尔");
                     return;
 
-                case RegionName.Kador:
-                    serializer.Serialize(writer, "Kador");
+                case RegionName.卡多尔:
+                    serializer.Serialize(writer, "卡多尔");
                     return;
 
-                case RegionName.Khanid:
-                    serializer.Serialize(writer, "Khanid");
+                case RegionName.卡尼迪:
+                    serializer.Serialize(writer, "卡尼迪");
                     return;
 
-                case RegionName.KorAzor:
-                    serializer.Serialize(writer, "Kor-Azor");
+                case RegionName.柯埃佐:
+                    serializer.Serialize(writer, "柯埃佐");
                     return;
 
-                case RegionName.Lonetrek:
-                    serializer.Serialize(writer, "Lonetrek");
+                case RegionName.长征:
+                    serializer.Serialize(writer, "长征");
                     return;
 
-                case RegionName.Malpais:
-                    serializer.Serialize(writer, "Malpais");
+                case RegionName.糟粕之域:
+                    serializer.Serialize(writer, "糟粕之域");
                     return;
 
-                case RegionName.Metropolis:
-                    serializer.Serialize(writer, "Metropolis");
+                case RegionName.美特伯里斯:
+                    serializer.Serialize(writer, "美特伯里斯");
                     return;
 
-                case RegionName.MoldenHeath:
-                    serializer.Serialize(writer, "Molden Heath");
+                case RegionName.摩登赫斯:
+                    serializer.Serialize(writer, "摩登赫斯");
                     return;
 
-                case RegionName.Oasa:
-                    serializer.Serialize(writer, "Oasa");
+                case RegionName.欧莎:
+                    serializer.Serialize(writer, "欧莎");
                     return;
 
-                case RegionName.Omist:
-                    serializer.Serialize(writer, "Omist");
+                case RegionName.欧米斯特:
+                    serializer.Serialize(writer, "欧米斯特");
                     return;
 
-                case RegionName.OuterPassage:
-                    serializer.Serialize(writer, "Outer Passage");
+                case RegionName.域外走廊:
+                    serializer.Serialize(writer, "域外走廊");
                     return;
 
-                case RegionName.OuterRing:
-                    serializer.Serialize(writer, "Outer Ring");
+                case RegionName.外环:
+                    serializer.Serialize(writer, "外环");
                     return;
 
-                case RegionName.ParagonSoul:
-                    serializer.Serialize(writer, "Paragon Soul");
+                case RegionName.摄魂之域:
+                    serializer.Serialize(writer, "摄魂之域");
                     return;
 
-                case RegionName.PeriodBasis:
-                    serializer.Serialize(writer, "Period Basis");
+                case RegionName.贝斯:
+                    serializer.Serialize(writer, "贝斯");
                     return;
 
-                case RegionName.PerrigenFalls:
-                    serializer.Serialize(writer, "Perrigen Falls");
+                case RegionName.佩利根弗:
+                    serializer.Serialize(writer, "佩利根弗");
                     return;
 
-                case RegionName.Placid:
-                    serializer.Serialize(writer, "Placid");
+                case RegionName.宁静之域:
+                    serializer.Serialize(writer, "宁静之域");
                     return;
 
-                case RegionName.Providence:
-                    serializer.Serialize(writer, "Providence");
+                case RegionName.普罗维登斯:
+                    serializer.Serialize(writer, "普罗维登斯");
                     return;
 
-                case RegionName.PureBlind:
-                    serializer.Serialize(writer, "Pure Blind");
+                case RegionName.黑渊:
+                    serializer.Serialize(writer, "黑渊");
                     return;
 
-                case RegionName.Querious:
-                    serializer.Serialize(writer, "Querious");
+                case RegionName.逑瑞斯:
+                    serializer.Serialize(writer, "逑瑞斯");
                     return;
 
-                case RegionName.ScaldingPass:
-                    serializer.Serialize(writer, "Scalding Pass");
+                case RegionName.灼热之径:
+                    serializer.Serialize(writer, "灼热之径");
                     return;
 
-                case RegionName.SinqLaison:
-                    serializer.Serialize(writer, "Sinq Laison");
+                case RegionName.金纳泽:
+                    serializer.Serialize(writer, "金纳泽");
                     return;
 
-                case RegionName.Solitude:
-                    serializer.Serialize(writer, "Solitude");
+                case RegionName.孤独之域:
+                    serializer.Serialize(writer, "孤独之域");
                     return;
 
-                case RegionName.Stain:
-                    serializer.Serialize(writer, "Stain");
+                case RegionName.混浊:
+                    serializer.Serialize(writer, "混浊");
                     return;
 
-                case RegionName.Syndicate:
-                    serializer.Serialize(writer, "Syndicate");
+                case RegionName.辛迪加:
+                    serializer.Serialize(writer, "辛迪加");
                     return;
 
-                case RegionName.TashMurkon:
-                    serializer.Serialize(writer, "Tash-Murkon");
+                case RegionName.塔什蒙贡:
+                    serializer.Serialize(writer, "塔什蒙贡");
                     return;
 
-                case RegionName.Tenal:
-                    serializer.Serialize(writer, "Tenal");
+                case RegionName.特纳:
+                    serializer.Serialize(writer, "特纳");
                     return;
 
-                case RegionName.Tenerifis:
-                    serializer.Serialize(writer, "Tenerifis");
+                case RegionName.特里菲斯:
+                    serializer.Serialize(writer, "特里菲斯");
                     return;
 
-                case RegionName.TheBleakLands:
-                    serializer.Serialize(writer, "The Bleak Lands");
+                case RegionName.幽暗之域:
+                    serializer.Serialize(writer, "幽暗之域");
                     return;
 
-                case RegionName.TheCitadel:
-                    serializer.Serialize(writer, "The Citadel");
+                case RegionName.赛塔德洱:
+                    serializer.Serialize(writer, "赛塔德洱");
                     return;
 
-                case RegionName.TheForge:
-                    serializer.Serialize(writer, "The Forge");
+                case RegionName.伏尔戈:
+                    serializer.Serialize(writer, "伏尔戈");
                     return;
 
-                case RegionName.TheKalevalaExpanse:
-                    serializer.Serialize(writer, "The Kalevala Expanse");
+                case RegionName.卡勒瓦拉阔地:
+                    serializer.Serialize(writer, "卡勒瓦拉阔地");
                     return;
 
-                case RegionName.TheSpire:
-                    serializer.Serialize(writer, "The Spire");
+                case RegionName.螺旋之域:
+                    serializer.Serialize(writer, "螺旋之域");
                     return;
 
-                case RegionName.Tribute:
-                    serializer.Serialize(writer, "Tribute");
+                case RegionName.特布特:
+                    serializer.Serialize(writer, "特布特");
                     return;
 
-                case RegionName.ValeOfTheSilent:
-                    serializer.Serialize(writer, "Vale of the Silent");
+                case RegionName.静寂谷:
+                    serializer.Serialize(writer, "静寂谷");
                     return;
 
-                case RegionName.Venal:
-                    serializer.Serialize(writer, "Venal");
+                case RegionName.维纳尔:
+                    serializer.Serialize(writer, "维纳尔");
                     return;
 
-                case RegionName.VergeVendor:
-                    serializer.Serialize(writer, "Verge Vendor");
+                case RegionName.维格温铎:
+                    serializer.Serialize(writer, "维格温铎");
                     return;
 
-                case RegionName.WickedCreek:
-                    serializer.Serialize(writer, "Wicked Creek");
+                case RegionName.邪恶湾流:
+                    serializer.Serialize(writer, "邪恶湾流");
                     return;
             }
             throw new Exception("Cannot marshal type RegionName");
@@ -787,29 +787,29 @@ namespace StructureHunter
             var value = serializer.Deserialize<string>(reader);
             switch (value)
             {
-                case "Astrahus":
-                    return TypeName.Astrahus;
+                case "空堡":
+                    return TypeName.空堡;
 
-                case "Athanor":
-                    return TypeName.Athanor;
+                case "阿塔诺":
+                    return TypeName.阿塔诺;
 
-                case "Azbel":
-                    return TypeName.Azbel;
+                case "阿兹贝尔":
+                    return TypeName.阿兹贝尔;
 
-                case "Fortizar":
-                    return TypeName.Fortizar;
+                case "铁壁":
+                    return TypeName.铁壁;
 
-                case "Keepstar":
-                    return TypeName.Keepstar;
+                case "星城":
+                    return TypeName.星城;
 
-                case "Raitaru":
-                    return TypeName.Raitaru;
+                case "莱塔卢":
+                    return TypeName.莱塔卢;
 
-                case "Sotiyo":
-                    return TypeName.Sotiyo;
+                case "索迪约":
+                    return TypeName.索迪约;
 
-                case "Tatara":
-                    return TypeName.Tatara;
+                case "塔塔拉":
+                    return TypeName.塔塔拉;
             }
             throw new Exception("Cannot unmarshal type TypeName");
         }
@@ -824,36 +824,36 @@ namespace StructureHunter
             var value = (TypeName)untypedValue;
             switch (value)
             {
-                case TypeName.Astrahus:
-                    serializer.Serialize(writer, "Astrahus");
+                case TypeName.空堡:
+                    serializer.Serialize(writer, "空堡");
                     return;
 
-                case TypeName.Athanor:
-                    serializer.Serialize(writer, "Athanor");
+                case TypeName.阿塔诺:
+                    serializer.Serialize(writer, "阿塔诺");
                     return;
 
-                case TypeName.Azbel:
-                    serializer.Serialize(writer, "Azbel");
+                case TypeName.阿兹贝尔:
+                    serializer.Serialize(writer, "阿兹贝尔");
                     return;
 
-                case TypeName.Fortizar:
-                    serializer.Serialize(writer, "Fortizar");
+                case TypeName.铁壁:
+                    serializer.Serialize(writer, "铁壁");
                     return;
 
-                case TypeName.Keepstar:
-                    serializer.Serialize(writer, "Keepstar");
+                case TypeName.星城:
+                    serializer.Serialize(writer, "星城");
                     return;
 
-                case TypeName.Raitaru:
-                    serializer.Serialize(writer, "Raitaru");
+                case TypeName.莱塔卢:
+                    serializer.Serialize(writer, "莱塔卢");
                     return;
 
-                case TypeName.Sotiyo:
-                    serializer.Serialize(writer, "Sotiyo");
+                case TypeName.索迪约:
+                    serializer.Serialize(writer, "索迪约");
                     return;
 
-                case TypeName.Tatara:
-                    serializer.Serialize(writer, "Tatara");
+                case TypeName.塔塔拉:
+                    serializer.Serialize(writer, "塔塔拉");
                     return;
             }
             throw new Exception("Cannot marshal type TypeName");

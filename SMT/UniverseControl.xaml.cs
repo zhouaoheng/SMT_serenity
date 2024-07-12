@@ -496,7 +496,7 @@ namespace SMT
                 {
                     decimal Distance = EM.GetRangeBetweenSystems(kvp.Key, es.Name);
 
-                    if (Distance < kvp.Value && Distance > 0.0m && es.TrueSec <= 0.45 && es.Region != "Pochven")
+                    if (Distance < kvp.Value && Distance > 0.0m && es.TrueSec <= 0.45 && es.Region != "波赫文")
                     {
                         if (inRange == true)
                         {
@@ -811,7 +811,7 @@ namespace SMT
                         p = RegionGatePen;
                     }
 
-                    if (gh.from.Region == "Pochven")
+                    if (gh.from.Region == "波赫文")
                     {
                         p = PochvenGatePen;
                     }
@@ -1259,7 +1259,7 @@ namespace SMT
 
             foreach (EVEData.MapRegion mr in EM.Regions)
             {
-                if (mr.MetaRegion || mr.Name == "Pochven")
+                if (mr.MetaRegion || mr.Name == "波赫文")
                 {
                     continue;
                 }

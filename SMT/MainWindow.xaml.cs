@@ -183,7 +183,7 @@ namespace SMT
 
             MapConf.CurrentEveLogFolderLocation = EVEManager.EVELogFolder;
 
-            EVEManager.ZKillFeed.KillExpireTimeMinutes = MapConf.ZkillExpireTimeMinutes;
+            /*EVEManager.ZKillFeed.KillExpireTimeMinutes = MapConf.ZkillExpireTimeMinutes;*/
 
             // load jump bridge data
             EVEManager.LoadJumpBridgeData();
@@ -313,6 +313,7 @@ namespace SMT
             uiRefreshTimer.Interval = new TimeSpan(0, 0, 1);
             uiRefreshTimer.Start();
 
+            /*
             ZKBFeed.ItemsSource = EVEManager.ZKillFeed.KillStream;
 
             CollectionView zKBFeedview = (CollectionView)CollectionViewSource.GetDefaultView(ZKBFeed.ItemsSource);
@@ -325,6 +326,7 @@ namespace SMT
             {
                 lc.Location = "";
             }
+            */
 
             // Listen to notification activation and select the character if clicked on
             // 监听通知激活并选择角色
@@ -558,7 +560,7 @@ namespace SMT
             Properties.Settings.Default.MainWindow_placement = WindowPlacement.GetPlacement(new WindowInteropHelper(AppWindow).Handle);
             Properties.Settings.Default.Save();
 
-            EVEManager.ZKillFeed.KillsAddedEvent -= OnZKillsAdded;
+            /*EVEManager.ZKillFeed.KillsAddedEvent -= OnZKillsAdded;*/
         }
 
         private void MainWindow_Closed(object sender, EventArgs e)
@@ -761,7 +763,7 @@ namespace SMT
 
             if (e.PropertyName == "ShowZKillData")
             {
-                EVEManager.ZKillFeed.PauseUpdate = !MapConf.ShowZKillData;
+                /*EVEManager.ZKillFeed.PauseUpdate = !MapConf.ShowZKillData;*/
             }
 
             RegionUC.ReDrawMap(true);

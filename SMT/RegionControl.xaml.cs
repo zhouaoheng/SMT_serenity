@@ -1135,7 +1135,7 @@ namespace SMT
                 if (!addIndividualFleetMembers)
                 {
                     Label charText = new Label();
-                    charText.Content = "Fleet (" + fleetMemberCount + ")";
+                    charText.Content = "舰队 (" + fleetMemberCount + ")";
                     charText.Foreground = fleetMemberText;
                     charText.IsHitTestVisible = false;
 
@@ -2982,13 +2982,13 @@ namespace SMT
             }
 
             bool showZakLinks = true;
-            if (showZakLinks && Region.IsSystemOnMap("Zarzakh"))
+            if (showZakLinks && Region.IsSystemOnMap("赞颂之域"))
             {
-                MapSystem zarSystem = Region.MapSystems["Zarzakh"];
+                MapSystem zarSystem = Region.MapSystems["赞颂之域"];
 
                 foreach (MapSystem ms in Region.MapSystems.Values)
                 {
-                    if (ms.Name == "Zarzakh" || !ms.ActualSystem.HasJoveGate)
+                    if (ms.Name == "赞颂之域" || !ms.ActualSystem.HasJoveGate)
                     {
                         continue;
                     }

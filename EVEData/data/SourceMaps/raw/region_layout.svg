@@ -136,6 +136,6 @@
     <text id="34899" x="50.00" y="120.00">势力战争 - 艾玛 vs 米玛塔尔</text>
     <rect height="5.00" width="5.00" Name="势力战争 - 加达里 vs 盖伦特" y="190.00" id="34901" Type="region"
         x="50.00" /><text id="34902" x="50.00" y="190.00">势力战争 - 加达里 vs 盖伦特</text>
-    <rect height="5.00" width="5.00" Name="伊甸乐园边境" y="260.00" id="34904" Type="region" x="50.00" /><text id="34905"
-        x="50.00" y="260.00">伊甸乐园边境</text>
+    <rect height="5.00" width="5.00" Name="赞颂之域" y="260.00" id="34904" Type="region" x="50.00" /><text id="34905"
+        x="50.00" y="260.00">赞颂之域</text>
 </svg>

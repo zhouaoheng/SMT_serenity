@@ -18,19 +18,7 @@
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" /> 
   </ItemGroup>
 	<ItemGroup>
-	  <None Update="data\JumpRangeCache.dat">
-	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-	  </None>
-	  <None Update="data\MapLayout.dat">
-	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-	  </None>
 	  <None Update="data\POI.csv">
-	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-	  </None>
-	  <None Update="data\ShipTypes.dat">
-	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-	  </None>
-	  <None Update="data\Systems.dat">
 	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
 	  </None>
 	</ItemGroup>
