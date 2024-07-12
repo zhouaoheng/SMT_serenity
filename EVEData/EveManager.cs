@@ -483,8 +483,8 @@ namespace SMT.EVEData
             Regions.Add(new MapRegion("因斯姆尔", "10000009", string.Empty, 1880, 1160));
             Regions.Add(new MapRegion("卡多尔", "10000052", "Amarr", 660, 880));
             Regions.Add(new MapRegion("卡勒瓦拉阔地", "10000034", string.Empty, 1490, 370));
-            Regions.Add(new MapRegion("卡尼迪", "10000049", "Khanid", 470, 1140));
-            Regions.Add(new MapRegion("柯埃佐", "10000065", "Amarr", 500, 1010));
+            Regions.Add(new MapRegion("卡尼迪首星", "10000049", "Khanid", 470, 1140));
+            Regions.Add(new MapRegion("柯埃佐首星", "10000065", "Amarr", 500, 1010));
             Regions.Add(new MapRegion("长征", "10000016", "Caldari", 1100, 460));
             Regions.Add(new MapRegion("糟粕之域", "10000013", string.Empty, 1770, 520));
             Regions.Add(new MapRegion("美特伯里斯", "10000042", "Minmatar", 1330, 730));
@@ -506,7 +506,7 @@ namespace SMT.EVEData
             Regions.Add(new MapRegion("螺旋之域", "10000018", string.Empty, 1720, 700));
             Regions.Add(new MapRegion("混浊", "10000022", "Sansha", 900, 1350));
             Regions.Add(new MapRegion("辛迪加", "10000041", "Syndicate", 360, 500));
-            Regions.Add(new MapRegion("塔什蒙贡", "10000020", "Amarr", 730, 1090));
+            Regions.Add(new MapRegion("塔什蒙贡首星", "10000020", "Amarr", 730, 1090));
             Regions.Add(new MapRegion("特纳", "10000045", string.Empty, 1400, 140));
             Regions.Add(new MapRegion("特里菲斯", "10000061", string.Empty, 1430, 1350));
             Regions.Add(new MapRegion("特布特", "10000010", string.Empty, 1070, 290));
@@ -529,8 +529,8 @@ namespace SMT.EVEData
             {
 
 
-                string localSVG = sourceFolder + @"\data\SourceMaps\raw\" + rd.DotLanRef + "_layout.svg";
-                Console.WriteLine(localSVG);
+                string localSVG = sourceFolder + @"data\SourceMaps\raw\" + rd.DotLanRef + "_layout.svg";
+                // Console.WriteLine(localSVG);
                 if (!File.Exists(localSVG))
                 {
                     // error
@@ -825,6 +825,7 @@ namespace SMT.EVEData
 
                 foreach (System s in Systems)
                 {
+                    Console.WriteLine(s);
                     s.ConstellationName = constMap[s.ConstellationID];
                 }
             }
