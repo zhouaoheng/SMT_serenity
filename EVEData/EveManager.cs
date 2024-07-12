@@ -825,8 +825,20 @@ namespace SMT.EVEData
 
                 foreach (System s in Systems)
                 {
-                    Console.WriteLine(s);
-                    s.ConstellationName = constMap[s.ConstellationID];
+                    // foreach (var x in constMap.Keys)
+                    // {
+                    //     Console.Write(x);
+                    //     Console.WriteLine(constMap[x]);
+                    // }
+                    if (s.ConstellationID == null)
+                    {
+                        continue;
+                    }
+                    else
+                    {
+                        s.ConstellationName = constMap[s.ConstellationID];
+                    }
+
                 }
             }
             else
@@ -1124,7 +1136,7 @@ namespace SMT.EVEData
                             rr.HasHighSecSystems = true;
                         }
 
-                        if (ms.ActualSystem.TrueSec > 0.0 && ms.ActualSystem.TrueSec < 0.45)
+                        if (ms.ActualSystem.TrueSec is > 0.0 and < 0.45)
                         {
                             rr.HasLowSecSystems = true;
                         }
@@ -1137,7 +1149,8 @@ namespace SMT.EVEData
 
                     if (rr.MetaRegion)
                     {
-                        ms.OutOfRegion = !ms.ActualSystem.FactionWarSystem;
+                            ms.OutOfRegion = !ms.ActualSystem.FactionWarSystem;
+                       
                     }
                 }
             }
