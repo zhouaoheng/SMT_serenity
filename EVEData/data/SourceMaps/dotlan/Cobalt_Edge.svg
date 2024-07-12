@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Cobalt Edge</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">钴蓝边域</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -427,7 +427,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Oasa/U9SE-N" class="sys link-5-30003227" target="_top">
       <rect id="rect30003227" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">U9SE-N</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Oasa</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">欧莎</text>
     </a>
   </symbol>
   <symbol id="def30004198">
@@ -480,14 +480,14 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Oasa/XXZ-3W" class="sys link-5-30003228" target="_top">
       <rect id="rect30003228" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">XXZ-3W</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Oasa</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">欧莎</text>
     </a>
   </symbol>
   <symbol id="def30003225">
     <a xlink:href="http://evemaps.dotlan.net/map/Oasa/SON-TW" class="sys link-5-30003225" target="_top">
       <rect id="rect30003225" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">SON-TW</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Oasa</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">欧莎</text>
     </a>
   </symbol>
   <symbol id="def30004214">
@@ -654,35 +654,35 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Oasa/R8WV-7" class="sys link-5-30003209" target="_top">
       <rect id="rect30003209" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">R8WV-7</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Oasa</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">欧莎</text>
     </a>
   </symbol>
   <symbol id="def30003654">
     <a xlink:href="http://evemaps.dotlan.net/map/Tenal/SF-XJS" class="sys link-5-30003654" target="_top">
       <rect id="rect30003654" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">SF-XJS</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tenal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特纳</text>
     </a>
   </symbol>
   <symbol id="def30003241">
     <a xlink:href="http://evemaps.dotlan.net/map/Oasa/IAMJ-Q" class="sys link-5-30003241" target="_top">
       <rect id="rect30003241" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">IAMJ-Q</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Oasa</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">欧莎</text>
     </a>
   </symbol>
   <symbol id="def30001774">
     <a xlink:href="http://evemaps.dotlan.net/map/Outer_Passage/2ID-87" class="sys link-5-30001774" target="_top">
       <rect id="rect30001774" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">2ID-87</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Outer Passage</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">域外走廊</text>
     </a>
   </symbol>
   <symbol id="def30003224">
     <a xlink:href="http://evemaps.dotlan.net/map/Oasa/XEF6-Z" class="sys link-5-30003224" target="_top">
       <rect id="rect30003224" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">XEF6-Z</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Oasa</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">欧莎</text>
     </a>
   </symbol>
 

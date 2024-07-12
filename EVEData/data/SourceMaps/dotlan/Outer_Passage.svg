@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Outer Passage</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">域外走廊</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -766,56 +766,56 @@
     <a xlink:href="http://evemaps.dotlan.net/map/The_Spire/ZWM-BB" class="sys link-5-30001590" target="_top">
       <rect id="rect30001590" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">ZWM-BB</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Spire</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">螺旋之域</text>
     </a>
   </symbol>
   <symbol id="def30000653">
     <a xlink:href="http://evemaps.dotlan.net/map/Cache/K85Y-6" class="sys link-5-30000653" target="_top">
       <rect id="rect30000653" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">K85Y-6</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Cache</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">地窖</text>
     </a>
   </symbol>
   <symbol id="def30005178">
     <a xlink:href="http://evemaps.dotlan.net/map/Perrigen_Falls/PFV-ZH" class="sys link-5-30005178" target="_top">
       <rect id="rect30005178" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">PFV-ZH</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Perrigen Falls</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">佩利根弗</text>
     </a>
   </symbol>
   <symbol id="def30001572">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Spire/K-YL9T" class="sys link-5-30001572" target="_top">
       <rect id="rect30001572" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">K-YL9T</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Spire</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">螺旋之域</text>
     </a>
   </symbol>
   <symbol id="def30004164">
     <a xlink:href="http://evemaps.dotlan.net/map/Cobalt_Edge/SK7-G6" class="sys link-5-30004164" target="_top">
       <rect id="rect30004164" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">SK7-G6</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Cobalt Edge</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">钴蓝边域</text>
     </a>
   </symbol>
   <symbol id="def30001584">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Spire/XR-ZL7" class="sys link-5-30001584" target="_top">
       <rect id="rect30001584" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">XR-ZL7</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Spire</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">螺旋之域</text>
     </a>
   </symbol>
   <symbol id="def30000654">
     <a xlink:href="http://evemaps.dotlan.net/map/Cache/PKN-NJ" class="sys link-5-30000654" target="_top">
       <rect id="rect30000654" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">PKN-NJ</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Cache</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">地窖</text>
     </a>
   </symbol>
   <symbol id="def30000647">
     <a xlink:href="http://evemaps.dotlan.net/map/Cache/LJ-RJK" class="sys link-5-30000647" target="_top">
       <rect id="rect30000647" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">LJ-RJK</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Cache</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">地窖</text>
     </a>
   </symbol>
 

@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Pure Blind</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">黑渊</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -173,7 +173,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/VRH-H7" class="sys link-5-30003685" target="_top">
       <rect id="rect30003685" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">VRH-H7</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30002030">
@@ -215,7 +215,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/O-CNPR" class="sys link-5-30003683" target="_top">
       <rect id="rect30003683" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">O-CNPR</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30002029">
@@ -271,7 +271,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/DW-T2I" class="sys link-5-30003682" target="_top">
       <rect id="rect30003682" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">DW-T2I</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30002022">
@@ -342,21 +342,21 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/E-9ORY" class="sys link-5-30003677" target="_top">
       <rect id="rect30003677" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">E-9ORY</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30003676">
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/C8-CHY" class="sys link-5-30003676" target="_top">
       <rect id="rect30003676" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">C8-CHY</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30001983">
     <a xlink:href="http://evemaps.dotlan.net/system/ROIR-Y" class="sys link-5-30001983" target="_top">
       <rect id="rect30001983" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">ROIR-Y</text>
-      <text id="txt30001983" x="28" y="21.7" class="st" text-anchor="middle">Sisters of EVE</text>
+      <text id="txt30001983" x="28" y="21.7" class="st" text-anchor="middle">希斯特ers of EVE</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -367,7 +367,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/G95-VZ" class="sys link-5-30001982" target="_top">
       <rect id="rect30001982" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">G95-VZ</text>
-      <text id="txt30001982" x="28" y="21.7" class="st" text-anchor="middle">Sisters of EVE</text>
+      <text id="txt30001982" x="28" y="21.7" class="st" text-anchor="middle">希斯特ers of EVE</text>
     </a>
   </symbol>
   <symbol id="def30001980">
@@ -375,14 +375,14 @@
     <rect id="ice30001980" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30001980" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">KLY-C0</text>
-      <text id="txt30001980" x="28" y="21.7" class="st" text-anchor="middle">Sisters of EVE</text>
+      <text id="txt30001980" x="28" y="21.7" class="st" text-anchor="middle">希斯特ers of EVE</text>
     </a>
   </symbol>
   <symbol id="def30001981">
     <a xlink:href="http://evemaps.dotlan.net/system/CL6-ZG" class="sys link-5-30001981" target="_top">
       <rect id="rect30001981" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">CL6-ZG</text>
-      <text id="txt30001981" x="28" y="21.7" class="st" text-anchor="middle">Sisters of EVE</text>
+      <text id="txt30001981" x="28" y="21.7" class="st" text-anchor="middle">希斯特ers of EVE</text>
     </a>
   </symbol>
   <symbol id="def30002023">
@@ -410,7 +410,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/J-CIJV" class="sys link-5-30001977" target="_top">
       <rect id="rect30001977" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">J-CIJV</text>
-      <text id="txt30001977" x="28" y="21.7" class="st" text-anchor="middle">Sisters of EVE</text>
+      <text id="txt30001977" x="28" y="21.7" class="st" text-anchor="middle">希斯特ers of EVE</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -421,7 +421,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/X-7OMU" class="sys link-5-30001978" target="_top">
       <rect id="rect30001978" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">X-7OMU</text>
-      <text id="txt30001978" x="28" y="21.7" class="st" text-anchor="middle">Sisters of EVE</text>
+      <text id="txt30001978" x="28" y="21.7" class="st" text-anchor="middle">希斯特ers of EVE</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -433,7 +433,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/CXN1-Z" class="sys link-5-30001979" target="_top">
       <rect id="rect30001979" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">CXN1-Z</text>
-      <text id="txt30001979" x="28" y="21.7" class="st" text-anchor="middle">Sisters of EVE</text>
+      <text id="txt30001979" x="28" y="21.7" class="st" text-anchor="middle">希斯特ers of EVE</text>
     </a>
   </symbol>
   <symbol id="def30001967">
@@ -789,77 +789,77 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/X36Y-G" class="sys link-5-30003688" target="_top">
       <rect id="rect30003688" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">X36Y-G</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30004063">
     <a xlink:href="http://evemaps.dotlan.net/map/Cloud_Ring/Z-Y7R7" class="sys link-5-30004063" target="_top">
       <rect id="rect30004063" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">Z-Y7R7</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Cloud Ring</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">云环</text>
     </a>
   </symbol>
   <symbol id="def30003686">
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/O1Y-ED" class="sys link-5-30003686" target="_top">
       <rect id="rect30003686" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">O1Y-ED</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30003684">
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/L-SCBU" class="sys link-5-30003684" target="_top">
       <rect id="rect30003684" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">L-SCBU</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30003855">
     <a xlink:href="http://evemaps.dotlan.net/map/Placid/Mantenault" class="sys link-5-30003855" target="_top">
       <rect id="rect30003855" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Mantenault</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Placid</text>
+      <text x="28" y="14" class="es" text-anchor="middle">曼特劳提</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">宁静之域</text>
     </a>
   </symbol>
   <symbol id="def30003680">
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/P-33KR" class="sys link-5-30003680" target="_top">
       <rect id="rect30003680" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">P-33KR</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30003678">
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/CR-IFM" class="sys link-5-30003678" target="_top">
       <rect id="rect30003678" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">CR-IFM</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30003681">
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/DO6H-Q" class="sys link-5-30003681" target="_top">
       <rect id="rect30003681" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">DO6H-Q</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30003679">
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/HHK-VL" class="sys link-5-30003679" target="_top">
       <rect id="rect30003679" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">HHK-VL</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30000857">
     <a xlink:href="http://evemaps.dotlan.net/map/Tribute/0-YMBJ" class="sys link-5-30000857" target="_top">
       <rect id="rect30000857" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">0-YMBJ</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tribute</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特布特</text>
     </a>
   </symbol>
   <symbol id="def30001429">
     <a xlink:href="http://evemaps.dotlan.net/map/Lonetrek/Torrinos" class="sys link-5-30001429" target="_top">
       <rect id="rect30001429" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Torrinos</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Lonetrek</text>
+      <text x="28" y="14" class="es" text-anchor="middle">托里诺斯</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">长征</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -871,8 +871,8 @@
   <symbol id="def30001442">
     <a xlink:href="http://evemaps.dotlan.net/map/Lonetrek/Saranen" class="sys link-5-30001442" target="_top">
       <rect id="rect30001442" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Saranen</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Lonetrek</text>
+      <text x="28" y="14" class="es" text-anchor="middle">萨然恩</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">长征</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />

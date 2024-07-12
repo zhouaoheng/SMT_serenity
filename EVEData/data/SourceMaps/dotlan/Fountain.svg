@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Fountain</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">源泉之域</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -457,7 +457,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Serpentis_Prime" class="sys link-5-30004623" target="_top">
     <rect id="ice30004623" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30004623" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Serpentis Prime</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">天蛇首星</text>
       <text id="txt30004623" x="28" y="21.7" class="st" text-anchor="middle">Serpentis</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -978,14 +978,14 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Delve/ZXB-VC" class="sys link-5-30004777" target="_top">
       <rect id="rect30004777" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">ZXB-VC</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Delve</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">绝地之域</text>
     </a>
   </symbol>
   <symbol id="def30004309">
     <a xlink:href="http://evemaps.dotlan.net/map/Aridia/Hophib" class="sys link-5-30004309" target="_top">
       <rect id="rect30004309" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Hophib</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Aridia</text>
+      <text x="28" y="14" class="es" text-anchor="middle">霍夫比</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">艾里迪亚</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -996,14 +996,14 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Cloud_Ring/B-DBYQ" class="sys link-5-30004040" target="_top">
       <rect id="rect30004040" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">B-DBYQ</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Cloud Ring</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">云环</text>
     </a>
   </symbol>
   <symbol id="def30004525">
     <a xlink:href="http://evemaps.dotlan.net/map/Outer_Ring/7-692B" class="sys link-5-30004525" target="_top">
       <rect id="rect30004525" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">7-692B</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Outer Ring</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">外环</text>
     </a>
   </symbol>
 

@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Outer Ring</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">外环</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -571,14 +571,14 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Fountain/XF-TQL" class="sys link-5-30004552" target="_top">
       <rect id="rect30004552" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">XF-TQL</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fountain</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">源泉之域</text>
     </a>
   </symbol>
   <symbol id="def30003349">
     <a xlink:href="http://evemaps.dotlan.net/map/Syndicate/0T-AMZ" class="sys link-5-30003349" target="_top">
       <rect id="rect30003349" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">0T-AMZ</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Syndicate</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -589,7 +589,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Syndicate/EF-F36" class="sys link-5-30003355" target="_top">
       <rect id="rect30003355" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">EF-F36</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Syndicate</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -600,7 +600,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Syndicate/VSIG-K" class="sys link-5-30003361" target="_top">
       <rect id="rect30003361" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">VSIG-K</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Syndicate</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -611,14 +611,14 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Cloud_Ring/5-MLDT" class="sys link-5-30004039" target="_top">
       <rect id="rect30004039" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">5-MLDT</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Cloud Ring</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">云环</text>
     </a>
   </symbol>
   <symbol id="def30003322">
     <a xlink:href="http://evemaps.dotlan.net/map/Syndicate/3KNK-A" class="sys link-5-30003322" target="_top">
       <rect id="rect30003322" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">3KNK-A</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Syndicate</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />

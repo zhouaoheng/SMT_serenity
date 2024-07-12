@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Impass</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">绝径</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -494,21 +494,21 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Tenerifis/H-HWQR" class="sys link-5-30004814" target="_top">
       <rect id="rect30004814" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">H-HWQR</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tenerifis</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特里菲斯</text>
     </a>
   </symbol>
   <symbol id="def30001217">
     <a xlink:href="http://evemaps.dotlan.net/map/Catch/E3-SDZ" class="sys link-5-30001217" target="_top">
       <rect id="rect30001217" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">E3-SDZ</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Catch</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡特ch</text>
     </a>
   </symbol>
   <symbol id="def30004404">
     <a xlink:href="http://evemaps.dotlan.net/map/Feythabolis/UD-VZW" class="sys link-5-30004404" target="_top">
       <rect id="rect30004404" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">UD-VZW</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Feythabolis</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">非塔波利斯</text>
     </a>
   </symbol>
 

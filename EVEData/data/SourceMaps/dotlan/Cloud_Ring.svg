@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Cloud Ring</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">云环</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -418,14 +418,14 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Pure_Blind/7D-0SQ" class="sys link-5-30002046" target="_top">
       <rect id="rect30002046" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">7D-0SQ</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Pure Blind</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">黑渊</text>
     </a>
   </symbol>
   <symbol id="def30003335">
     <a xlink:href="http://evemaps.dotlan.net/map/Syndicate/A-SJ8X" class="sys link-5-30003335" target="_top">
       <rect id="rect30003335" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">A-SJ8X</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Syndicate</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -436,28 +436,28 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Outer_Ring/IZ-AOB" class="sys link-5-30004535" target="_top">
       <rect id="rect30004535" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">IZ-AOB</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Outer Ring</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">外环</text>
     </a>
   </symbol>
   <symbol id="def30004589">
     <a xlink:href="http://evemaps.dotlan.net/map/Fountain/J5A-IX" class="sys link-5-30004589" target="_top">
       <rect id="rect30004589" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">J5A-IX</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fountain</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">源泉之域</text>
     </a>
   </symbol>
   <symbol id="def30003841">
     <a xlink:href="http://evemaps.dotlan.net/map/Placid/Alsavoinon" class="sys link-5-30003841" target="_top">
       <rect id="rect30003841" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Alsavoinon</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Placid</text>
+      <text x="28" y="14" class="es" text-anchor="middle">奥萨温伦</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">宁静之域</text>
     </a>
   </symbol>
   <symbol id="def30045307">
     <a xlink:href="http://evemaps.dotlan.net/map/Black_Rise/Okagaiken" class="sys link-5-30045307" target="_top">
       <rect id="rect30045307" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Okagaiken</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Black Rise</text>
+      <text x="28" y="14" class="es" text-anchor="middle">欧卡伽肯</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">暗涌之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -468,7 +468,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/E9KD-N" class="sys link-5-30003694" target="_top">
       <rect id="rect30003694" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">E9KD-N</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
 

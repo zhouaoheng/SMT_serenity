@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Branch</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">血脉</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -805,49 +805,49 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Deklein/UJY-HE" class="sys link-5-30002955" target="_top">
       <rect id="rect30002955" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">UJY-HE</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Deklein</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">德克廉</text>
     </a>
   </symbol>
   <symbol id="def30001312">
     <a xlink:href="http://evemaps.dotlan.net/map/Venal/92D-OI" class="sys link-5-30001312" target="_top">
       <rect id="rect30001312" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">92D-OI</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Venal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">维纳尔</text>
     </a>
   </symbol>
   <symbol id="def30003620">
     <a xlink:href="http://evemaps.dotlan.net/map/Tenal/ZXA-V6" class="sys link-5-30003620" target="_top">
       <rect id="rect30003620" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">ZXA-V6</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tenal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特纳</text>
     </a>
   </symbol>
   <symbol id="def30003669">
     <a xlink:href="http://evemaps.dotlan.net/map/Tenal/Q1U-IU" class="sys link-5-30003669" target="_top">
       <rect id="rect30003669" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">Q1U-IU</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tenal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特纳</text>
     </a>
   </symbol>
   <symbol id="def30003668">
     <a xlink:href="http://evemaps.dotlan.net/map/Tenal/2-3Q2G" class="sys link-5-30003668" target="_top">
       <rect id="rect30003668" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">2-3Q2G</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tenal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特纳</text>
     </a>
   </symbol>
   <symbol id="def30003608">
     <a xlink:href="http://evemaps.dotlan.net/map/Tenal/H1-ESN" class="sys link-5-30003608" target="_top">
       <rect id="rect30003608" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">H1-ESN</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tenal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特纳</text>
     </a>
   </symbol>
   <symbol id="def30001306">
     <a xlink:href="http://evemaps.dotlan.net/map/Venal/9IPC-E" class="sys link-5-30001306" target="_top">
       <rect id="rect30001306" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">9IPC-E</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Venal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">维纳尔</text>
     </a>
   </symbol>
 

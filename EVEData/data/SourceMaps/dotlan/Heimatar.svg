@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Heimatar</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">西玛特尔</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -128,7 +128,7 @@
   <symbol id="def30042547">
     <a xlink:href="http://evemaps.dotlan.net/system/Loguttur" class="sys link-5-30042547" target="_top">
       <rect id="rect30042547" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Loguttur</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">洛古图尔</text>
       <text id="txt30042547" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -140,7 +140,7 @@
   <symbol id="def30002516">
     <a xlink:href="http://evemaps.dotlan.net/system/Lulm" class="sys link-5-30002516" target="_top">
       <rect id="rect30002516" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: url(#fw500002-60);" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Lulm</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">鲁尔姆</text>
       <text id="txt30002516" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -152,8 +152,8 @@
   <symbol id="def30002539">
     <a xlink:href="http://evemaps.dotlan.net/system/Siseide" class="sys link-5-30002539" target="_top">
       <rect id="rect30002539" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: url(#fw500003-20);" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Siseide</text>
-      <text id="txt30002539" x="28" y="21.7" class="st" text-anchor="middle">Amarr</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">希瑟伊德</text>
+      <text id="txt30002539" x="28" y="21.7" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -163,7 +163,7 @@
   <symbol id="def30002515">
     <a xlink:href="http://evemaps.dotlan.net/system/Olfeim" class="sys link-5-30002515" target="_top">
       <rect id="rect30002515" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Olfeim</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">欧菲姆</text>
       <text id="txt30002515" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -176,7 +176,7 @@
   <symbol id="def30002514">
     <a xlink:href="http://evemaps.dotlan.net/system/Bosboger" class="sys link-5-30002514" target="_top">
       <rect id="rect30002514" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: url(#fw500002-0);" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Bosboger</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">波斯伯格</text>
       <text id="txt30002514" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -187,7 +187,7 @@
   <symbol id="def30002513">
     <a xlink:href="http://evemaps.dotlan.net/system/Dammalin" class="sys link-5-30002513" target="_top">
       <rect id="rect30002513" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Dammalin</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">达马林</text>
       <text id="txt30002513" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -198,7 +198,7 @@
   <symbol id="def30002573">
     <a xlink:href="http://evemaps.dotlan.net/system/Vullat" class="sys link-5-30002573" target="_top">
       <rect id="rect30002573" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Vullat</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">瓦拉特</text>
       <text id="txt30002573" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -211,7 +211,7 @@
   <symbol id="def30002517">
     <a xlink:href="http://evemaps.dotlan.net/system/Gulmorogod" class="sys link-5-30002517" target="_top">
       <rect id="rect30002517" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: url(#fw500002-60);" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Gulmorogod</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">古摩洛歌德</text>
       <text id="txt30002517" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -225,8 +225,8 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Vard" class="sys link-5-30002538" target="_top">
     <rect id="ice30002538" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30002538" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: url(#fw500003-0);" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Vard</text>
-      <text id="txt30002538" x="28" y="21.7" class="st" text-anchor="middle">Amarr</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">瓦尔蒂</text>
+      <text id="txt30002538" x="28" y="21.7" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -236,14 +236,14 @@
   <symbol id="def30002570">
     <a xlink:href="http://evemaps.dotlan.net/system/Magiko" class="sys link-5-30002570" target="_top">
       <rect id="rect30002570" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Magiko</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">玛吉库</text>
       <text id="txt30002570" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
   </symbol>
   <symbol id="def30012547">
     <a xlink:href="http://evemaps.dotlan.net/system/Hadaugago" class="sys link-5-30012547" target="_top">
       <rect id="rect30012547" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Hadaugago</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">哈德加戈</text>
       <text id="txt30012547" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -255,7 +255,7 @@
   <symbol id="def30002543">
     <a xlink:href="http://evemaps.dotlan.net/system/Eystur" class="sys link-5-30002543" target="_top">
       <rect id="rect30002543" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Eystur</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">尤斯塔</text>
       <text id="txt30002543" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -267,8 +267,8 @@
   <symbol id="def30002540">
     <a xlink:href="http://evemaps.dotlan.net/system/Lantorn" class="sys link-5-30002540" target="_top">
       <rect id="rect30002540" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: url(#fw500003-0);" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Lantorn</text>
-      <text id="txt30002540" x="28" y="21.7" class="st" text-anchor="middle">Amarr</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">兰多恩</text>
+      <text id="txt30002540" x="28" y="21.7" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -277,8 +277,8 @@
   <symbol id="def30002537">
     <a xlink:href="http://evemaps.dotlan.net/system/Amamake" class="sys link-5-30002537" target="_top">
       <rect id="rect30002537" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: url(#fw500003-20);" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Amamake</text>
-      <text id="txt30002537" x="28" y="21.7" class="st" text-anchor="middle">Amarr</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">埃玛马克</text>
+      <text id="txt30002537" x="28" y="21.7" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -289,7 +289,7 @@
   <symbol id="def30022547">
     <a xlink:href="http://evemaps.dotlan.net/system/Krilmokenur" class="sys link-5-30022547" target="_top">
       <rect id="rect30022547" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Krilmokenur</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">基里莫科努尔</text>
       <text id="txt30022547" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -301,7 +301,7 @@
   <symbol id="def30002512">
     <a xlink:href="http://evemaps.dotlan.net/system/Alakgur" class="sys link-5-30002512" target="_top">
       <rect id="rect30002512" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Alakgur</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">阿拉库古</text>
       <text id="txt30002512" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -312,7 +312,7 @@
   <symbol id="def30002529">
     <a xlink:href="http://evemaps.dotlan.net/system/Gyng" class="sys link-5-30002529" target="_top">
       <rect id="rect30002529" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Gyng</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">吉格</text>
       <text id="txt30002529" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -323,7 +323,7 @@
   <symbol id="def30002542">
     <a xlink:href="http://evemaps.dotlan.net/system/Auga" class="sys link-5-30002542" target="_top">
       <rect id="rect30002542" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: url(#fw500002-60);" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Auga</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">奥加</text>
       <text id="txt30002542" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -335,14 +335,14 @@
   <symbol id="def30002530">
     <a xlink:href="http://evemaps.dotlan.net/system/Avesber" class="sys link-5-30002530" target="_top">
       <rect id="rect30002530" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Avesber</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">埃维斯贝尔</text>
       <text id="txt30002530" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
   </symbol>
   <symbol id="def30002506">
     <a xlink:href="http://evemaps.dotlan.net/system/Osoggur" class="sys link-5-30002506" target="_top">
       <rect id="rect30002506" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Osoggur</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">奥索古尔</text>
       <text id="txt30002506" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -352,7 +352,7 @@
   <symbol id="def30002568">
     <a xlink:href="http://evemaps.dotlan.net/system/Onga" class="sys link-5-30002568" target="_top">
       <rect id="rect30002568" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Onga</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">昂加</text>
       <text id="txt30002568" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -364,7 +364,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Abudban" class="sys link-5-30002507" target="_top">
     <rect id="ice30002507" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30002507" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Abudban</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">阿布德班</text>
       <text id="txt30002507" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -376,7 +376,7 @@
   <symbol id="def30002545">
     <a xlink:href="http://evemaps.dotlan.net/system/Lustrevik" class="sys link-5-30002545" target="_top">
       <rect id="rect30002545" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Lustrevik</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">劳斯特威克</text>
       <text id="txt30002545" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -388,7 +388,7 @@
   <symbol id="def30032547">
     <a xlink:href="http://evemaps.dotlan.net/system/Larkugei" class="sys link-5-30032547" target="_top">
       <rect id="rect30032547" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Larkugei</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">拉尔库戈伊</text>
       <text id="txt30032547" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -400,7 +400,7 @@
   <symbol id="def30002541">
     <a xlink:href="http://evemaps.dotlan.net/system/Dal" class="sys link-5-30002541" target="_top">
       <rect id="rect30002541" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: url(#fw500002-0);" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Dal</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">达尔</text>
       <text id="txt30002541" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -412,7 +412,7 @@
   <symbol id="def30002526">
     <a xlink:href="http://evemaps.dotlan.net/system/Frarn" class="sys link-5-30002526" target="_top">
       <rect id="rect30002526" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Frarn</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">法若恩</text>
       <text id="txt30002526" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -423,7 +423,7 @@
   <symbol id="def30002546">
     <a xlink:href="http://evemaps.dotlan.net/system/Isendeldik" class="sys link-5-30002546" target="_top">
       <rect id="rect30002546" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Isendeldik</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">伊森杜迪克</text>
       <text id="txt30002546" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -435,7 +435,7 @@
   <symbol id="def30002510">
     <a xlink:href="http://evemaps.dotlan.net/system/Rens" class="sys link-5-30002510" target="_top">
       <rect id="rect30002510" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Rens</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">伦斯</text>
       <text id="txt30002510" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -447,7 +447,7 @@
   <symbol id="def30002569">
     <a xlink:href="http://evemaps.dotlan.net/system/Osaumuni" class="sys link-5-30002569" target="_top">
       <rect id="rect30002569" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Osaumuni</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">奥萨姆尼</text>
       <text id="txt30002569" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -459,7 +459,7 @@
   <symbol id="def30002527">
     <a xlink:href="http://evemaps.dotlan.net/system/Illinfrik" class="sys link-5-30002527" target="_top">
       <rect id="rect30002527" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Illinfrik</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">伊林福理克</text>
       <text id="txt30002527" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -471,7 +471,7 @@
   <symbol id="def30002509">
     <a xlink:href="http://evemaps.dotlan.net/system/Odatrik" class="sys link-5-30002509" target="_top">
       <rect id="rect30002509" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Odatrik</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">奥达特里克</text>
       <text id="txt30002509" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -481,7 +481,7 @@
   <symbol id="def30002544">
     <a xlink:href="http://evemaps.dotlan.net/system/Pator" class="sys link-5-30002544" target="_top">
       <rect id="rect30002544" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Pator</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">帕多尔</text>
       <text id="txt30002544" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -494,7 +494,7 @@
   <symbol id="def30002547">
     <a xlink:href="http://evemaps.dotlan.net/system/Ammold" class="sys link-5-30002547" target="_top">
       <rect id="rect30002547" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ammold</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">埃莫奥德</text>
       <text id="txt30002547" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -506,7 +506,7 @@
   <symbol id="def30002571">
     <a xlink:href="http://evemaps.dotlan.net/system/Oremmulf" class="sys link-5-30002571" target="_top">
       <rect id="rect30002571" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Oremmulf</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">欧勒姆福</text>
       <text id="txt30002571" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -519,14 +519,14 @@
   <symbol id="def30002525">
     <a xlink:href="http://evemaps.dotlan.net/system/Meirakulf" class="sys link-5-30002525" target="_top">
       <rect id="rect30002525" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Meirakulf</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">梅拉库夫</text>
       <text id="txt30002525" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
   </symbol>
   <symbol id="def30002528">
     <a xlink:href="http://evemaps.dotlan.net/system/Balginia" class="sys link-5-30002528" target="_top">
       <rect id="rect30002528" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Balginia</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">宝吉尼亚</text>
       <text id="txt30002528" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -537,7 +537,7 @@
   <symbol id="def30002508">
     <a xlink:href="http://evemaps.dotlan.net/system/Trytedald" class="sys link-5-30002508" target="_top">
       <rect id="rect30002508" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Trytedald</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">泰特达尔德</text>
       <text id="txt30002508" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -547,7 +547,7 @@
   <symbol id="def30002572">
     <a xlink:href="http://evemaps.dotlan.net/system/Hurjafren" class="sys link-5-30002572" target="_top">
       <rect id="rect30002572" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Hurjafren</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">胡尔加芬</text>
       <text id="txt30002572" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -561,7 +561,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Emolgranlan" class="sys link-5-30002548" target="_top">
     <rect id="ice30002548" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30002548" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Emolgranlan</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">伊莫戈兰伦</text>
       <text id="txt30002548" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -573,7 +573,7 @@
   <symbol id="def30002524">
     <a xlink:href="http://evemaps.dotlan.net/system/Ivar" class="sys link-5-30002524" target="_top">
       <rect id="rect30002524" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ivar</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">伊瓦尔</text>
       <text id="txt30002524" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -584,7 +584,7 @@
   <symbol id="def30002557">
     <a xlink:href="http://evemaps.dotlan.net/system/Atgur" class="sys link-5-30002557" target="_top">
       <rect id="rect30002557" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Atgur</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">埃特古尔</text>
       <text id="txt30002557" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -594,7 +594,7 @@
   <symbol id="def30002511">
     <a xlink:href="http://evemaps.dotlan.net/system/Ameinaka" class="sys link-5-30002511" target="_top">
       <rect id="rect30002511" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ameinaka</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">埃美纳卡</text>
       <text id="txt30002511" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -605,7 +605,7 @@
   <symbol id="def30032505">
     <a xlink:href="http://evemaps.dotlan.net/system/Todeko" class="sys link-5-30032505" target="_top">
       <rect id="rect30032505" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Todeko</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">托德克</text>
       <text id="txt30032505" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -617,7 +617,7 @@
   <symbol id="def30002505">
     <a xlink:href="http://evemaps.dotlan.net/system/Hulm" class="sys link-5-30002505" target="_top">
       <rect id="rect30002505" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Hulm</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">休姆</text>
       <text id="txt30002505" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -629,7 +629,7 @@
   <symbol id="def30042505">
     <a xlink:href="http://evemaps.dotlan.net/system/Usteli" class="sys link-5-30042505" target="_top">
       <rect id="rect30042505" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Usteli</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">尤斯特里</text>
       <text id="txt30042505" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -641,14 +641,14 @@
   <symbol id="def30002555">
     <a xlink:href="http://evemaps.dotlan.net/system/Eifer" class="sys link-5-30002555" target="_top">
       <rect id="rect30002555" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Eifer</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">埃伊费尔</text>
       <text id="txt30002555" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
   </symbol>
   <symbol id="def30002560">
     <a xlink:href="http://evemaps.dotlan.net/system/Gultratren" class="sys link-5-30002560" target="_top">
       <rect id="rect30002560" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Gultratren</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">瓜塔特伦</text>
       <text id="txt30002560" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -660,7 +660,7 @@
   <symbol id="def30002559">
     <a xlink:href="http://evemaps.dotlan.net/system/Ingunn" class="sys link-5-30002559" target="_top">
       <rect id="rect30002559" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ingunn</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">因加恩</text>
       <text id="txt30002559" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -672,7 +672,7 @@
   <symbol id="def30002518">
     <a xlink:href="http://evemaps.dotlan.net/system/Edmalbrurdus" class="sys link-5-30002518" target="_top">
       <rect id="rect30002518" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Edmalbrurdus</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">伊德马博多斯</text>
       <text id="txt30002518" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -685,7 +685,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Endrulf" class="sys link-5-30002558" target="_top">
     <rect id="ice30002558" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30002558" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Endrulf</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">恩多拉夫</text>
       <text id="txt30002558" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -697,7 +697,7 @@
   <symbol id="def30012505">
     <a xlink:href="http://evemaps.dotlan.net/system/Malukker" class="sys link-5-30012505" target="_top">
       <rect id="rect30012505" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Malukker</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">马鲁克克</text>
       <text id="txt30012505" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -709,7 +709,7 @@
   <symbol id="def30002580">
     <a xlink:href="http://evemaps.dotlan.net/system/Katugumur" class="sys link-5-30002580" target="_top">
       <rect id="rect30002580" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Katugumur</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">卡图古姆</text>
       <text id="txt30002580" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -719,7 +719,7 @@
   <symbol id="def30002575">
     <a xlink:href="http://evemaps.dotlan.net/system/Sotrenzur" class="sys link-5-30002575" target="_top">
       <rect id="rect30002575" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Sotrenzur</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">所特伦卓</text>
       <text id="txt30002575" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -732,7 +732,7 @@
   <symbol id="def30002519">
     <a xlink:href="http://evemaps.dotlan.net/system/Kronsur" class="sys link-5-30002519" target="_top">
       <rect id="rect30002519" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Kronsur</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">库罗素尔</text>
       <text id="txt30002519" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -743,7 +743,7 @@
   <symbol id="def30002553">
     <a xlink:href="http://evemaps.dotlan.net/system/Bogelek" class="sys link-5-30002553" target="_top">
       <rect id="rect30002553" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Bogelek</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">伯格勒克</text>
       <text id="txt30002553" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -753,7 +753,7 @@
   <symbol id="def30002534">
     <a xlink:href="http://evemaps.dotlan.net/system/Rokofur" class="sys link-5-30002534" target="_top">
       <rect id="rect30002534" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Rokofur</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">洛克菲尔</text>
       <text id="txt30002534" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -766,7 +766,7 @@
   <symbol id="def30002556">
     <a xlink:href="http://evemaps.dotlan.net/system/Gusandall" class="sys link-5-30002556" target="_top">
       <rect id="rect30002556" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Gusandall</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">古萨恩杜</text>
       <text id="txt30002556" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -777,7 +777,7 @@
   <symbol id="def30002520">
     <a xlink:href="http://evemaps.dotlan.net/system/Dumkirinur" class="sys link-5-30002520" target="_top">
       <rect id="rect30002520" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Dumkirinur</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">杜吉里努尔</text>
       <text id="txt30002520" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -789,7 +789,7 @@
   <symbol id="def30002574">
     <a xlink:href="http://evemaps.dotlan.net/system/Hrondedir" class="sys link-5-30002574" target="_top">
       <rect id="rect30002574" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Hrondedir</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">农德迪尔</text>
       <text id="txt30002574" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -802,7 +802,7 @@
   <symbol id="def30002521">
     <a xlink:href="http://evemaps.dotlan.net/system/Sist" class="sys link-5-30002521" target="_top">
       <rect id="rect30002521" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Sist</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">希斯特</text>
       <text id="txt30002521" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -813,7 +813,7 @@
   <symbol id="def30002551">
     <a xlink:href="http://evemaps.dotlan.net/system/Aralgrund" class="sys link-5-30002551" target="_top">
       <rect id="rect30002551" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Aralgrund</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">阿拉古鲁迪</text>
       <text id="txt30002551" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -824,35 +824,35 @@
   <symbol id="def30002579">
     <a xlink:href="http://evemaps.dotlan.net/system/Hedgiviter" class="sys link-5-30002579" target="_top">
       <rect id="rect30002579" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Hedgiviter</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">赫德基维特</text>
       <text id="txt30002579" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
   </symbol>
   <symbol id="def30002550">
     <a xlink:href="http://evemaps.dotlan.net/system/Roniko" class="sys link-5-30002550" target="_top">
       <rect id="rect30002550" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Roniko</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">罗尼考</text>
       <text id="txt30002550" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
   </symbol>
   <symbol id="def30002522">
     <a xlink:href="http://evemaps.dotlan.net/system/Obrolber" class="sys link-5-30002522" target="_top">
       <rect id="rect30002522" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Obrolber</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">欧布洛贝尔</text>
       <text id="txt30002522" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
   </symbol>
   <symbol id="def30002567">
     <a xlink:href="http://evemaps.dotlan.net/system/Jorus" class="sys link-5-30002567" target="_top">
       <rect id="rect30002567" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Jorus</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">尤瑞斯</text>
       <text id="txt30002567" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
   </symbol>
   <symbol id="def30002535">
     <a xlink:href="http://evemaps.dotlan.net/system/Ebasgerdur" class="sys link-5-30002535" target="_top">
       <rect id="rect30002535" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ebasgerdur</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">埃巴sgerdur</text>
       <text id="txt30002535" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -863,14 +863,14 @@
   <symbol id="def30002561">
     <a xlink:href="http://evemaps.dotlan.net/system/Auren" class="sys link-5-30002561" target="_top">
       <rect id="rect30002561" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Auren</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">奥伦</text>
       <text id="txt30002561" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
   </symbol>
   <symbol id="def30002578">
     <a xlink:href="http://evemaps.dotlan.net/system/Otraren" class="sys link-5-30002578" target="_top">
       <rect id="rect30002578" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Otraren</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">奥特拉伦</text>
       <text id="txt30002578" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -883,7 +883,7 @@
   <symbol id="def30002576">
     <a xlink:href="http://evemaps.dotlan.net/system/Hrondmund" class="sys link-5-30002576" target="_top">
       <rect id="rect30002576" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Hrondmund</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">农德马蒂</text>
       <text id="txt30002576" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
   </symbol>
@@ -891,7 +891,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Wiskeber" class="sys link-5-30002554" target="_top">
     <rect id="ice30002554" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30002554" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Wiskeber</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">维斯克贝尔</text>
       <text id="txt30002554" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -901,7 +901,7 @@
   <symbol id="def30002577">
     <a xlink:href="http://evemaps.dotlan.net/system/Bundindus" class="sys link-5-30002577" target="_top">
       <rect id="rect30002577" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Bundindus</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">邦丁达斯</text>
       <text id="txt30002577" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -912,14 +912,14 @@
   <symbol id="def30002523">
     <a xlink:href="http://evemaps.dotlan.net/system/Austraka" class="sys link-5-30002523" target="_top">
       <rect id="rect30002523" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Austraka</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">奥斯塔卡</text>
       <text id="txt30002523" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
   </symbol>
   <symbol id="def30002566">
     <a xlink:href="http://evemaps.dotlan.net/system/Klir" class="sys link-5-30002566" target="_top">
       <rect id="rect30002566" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Klir</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">克里尔</text>
       <text id="txt30002566" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -930,7 +930,7 @@
   <symbol id="def30002552">
     <a xlink:href="http://evemaps.dotlan.net/system/Eddar" class="sys link-5-30002552" target="_top">
       <rect id="rect30002552" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Eddar</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">埃达尔</text>
       <text id="txt30002552" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -941,7 +941,7 @@
   <symbol id="def30002531">
     <a xlink:href="http://evemaps.dotlan.net/system/Gerek" class="sys link-5-30002531" target="_top">
       <rect id="rect30002531" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Gerek</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">吉尔勒克</text>
       <text id="txt30002531" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -953,7 +953,7 @@
   <symbol id="def30002549">
     <a xlink:href="http://evemaps.dotlan.net/system/Offugen" class="sys link-5-30002549" target="_top">
       <rect id="rect30002549" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Offugen</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">奥弗根</text>
       <text id="txt30002549" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -963,14 +963,14 @@
   <symbol id="def30002565">
     <a xlink:href="http://evemaps.dotlan.net/system/Appen" class="sys link-5-30002565" target="_top">
       <rect id="rect30002565" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Appen</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">埃皮恩</text>
       <text id="txt30002565" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
   </symbol>
   <symbol id="def30002532">
     <a xlink:href="http://evemaps.dotlan.net/system/Tongofur" class="sys link-5-30002532" target="_top">
       <rect id="rect30002532" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Tongofur</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">唐格夫</text>
       <text id="txt30002532" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -981,7 +981,7 @@
   <symbol id="def30002533">
     <a xlink:href="http://evemaps.dotlan.net/system/Gerbold" class="sys link-5-30002533" target="_top">
       <rect id="rect30002533" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Gerbold</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">吉尔伯德</text>
       <text id="txt30002533" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -993,7 +993,7 @@
   <symbol id="def30002564">
     <a xlink:href="http://evemaps.dotlan.net/system/Javrendei" class="sys link-5-30002564" target="_top">
       <rect id="rect30002564" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Javrendei</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">加仑德</text>
       <text id="txt30002564" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -1005,7 +1005,7 @@
   <symbol id="def30002536">
     <a xlink:href="http://evemaps.dotlan.net/system/Ebodold" class="sys link-5-30002536" target="_top">
       <rect id="rect30002536" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ebodold</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">厄博dold</text>
       <text id="txt30002536" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -1017,7 +1017,7 @@
   <symbol id="def30002563">
     <a xlink:href="http://evemaps.dotlan.net/system/Egmur" class="sys link-5-30002563" target="_top">
       <rect id="rect30002563" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Egmur</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">伊格缪尔</text>
       <text id="txt30002563" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -1029,7 +1029,7 @@
   <symbol id="def30002562">
     <a xlink:href="http://evemaps.dotlan.net/system/Trer" class="sys link-5-30002562" target="_top">
       <rect id="rect30002562" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFE8E8;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Trer</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">特瑞尔</text>
       <text id="txt30002562" x="28" y="21.7" class="st" text-anchor="middle">Minmatar</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -1041,8 +1041,8 @@
   <symbol id="def30003413">
     <a xlink:href="http://evemaps.dotlan.net/map/Metropolis/Eram" class="sys link-5-30003413" target="_top">
       <rect id="rect30003413" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Eram</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Metropolis</text>
+      <text x="28" y="14" class="es" text-anchor="middle">伊尔拉姆</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">美特伯里斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1053,8 +1053,8 @@
   <symbol id="def30002693">
     <a xlink:href="http://evemaps.dotlan.net/map/Sinq_Laison/Egghelende" class="sys link-5-30002693" target="_top">
       <rect id="rect30002693" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Egghelende</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Sinq Laison</text>
+      <text x="28" y="14" class="es" text-anchor="middle">伊格赫伦德</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">金纳泽</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1065,15 +1065,15 @@
   <symbol id="def30002962">
     <a xlink:href="http://evemaps.dotlan.net/map/Devoid/Ezzara" class="sys link-5-30002962" target="_top">
       <rect id="rect30002962" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Ezzara</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Devoid</text>
+      <text x="28" y="14" class="es" text-anchor="middle">俄扎拉</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">破碎</text>
     </a>
   </symbol>
   <symbol id="def30002099">
     <a xlink:href="http://evemaps.dotlan.net/map/Metropolis/Egmar" class="sys link-5-30002099" target="_top">
       <rect id="rect30002099" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Egmar</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Metropolis</text>
+      <text x="28" y="14" class="es" text-anchor="middle">艾格玛尔</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">美特伯里斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1083,8 +1083,8 @@
   <symbol id="def30002053">
     <a xlink:href="http://evemaps.dotlan.net/map/Metropolis/Hek" class="sys link-5-30002053" target="_top">
       <rect id="rect30002053" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Hek</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Metropolis</text>
+      <text x="28" y="14" class="es" text-anchor="middle">赫克</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">美特伯里斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1095,8 +1095,8 @@
   <symbol id="def30002095">
     <a xlink:href="http://evemaps.dotlan.net/map/Metropolis/Eszur" class="sys link-5-30002095" target="_top">
       <rect id="rect30002095" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Eszur</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Metropolis</text>
+      <text x="28" y="14" class="es" text-anchor="middle">伊斯祖尔</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">美特伯里斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1108,8 +1108,8 @@
   <symbol id="def30002385">
     <a xlink:href="http://evemaps.dotlan.net/map/Molden_Heath/Teonusude" class="sys link-5-30002385" target="_top">
       <rect id="rect30002385" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Teonusude</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Molden Heath</text>
+      <text x="28" y="14" class="es" text-anchor="middle">提鲁苏德</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">摩登赫斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1120,8 +1120,8 @@
   <symbol id="def30003388">
     <a xlink:href="http://evemaps.dotlan.net/map/Metropolis/Olbra" class="sys link-5-30003388" target="_top">
       <rect id="rect30003388" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Olbra</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Metropolis</text>
+      <text x="28" y="14" class="es" text-anchor="middle">奥布拉</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">美特伯里斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1132,8 +1132,8 @@
   <symbol id="def30003068">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Bleak_Lands/Kourmonen" class="sys link-5-30003068" target="_top">
       <rect id="rect30003068" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Kourmonen</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Bleak Lands</text>
+      <text x="28" y="14" class="es" text-anchor="middle">阔尔蒙尼</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">幽暗之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1145,22 +1145,22 @@
   <symbol id="def30002096">
     <a xlink:href="http://evemaps.dotlan.net/map/Metropolis/Hofjaldgund" class="sys link-5-30002096" target="_top">
       <rect id="rect30002096" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Hofjaldgund</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Metropolis</text>
+      <text x="28" y="14" class="es" text-anchor="middle">赫加格德</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">美特伯里斯</text>
     </a>
   </symbol>
   <symbol id="def30000004">
     <a xlink:href="http://evemaps.dotlan.net/map/Derelik/Jark" class="sys link-5-30000004" target="_top">
       <rect id="rect30000004" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Jark</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Derelik</text>
+      <text x="28" y="14" class="es" text-anchor="middle">加尔克</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">德里克</text>
     </a>
   </symbol>
   <symbol id="def30000037">
     <a xlink:href="http://evemaps.dotlan.net/map/Derelik/Uplingur" class="sys link-5-30000037" target="_top">
       <rect id="rect30000037" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Uplingur</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Derelik</text>
+      <text x="28" y="14" class="es" text-anchor="middle">尤普林古尔</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">德里克</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1169,8 +1169,8 @@
   <symbol id="def30003374">
     <a xlink:href="http://evemaps.dotlan.net/map/Metropolis/Arlulf" class="sys link-5-30003374" target="_top">
       <rect id="rect30003374" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Arlulf</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Metropolis</text>
+      <text x="28" y="14" class="es" text-anchor="middle">阿尔卢浮</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">美特伯里斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1181,8 +1181,8 @@
   <symbol id="def30003410">
     <a xlink:href="http://evemaps.dotlan.net/map/Metropolis/Ryddinjorn" class="sys link-5-30003410" target="_top">
       <rect id="rect30003410" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Ryddinjorn</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Metropolis</text>
+      <text x="28" y="14" class="es" text-anchor="middle">莱丁乔尔</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">美特伯里斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1193,15 +1193,15 @@
   <symbol id="def30002064">
     <a xlink:href="http://evemaps.dotlan.net/map/Metropolis/Arnstur" class="sys link-5-30002064" target="_top">
       <rect id="rect30002064" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Arnstur</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Metropolis</text>
+      <text x="28" y="14" class="es" text-anchor="middle">恩斯图尔</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">美特伯里斯</text>
     </a>
   </symbol>
   <symbol id="def30002383">
     <a xlink:href="http://evemaps.dotlan.net/map/Molden_Heath/Aeddin" class="sys link-5-30002383" target="_top">
       <rect id="rect30002383" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Aeddin</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Molden Heath</text>
+      <text x="28" y="14" class="es" text-anchor="middle">埃伊丁</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">摩登赫斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1211,8 +1211,8 @@
   <symbol id="def30003444">
     <a xlink:href="http://evemaps.dotlan.net/map/Metropolis/Mateber" class="sys link-5-30003444" target="_top">
       <rect id="rect30003444" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Mateber</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Metropolis</text>
+      <text x="28" y="14" class="es" text-anchor="middle">马特贝尔</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">美特伯里斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1221,8 +1221,8 @@
   <symbol id="def30003460">
     <a xlink:href="http://evemaps.dotlan.net/map/Metropolis/Offikatlin" class="sys link-5-30003460" target="_top">
       <rect id="rect30003460" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Offikatlin</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Metropolis</text>
+      <text x="28" y="14" class="es" text-anchor="middle">欧菲卡塔林</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">美特伯里斯</text>
     </a>
   </symbol>
 

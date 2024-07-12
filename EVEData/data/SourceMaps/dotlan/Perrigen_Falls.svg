@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Perrigen Falls</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">佩利根弗</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -879,98 +879,98 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Malpais/O8W-5O" class="sys link-5-30001068" target="_top">
       <rect id="rect30001068" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">O8W-5O</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Malpais</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">玛尔pais</text>
     </a>
   </symbol>
   <symbol id="def30001056">
     <a xlink:href="http://evemaps.dotlan.net/map/Malpais/IF-KD1" class="sys link-5-30001056" target="_top">
       <rect id="rect30001056" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">IF-KD1</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Malpais</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">玛尔pais</text>
     </a>
   </symbol>
   <symbol id="def30001330">
     <a xlink:href="http://evemaps.dotlan.net/map/Venal/HD-JVQ" class="sys link-5-30001330" target="_top">
       <rect id="rect30001330" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">HD-JVQ</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Venal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">维纳尔</text>
     </a>
   </symbol>
   <symbol id="def30001107">
     <a xlink:href="http://evemaps.dotlan.net/map/Malpais/QZ1-OH" class="sys link-5-30001107" target="_top">
       <rect id="rect30001107" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">QZ1-OH</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Malpais</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">玛尔pais</text>
     </a>
   </symbol>
   <symbol id="def30002292">
     <a xlink:href="http://evemaps.dotlan.net/map/Etherium_Reach/Z-DRIY" class="sys link-5-30002292" target="_top">
       <rect id="rect30002292" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">Z-DRIY</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Etherium Reach</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">琉蓝之穹</text>
     </a>
   </symbol>
   <symbol id="def30001080">
     <a xlink:href="http://evemaps.dotlan.net/map/Malpais/QCGG-Q" class="sys link-5-30001080" target="_top">
       <rect id="rect30001080" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">QCGG-Q</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Malpais</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">玛尔pais</text>
     </a>
   </symbol>
   <symbol id="def30001796">
     <a xlink:href="http://evemaps.dotlan.net/map/Outer_Passage/9S-GPT" class="sys link-5-30001796" target="_top">
       <rect id="rect30001796" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">9S-GPT</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Outer Passage</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">域外走廊</text>
     </a>
   </symbol>
   <symbol id="def30003237">
     <a xlink:href="http://evemaps.dotlan.net/map/Oasa/Y-0HVF" class="sys link-5-30003237" target="_top">
       <rect id="rect30003237" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">Y-0HVF</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Oasa</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">欧莎</text>
     </a>
   </symbol>
   <symbol id="def30003221">
     <a xlink:href="http://evemaps.dotlan.net/map/Oasa/QE2-FS" class="sys link-5-30003221" target="_top">
       <rect id="rect30003221" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">QE2-FS</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Oasa</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">欧莎</text>
     </a>
   </symbol>
   <symbol id="def30003197">
     <a xlink:href="http://evemaps.dotlan.net/map/Oasa/MTGF-2" class="sys link-5-30003197" target="_top">
       <rect id="rect30003197" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">MTGF-2</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Oasa</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">欧莎</text>
     </a>
   </symbol>
   <symbol id="def30001586">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Spire/OTJ9-E" class="sys link-5-30001586" target="_top">
       <rect id="rect30001586" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">OTJ9-E</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Spire</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">螺旋之域</text>
     </a>
   </symbol>
   <symbol id="def30003196">
     <a xlink:href="http://evemaps.dotlan.net/map/Oasa/DYS-CG" class="sys link-5-30003196" target="_top">
       <rect id="rect30003196" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">DYS-CG</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Oasa</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">欧莎</text>
     </a>
   </symbol>
   <symbol id="def30001592">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Spire/L-EUY2" class="sys link-5-30001592" target="_top">
       <rect id="rect30001592" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">L-EUY2</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Spire</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">螺旋之域</text>
     </a>
   </symbol>
   <symbol id="def30001571">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Spire/EU-WFW" class="sys link-5-30001571" target="_top">
       <rect id="rect30001571" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">EU-WFW</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Spire</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">螺旋之域</text>
     </a>
   </symbol>
 

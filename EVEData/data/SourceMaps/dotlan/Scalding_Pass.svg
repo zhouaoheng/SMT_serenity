@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Scalding Pass</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">灼热之径</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -231,7 +231,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Curse/XX9-WV" class="sys link-5-30001021" target="_top">
       <rect id="rect30001021" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">XX9-WV</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Curse</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">柯尔斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -270,7 +270,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Curse/VOL-MI" class="sys link-5-30001019" target="_top">
       <rect id="rect30001019" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">VOL-MI</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Curse</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">柯尔斯</text>
     </a>
   </symbol>
   <symbol id="def30000721">
@@ -435,7 +435,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Curse/ES-UWY" class="sys link-5-30001029" target="_top">
       <rect id="rect30001029" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">ES-UWY</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Curse</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">柯尔斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -460,7 +460,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Curse/Y-DW5K" class="sys link-5-30001031" target="_top">
       <rect id="rect30001031" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">Y-DW5K</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Curse</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">柯尔斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -749,7 +749,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Curse/HLW-HP" class="sys link-5-30001016" target="_top">
       <rect id="rect30001016" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">HLW-HP</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Curse</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">柯尔斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -761,7 +761,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Curse/RA-NXN" class="sys link-5-30001018" target="_top">
       <rect id="rect30001018" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">RA-NXN</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Curse</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">柯尔斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -772,21 +772,21 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Curse/8G-MQV" class="sys link-5-30001017" target="_top">
       <rect id="rect30001017" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">8G-MQV</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Curse</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">柯尔斯</text>
     </a>
   </symbol>
   <symbol id="def30001011">
     <a xlink:href="http://evemaps.dotlan.net/map/Curse/K-B2D3" class="sys link-5-30001011" target="_top">
       <rect id="rect30001011" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">K-B2D3</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Curse</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">柯尔斯</text>
     </a>
   </symbol>
   <symbol id="def30001032">
     <a xlink:href="http://evemaps.dotlan.net/map/Curse/M-N7WD" class="sys link-5-30001032" target="_top">
       <rect id="rect30001032" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">M-N7WD</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Curse</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">柯尔斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -798,21 +798,21 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Great_Wildlands/TET3-B" class="sys link-5-30000926" target="_top">
       <rect id="rect30000926" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">TET3-B</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Great Wildlands</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">大荒野</text>
     </a>
   </symbol>
   <symbol id="def30000939">
     <a xlink:href="http://evemaps.dotlan.net/map/Great_Wildlands/9-34L5" class="sys link-5-30000939" target="_top">
       <rect id="rect30000939" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">9-34L5</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Great Wildlands</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">大荒野</text>
     </a>
   </symbol>
   <symbol id="def30001001">
     <a xlink:href="http://evemaps.dotlan.net/map/Curse/H-ADOC" class="sys link-5-30001001" target="_top">
       <rect id="rect30001001" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">H-ADOC</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Curse</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">柯尔斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -824,7 +824,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Curse/QFEW-K" class="sys link-5-30001033" target="_top">
       <rect id="rect30001033" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">QFEW-K</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Curse</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">柯尔斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -836,77 +836,77 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Wicked_Creek/G9NE-B" class="sys link-5-30000570" target="_top">
       <rect id="rect30000570" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">G9NE-B</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Wicked Creek</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">邪恶湾流</text>
     </a>
   </symbol>
   <symbol id="def30000568">
     <a xlink:href="http://evemaps.dotlan.net/map/Wicked_Creek/C0O6-K" class="sys link-5-30000568" target="_top">
       <rect id="rect30000568" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">C0O6-K</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Wicked Creek</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">邪恶湾流</text>
     </a>
   </symbol>
   <symbol id="def30000789">
     <a xlink:href="http://evemaps.dotlan.net/map/Insmother/GK5Z-T" class="sys link-5-30000789" target="_top">
       <rect id="rect30000789" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">GK5Z-T</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Insmother</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">因斯姆尔</text>
     </a>
   </symbol>
   <symbol id="def30000583">
     <a xlink:href="http://evemaps.dotlan.net/map/Wicked_Creek/YI-GV6" class="sys link-5-30000583" target="_top">
       <rect id="rect30000583" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">YI-GV6</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Wicked Creek</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">邪恶湾流</text>
     </a>
   </symbol>
   <symbol id="def30000563">
     <a xlink:href="http://evemaps.dotlan.net/map/Wicked_Creek/R0-DMM" class="sys link-5-30000563" target="_top">
       <rect id="rect30000563" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">R0-DMM</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Wicked Creek</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">邪恶湾流</text>
     </a>
   </symbol>
   <symbol id="def30000588">
     <a xlink:href="http://evemaps.dotlan.net/map/Wicked_Creek/TP7-KE" class="sys link-5-30000588" target="_top">
       <rect id="rect30000588" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">TP7-KE</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Wicked Creek</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">邪恶湾流</text>
     </a>
   </symbol>
   <symbol id="def30000792">
     <a xlink:href="http://evemaps.dotlan.net/map/Insmother/GDHN-K" class="sys link-5-30000792" target="_top">
       <rect id="rect30000792" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">GDHN-K</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Insmother</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">因斯姆尔</text>
     </a>
   </symbol>
   <symbol id="def30000554">
     <a xlink:href="http://evemaps.dotlan.net/map/Wicked_Creek/5E-CMA" class="sys link-5-30000554" target="_top">
       <rect id="rect30000554" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">5E-CMA</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Wicked Creek</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">邪恶湾流</text>
     </a>
   </symbol>
   <symbol id="def30000774">
     <a xlink:href="http://evemaps.dotlan.net/map/Insmother/MSG-BZ" class="sys link-5-30000774" target="_top">
       <rect id="rect30000774" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">MSG-BZ</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Insmother</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">因斯姆尔</text>
     </a>
   </symbol>
   <symbol id="def30000787">
     <a xlink:href="http://evemaps.dotlan.net/map/Insmother/74-VZA" class="sys link-5-30000787" target="_top">
       <rect id="rect30000787" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">74-VZA</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Insmother</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">因斯姆尔</text>
     </a>
   </symbol>
   <symbol id="def30000978">
     <a xlink:href="http://evemaps.dotlan.net/map/Great_Wildlands/PUZ-IO" class="sys link-5-30000978" target="_top">
       <rect id="rect30000978" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">PUZ-IO</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Great Wildlands</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">大荒野</text>
     </a>
   </symbol>
 

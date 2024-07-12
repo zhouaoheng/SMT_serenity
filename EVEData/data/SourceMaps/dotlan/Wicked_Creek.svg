@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Wicked Creek</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">邪恶湾流</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -713,91 +713,91 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Scalding_Pass/X9V-15" class="sys link-5-30000664" target="_top">
       <rect id="rect30000664" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">X9V-15</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Scalding Pass</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">灼热之径</text>
     </a>
   </symbol>
   <symbol id="def30000663">
     <a xlink:href="http://evemaps.dotlan.net/map/Scalding_Pass/DE-A7P" class="sys link-5-30000663" target="_top">
       <rect id="rect30000663" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">DE-A7P</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Scalding Pass</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">灼热之径</text>
     </a>
   </symbol>
   <symbol id="def30000730">
     <a xlink:href="http://evemaps.dotlan.net/map/Scalding_Pass/4-43BW" class="sys link-5-30000730" target="_top">
       <rect id="rect30000730" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">4-43BW</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Scalding Pass</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">灼热之径</text>
     </a>
   </symbol>
   <symbol id="def30000679">
     <a xlink:href="http://evemaps.dotlan.net/map/Scalding_Pass/OAQY-M" class="sys link-5-30000679" target="_top">
       <rect id="rect30000679" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">OAQY-M</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Scalding Pass</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">灼热之径</text>
     </a>
   </symbol>
   <symbol id="def30000448">
     <a xlink:href="http://evemaps.dotlan.net/map/Detorid/3-LJW3" class="sys link-5-30000448" target="_top">
       <rect id="rect30000448" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">3-LJW3</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Detorid</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">底特里德</text>
     </a>
   </symbol>
   <symbol id="def30000680">
     <a xlink:href="http://evemaps.dotlan.net/map/Scalding_Pass/1V-LI2" class="sys link-5-30000680" target="_top">
       <rect id="rect30000680" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">1V-LI2</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Scalding Pass</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">灼热之径</text>
     </a>
   </symbol>
   <symbol id="def30000681">
     <a xlink:href="http://evemaps.dotlan.net/map/Scalding_Pass/M9-MLR" class="sys link-5-30000681" target="_top">
       <rect id="rect30000681" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">M9-MLR</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Scalding Pass</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">灼热之径</text>
     </a>
   </symbol>
   <symbol id="def30000439">
     <a xlink:href="http://evemaps.dotlan.net/map/Detorid/OEG-K9" class="sys link-5-30000439" target="_top">
       <rect id="rect30000439" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">OEG-K9</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Detorid</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">底特里德</text>
     </a>
   </symbol>
   <symbol id="def30000774">
     <a xlink:href="http://evemaps.dotlan.net/map/Insmother/MSG-BZ" class="sys link-5-30000774" target="_top">
       <rect id="rect30000774" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">MSG-BZ</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Insmother</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">因斯姆尔</text>
     </a>
   </symbol>
   <symbol id="def30000773">
     <a xlink:href="http://evemaps.dotlan.net/map/Insmother/78-0R6" class="sys link-5-30000773" target="_top">
       <rect id="rect30000773" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">78-0R6</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Insmother</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">因斯姆尔</text>
     </a>
   </symbol>
   <symbol id="def30000763">
     <a xlink:href="http://evemaps.dotlan.net/map/Insmother/SN9-3Z" class="sys link-5-30000763" target="_top">
       <rect id="rect30000763" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">SN9-3Z</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Insmother</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">因斯姆尔</text>
     </a>
   </symbol>
   <symbol id="def30000455">
     <a xlink:href="http://evemaps.dotlan.net/map/Detorid/4NDT-W" class="sys link-5-30000455" target="_top">
       <rect id="rect30000455" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">4NDT-W</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Detorid</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">底特里德</text>
     </a>
   </symbol>
   <symbol id="def30000716">
     <a xlink:href="http://evemaps.dotlan.net/map/Scalding_Pass/B-1UJC" class="sys link-5-30000716" target="_top">
       <rect id="rect30000716" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">B-1UJC</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Scalding Pass</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">灼热之径</text>
     </a>
   </symbol>
 

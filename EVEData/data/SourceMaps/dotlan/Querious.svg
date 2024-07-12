@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Querious</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">逑瑞斯</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -208,7 +208,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Delve/1DH-SX" class="sys link-5-30004710" target="_top">
       <rect id="rect30004710" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">1DH-SX</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Delve</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">绝地之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -226,7 +226,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Delve/UHKL-N" class="sys link-5-30004706" target="_top">
       <rect id="rect30004706" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">UHKL-N</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Delve</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">绝地之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -836,14 +836,14 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Delve/3-DMQT" class="sys link-5-30004764" target="_top">
       <rect id="rect30004764" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">3-DMQT</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Delve</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">绝地之域</text>
     </a>
   </symbol>
   <symbol id="def30004708">
     <a xlink:href="http://evemaps.dotlan.net/map/Delve/A-ELE2" class="sys link-5-30004708" target="_top">
       <rect id="rect30004708" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">A-ELE2</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Delve</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">绝地之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -854,14 +854,14 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Delve/C3N-3S" class="sys link-5-30004798" target="_top">
       <rect id="rect30004798" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">C3N-3S</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Delve</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">绝地之域</text>
     </a>
   </symbol>
   <symbol id="def30004707">
     <a xlink:href="http://evemaps.dotlan.net/map/Delve/Z3V-1W" class="sys link-5-30004707" target="_top">
       <rect id="rect30004707" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">Z3V-1W</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Delve</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">绝地之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -872,7 +872,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Delve/PR-8CA" class="sys link-5-30004711" target="_top">
       <rect id="rect30004711" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">PR-8CA</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Delve</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">绝地之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -883,28 +883,28 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Delve/SVM-3K" class="sys link-5-30004758" target="_top">
       <rect id="rect30004758" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">SVM-3K</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Delve</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">绝地之域</text>
     </a>
   </symbol>
   <symbol id="def30001260">
     <a xlink:href="http://evemaps.dotlan.net/map/Catch/4-07MU" class="sys link-5-30001260" target="_top">
       <rect id="rect30001260" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">4-07MU</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Catch</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡特ch</text>
     </a>
   </symbol>
   <symbol id="def30003892">
     <a xlink:href="http://evemaps.dotlan.net/map/Khanid/Efa" class="sys link-5-30003892" target="_top">
       <rect id="rect30003892" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Efa</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="es" text-anchor="middle">埃尔法</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003887">
     <a xlink:href="http://evemaps.dotlan.net/map/Khanid/Kaira" class="sys link-5-30003887" target="_top">
       <rect id="rect30003887" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Kaira</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="es" text-anchor="middle">凯拉</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
 

@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Vale of the Silent</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -271,7 +271,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Tribute/MSHD-4" class="sys link-5-30000864" target="_top">
       <rect id="rect30000864" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">MSHD-4</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tribute</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特布特</text>
     </a>
   </symbol>
   <symbol id="def30000248">
@@ -344,7 +344,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Tribute/H-W9TY" class="sys link-5-30000865" target="_top">
       <rect id="rect30000865" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">H-W9TY</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tribute</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特布特</text>
     </a>
   </symbol>
   <symbol id="def30000241">
@@ -386,7 +386,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Tribute/D7-ZAC" class="sys link-5-30000867" target="_top">
       <rect id="rect30000867" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">D7-ZAC</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tribute</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特布特</text>
     </a>
   </symbol>
   <symbol id="def30000239">
@@ -428,7 +428,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Tribute/WH-JCA" class="sys link-5-30000871" target="_top">
       <rect id="rect30000871" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">WH-JCA</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tribute</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特布特</text>
     </a>
   </symbol>
   <symbol id="def30000267">
@@ -542,7 +542,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Tribute/W6VP-Y" class="sys link-5-30000894" target="_top">
       <rect id="rect30000894" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">W6VP-Y</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tribute</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特布特</text>
     </a>
   </symbol>
   <symbol id="def30000272">
@@ -600,7 +600,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Tribute/IMK-K1" class="sys link-5-30000895" target="_top">
       <rect id="rect30000895" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">IMK-K1</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tribute</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特布特</text>
     </a>
   </symbol>
   <symbol id="def30000223">
@@ -670,7 +670,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Tribute/NJ4X-S" class="sys link-5-30000896" target="_top">
       <rect id="rect30000896" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">NJ4X-S</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tribute</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特布特</text>
     </a>
   </symbol>
   <symbol id="def30000303">
@@ -1022,8 +1022,8 @@
   <symbol id="def30000205">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Forge/Obe" class="sys link-5-30000205" target="_top">
       <rect id="rect30000205" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Obe</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Forge</text>
+      <text x="28" y="14" class="es" text-anchor="middle">欧贝</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">伏尔戈</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1035,84 +1035,84 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Tribute/C2X-M5" class="sys link-5-30000863" target="_top">
       <rect id="rect30000863" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">C2X-M5</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tribute</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特布特</text>
     </a>
   </symbol>
   <symbol id="def30000868">
     <a xlink:href="http://evemaps.dotlan.net/map/Tribute/SH1-6P" class="sys link-5-30000868" target="_top">
       <rect id="rect30000868" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">SH1-6P</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tribute</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特布特</text>
     </a>
   </symbol>
   <symbol id="def30000870">
     <a xlink:href="http://evemaps.dotlan.net/map/Tribute/O-0ERG" class="sys link-5-30000870" target="_top">
       <rect id="rect30000870" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">O-0ERG</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tribute</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特布特</text>
     </a>
   </symbol>
   <symbol id="def30000872">
     <a xlink:href="http://evemaps.dotlan.net/map/Tribute/Q-CAB2" class="sys link-5-30000872" target="_top">
       <rect id="rect30000872" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">Q-CAB2</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tribute</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特布特</text>
     </a>
   </symbol>
   <symbol id="def30001348">
     <a xlink:href="http://evemaps.dotlan.net/map/Venal/G9D-XW" class="sys link-5-30001348" target="_top">
       <rect id="rect30001348" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">G9D-XW</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Venal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">维纳尔</text>
     </a>
   </symbol>
   <symbol id="def30000899">
     <a xlink:href="http://evemaps.dotlan.net/map/Tribute/QFF-O6" class="sys link-5-30000899" target="_top">
       <rect id="rect30000899" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">QFF-O6</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tribute</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特布特</text>
     </a>
   </symbol>
   <symbol id="def30000897">
     <a xlink:href="http://evemaps.dotlan.net/map/Tribute/F-G7BO" class="sys link-5-30000897" target="_top">
       <rect id="rect30000897" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">F-G7BO</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tribute</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特布特</text>
     </a>
   </symbol>
   <symbol id="def30002421">
     <a xlink:href="http://evemaps.dotlan.net/map/Geminate/MR4-MY" class="sys link-5-30002421" target="_top">
       <rect id="rect30002421" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">MR4-MY</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Geminate</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">对舞之域</text>
     </a>
   </symbol>
   <symbol id="def30000898">
     <a xlink:href="http://evemaps.dotlan.net/map/Tribute/2CG-5V" class="sys link-5-30000898" target="_top">
       <rect id="rect30000898" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">2CG-5V</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tribute</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特布特</text>
     </a>
   </symbol>
   <symbol id="def30002470">
     <a xlink:href="http://evemaps.dotlan.net/map/Geminate/L-TOFR" class="sys link-5-30002470" target="_top">
       <rect id="rect30002470" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">L-TOFR</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Geminate</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">对舞之域</text>
     </a>
   </symbol>
   <symbol id="def30002825">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Kalevala_Expanse/UDVW-O" class="sys link-5-30002825" target="_top">
       <rect id="rect30002825" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">UDVW-O</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Kalevala Expanse</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡勒瓦拉阔地</text>
     </a>
   </symbol>
   <symbol id="def30002479">
     <a xlink:href="http://evemaps.dotlan.net/map/Geminate/QP0K-B" class="sys link-5-30002479" target="_top">
       <rect id="rect30002479" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">QP0K-B</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Geminate</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">对舞之域</text>
     </a>
   </symbol>
 

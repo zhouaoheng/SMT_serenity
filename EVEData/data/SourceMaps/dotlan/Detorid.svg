@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Detorid</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">底特里德</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -723,7 +723,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Insmother/N7-KGJ" class="sys link-5-30000841" target="_top">
       <rect id="rect30000841" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">N7-KGJ</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Insmother</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">因斯姆尔</text>
     </a>
   </symbol>
   <symbol id="def30000455">
@@ -766,7 +766,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Insmother/VD-8QY" class="sys link-5-30000842" target="_top">
       <rect id="rect30000842" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">VD-8QY</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Insmother</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">因斯姆尔</text>
     </a>
   </symbol>
   <symbol id="def30000441">
@@ -795,7 +795,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Insmother/J-ZYSZ" class="sys link-5-30000843" target="_top">
       <rect id="rect30000843" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">J-ZYSZ</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Insmother</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">因斯姆尔</text>
     </a>
   </symbol>
   <symbol id="def30000497">
@@ -816,7 +816,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Insmother/5C-RPA" class="sys link-5-30000844" target="_top">
       <rect id="rect30000844" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">5C-RPA</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Insmother</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">因斯姆尔</text>
     </a>
   </symbol>
   <symbol id="def30000442">
@@ -844,77 +844,77 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Immensea/E8-YS9" class="sys link-5-30002163" target="_top">
       <rect id="rect30002163" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">E8-YS9</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Immensea</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">伊梅瑟亚</text>
     </a>
   </symbol>
   <symbol id="def30000603">
     <a xlink:href="http://evemaps.dotlan.net/map/Wicked_Creek/V7G-RL" class="sys link-5-30000603" target="_top">
       <rect id="rect30000603" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">V7G-RL</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Wicked Creek</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">邪恶湾流</text>
     </a>
   </symbol>
   <symbol id="def30000581">
     <a xlink:href="http://evemaps.dotlan.net/map/Wicked_Creek/5H-SM2" class="sys link-5-30000581" target="_top">
       <rect id="rect30000581" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">5H-SM2</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Wicked Creek</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">邪恶湾流</text>
     </a>
   </symbol>
   <symbol id="def30000779">
     <a xlink:href="http://evemaps.dotlan.net/map/Insmother/SHBF-V" class="sys link-5-30000779" target="_top">
       <rect id="rect30000779" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">SHBF-V</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Insmother</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">因斯姆尔</text>
     </a>
   </symbol>
   <symbol id="def30002181">
     <a xlink:href="http://evemaps.dotlan.net/map/Immensea/M-ZJWJ" class="sys link-5-30002181" target="_top">
       <rect id="rect30002181" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">M-ZJWJ</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Immensea</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">伊梅瑟亚</text>
     </a>
   </symbol>
   <symbol id="def30000839">
     <a xlink:href="http://evemaps.dotlan.net/map/Insmother/GB-6X5" class="sys link-5-30000839" target="_top">
       <rect id="rect30000839" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">GB-6X5</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Insmother</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">因斯姆尔</text>
     </a>
   </symbol>
   <symbol id="def30000840">
     <a xlink:href="http://evemaps.dotlan.net/map/Insmother/7EX-14" class="sys link-5-30000840" target="_top">
       <rect id="rect30000840" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">7EX-14</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Insmother</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">因斯姆尔</text>
     </a>
   </symbol>
   <symbol id="def30000838">
     <a xlink:href="http://evemaps.dotlan.net/map/Insmother/0-6VZ5" class="sys link-5-30000838" target="_top">
       <rect id="rect30000838" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">0-6VZ5</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Insmother</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">因斯姆尔</text>
     </a>
   </symbol>
   <symbol id="def30004878">
     <a xlink:href="http://evemaps.dotlan.net/map/Tenerifis/46DP-O" class="sys link-5-30004878" target="_top">
       <rect id="rect30004878" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">46DP-O</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tenerifis</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特里菲斯</text>
     </a>
   </symbol>
   <symbol id="def30000845">
     <a xlink:href="http://evemaps.dotlan.net/map/Insmother/CR2-PQ" class="sys link-5-30000845" target="_top">
       <rect id="rect30000845" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">CR2-PQ</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Insmother</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">因斯姆尔</text>
     </a>
   </symbol>
   <symbol id="def30000544">
     <a xlink:href="http://evemaps.dotlan.net/map/Wicked_Creek/GM-50Y" class="sys link-5-30000544" target="_top">
       <rect id="rect30000544" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">GM-50Y</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Wicked Creek</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">邪恶湾流</text>
     </a>
   </symbol>
 

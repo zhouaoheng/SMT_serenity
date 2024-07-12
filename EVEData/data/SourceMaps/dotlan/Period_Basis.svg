@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Period Basis</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">贝斯</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -414,28 +414,28 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Delve/LWX-93" class="sys link-5-30004800" target="_top">
       <rect id="rect30004800" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">LWX-93</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Delve</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">绝地之域</text>
     </a>
   </symbol>
   <symbol id="def30001926">
     <a xlink:href="http://evemaps.dotlan.net/map/Stain/CJF-1P" class="sys link-5-30001926" target="_top">
       <rect id="rect30001926" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">CJF-1P</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Stain</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">混浊</text>
     </a>
   </symbol>
   <symbol id="def30004696">
     <a xlink:href="http://evemaps.dotlan.net/map/Paragon_Soul/G-M4GK" class="sys link-5-30004696" target="_top">
       <rect id="rect30004696" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">G-M4GK</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Paragon Soul</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">摄魂之域</text>
     </a>
   </symbol>
   <symbol id="def30004801">
     <a xlink:href="http://evemaps.dotlan.net/map/Delve/1-2J4P" class="sys link-5-30004801" target="_top">
       <rect id="rect30004801" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">1-2J4P</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Delve</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">绝地之域</text>
     </a>
   </symbol>
 

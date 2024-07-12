@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Omist</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">欧米斯特</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -437,21 +437,21 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Feythabolis/TSG-NO" class="sys link-5-30004423" target="_top">
       <rect id="rect30004423" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">TSG-NO</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Feythabolis</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">非塔波利斯</text>
     </a>
   </symbol>
   <symbol id="def30004882">
     <a xlink:href="http://evemaps.dotlan.net/map/Tenerifis/ZO-P5K" class="sys link-5-30004882" target="_top">
       <rect id="rect30004882" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">ZO-P5K</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tenerifis</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特里菲斯</text>
     </a>
   </symbol>
   <symbol id="def30004486">
     <a xlink:href="http://evemaps.dotlan.net/map/Feythabolis/6-ELQP" class="sys link-5-30004486" target="_top">
       <rect id="rect30004486" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">6-ELQP</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Feythabolis</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">非塔波利斯</text>
     </a>
   </symbol>
 

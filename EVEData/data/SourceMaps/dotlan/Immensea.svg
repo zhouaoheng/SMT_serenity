@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Immensea</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">伊梅瑟亚</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -733,42 +733,42 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Catch/9-8GBA" class="sys link-5-30001166" target="_top">
       <rect id="rect30001166" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">9-8GBA</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Catch</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡特ch</text>
     </a>
   </symbol>
   <symbol id="def30004804">
     <a xlink:href="http://evemaps.dotlan.net/map/Tenerifis/BW-WJ2" class="sys link-5-30004804" target="_top">
       <rect id="rect30004804" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">BW-WJ2</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tenerifis</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特里菲斯</text>
     </a>
   </symbol>
   <symbol id="def30000513">
     <a xlink:href="http://evemaps.dotlan.net/map/Detorid/62O-UE" class="sys link-5-30000513" target="_top">
       <rect id="rect30000513" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">62O-UE</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Detorid</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">底特里德</text>
     </a>
   </symbol>
   <symbol id="def30004871">
     <a xlink:href="http://evemaps.dotlan.net/map/Tenerifis/R1-IMO" class="sys link-5-30004871" target="_top">
       <rect id="rect30004871" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">R1-IMO</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tenerifis</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特里菲斯</text>
     </a>
   </symbol>
   <symbol id="def30000520">
     <a xlink:href="http://evemaps.dotlan.net/map/Detorid/I-9GI1" class="sys link-5-30000520" target="_top">
       <rect id="rect30000520" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">I-9GI1</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Detorid</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">底特里德</text>
     </a>
   </symbol>
   <symbol id="def30004820">
     <a xlink:href="http://evemaps.dotlan.net/map/Tenerifis/ZMV9-A" class="sys link-5-30004820" target="_top">
       <rect id="rect30004820" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">ZMV9-A</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tenerifis</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特里菲斯</text>
     </a>
   </symbol>
 

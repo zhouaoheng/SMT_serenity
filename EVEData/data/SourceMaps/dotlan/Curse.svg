@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Curse</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">柯尔斯</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -141,7 +141,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Doril" class="sys link-5-30001047" target="_top">
     <rect id="ice30001047" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30001047" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Doril</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">多尼尔</text>
       <text id="txt30001047" x="28" y="21.7" class="st" text-anchor="middle">Angel Cartel</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -153,14 +153,14 @@
   <symbol id="def30001050">
     <a xlink:href="http://evemaps.dotlan.net/system/Jamunda" class="sys link-5-30001050" target="_top">
       <rect id="rect30001050" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Jamunda</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">加蒙达</text>
       <text id="txt30001050" x="28" y="21.7" class="st" text-anchor="middle">Angel Cartel</text>
     </a>
   </symbol>
   <symbol id="def30001048">
     <a xlink:href="http://evemaps.dotlan.net/system/Litom" class="sys link-5-30001048" target="_top">
       <rect id="rect30001048" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Litom</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">利顿</text>
       <text id="txt30001048" x="28" y="21.7" class="st" text-anchor="middle">Angel Cartel</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -172,14 +172,14 @@
   <symbol id="def30001049">
     <a xlink:href="http://evemaps.dotlan.net/system/Farit" class="sys link-5-30001049" target="_top">
       <rect id="rect30001049" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Farit</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">法里忒</text>
       <text id="txt30001049" x="28" y="21.7" class="st" text-anchor="middle">Angel Cartel</text>
     </a>
   </symbol>
   <symbol id="def30001046">
     <a xlink:href="http://evemaps.dotlan.net/system/Jorund" class="sys link-5-30001046" target="_top">
       <rect id="rect30001046" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Jorund</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">乔伦德</text>
       <text id="txt30001046" x="28" y="21.7" class="st" text-anchor="middle">Angel Cartel</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -191,7 +191,7 @@
   <symbol id="def30001045">
     <a xlink:href="http://evemaps.dotlan.net/system/Utopia" class="sys link-5-30001045" target="_top">
       <rect id="rect30001045" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Utopia</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">乌托邦</text>
       <text id="txt30001045" x="28" y="21.7" class="st" text-anchor="middle">Angel Cartel</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -217,7 +217,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Hemin" class="sys link-5-30001044" target="_top">
     <rect id="ice30001044" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30001044" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Hemin</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">赫明</text>
       <text id="txt30001044" x="28" y="21.7" class="st" text-anchor="middle">Angel Cartel</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -483,7 +483,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Scalding_Pass/K7-LDX" class="sys link-5-30000659" target="_top">
       <rect id="rect30000659" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">K7-LDX</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Scalding Pass</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">灼热之径</text>
     </a>
   </symbol>
   <symbol id="def30001018">
@@ -501,7 +501,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Scalding_Pass/S-E6ES" class="sys link-5-30000657" target="_top">
       <rect id="rect30000657" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">S-E6ES</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Scalding Pass</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">灼热之径</text>
     </a>
   </symbol>
   <symbol id="def30001006">
@@ -662,8 +662,8 @@
   <symbol id="def30000015">
     <a xlink:href="http://evemaps.dotlan.net/map/Derelik/Sendaya" class="sys link-5-30000015" target="_top">
       <rect id="rect30000015" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Sendaya</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Derelik</text>
+      <text x="28" y="14" class="es" text-anchor="middle">森达雅</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">德里克</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -674,63 +674,63 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Catch/1P-WGB" class="sys link-5-30001170" target="_top">
       <rect id="rect30001170" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">1P-WGB</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Catch</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡特ch</text>
     </a>
   </symbol>
   <symbol id="def30001155">
     <a xlink:href="http://evemaps.dotlan.net/map/Catch/U-QVWD" class="sys link-5-30001155" target="_top">
       <rect id="rect30001155" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">U-QVWD</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Catch</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡特ch</text>
     </a>
   </symbol>
   <symbol id="def30000921">
     <a xlink:href="http://evemaps.dotlan.net/map/Great_Wildlands/UT-UZB" class="sys link-5-30000921" target="_top">
       <rect id="rect30000921" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">UT-UZB</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Great Wildlands</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">大荒野</text>
     </a>
   </symbol>
   <symbol id="def30000656">
     <a xlink:href="http://evemaps.dotlan.net/map/Scalding_Pass/ARG-3R" class="sys link-5-30000656" target="_top">
       <rect id="rect30000656" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">ARG-3R</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Scalding Pass</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">灼热之径</text>
     </a>
   </symbol>
   <symbol id="def30000660">
     <a xlink:href="http://evemaps.dotlan.net/map/Scalding_Pass/U-IVGH" class="sys link-5-30000660" target="_top">
       <rect id="rect30000660" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">U-IVGH</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Scalding Pass</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">灼热之径</text>
     </a>
   </symbol>
   <symbol id="def30000658">
     <a xlink:href="http://evemaps.dotlan.net/map/Scalding_Pass/R-3FBU" class="sys link-5-30000658" target="_top">
       <rect id="rect30000658" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">R-3FBU</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Scalding Pass</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">灼热之径</text>
     </a>
   </symbol>
   <symbol id="def30000691">
     <a xlink:href="http://evemaps.dotlan.net/map/Scalding_Pass/AH8-Q7" class="sys link-5-30000691" target="_top">
       <rect id="rect30000691" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">AH8-Q7</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Scalding Pass</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">灼热之径</text>
     </a>
   </symbol>
   <symbol id="def30000655">
     <a xlink:href="http://evemaps.dotlan.net/map/Scalding_Pass/EIN-QG" class="sys link-5-30000655" target="_top">
       <rect id="rect30000655" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">EIN-QG</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Scalding Pass</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">灼热之径</text>
     </a>
   </symbol>
   <symbol id="def30000688">
     <a xlink:href="http://evemaps.dotlan.net/map/Scalding_Pass/ZFJH-T" class="sys link-5-30000688" target="_top">
       <rect id="rect30000688" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">ZFJH-T</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Scalding Pass</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">灼热之径</text>
     </a>
   </symbol>
 

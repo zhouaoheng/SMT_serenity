@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Syndicate</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">辛迪加</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -129,7 +129,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/GRNJ-3" class="sys link-5-30003360" target="_top">
       <rect id="rect30003360" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">GRNJ-3</text>
-      <text id="txt30003360" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003360" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -142,14 +142,14 @@
     <rect id="ice30003359" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003359" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">DUV-5Y</text>
-      <text id="txt30003359" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003359" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003353">
     <a xlink:href="http://evemaps.dotlan.net/system/RLL-9R" class="sys link-5-30003353" target="_top">
       <rect id="rect30003353" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">RLL-9R</text>
-      <text id="txt30003353" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003353" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -160,28 +160,28 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Z-QENW" class="sys link-5-30003357" target="_top">
       <rect id="rect30003357" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">Z-QENW</text>
-      <text id="txt30003357" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003357" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003354">
     <a xlink:href="http://evemaps.dotlan.net/system/51-5XG" class="sys link-5-30003354" target="_top">
       <rect id="rect30003354" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">51-5XG</text>
-      <text id="txt30003354" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003354" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30004496">
     <a xlink:href="http://evemaps.dotlan.net/map/Outer_Ring/ZQP-QV" class="sys link-5-30004496" target="_top">
       <rect id="rect30004496" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">ZQP-QV</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Outer Ring</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">外环</text>
     </a>
   </symbol>
   <symbol id="def30003351">
     <a xlink:href="http://evemaps.dotlan.net/system/4L-E5P" class="sys link-5-30003351" target="_top">
       <rect id="rect30003351" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">4L-E5P</text>
-      <text id="txt30003351" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003351" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -192,7 +192,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/EF-F36" class="sys link-5-30003355" target="_top">
       <rect id="rect30003355" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">EF-F36</text>
-      <text id="txt30003355" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003355" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -204,7 +204,7 @@
     <rect id="ice30003350" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003350" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">57-YRU</text>
-      <text id="txt30003350" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003350" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -215,14 +215,14 @@
     <a xlink:href="http://evemaps.dotlan.net/system/3-IN0V" class="sys link-5-30003356" target="_top">
       <rect id="rect30003356" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">3-IN0V</text>
-      <text id="txt30003356" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003356" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003349">
     <a xlink:href="http://evemaps.dotlan.net/system/0T-AMZ" class="sys link-5-30003349" target="_top">
       <rect id="rect30003349" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">0T-AMZ</text>
-      <text id="txt30003349" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003349" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -234,28 +234,28 @@
     <rect id="ice30003352" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003352" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">UFXF-C</text>
-      <text id="txt30003352" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003352" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003358">
     <a xlink:href="http://evemaps.dotlan.net/system/D-B7YK" class="sys link-5-30003358" target="_top">
       <rect id="rect30003358" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">D-B7YK</text>
-      <text id="txt30003358" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003358" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30004500">
     <a xlink:href="http://evemaps.dotlan.net/map/Outer_Ring/TQ-RR8" class="sys link-5-30004500" target="_top">
       <rect id="rect30004500" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">TQ-RR8</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Outer Ring</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">外环</text>
     </a>
   </symbol>
   <symbol id="def30003345">
     <a xlink:href="http://evemaps.dotlan.net/system/D85-VD" class="sys link-5-30003345" target="_top">
       <rect id="rect30003345" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">D85-VD</text>
-      <text id="txt30003345" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003345" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -265,14 +265,14 @@
     <a xlink:href="http://evemaps.dotlan.net/system/EU0I-T" class="sys link-5-30003365" target="_top">
       <rect id="rect30003365" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">EU0I-T</text>
-      <text id="txt30003365" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003365" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003335">
     <a xlink:href="http://evemaps.dotlan.net/system/A-SJ8X" class="sys link-5-30003335" target="_top">
       <rect id="rect30003335" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">A-SJ8X</text>
-      <text id="txt30003335" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003335" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -283,14 +283,14 @@
     <a xlink:href="http://evemaps.dotlan.net/system/G-6SXJ" class="sys link-5-30003367" target="_top">
       <rect id="rect30003367" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">G-6SXJ</text>
-      <text id="txt30003367" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003367" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003343">
     <a xlink:href="http://evemaps.dotlan.net/system/KFR-ZE" class="sys link-5-30003343" target="_top">
       <rect id="rect30003343" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">KFR-ZE</text>
-      <text id="txt30003343" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003343" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -302,14 +302,14 @@
     <rect id="ice30003347" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003347" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">U0V6-T</text>
-      <text id="txt30003347" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003347" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003364">
     <a xlink:href="http://evemaps.dotlan.net/system/DCHR-L" class="sys link-5-30003364" target="_top">
       <rect id="rect30003364" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">DCHR-L</text>
-      <text id="txt30003364" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003364" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -319,14 +319,14 @@
     <a xlink:href="http://evemaps.dotlan.net/system/5KS-AB" class="sys link-5-30003348" target="_top">
       <rect id="rect30003348" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">5KS-AB</text>
-      <text id="txt30003348" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003348" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30004499">
     <a xlink:href="http://evemaps.dotlan.net/map/Outer_Ring/E9G-MT" class="sys link-5-30004499" target="_top">
       <rect id="rect30004499" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">E9G-MT</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Outer Ring</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">外环</text>
     </a>
   </symbol>
   <symbol id="def30003361">
@@ -334,7 +334,7 @@
     <rect id="ice30003361" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003361" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">VSIG-K</text>
-      <text id="txt30003361" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003361" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -345,7 +345,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/RSS-KA" class="sys link-5-30003362" target="_top">
       <rect id="rect30003362" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">RSS-KA</text>
-      <text id="txt30003362" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003362" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -355,14 +355,14 @@
     <a xlink:href="http://evemaps.dotlan.net/system/EN-VOD" class="sys link-5-30003337" target="_top">
       <rect id="rect30003337" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">EN-VOD</text>
-      <text id="txt30003337" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003337" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003341">
     <a xlink:href="http://evemaps.dotlan.net/system/9U-TTJ" class="sys link-5-30003341" target="_top">
       <rect id="rect30003341" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">9U-TTJ</text>
-      <text id="txt30003341" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003341" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003332">
@@ -370,7 +370,7 @@
     <rect id="ice30003332" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003332" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">2P-4LS</text>
-      <text id="txt30003332" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003332" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -381,7 +381,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/CIS-7X" class="sys link-5-30003363" target="_top">
       <rect id="rect30003363" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">CIS-7X</text>
-      <text id="txt30003363" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003363" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -392,14 +392,14 @@
     <a xlink:href="http://evemaps.dotlan.net/system/5-VKCN" class="sys link-5-30003346" target="_top">
       <rect id="rect30003346" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">5-VKCN</text>
-      <text id="txt30003346" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003346" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003342">
     <a xlink:href="http://evemaps.dotlan.net/system/Y-W6GF" class="sys link-5-30003342" target="_top">
       <rect id="rect30003342" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">Y-W6GF</text>
-      <text id="txt30003342" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003342" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -410,7 +410,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/KLYN-8" class="sys link-5-30003344" target="_top">
       <rect id="rect30003344" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">KLYN-8</text>
-      <text id="txt30003344" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003344" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -422,21 +422,21 @@
     <a xlink:href="http://evemaps.dotlan.net/system/4-JWWQ" class="sys link-5-30003366" target="_top">
       <rect id="rect30003366" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">4-JWWQ</text>
-      <text id="txt30003366" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003366" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003336">
     <a xlink:href="http://evemaps.dotlan.net/system/10UZ-P" class="sys link-5-30003336" target="_top">
       <rect id="rect30003336" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">10UZ-P</text>
-      <text id="txt30003336" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003336" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003334">
     <a xlink:href="http://evemaps.dotlan.net/system/LSC4-P" class="sys link-5-30003334" target="_top">
       <rect id="rect30003334" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">LSC4-P</text>
-      <text id="txt30003334" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003334" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -447,7 +447,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/0LTQ-C" class="sys link-5-30003330" target="_top">
       <rect id="rect30003330" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">0LTQ-C</text>
-      <text id="txt30003330" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003330" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -459,7 +459,7 @@
     <rect id="ice30003333" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003333" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">RF-GGF</text>
-      <text id="txt30003333" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003333" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -472,7 +472,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/3KNK-A" class="sys link-5-30003322" target="_top">
       <rect id="rect30003322" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">3KNK-A</text>
-      <text id="txt30003322" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003322" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -483,7 +483,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/9GYL-O" class="sys link-5-30003338" target="_top">
       <rect id="rect30003338" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">9GYL-O</text>
-      <text id="txt30003338" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003338" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -495,7 +495,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/31-MLU" class="sys link-5-30003329" target="_top">
       <rect id="rect30003329" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">31-MLU</text>
-      <text id="txt30003329" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003329" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -508,7 +508,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/2G38-I" class="sys link-5-30003370" target="_top">
       <rect id="rect30003370" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">2G38-I</text>
-      <text id="txt30003370" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003370" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -518,7 +518,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/BY-S36" class="sys link-5-30003328" target="_top">
       <rect id="rect30003328" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">BY-S36</text>
-      <text id="txt30003328" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003328" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -528,7 +528,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/BMNV-P" class="sys link-5-30003327" target="_top">
       <rect id="rect30003327" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">BMNV-P</text>
-      <text id="txt30003327" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003327" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -539,7 +539,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/3MOG-V" class="sys link-5-30003324" target="_top">
       <rect id="rect30003324" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">3MOG-V</text>
-      <text id="txt30003324" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003324" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -550,7 +550,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/MXYS-8" class="sys link-5-30003318" target="_top">
       <rect id="rect30003318" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">MXYS-8</text>
-      <text id="txt30003318" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003318" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -561,7 +561,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/TXW-EI" class="sys link-5-30003323" target="_top">
       <rect id="rect30003323" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">TXW-EI</text>
-      <text id="txt30003323" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003323" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -572,7 +572,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/VLGD-R" class="sys link-5-30003339" target="_top">
       <rect id="rect30003339" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">VLGD-R</text>
-      <text id="txt30003339" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003339" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -584,14 +584,14 @@
     <a xlink:href="http://evemaps.dotlan.net/system/S-GKKR" class="sys link-5-30003340" target="_top">
       <rect id="rect30003340" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">S-GKKR</text>
-      <text id="txt30003340" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003340" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003331">
     <a xlink:href="http://evemaps.dotlan.net/system/A9D-R0" class="sys link-5-30003331" target="_top">
       <rect id="rect30003331" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">A9D-R0</text>
-      <text id="txt30003331" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003331" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003321">
@@ -599,7 +599,7 @@
     <rect id="ice30003321" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003321" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">5-FGQI</text>
-      <text id="txt30003321" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003321" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -612,7 +612,7 @@
     <rect id="ice30003373" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003373" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">98Q-8O</text>
-      <text id="txt30003373" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003373" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -625,7 +625,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/S-U8A4" class="sys link-5-30003368" target="_top">
       <rect id="rect30003368" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">S-U8A4</text>
-      <text id="txt30003368" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003368" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -638,7 +638,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/6-U2M8" class="sys link-5-30003316" target="_top">
       <rect id="rect30003316" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">6-U2M8</text>
-      <text id="txt30003316" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003316" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003320">
@@ -646,7 +646,7 @@
     <rect id="ice30003320" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003320" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">8V-SJJ</text>
-      <text id="txt30003320" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003320" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003325">
@@ -654,7 +654,7 @@
     <rect id="ice30003325" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003325" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">NG-C6Y</text>
-      <text id="txt30003325" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003325" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003279">
@@ -662,7 +662,7 @@
     <rect id="ice30003279" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003279" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">K5-JRD</text>
-      <text id="txt30003279" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003279" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -673,14 +673,14 @@
     <a xlink:href="http://evemaps.dotlan.net/system/XS-XAY" class="sys link-5-30003313" target="_top">
       <rect id="rect30003313" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">XS-XAY</text>
-      <text id="txt30003313" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003313" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003314">
     <a xlink:href="http://evemaps.dotlan.net/system/DP34-U" class="sys link-5-30003314" target="_top">
       <rect id="rect30003314" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">DP34-U</text>
-      <text id="txt30003314" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003314" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -691,7 +691,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/CY-ZLP" class="sys link-5-30003371" target="_top">
       <rect id="rect30003371" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">CY-ZLP</text>
-      <text id="txt30003371" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003371" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -704,7 +704,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/ZV-72W" class="sys link-5-30003369" target="_top">
       <rect id="rect30003369" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">ZV-72W</text>
-      <text id="txt30003369" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003369" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -716,7 +716,7 @@
     <rect id="ice30003317" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003317" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">I0AB-R</text>
-      <text id="txt30003317" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003317" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -728,7 +728,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/X-M2LR" class="sys link-5-30003278" target="_top">
       <rect id="rect30003278" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">X-M2LR</text>
-      <text id="txt30003278" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003278" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -739,7 +739,7 @@
     <rect id="ice30003312" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003312" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">35-RK9</text>
-      <text id="txt30003312" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003312" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -750,14 +750,14 @@
     <a xlink:href="http://evemaps.dotlan.net/system/PF-346" class="sys link-5-30003277" target="_top">
       <rect id="rect30003277" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">PF-346</text>
-      <text id="txt30003277" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003277" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003326">
     <a xlink:href="http://evemaps.dotlan.net/system/XYY-IA" class="sys link-5-30003326" target="_top">
       <rect id="rect30003326" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">XYY-IA</text>
-      <text id="txt30003326" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003326" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -767,7 +767,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/FD-MLJ" class="sys link-5-30003276" target="_top">
       <rect id="rect30003276" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">FD-MLJ</text>
-      <text id="txt30003276" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003276" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -778,7 +778,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/IIRH-G" class="sys link-5-30003311" target="_top">
       <rect id="rect30003311" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">IIRH-G</text>
-      <text id="txt30003311" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003311" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -789,14 +789,14 @@
     <a xlink:href="http://evemaps.dotlan.net/system/617I-I" class="sys link-5-30003315" target="_top">
       <rect id="rect30003315" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">617I-I</text>
-      <text id="txt30003315" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003315" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003372">
     <a xlink:href="http://evemaps.dotlan.net/system/U4-Q2V" class="sys link-5-30003372" target="_top">
       <rect id="rect30003372" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">U4-Q2V</text>
-      <text id="txt30003372" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003372" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -806,14 +806,14 @@
     <a xlink:href="http://evemaps.dotlan.net/system/A-3ES3" class="sys link-5-30003319" target="_top">
       <rect id="rect30003319" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">A-3ES3</text>
-      <text id="txt30003319" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003319" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003274">
     <a xlink:href="http://evemaps.dotlan.net/system/X-BV98" class="sys link-5-30003274" target="_top">
       <rect id="rect30003274" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">X-BV98</text>
-      <text id="txt30003274" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003274" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -823,7 +823,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/5-75MB" class="sys link-5-30003310" target="_top">
       <rect id="rect30003310" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">5-75MB</text>
-      <text id="txt30003310" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003310" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003309">
@@ -831,7 +831,7 @@
     <rect id="ice30003309" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003309" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">VV-VCR</text>
-      <text id="txt30003309" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003309" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -840,8 +840,8 @@
   <symbol id="def30003271">
     <a xlink:href="http://evemaps.dotlan.net/system/Poitot" class="sys link-5-30003271" target="_top">
       <rect id="rect30003271" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Poitot</text>
-      <text id="txt30003271" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">波伊托特</text>
+      <text id="txt30003271" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -853,7 +853,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/6-CZ49" class="sys link-5-30003280" target="_top">
       <rect id="rect30003280" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">6-CZ49</text>
-      <text id="txt30003280" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003280" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -864,7 +864,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/EZA-FM" class="sys link-5-30003281" target="_top">
       <rect id="rect30003281" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">EZA-FM</text>
-      <text id="txt30003281" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003281" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -878,21 +878,21 @@
     <rect id="ice30003308" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003308" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">I-YGGI</text>
-      <text id="txt30003308" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003308" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003303">
     <a xlink:href="http://evemaps.dotlan.net/system/6R-PWU" class="sys link-5-30003303" target="_top">
       <rect id="rect30003303" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">6R-PWU</text>
-      <text id="txt30003303" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003303" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003275">
     <a xlink:href="http://evemaps.dotlan.net/system/2X-PQG" class="sys link-5-30003275" target="_top">
       <rect id="rect30003275" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">2X-PQG</text>
-      <text id="txt30003275" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003275" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -904,21 +904,21 @@
     <a xlink:href="http://evemaps.dotlan.net/system/UTKS-5" class="sys link-5-30003306" target="_top">
       <rect id="rect30003306" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">UTKS-5</text>
-      <text id="txt30003306" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003306" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003302">
     <a xlink:href="http://evemaps.dotlan.net/system/5-T0PZ" class="sys link-5-30003302" target="_top">
       <rect id="rect30003302" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">5-T0PZ</text>
-      <text id="txt30003302" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003302" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003305">
     <a xlink:href="http://evemaps.dotlan.net/system/A-ZLHX" class="sys link-5-30003305" target="_top">
       <rect id="rect30003305" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">A-ZLHX</text>
-      <text id="txt30003305" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003305" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -929,7 +929,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/F67E-Q" class="sys link-5-30003269" target="_top">
       <rect id="rect30003269" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">F67E-Q</text>
-      <text id="txt30003269" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003269" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -940,7 +940,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/PVH8-0" class="sys link-5-30003283" target="_top">
       <rect id="rect30003283" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">PVH8-0</text>
-      <text id="txt30003283" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003283" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -953,7 +953,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/JH-M2W" class="sys link-5-30003285" target="_top">
       <rect id="rect30003285" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">JH-M2W</text>
-      <text id="txt30003285" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003285" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003270">
@@ -961,21 +961,21 @@
     <rect id="ice30003270" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003270" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">6E-578</text>
-      <text id="txt30003270" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003270" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003301">
     <a xlink:href="http://evemaps.dotlan.net/system/97X-CH" class="sys link-5-30003301" target="_top">
       <rect id="rect30003301" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">97X-CH</text>
-      <text id="txt30003301" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003301" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003307">
     <a xlink:href="http://evemaps.dotlan.net/system/Y9G-KS" class="sys link-5-30003307" target="_top">
       <rect id="rect30003307" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">Y9G-KS</text>
-      <text id="txt30003307" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003307" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -986,14 +986,14 @@
     <a xlink:href="http://evemaps.dotlan.net/system/MHC-R3" class="sys link-5-30003268" target="_top">
       <rect id="rect30003268" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">MHC-R3</text>
-      <text id="txt30003268" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003268" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003284">
     <a xlink:href="http://evemaps.dotlan.net/system/M2-CF1" class="sys link-5-30003284" target="_top">
       <rect id="rect30003284" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">M2-CF1</text>
-      <text id="txt30003284" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003284" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1005,35 +1005,35 @@
     <rect id="ice30003304" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003304" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">2Q-I6Q</text>
-      <text id="txt30003304" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003304" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003272">
     <a xlink:href="http://evemaps.dotlan.net/system/ZVN5-H" class="sys link-5-30003272" target="_top">
       <rect id="rect30003272" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">ZVN5-H</text>
-      <text id="txt30003272" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003272" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003282">
     <a xlink:href="http://evemaps.dotlan.net/system/8-JYPM" class="sys link-5-30003282" target="_top">
       <rect id="rect30003282" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">8-JYPM</text>
-      <text id="txt30003282" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003282" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003273">
     <a xlink:href="http://evemaps.dotlan.net/system/ATY-2U" class="sys link-5-30003273" target="_top">
       <rect id="rect30003273" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">ATY-2U</text>
-      <text id="txt30003273" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003273" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003298">
     <a xlink:href="http://evemaps.dotlan.net/system/UM-Q7F" class="sys link-5-30003298" target="_top">
       <rect id="rect30003298" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">UM-Q7F</text>
-      <text id="txt30003298" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003298" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1044,14 +1044,14 @@
     <a xlink:href="http://evemaps.dotlan.net/system/0EK-NJ" class="sys link-5-30003296" target="_top">
       <rect id="rect30003296" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">0EK-NJ</text>
-      <text id="txt30003296" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003296" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003295">
     <a xlink:href="http://evemaps.dotlan.net/system/PFP-GU" class="sys link-5-30003295" target="_top">
       <rect id="rect30003295" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">PFP-GU</text>
-      <text id="txt30003295" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003295" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1062,7 +1062,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/AAS-8R" class="sys link-5-30003293" target="_top">
       <rect id="rect30003293" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">AAS-8R</text>
-      <text id="txt30003293" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003293" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1075,21 +1075,21 @@
     <rect id="ice30003291" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003291" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">AK-QBU</text>
-      <text id="txt30003291" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003291" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003292">
     <a xlink:href="http://evemaps.dotlan.net/system/QWF-6P" class="sys link-5-30003292" target="_top">
       <rect id="rect30003292" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">QWF-6P</text>
-      <text id="txt30003292" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003292" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003286">
     <a xlink:href="http://evemaps.dotlan.net/system/PC9-AY" class="sys link-5-30003286" target="_top">
       <rect id="rect30003286" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">PC9-AY</text>
-      <text id="txt30003286" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003286" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1100,14 +1100,14 @@
     <a xlink:href="http://evemaps.dotlan.net/system/X-PYH5" class="sys link-5-30003288" target="_top">
       <rect id="rect30003288" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">X-PYH5</text>
-      <text id="txt30003288" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003288" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003289">
     <a xlink:href="http://evemaps.dotlan.net/system/ZN0-SR" class="sys link-5-30003289" target="_top">
       <rect id="rect30003289" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">ZN0-SR</text>
-      <text id="txt30003289" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003289" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1118,7 +1118,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/T-LIWS" class="sys link-5-30003299" target="_top">
       <rect id="rect30003299" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">T-LIWS</text>
-      <text id="txt30003299" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003299" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1128,7 +1128,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/V4-L0X" class="sys link-5-30003294" target="_top">
       <rect id="rect30003294" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">V4-L0X</text>
-      <text id="txt30003294" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003294" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1139,7 +1139,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/T22-QI" class="sys link-5-30003287" target="_top">
       <rect id="rect30003287" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">T22-QI</text>
-      <text id="txt30003287" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003287" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1152,7 +1152,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/5-DSFH" class="sys link-5-30003290" target="_top">
       <rect id="rect30003290" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">5-DSFH</text>
-      <text id="txt30003290" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003290" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
   </symbol>
   <symbol id="def30003300">
@@ -1160,7 +1160,7 @@
     <rect id="ice30003300" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003300" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">KTHT-O</text>
-      <text id="txt30003300" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003300" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1170,7 +1170,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/1-NKVT" class="sys link-5-30003297" target="_top">
       <rect id="rect30003297" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
       <text x="28" y="14" class="ss" text-anchor="middle">1-NKVT</text>
-      <text id="txt30003297" x="28" y="21.7" class="st" text-anchor="middle">Syndicate</text>
+      <text id="txt30003297" x="28" y="21.7" class="st" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1181,63 +1181,63 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Outer_Ring/P-NUWP" class="sys link-5-30004497" target="_top">
       <rect id="rect30004497" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">P-NUWP</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Outer Ring</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">外环</text>
     </a>
   </symbol>
   <symbol id="def30003599">
     <a xlink:href="http://evemaps.dotlan.net/map/Solitude/Faurulle" class="sys link-5-30003599" target="_top">
       <rect id="rect30003599" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Faurulle</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Solitude</text>
+      <text x="28" y="14" class="es" text-anchor="middle">法鲁里</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">孤独之域</text>
     </a>
   </symbol>
   <symbol id="def30004494">
     <a xlink:href="http://evemaps.dotlan.net/map/Outer_Ring/RL-KT0" class="sys link-5-30004494" target="_top">
       <rect id="rect30004494" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">RL-KT0</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Outer Ring</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">外环</text>
     </a>
   </symbol>
   <symbol id="def30004498">
     <a xlink:href="http://evemaps.dotlan.net/map/Outer_Ring/ZJQH-S" class="sys link-5-30004498" target="_top">
       <rect id="rect30004498" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">ZJQH-S</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Outer Ring</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">外环</text>
     </a>
   </symbol>
   <symbol id="def30004037">
     <a xlink:href="http://evemaps.dotlan.net/map/Cloud_Ring/1-3HWZ" class="sys link-5-30004037" target="_top">
       <rect id="rect30004037" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">1-3HWZ</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Cloud Ring</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">云环</text>
     </a>
   </symbol>
   <symbol id="def30004495">
     <a xlink:href="http://evemaps.dotlan.net/map/Outer_Ring/UO9-YG" class="sys link-5-30004495" target="_top">
       <rect id="rect30004495" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">UO9-YG</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Outer Ring</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">外环</text>
     </a>
   </symbol>
   <symbol id="def30004493">
     <a xlink:href="http://evemaps.dotlan.net/map/Outer_Ring/C0T-77" class="sys link-5-30004493" target="_top">
       <rect id="rect30004493" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">C0T-77</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Outer Ring</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">外环</text>
     </a>
   </symbol>
   <symbol id="def30004501">
     <a xlink:href="http://evemaps.dotlan.net/map/Outer_Ring/1L-BHT" class="sys link-5-30004501" target="_top">
       <rect id="rect30004501" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">1L-BHT</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Outer Ring</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">外环</text>
     </a>
   </symbol>
   <symbol id="def30003820">
     <a xlink:href="http://evemaps.dotlan.net/map/Placid/Vestouve" class="sys link-5-30003820" target="_top">
       <rect id="rect30003820" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Vestouve</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Placid</text>
+      <text x="28" y="14" class="es" text-anchor="middle">维斯托维</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">宁静之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1247,8 +1247,8 @@
   <symbol id="def30003830">
     <a xlink:href="http://evemaps.dotlan.net/map/Placid/Orvolle" class="sys link-5-30003830" target="_top">
       <rect id="rect30003830" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Orvolle</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Placid</text>
+      <text x="28" y="14" class="es" text-anchor="middle">俄沃勒</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">宁静之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1259,8 +1259,8 @@
   <symbol id="def30005328">
     <a xlink:href="http://evemaps.dotlan.net/map/Verge_Vendor/Reblier" class="sys link-5-30005328" target="_top">
       <rect id="rect30005328" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Reblier</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Verge Vendor</text>
+      <text x="28" y="14" class="es" text-anchor="middle">瑞比里尔</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">维格温铎</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1271,15 +1271,15 @@
   <symbol id="def30003565">
     <a xlink:href="http://evemaps.dotlan.net/map/Solitude/Conomette" class="sys link-5-30003565" target="_top">
       <rect id="rect30003565" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Conomette</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Solitude</text>
+      <text x="28" y="14" class="es" text-anchor="middle">卡诺梅特</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">孤独之域</text>
     </a>
   </symbol>
   <symbol id="def30003793">
     <a xlink:href="http://evemaps.dotlan.net/map/Placid/Harroule" class="sys link-5-30003793" target="_top">
       <rect id="rect30003793" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Harroule</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Placid</text>
+      <text x="28" y="14" class="es" text-anchor="middle">哈洛勒</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">宁静之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1288,8 +1288,8 @@
   <symbol id="def30003573">
     <a xlink:href="http://evemaps.dotlan.net/map/Solitude/Pertnineere" class="sys link-5-30003573" target="_top">
       <rect id="rect30003573" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Pertnineere</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Solitude</text>
+      <text x="28" y="14" class="es" text-anchor="middle">皮特涅尔</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">孤独之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />

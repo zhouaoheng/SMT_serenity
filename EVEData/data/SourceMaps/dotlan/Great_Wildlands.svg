@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Great Wildlands</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">大荒野</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -864,15 +864,15 @@
   <symbol id="def30000117">
     <a xlink:href="http://evemaps.dotlan.net/map/Derelik/Khabi" class="sys link-5-30000117" target="_top">
       <rect id="rect30000117" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Khabi</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Derelik</text>
+      <text x="28" y="14" class="es" text-anchor="middle">卡比</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">德里克</text>
     </a>
   </symbol>
   <symbol id="def30002420">
     <a xlink:href="http://evemaps.dotlan.net/map/Molden_Heath/Egbinger" class="sys link-5-30002420" target="_top">
       <rect id="rect30002420" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Egbinger</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Molden Heath</text>
+      <text x="28" y="14" class="es" text-anchor="middle">伊格贝格尔</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">摩登赫斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -885,28 +885,28 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Curse/KLMT-W" class="sys link-5-30001020" target="_top">
       <rect id="rect30001020" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">KLMT-W</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Curse</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">柯尔斯</text>
     </a>
   </symbol>
   <symbol id="def30000666">
     <a xlink:href="http://evemaps.dotlan.net/map/Scalding_Pass/F-5FDA" class="sys link-5-30000666" target="_top">
       <rect id="rect30000666" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">F-5FDA</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Scalding Pass</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">灼热之径</text>
     </a>
   </symbol>
   <symbol id="def30002375">
     <a xlink:href="http://evemaps.dotlan.net/map/Etherium_Reach/C-4D0W" class="sys link-5-30002375" target="_top">
       <rect id="rect30002375" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">C-4D0W</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Etherium Reach</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">琉蓝之穹</text>
     </a>
   </symbol>
   <symbol id="def30003471">
     <a xlink:href="http://evemaps.dotlan.net/map/Metropolis/Konora" class="sys link-5-30003471" target="_top">
       <rect id="rect30003471" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Konora</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Metropolis</text>
+      <text x="28" y="14" class="es" text-anchor="middle">克挪腊</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">美特伯里斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -916,22 +916,22 @@
   <symbol id="def30002489">
     <a xlink:href="http://evemaps.dotlan.net/map/Geminate/Atioth" class="sys link-5-30002489" target="_top">
       <rect id="rect30002489" x="3.5" y="3.5" width="50" height="22" class="e" />
-      <text x="28" y="14" class="es" text-anchor="middle">Atioth</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Geminate</text>
+      <text x="28" y="14" class="es" text-anchor="middle">艾蒂斯</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">对舞之域</text>
     </a>
   </symbol>
   <symbol id="def30000626">
     <a xlink:href="http://evemaps.dotlan.net/map/Cache/I6-SYN" class="sys link-5-30000626" target="_top">
       <rect id="rect30000626" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">I6-SYN</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Cache</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">地窖</text>
     </a>
   </symbol>
   <symbol id="def30000703">
     <a xlink:href="http://evemaps.dotlan.net/map/Scalding_Pass/U2-28D" class="sys link-5-30000703" target="_top">
       <rect id="rect30000703" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">U2-28D</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Scalding Pass</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">灼热之径</text>
     </a>
   </symbol>
 

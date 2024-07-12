@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Verge Vendor</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">维格温铎</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -128,8 +128,8 @@
   <symbol id="def30003794">
     <a xlink:href="http://evemaps.dotlan.net/map/Placid/Stacmon" class="sys link-5-30003794" target="_top">
       <rect id="rect30003794" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Stacmon</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Placid</text>
+      <text x="28" y="14" class="es" text-anchor="middle">斯塔克蒙</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">宁静之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -141,7 +141,7 @@
   <symbol id="def30005307">
     <a xlink:href="http://evemaps.dotlan.net/system/Aidart" class="sys link-5-30005307" target="_top">
       <rect id="rect30005307" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Aidart</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">埃达尔特</text>
       <text id="txt30005307" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -152,7 +152,7 @@
   <symbol id="def30005305">
     <a xlink:href="http://evemaps.dotlan.net/system/Cistuvaert" class="sys link-5-30005305" target="_top">
       <rect id="rect30005305" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Cistuvaert</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">茨图瓦尔特</text>
       <text id="txt30005305" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -164,7 +164,7 @@
   <symbol id="def30015305">
     <a xlink:href="http://evemaps.dotlan.net/system/Adallier" class="sys link-5-30015305" target="_top">
       <rect id="rect30015305" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Adallier</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">安大略尔</text>
       <text id="txt30015305" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -176,7 +176,7 @@
   <symbol id="def30035305">
     <a xlink:href="http://evemaps.dotlan.net/system/Clacille" class="sys link-5-30035305" target="_top">
       <rect id="rect30035305" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Clacille</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">克拉西勒</text>
       <text id="txt30035305" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -188,7 +188,7 @@
   <symbol id="def30005304">
     <a xlink:href="http://evemaps.dotlan.net/system/Alentene" class="sys link-5-30005304" target="_top">
       <rect id="rect30005304" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Alentene</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">阿伦特尼</text>
       <text id="txt30005304" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -201,7 +201,7 @@
   <symbol id="def30005303">
     <a xlink:href="http://evemaps.dotlan.net/system/Merolles" class="sys link-5-30005303" target="_top">
       <rect id="rect30005303" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Merolles</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">梅尔罗勒斯</text>
       <text id="txt30005303" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -211,7 +211,7 @@
   <symbol id="def30045305">
     <a xlink:href="http://evemaps.dotlan.net/system/Clellinon" class="sys link-5-30045305" target="_top">
       <rect id="rect30045305" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Clellinon</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">克勒里农</text>
       <text id="txt30045305" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -223,7 +223,7 @@
   <symbol id="def30005315">
     <a xlink:href="http://evemaps.dotlan.net/system/Eletta" class="sys link-5-30005315" target="_top">
       <rect id="rect30005315" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Eletta</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">伊勒达</text>
       <text id="txt30005315" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -235,7 +235,7 @@
   <symbol id="def30005302">
     <a xlink:href="http://evemaps.dotlan.net/system/Alenia" class="sys link-5-30005302" target="_top">
       <rect id="rect30005302" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Alenia</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">埃列尼亚</text>
       <text id="txt30005302" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -248,7 +248,7 @@
   <symbol id="def30005316">
     <a xlink:href="http://evemaps.dotlan.net/system/Luse" class="sys link-5-30005316" target="_top">
       <rect id="rect30005316" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Luse</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">鲁瑟</text>
       <text id="txt30005316" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -259,7 +259,7 @@
   <symbol id="def30005311">
     <a xlink:href="http://evemaps.dotlan.net/system/Amygnon" class="sys link-5-30005311" target="_top">
       <rect id="rect30005311" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Amygnon</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">埃米格农</text>
       <text id="txt30005311" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -271,14 +271,14 @@
   <symbol id="def30005314">
     <a xlink:href="http://evemaps.dotlan.net/system/Theruesse" class="sys link-5-30005314" target="_top">
       <rect id="rect30005314" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Theruesse</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">特鲁尔瑟</text>
       <text id="txt30005314" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
   </symbol>
   <symbol id="def30005301">
     <a xlink:href="http://evemaps.dotlan.net/system/Tourier" class="sys link-5-30005301" target="_top">
       <rect id="rect30005301" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Tourier</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">托瑞尔</text>
       <text id="txt30005301" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -290,7 +290,7 @@
   <symbol id="def30005306">
     <a xlink:href="http://evemaps.dotlan.net/system/Vaere" class="sys link-5-30005306" target="_top">
       <rect id="rect30005306" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Vaere</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">瓦伊尔勒</text>
       <text id="txt30005306" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -301,7 +301,7 @@
   <symbol id="def30005317">
     <a xlink:href="http://evemaps.dotlan.net/system/Ekuenbiron" class="sys link-5-30005317" target="_top">
       <rect id="rect30005317" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ekuenbiron</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">俄库恩比伦</text>
       <text id="txt30005317" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -313,7 +313,7 @@
   <symbol id="def30005318">
     <a xlink:href="http://evemaps.dotlan.net/system/Vay" class="sys link-5-30005318" target="_top">
       <rect id="rect30005318" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Vay</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">维</text>
       <text id="txt30005318" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -324,7 +324,7 @@
   <symbol id="def30005310">
     <a xlink:href="http://evemaps.dotlan.net/system/Scheenins" class="sys link-5-30005310" target="_top">
       <rect id="rect30005310" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Scheenins</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">舍尔宁斯</text>
       <text id="txt30005310" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -337,7 +337,7 @@
   <symbol id="def30025305">
     <a xlink:href="http://evemaps.dotlan.net/system/Channace" class="sys link-5-30025305" target="_top">
       <rect id="rect30025305" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Channace</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">加纳森</text>
       <text id="txt30025305" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -349,7 +349,7 @@
   <symbol id="def30005313">
     <a xlink:href="http://evemaps.dotlan.net/system/Ellmay" class="sys link-5-30005313" target="_top">
       <rect id="rect30005313" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ellmay</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">厄尔迈</text>
       <text id="txt30005313" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -361,7 +361,7 @@
   <symbol id="def30005308">
     <a xlink:href="http://evemaps.dotlan.net/system/Jufvitte" class="sys link-5-30005308" target="_top">
       <rect id="rect30005308" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Jufvitte</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">吉夫维特</text>
       <text id="txt30005308" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -373,7 +373,7 @@
   <symbol id="def30005319">
     <a xlink:href="http://evemaps.dotlan.net/system/Raneilles" class="sys link-5-30005319" target="_top">
       <rect id="rect30005319" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Raneilles</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">拉涅列斯</text>
       <text id="txt30005319" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -384,7 +384,7 @@
   <symbol id="def30005309">
     <a xlink:href="http://evemaps.dotlan.net/system/Ansalle" class="sys link-5-30005309" target="_top">
       <rect id="rect30005309" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ansalle</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">安萨列</text>
       <text id="txt30005309" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -394,7 +394,7 @@
   <symbol id="def30005312">
     <a xlink:href="http://evemaps.dotlan.net/system/Gisleres" class="sys link-5-30005312" target="_top">
       <rect id="rect30005312" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Gisleres</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">基斯尔勒斯</text>
       <text id="txt30005312" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -405,7 +405,7 @@
   <symbol id="def30005300">
     <a xlink:href="http://evemaps.dotlan.net/system/Loes" class="sys link-5-30005300" target="_top">
       <rect id="rect30005300" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: url(#fw500004-20);" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Loes</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">罗耶斯</text>
       <text id="txt30005300" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -416,7 +416,7 @@
   <symbol id="def30005320">
     <a xlink:href="http://evemaps.dotlan.net/system/Hevrice" class="sys link-5-30005320" target="_top">
       <rect id="rect30005320" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Hevrice</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">西维斯</text>
       <text id="txt30005320" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -426,7 +426,7 @@
   <symbol id="def30005322">
     <a xlink:href="http://evemaps.dotlan.net/system/Scolluzer" class="sys link-5-30005322" target="_top">
       <rect id="rect30005322" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Scolluzer</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">舒鲁茨尔</text>
       <text id="txt30005322" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -438,7 +438,7 @@
   <symbol id="def30005297">
     <a xlink:href="http://evemaps.dotlan.net/system/Ouelletta" class="sys link-5-30005297" target="_top">
       <rect id="rect30005297" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: url(#fw500004-0);" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ouelletta</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">欧乐达</text>
       <text id="txt30005297" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -450,7 +450,7 @@
   <symbol id="def30005323">
     <a xlink:href="http://evemaps.dotlan.net/system/Sortet" class="sys link-5-30005323" target="_top">
       <rect id="rect30005323" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Sortet</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">索尔提特</text>
       <text id="txt30005323" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -462,7 +462,7 @@
   <symbol id="def30005324">
     <a xlink:href="http://evemaps.dotlan.net/system/Claulenne" class="sys link-5-30005324" target="_top">
       <rect id="rect30005324" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Claulenne</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">克劳勒尼</text>
       <text id="txt30005324" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -472,14 +472,14 @@
   <symbol id="def30005299">
     <a xlink:href="http://evemaps.dotlan.net/system/Muetralle" class="sys link-5-30005299" target="_top">
       <rect id="rect30005299" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: url(#fw500004-40);" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Muetralle</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">缪塔勒尔</text>
       <text id="txt30005299" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
   </symbol>
   <symbol id="def30005296">
     <a xlink:href="http://evemaps.dotlan.net/system/Melmaniel" class="sys link-5-30005296" target="_top">
       <rect id="rect30005296" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Melmaniel</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">梅马尼尔</text>
       <text id="txt30005296" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -490,7 +490,7 @@
   <symbol id="def30005321">
     <a xlink:href="http://evemaps.dotlan.net/system/Jovainnon" class="sys link-5-30005321" target="_top">
       <rect id="rect30005321" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: url(#fw500004-40);" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Jovainnon</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">乔万农</text>
       <text id="txt30005321" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -500,7 +500,7 @@
   <symbol id="def30005325">
     <a xlink:href="http://evemaps.dotlan.net/system/Masalle" class="sys link-5-30005325" target="_top">
       <rect id="rect30005325" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Masalle</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">马萨勒</text>
       <text id="txt30005325" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -514,7 +514,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Costolle" class="sys link-5-30005298" target="_top">
     <rect id="ice30005298" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30005298" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: url(#fw500001-40);" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Costolle</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">靠斯托勒</text>
       <text id="txt30005298" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -525,14 +525,14 @@
   <symbol id="def30005326">
     <a xlink:href="http://evemaps.dotlan.net/system/Annelle" class="sys link-5-30005326" target="_top">
       <rect id="rect30005326" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Annelle</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">安尼列</text>
       <text id="txt30005326" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
   </symbol>
   <symbol id="def30005295">
     <a xlink:href="http://evemaps.dotlan.net/system/Murethand" class="sys link-5-30005295" target="_top">
       <rect id="rect30005295" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: url(#fw500004-20);" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Murethand</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">缪勒坦</text>
       <text id="txt30005295" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -543,8 +543,8 @@
   <symbol id="def30005008">
     <a xlink:href="http://evemaps.dotlan.net/map/Essence/Aeschee" class="sys link-5-30005008" target="_top">
       <rect id="rect30005008" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Aeschee</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Essence</text>
+      <text x="28" y="14" class="es" text-anchor="middle">耶舒尔</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">精华之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -555,14 +555,14 @@
   <symbol id="def30005327">
     <a xlink:href="http://evemaps.dotlan.net/system/Chesiette" class="sys link-5-30005327" target="_top">
       <rect id="rect30005327" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Chesiette</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">彻谢特</text>
       <text id="txt30005327" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
   </symbol>
   <symbol id="def30005332">
     <a xlink:href="http://evemaps.dotlan.net/system/Osmomonne" class="sys link-5-30005332" target="_top">
       <rect id="rect30005332" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Osmomonne</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">奥斯蒙莫尼</text>
       <text id="txt30005332" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -572,7 +572,7 @@
   <symbol id="def30005328">
     <a xlink:href="http://evemaps.dotlan.net/system/Reblier" class="sys link-5-30005328" target="_top">
       <rect id="rect30005328" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Reblier</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">瑞比里尔</text>
       <text id="txt30005328" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -584,7 +584,7 @@
   <symbol id="def30005333">
     <a xlink:href="http://evemaps.dotlan.net/system/Stou" class="sys link-5-30005333" target="_top">
       <rect id="rect30005333" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Stou</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">斯托欧</text>
       <text id="txt30005333" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -594,14 +594,14 @@
   <symbol id="def30005331">
     <a xlink:href="http://evemaps.dotlan.net/system/Chantrousse" class="sys link-5-30005331" target="_top">
       <rect id="rect30005331" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Chantrousse</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">查卓斯</text>
       <text id="txt30005331" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
   </symbol>
   <symbol id="def30005329">
     <a xlink:href="http://evemaps.dotlan.net/system/Amoderia" class="sys link-5-30005329" target="_top">
       <rect id="rect30005329" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Amoderia</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">阿莫deria</text>
       <text id="txt30005329" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -611,7 +611,7 @@
   <symbol id="def30005334">
     <a xlink:href="http://evemaps.dotlan.net/system/Tierijev" class="sys link-5-30005334" target="_top">
       <rect id="rect30005334" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Tierijev</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">铁里耶维</text>
       <text id="txt30005334" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -621,7 +621,7 @@
   <symbol id="def30005330">
     <a xlink:href="http://evemaps.dotlan.net/system/Arraron" class="sys link-5-30005330" target="_top">
       <rect id="rect30005330" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #E1FFE1;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Arraron</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">埃拉隆</text>
       <text id="txt30005330" x="28" y="21.7" class="st" text-anchor="middle">Gallente</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -631,8 +631,8 @@
   <symbol id="def30005004">
     <a xlink:href="http://evemaps.dotlan.net/map/Essence/Attyn" class="sys link-5-30005004" target="_top">
       <rect id="rect30005004" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Attyn</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Essence</text>
+      <text x="28" y="14" class="es" text-anchor="middle">阿泰恩</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">精华之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -643,8 +643,8 @@
   <symbol id="def30003795">
     <a xlink:href="http://evemaps.dotlan.net/map/Placid/Covryn" class="sys link-5-30003795" target="_top">
       <rect id="rect30003795" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Covryn</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Placid</text>
+      <text x="28" y="14" class="es" text-anchor="middle">卡维因</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">宁静之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -655,8 +655,8 @@
   <symbol id="def30003843">
     <a xlink:href="http://evemaps.dotlan.net/map/Placid/Avaux" class="sys link-5-30003843" target="_top">
       <rect id="rect30003843" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Avaux</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Placid</text>
+      <text x="28" y="14" class="es" text-anchor="middle">埃瓦奥克</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">宁静之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -665,8 +665,8 @@
   <symbol id="def30003797">
     <a xlink:href="http://evemaps.dotlan.net/map/Placid/Dastryns" class="sys link-5-30003797" target="_top">
       <rect id="rect30003797" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Dastryns</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Placid</text>
+      <text x="28" y="14" class="es" text-anchor="middle">达斯顿斯</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">宁静之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -676,8 +676,8 @@
   <symbol id="def30003798">
     <a xlink:href="http://evemaps.dotlan.net/map/Placid/Slays" class="sys link-5-30003798" target="_top">
       <rect id="rect30003798" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Slays</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Placid</text>
+      <text x="28" y="14" class="es" text-anchor="middle">斯雷斯</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">宁静之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -689,8 +689,8 @@
   <symbol id="def30003792">
     <a xlink:href="http://evemaps.dotlan.net/map/Placid/Ostingele" class="sys link-5-30003792" target="_top">
       <rect id="rect30003792" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Ostingele</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Placid</text>
+      <text x="28" y="14" class="es" text-anchor="middle">奥斯汀格勒</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">宁静之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -701,8 +701,8 @@
   <symbol id="def30005199">
     <a xlink:href="http://evemaps.dotlan.net/map/Genesis/Tar" class="sys link-5-30005199" target="_top">
       <rect id="rect30005199" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Tar</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Genesis</text>
+      <text x="28" y="14" class="es" text-anchor="middle">塔尔</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">吉勒西斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -711,8 +711,8 @@
   <symbol id="def30005229">
     <a xlink:href="http://evemaps.dotlan.net/map/Genesis/Diaderi" class="sys link-5-30005229" target="_top">
       <rect id="rect30005229" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Diaderi</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Genesis</text>
+      <text x="28" y="14" class="es" text-anchor="middle">迪亚德里</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">吉勒西斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -722,8 +722,8 @@
   <symbol id="def30003787">
     <a xlink:href="http://evemaps.dotlan.net/map/Placid/Agoze" class="sys link-5-30003787" target="_top">
       <rect id="rect30003787" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Agoze</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Placid</text>
+      <text x="28" y="14" class="es" text-anchor="middle">埃格则</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">宁静之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -734,8 +734,8 @@
   <symbol id="def30005204">
     <a xlink:href="http://evemaps.dotlan.net/map/Genesis/Yulai" class="sys link-5-30005204" target="_top">
       <rect id="rect30005204" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Yulai</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Genesis</text>
+      <text x="28" y="14" class="es" text-anchor="middle">尤拉</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">吉勒西斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -746,8 +746,8 @@
   <symbol id="def30004999">
     <a xlink:href="http://evemaps.dotlan.net/map/Essence/Ladistier" class="sys link-5-30004999" target="_top">
       <rect id="rect30004999" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Ladistier</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Essence</text>
+      <text x="28" y="14" class="es" text-anchor="middle">拉底赛迪尔</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">精华之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -757,29 +757,29 @@
   <symbol id="def30005203">
     <a xlink:href="http://evemaps.dotlan.net/map/Genesis/Ourapheh" class="sys link-5-30005203" target="_top">
       <rect id="rect30005203" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Ourapheh</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Genesis</text>
+      <text x="28" y="14" class="es" text-anchor="middle">奥拉菲特</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">吉勒西斯</text>
     </a>
   </symbol>
   <symbol id="def30004982">
     <a xlink:href="http://evemaps.dotlan.net/map/Essence/Indregulle" class="sys link-5-30004982" target="_top">
       <rect id="rect30004982" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Indregulle</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Essence</text>
+      <text x="28" y="14" class="es" text-anchor="middle">印卓古勒</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">精华之域</text>
     </a>
   </symbol>
   <symbol id="def30004990">
     <a xlink:href="http://evemaps.dotlan.net/map/Essence/Onne" class="sys link-5-30004990" target="_top">
       <rect id="rect30004990" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Onne</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Essence</text>
+      <text x="28" y="14" class="es" text-anchor="middle">欧尼</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">精华之域</text>
     </a>
   </symbol>
   <symbol id="def30004975">
     <a xlink:href="http://evemaps.dotlan.net/map/Essence/Mesybier" class="sys link-5-30004975" target="_top">
       <rect id="rect30004975" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Mesybier</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Essence</text>
+      <text x="28" y="14" class="es" text-anchor="middle">美希比尔</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">精华之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -788,8 +788,8 @@
   <symbol id="def30005007">
     <a xlink:href="http://evemaps.dotlan.net/map/Essence/Lisbaetanne" class="sys link-5-30005007" target="_top">
       <rect id="rect30005007" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Lisbaetanne</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Essence</text>
+      <text x="28" y="14" class="es" text-anchor="middle">里斯巴塔尼</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">精华之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -800,8 +800,8 @@
   <symbol id="def30004978">
     <a xlink:href="http://evemaps.dotlan.net/map/Essence/Pemene" class="sys link-5-30004978" target="_top">
       <rect id="rect30004978" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Pemene</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Essence</text>
+      <text x="28" y="14" class="es" text-anchor="middle">佩门勒</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">精华之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -811,8 +811,8 @@
   <symbol id="def30002812">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Citadel/Tannolen" class="sys link-5-30002812" target="_top">
       <rect id="rect30002812" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Tannolen</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Citadel</text>
+      <text x="28" y="14" class="es" text-anchor="middle">塔诺冷</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">赛塔德洱</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -823,8 +823,8 @@
   <symbol id="def30005005">
     <a xlink:href="http://evemaps.dotlan.net/map/Essence/Ignebaener" class="sys link-5-30005005" target="_top">
       <rect id="rect30005005" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Ignebaener</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Essence</text>
+      <text x="28" y="14" class="es" text-anchor="middle">伊杰巴尼尔</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">精华之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -835,7 +835,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Syndicate/6-CZ49" class="sys link-5-30003280" target="_top">
       <rect id="rect30003280" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">6-CZ49</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Syndicate</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">辛迪加</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -845,8 +845,8 @@
   <symbol id="def30005003">
     <a xlink:href="http://evemaps.dotlan.net/map/Essence/Adirain" class="sys link-5-30005003" target="_top">
       <rect id="rect30005003" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Adirain</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Essence</text>
+      <text x="28" y="14" class="es" text-anchor="middle">埃迪瑞恩</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">精华之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -855,8 +855,8 @@
   <symbol id="def30005002">
     <a xlink:href="http://evemaps.dotlan.net/map/Essence/Laurvier" class="sys link-5-30005002" target="_top">
       <rect id="rect30005002" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Laurvier</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Essence</text>
+      <text x="28" y="14" class="es" text-anchor="middle">劳韦尔</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">精华之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -865,8 +865,8 @@
   <symbol id="def30005025">
     <a xlink:href="http://evemaps.dotlan.net/map/Essence/Derririntel" class="sys link-5-30005025" target="_top">
       <rect id="rect30005025" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Derririntel</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Essence</text>
+      <text x="28" y="14" class="es" text-anchor="middle">德瑞林特</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">精华之域</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />

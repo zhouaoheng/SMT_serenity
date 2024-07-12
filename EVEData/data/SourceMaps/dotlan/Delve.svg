@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Delve</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">绝地之域</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -223,7 +223,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Querious/E-VKJV" class="sys link-5-30004028" target="_top">
       <rect id="rect30004028" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">E-VKJV</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Querious</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">逑瑞斯</text>
     </a>
   </symbol>
   <symbol id="def30004784">
@@ -325,7 +325,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Querious/8-YNBE" class="sys link-5-30004025" target="_top">
       <rect id="rect30004025" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">8-YNBE</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Querious</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">逑瑞斯</text>
     </a>
   </symbol>
   <symbol id="def30004749">
@@ -360,7 +360,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Querious/YQX-7U" class="sys link-5-30004026" target="_top">
       <rect id="rect30004026" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">YQX-7U</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Querious</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">逑瑞斯</text>
     </a>
   </symbol>
   <symbol id="def30004734">
@@ -430,7 +430,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Querious/QY1E-N" class="sys link-5-30004027" target="_top">
       <rect id="rect30004027" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">QY1E-N</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Querious</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">逑瑞斯</text>
     </a>
   </symbol>
   <symbol id="def30004727">
@@ -906,28 +906,28 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Querious/K4-RFZ" class="sys link-5-30004017" target="_top">
       <rect id="rect30004017" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">K4-RFZ</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Querious</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">逑瑞斯</text>
     </a>
   </symbol>
   <symbol id="def30004665">
     <a xlink:href="http://evemaps.dotlan.net/map/Fountain/Y-2ANO" class="sys link-5-30004665" target="_top">
       <rect id="rect30004665" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">Y-2ANO</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fountain</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">源泉之域</text>
     </a>
   </symbol>
   <symbol id="def30004029">
     <a xlink:href="http://evemaps.dotlan.net/map/Querious/BX-VEX" class="sys link-5-30004029" target="_top">
       <rect id="rect30004029" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">BX-VEX</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Querious</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">逑瑞斯</text>
     </a>
   </symbol>
   <symbol id="def30004299">
     <a xlink:href="http://evemaps.dotlan.net/map/Aridia/Sakht" class="sys link-5-30004299" target="_top">
       <rect id="rect30004299" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Sakht</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Aridia</text>
+      <text x="28" y="14" class="es" text-anchor="middle">萨特</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">艾里迪亚</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -939,35 +939,35 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Period_Basis/TN25-J" class="sys link-5-30004960" target="_top">
       <rect id="rect30004960" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">TN25-J</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Period Basis</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">贝斯</text>
     </a>
   </symbol>
   <symbol id="def30004927">
     <a xlink:href="http://evemaps.dotlan.net/map/Period_Basis/L-YMYU" class="sys link-5-30004927" target="_top">
       <rect id="rect30004927" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">L-YMYU</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Period Basis</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">贝斯</text>
     </a>
   </symbol>
   <symbol id="def30004013">
     <a xlink:href="http://evemaps.dotlan.net/map/Querious/F2OY-X" class="sys link-5-30004013" target="_top">
       <rect id="rect30004013" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">F2OY-X</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Querious</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">逑瑞斯</text>
     </a>
   </symbol>
   <symbol id="def30003967">
     <a xlink:href="http://evemaps.dotlan.net/map/Querious/A-BO4V" class="sys link-5-30003967" target="_top">
       <rect id="rect30003967" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">A-BO4V</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Querious</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">逑瑞斯</text>
     </a>
   </symbol>
   <symbol id="def30004012">
     <a xlink:href="http://evemaps.dotlan.net/map/Querious/8QT-H4" class="sys link-5-30004012" target="_top">
       <rect id="rect30004012" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">8QT-H4</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Querious</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">逑瑞斯</text>
     </a>
   </symbol>
 

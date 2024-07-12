@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Tenerifis</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">特里菲斯</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -710,56 +710,56 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Catch/Q-S7ZD" class="sys link-5-30001196" target="_top">
       <rect id="rect30001196" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">Q-S7ZD</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Catch</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡特ch</text>
     </a>
   </symbol>
   <symbol id="def30004435">
     <a xlink:href="http://evemaps.dotlan.net/map/Feythabolis/JI-LGM" class="sys link-5-30004435" target="_top">
       <rect id="rect30004435" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">JI-LGM</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Feythabolis</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">非塔波利斯</text>
     </a>
   </symbol>
   <symbol id="def30002581">
     <a xlink:href="http://evemaps.dotlan.net/map/Impass/1-7KWU" class="sys link-5-30002581" target="_top">
       <rect id="rect30002581" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">1-7KWU</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Impass</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">绝径</text>
     </a>
   </symbol>
   <symbol id="def30002122">
     <a xlink:href="http://evemaps.dotlan.net/map/Immensea/XVV-21" class="sys link-5-30002122" target="_top">
       <rect id="rect30002122" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">XVV-21</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Immensea</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">伊梅瑟亚</text>
     </a>
   </symbol>
   <symbol id="def30002162">
     <a xlink:href="http://evemaps.dotlan.net/map/Immensea/Y-FZ5N" class="sys link-5-30002162" target="_top">
       <rect id="rect30002162" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">Y-FZ5N</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Immensea</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">伊梅瑟亚</text>
     </a>
   </symbol>
   <symbol id="def30002183">
     <a xlink:href="http://evemaps.dotlan.net/map/Immensea/RU-PT9" class="sys link-5-30002183" target="_top">
       <rect id="rect30002183" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">RU-PT9</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Immensea</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">伊梅瑟亚</text>
     </a>
   </symbol>
   <symbol id="def30000483">
     <a xlink:href="http://evemaps.dotlan.net/map/Detorid/77S8-E" class="sys link-5-30000483" target="_top">
       <rect id="rect30000483" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">77S8-E</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Detorid</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">底特里德</text>
     </a>
   </symbol>
   <symbol id="def30004926">
     <a xlink:href="http://evemaps.dotlan.net/map/Omist/7L9-ZC" class="sys link-5-30004926" target="_top">
       <rect id="rect30004926" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">7L9-ZC</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Omist</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">欧米斯特</text>
     </a>
   </symbol>
 

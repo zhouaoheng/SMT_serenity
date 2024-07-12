@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Fade</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">斐德</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -156,7 +156,7 @@
   <symbol id="def30003698">
     <a xlink:href="http://evemaps.dotlan.net/system/GME-PQ" class="sys link-5-30003698" target="_top">
       <rect id="rect30003698" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #EFC4A4;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">GME-PQ</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">ME-PQ</text>
       <text id="txt30003698" x="28" y="21.7" class="st so" text-anchor="middle">GLHF (2)</text>
     </a>
   </symbol>
@@ -323,28 +323,28 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Cloud_Ring/6RCQ-V" class="sys link-5-30004070" target="_top">
       <rect id="rect30004070" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">6RCQ-V</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Cloud Ring</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">云环</text>
     </a>
   </symbol>
   <symbol id="def30002930">
     <a xlink:href="http://evemaps.dotlan.net/map/Deklein/8S28-3" class="sys link-5-30002930" target="_top">
       <rect id="rect30002930" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">8S28-3</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Deklein</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">德克廉</text>
     </a>
   </symbol>
   <symbol id="def30002032">
     <a xlink:href="http://evemaps.dotlan.net/map/Pure_Blind/E-Z2ZX" class="sys link-5-30002032" target="_top">
       <rect id="rect30002032" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">E-Z2ZX</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Pure Blind</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">黑渊</text>
     </a>
   </symbol>
   <symbol id="def30001983">
     <a xlink:href="http://evemaps.dotlan.net/map/Pure_Blind/ROIR-Y" class="sys link-5-30001983" target="_top">
       <rect id="rect30001983" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">ROIR-Y</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Pure Blind</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">黑渊</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -355,14 +355,14 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Deklein/CCP-US" class="sys link-5-30002906" target="_top">
       <rect id="rect30002906" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">CCP-US</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Deklein</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">德克廉</text>
     </a>
   </symbol>
   <symbol id="def30001997">
     <a xlink:href="http://evemaps.dotlan.net/map/Pure_Blind/U-INPD" class="sys link-5-30001997" target="_top">
       <rect id="rect30001997" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">U-INPD</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Pure Blind</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">黑渊</text>
     </a>
   </symbol>
 

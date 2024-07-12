@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">The Spire</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">螺旋之域</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -646,91 +646,91 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Etherium_Reach/JAWX-R" class="sys link-5-30002336" target="_top">
       <rect id="rect30002336" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">JAWX-R</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Etherium Reach</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">琉蓝之穹</text>
     </a>
   </symbol>
   <symbol id="def30001114">
     <a xlink:href="http://evemaps.dotlan.net/map/Malpais/APES-G" class="sys link-5-30001114" target="_top">
       <rect id="rect30001114" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">APES-G</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Malpais</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">玛尔pais</text>
     </a>
   </symbol>
   <symbol id="def30002366">
     <a xlink:href="http://evemaps.dotlan.net/map/Etherium_Reach/D-OJEZ" class="sys link-5-30002366" target="_top">
       <rect id="rect30002366" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">D-OJEZ</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Etherium Reach</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">琉蓝之穹</text>
     </a>
   </symbol>
   <symbol id="def30000833">
     <a xlink:href="http://evemaps.dotlan.net/map/Insmother/X1-IZ0" class="sys link-5-30000833" target="_top">
       <rect id="rect30000833" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">X1-IZ0</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Insmother</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">因斯姆尔</text>
     </a>
   </symbol>
   <symbol id="def30003253">
     <a xlink:href="http://evemaps.dotlan.net/map/Oasa/91-KD8" class="sys link-5-30003253" target="_top">
       <rect id="rect30003253" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">91-KD8</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Oasa</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">欧莎</text>
     </a>
   </symbol>
   <symbol id="def30000628">
     <a xlink:href="http://evemaps.dotlan.net/map/Cache/8-SPNN" class="sys link-5-30000628" target="_top">
       <rect id="rect30000628" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">8-SPNN</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Cache</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">地窖</text>
     </a>
   </symbol>
   <symbol id="def30005185">
     <a xlink:href="http://evemaps.dotlan.net/map/Perrigen_Falls/PA-ALN" class="sys link-5-30005185" target="_top">
       <rect id="rect30005185" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">PA-ALN</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Perrigen Falls</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">佩利根弗</text>
     </a>
   </symbol>
   <symbol id="def30001743">
     <a xlink:href="http://evemaps.dotlan.net/map/Outer_Passage/JUE-DX" class="sys link-5-30001743" target="_top">
       <rect id="rect30001743" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">JUE-DX</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Outer Passage</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">域外走廊</text>
     </a>
   </symbol>
   <symbol id="def30005100">
     <a xlink:href="http://evemaps.dotlan.net/map/Perrigen_Falls/E-WMT7" class="sys link-5-30005100" target="_top">
       <rect id="rect30005100" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">E-WMT7</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Perrigen Falls</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">佩利根弗</text>
     </a>
   </symbol>
   <symbol id="def30005103">
     <a xlink:href="http://evemaps.dotlan.net/map/Perrigen_Falls/F-5WYK" class="sys link-5-30005103" target="_top">
       <rect id="rect30005103" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">F-5WYK</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Perrigen Falls</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">佩利根弗</text>
     </a>
   </symbol>
   <symbol id="def30001753">
     <a xlink:href="http://evemaps.dotlan.net/map/Outer_Passage/XUPK-Z" class="sys link-5-30001753" target="_top">
       <rect id="rect30001753" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">XUPK-Z</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Outer Passage</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">域外走廊</text>
     </a>
   </symbol>
   <symbol id="def30001809">
     <a xlink:href="http://evemaps.dotlan.net/map/Outer_Passage/L1YK-V" class="sys link-5-30001809" target="_top">
       <rect id="rect30001809" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">L1YK-V</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Outer Passage</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">域外走廊</text>
     </a>
   </symbol>
   <symbol id="def30000652">
     <a xlink:href="http://evemaps.dotlan.net/map/Cache/8OYE-Z" class="sys link-5-30000652" target="_top">
       <rect id="rect30000652" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">8OYE-Z</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Cache</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">地窖</text>
     </a>
   </symbol>
 

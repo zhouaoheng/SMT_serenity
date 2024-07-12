@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Khanid</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">卡尼迪</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -128,15 +128,15 @@
   <symbol id="def30003929">
     <a xlink:href="http://evemaps.dotlan.net/system/Neda" class="sys link-5-30003929" target="_top">
       <rect id="rect30003929" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Neda</text>
-      <text id="txt30003929" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">勒达</text>
+      <text id="txt30003929" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003926">
     <a xlink:href="http://evemaps.dotlan.net/system/Kuhri" class="sys link-5-30003926" target="_top">
       <rect id="rect30003926" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Kuhri</text>
-      <text id="txt30003926" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">库里</text>
+      <text id="txt30003926" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -147,37 +147,37 @@
   <symbol id="def30003924">
     <a xlink:href="http://evemaps.dotlan.net/system/Dimoohan" class="sys link-5-30003924" target="_top">
       <rect id="rect30003924" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Dimoohan</text>
-      <text id="txt30003924" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">代莫罕</text>
+      <text id="txt30003924" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003934">
     <a xlink:href="http://evemaps.dotlan.net/system/Cabeki" class="sys link-5-30003934" target="_top">
     <rect id="ice30003934" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003934" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Cabeki</text>
-      <text id="txt30003934" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">卡贝基</text>
+      <text id="txt30003934" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003941">
     <a xlink:href="http://evemaps.dotlan.net/system/Rafeme" class="sys link-5-30003941" target="_top">
       <rect id="rect30003941" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Rafeme</text>
-      <text id="txt30003941" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">拉菲姆</text>
+      <text id="txt30003941" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003932">
     <a xlink:href="http://evemaps.dotlan.net/system/Timudan" class="sys link-5-30003932" target="_top">
       <rect id="rect30003932" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Timudan</text>
-      <text id="txt30003932" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">迪姆但</text>
+      <text id="txt30003932" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003933">
     <a xlink:href="http://evemaps.dotlan.net/system/Ibani" class="sys link-5-30003933" target="_top">
       <rect id="rect30003933" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ibani</text>
-      <text id="txt30003933" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">伊巴尼</text>
+      <text id="txt30003933" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -186,22 +186,22 @@
   <symbol id="def30003940">
     <a xlink:href="http://evemaps.dotlan.net/system/Pout" class="sys link-5-30003940" target="_top">
       <rect id="rect30003940" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Pout</text>
-      <text id="txt30003940" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">博特</text>
+      <text id="txt30003940" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003936">
     <a xlink:href="http://evemaps.dotlan.net/system/Nakis" class="sys link-5-30003936" target="_top">
       <rect id="rect30003936" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Nakis</text>
-      <text id="txt30003936" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">那吉斯</text>
+      <text id="txt30003936" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003928">
     <a xlink:href="http://evemaps.dotlan.net/system/Zephan" class="sys link-5-30003928" target="_top">
       <rect id="rect30003928" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Zephan</text>
-      <text id="txt30003928" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">泽法恩</text>
+      <text id="txt30003928" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -210,22 +210,22 @@
   <symbol id="def30003927">
     <a xlink:href="http://evemaps.dotlan.net/system/Zahefeus" class="sys link-5-30003927" target="_top">
       <rect id="rect30003927" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Zahefeus</text>
-      <text id="txt30003927" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">扎赫费尤斯</text>
+      <text id="txt30003927" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003925">
     <a xlink:href="http://evemaps.dotlan.net/system/Chitiamem" class="sys link-5-30003925" target="_top">
       <rect id="rect30003925" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Chitiamem</text>
-      <text id="txt30003925" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">齐提雅蒙</text>
+      <text id="txt30003925" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003923">
     <a xlink:href="http://evemaps.dotlan.net/system/Nandeza" class="sys link-5-30003923" target="_top">
       <rect id="rect30003923" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Nandeza</text>
-      <text id="txt30003923" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">南德扎</text>
+      <text id="txt30003923" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -235,8 +235,8 @@
   <symbol id="def30003930">
     <a xlink:href="http://evemaps.dotlan.net/system/Goudiyah" class="sys link-5-30003930" target="_top">
       <rect id="rect30003930" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Goudiyah</text>
-      <text id="txt30003930" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">各乌迪亚</text>
+      <text id="txt30003930" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -246,23 +246,23 @@
   <symbol id="def30003938">
     <a xlink:href="http://evemaps.dotlan.net/system/Fanathor" class="sys link-5-30003938" target="_top">
       <rect id="rect30003938" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Fanathor</text>
-      <text id="txt30003938" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">法纳托尔</text>
+      <text id="txt30003938" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003937">
     <a xlink:href="http://evemaps.dotlan.net/system/Hezere" class="sys link-5-30003937" target="_top">
     <rect id="ice30003937" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003937" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Hezere</text>
-      <text id="txt30003937" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">赫泽勒</text>
+      <text id="txt30003937" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003939">
     <a xlink:href="http://evemaps.dotlan.net/system/Zirsem" class="sys link-5-30003939" target="_top">
       <rect id="rect30003939" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Zirsem</text>
-      <text id="txt30003939" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">基尔瑟姆</text>
+      <text id="txt30003939" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -273,15 +273,15 @@
   <symbol id="def30003931">
     <a xlink:href="http://evemaps.dotlan.net/system/Sassecho" class="sys link-5-30003931" target="_top">
       <rect id="rect30003931" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Sassecho</text>
-      <text id="txt30003931" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">萨瑟克</text>
+      <text id="txt30003931" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003935">
     <a xlink:href="http://evemaps.dotlan.net/system/Irmalin" class="sys link-5-30003935" target="_top">
       <rect id="rect30003935" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Irmalin</text>
-      <text id="txt30003935" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">依尔玛琳</text>
+      <text id="txt30003935" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -292,8 +292,8 @@
   <symbol id="def30003920">
     <a xlink:href="http://evemaps.dotlan.net/system/Baratar" class="sys link-5-30003920" target="_top">
       <rect id="rect30003920" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Baratar</text>
-      <text id="txt30003920" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">巴尔atar</text>
+      <text id="txt30003920" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -303,15 +303,15 @@
   <symbol id="def30003902">
     <a xlink:href="http://evemaps.dotlan.net/system/Hemouner" class="sys link-5-30003902" target="_top">
       <rect id="rect30003902" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Hemouner</text>
-      <text id="txt30003902" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">西莫尼尔</text>
+      <text id="txt30003902" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003921">
     <a xlink:href="http://evemaps.dotlan.net/system/Arzieh" class="sys link-5-30003921" target="_top">
       <rect id="rect30003921" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Arzieh</text>
-      <text id="txt30003921" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">阿茨厄</text>
+      <text id="txt30003921" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -322,44 +322,44 @@
   <symbol id="def30003919">
     <a xlink:href="http://evemaps.dotlan.net/system/Ashkoo" class="sys link-5-30003919" target="_top">
       <rect id="rect30003919" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ashkoo</text>
-      <text id="txt30003919" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">埃什库</text>
+      <text id="txt30003919" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003901">
     <a xlink:href="http://evemaps.dotlan.net/system/Upt" class="sys link-5-30003901" target="_top">
     <rect id="ice30003901" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003901" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Upt</text>
-      <text id="txt30003901" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">尤普特</text>
+      <text id="txt30003901" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003918">
     <a xlink:href="http://evemaps.dotlan.net/system/Hakana" class="sys link-5-30003918" target="_top">
       <rect id="rect30003918" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Hakana</text>
-      <text id="txt30003918" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">哈卡纳</text>
+      <text id="txt30003918" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003898">
     <a xlink:href="http://evemaps.dotlan.net/system/Seshala" class="sys link-5-30003898" target="_top">
       <rect id="rect30003898" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Seshala</text>
-      <text id="txt30003898" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">瑟什拉</text>
+      <text id="txt30003898" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003917">
     <a xlink:href="http://evemaps.dotlan.net/system/Amafi" class="sys link-5-30003917" target="_top">
       <rect id="rect30003917" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Amafi</text>
-      <text id="txt30003917" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">阿玛菲</text>
+      <text id="txt30003917" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003922">
     <a xlink:href="http://evemaps.dotlan.net/system/Nahrneder" class="sys link-5-30003922" target="_top">
       <rect id="rect30003922" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Nahrneder</text>
-      <text id="txt30003922" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">纳赫米德尔</text>
+      <text id="txt30003922" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -368,16 +368,16 @@
   <symbol id="def30003900">
     <a xlink:href="http://evemaps.dotlan.net/system/Ham" class="sys link-5-30003900" target="_top">
       <rect id="rect30003900" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ham</text>
-      <text id="txt30003900" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">哈姆</text>
+      <text id="txt30003900" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003899">
     <a xlink:href="http://evemaps.dotlan.net/system/Vezila" class="sys link-5-30003899" target="_top">
     <rect id="ice30003899" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003899" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Vezila</text>
-      <text id="txt30003899" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">维兹拉</text>
+      <text id="txt30003899" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -387,8 +387,8 @@
   <symbol id="def30003897">
     <a xlink:href="http://evemaps.dotlan.net/system/Gehi" class="sys link-5-30003897" target="_top">
       <rect id="rect30003897" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Gehi</text>
-      <text id="txt30003897" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">盖溪</text>
+      <text id="txt30003897" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -399,22 +399,22 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Claini" class="sys link-5-30003896" target="_top">
     <rect id="ice30003896" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003896" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Claini</text>
-      <text id="txt30003896" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">克莱尼</text>
+      <text id="txt30003896" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003913">
     <a xlink:href="http://evemaps.dotlan.net/system/Bomana" class="sys link-5-30003913" target="_top">
       <rect id="rect30003913" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Bomana</text>
-      <text id="txt30003913" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">波玛纳</text>
+      <text id="txt30003913" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003908">
     <a xlink:href="http://evemaps.dotlan.net/system/Bashyam" class="sys link-5-30003908" target="_top">
       <rect id="rect30003908" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Bashyam</text>
-      <text id="txt30003908" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">巴什雅姆</text>
+      <text id="txt30003908" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -423,8 +423,8 @@
   <symbol id="def30003912">
     <a xlink:href="http://evemaps.dotlan.net/system/Danera" class="sys link-5-30003912" target="_top">
       <rect id="rect30003912" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Danera</text>
-      <text id="txt30003912" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">达尼拉</text>
+      <text id="txt30003912" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -434,8 +434,8 @@
   <symbol id="def30003905">
     <a xlink:href="http://evemaps.dotlan.net/system/Chamemi" class="sys link-5-30003905" target="_top">
       <rect id="rect30003905" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Chamemi</text>
-      <text id="txt30003905" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">查尔梅米</text>
+      <text id="txt30003905" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -445,8 +445,8 @@
   <symbol id="def30003909">
     <a xlink:href="http://evemaps.dotlan.net/system/Parses" class="sys link-5-30003909" target="_top">
       <rect id="rect30003909" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Parses</text>
-      <text id="txt30003909" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">帕尔瑟斯</text>
+      <text id="txt30003909" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -456,155 +456,155 @@
   <symbol id="def30003910">
     <a xlink:href="http://evemaps.dotlan.net/system/Balanaz" class="sys link-5-30003910" target="_top">
       <rect id="rect30003910" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Balanaz</text>
-      <text id="txt30003910" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">巴拉那茨</text>
+      <text id="txt30003910" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003915">
     <a xlink:href="http://evemaps.dotlan.net/system/Aurejet" class="sys link-5-30003915" target="_top">
       <rect id="rect30003915" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Aurejet</text>
-      <text id="txt30003915" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">奥勒杰特</text>
+      <text id="txt30003915" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003886">
     <a xlink:href="http://evemaps.dotlan.net/system/Ashmarir" class="sys link-5-30003886" target="_top">
       <rect id="rect30003886" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ashmarir</text>
-      <text id="txt30003886" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">埃什马瑞尔</text>
+      <text id="txt30003886" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003887">
     <a xlink:href="http://evemaps.dotlan.net/system/Kaira" class="sys link-5-30003887" target="_top">
       <rect id="rect30003887" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Kaira</text>
-      <text id="txt30003887" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">凯拉</text>
+      <text id="txt30003887" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003914">
     <a xlink:href="http://evemaps.dotlan.net/system/Rahabeda" class="sys link-5-30003914" target="_top">
       <rect id="rect30003914" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Rahabeda</text>
-      <text id="txt30003914" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">拉哈贝达</text>
+      <text id="txt30003914" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003907">
     <a xlink:href="http://evemaps.dotlan.net/system/Tegheon" class="sys link-5-30003907" target="_top">
       <rect id="rect30003907" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Tegheon</text>
-      <text id="txt30003907" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">特格隆</text>
+      <text id="txt30003907" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003904">
     <a xlink:href="http://evemaps.dotlan.net/system/Col" class="sys link-5-30003904" target="_top">
       <rect id="rect30003904" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Col</text>
-      <text id="txt30003904" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">科尔</text>
+      <text id="txt30003904" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003903">
     <a xlink:href="http://evemaps.dotlan.net/system/Afnakat" class="sys link-5-30003903" target="_top">
       <rect id="rect30003903" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Afnakat</text>
-      <text id="txt30003903" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">埃纳卡特</text>
+      <text id="txt30003903" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003885">
     <a xlink:href="http://evemaps.dotlan.net/system/Arzanni" class="sys link-5-30003885" target="_top">
       <rect id="rect30003885" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Arzanni</text>
-      <text id="txt30003885" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">阿尔扎尼</text>
+      <text id="txt30003885" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003916">
     <a xlink:href="http://evemaps.dotlan.net/system/Rilera" class="sys link-5-30003916" target="_top">
       <rect id="rect30003916" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Rilera</text>
-      <text id="txt30003916" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">利勒拉</text>
+      <text id="txt30003916" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003911">
     <a xlink:href="http://evemaps.dotlan.net/system/Edani" class="sys link-5-30003911" target="_top">
       <rect id="rect30003911" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Edani</text>
-      <text id="txt30003911" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">俄达尼</text>
+      <text id="txt30003911" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003892">
     <a xlink:href="http://evemaps.dotlan.net/system/Efa" class="sys link-5-30003892" target="_top">
       <rect id="rect30003892" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Efa</text>
-      <text id="txt30003892" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">埃尔法</text>
+      <text id="txt30003892" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003884">
     <a xlink:href="http://evemaps.dotlan.net/system/Nourbal" class="sys link-5-30003884" target="_top">
       <rect id="rect30003884" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Nourbal</text>
-      <text id="txt30003884" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">诺尔巴</text>
+      <text id="txt30003884" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003883">
     <a xlink:href="http://evemaps.dotlan.net/system/Keberz" class="sys link-5-30003883" target="_top">
       <rect id="rect30003883" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Keberz</text>
-      <text id="txt30003883" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">克博兹</text>
+      <text id="txt30003883" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003906">
     <a xlink:href="http://evemaps.dotlan.net/system/Firbha" class="sys link-5-30003906" target="_top">
       <rect id="rect30003906" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Firbha</text>
-      <text id="txt30003906" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">费尔巴</text>
+      <text id="txt30003906" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003881">
     <a xlink:href="http://evemaps.dotlan.net/system/Moniyyuku" class="sys link-5-30003881" target="_top">
       <rect id="rect30003881" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Moniyyuku</text>
-      <text id="txt30003881" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">蒙尼尤库</text>
+      <text id="txt30003881" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003894">
     <a xlink:href="http://evemaps.dotlan.net/system/Sabusi" class="sys link-5-30003894" target="_top">
       <rect id="rect30003894" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Sabusi</text>
-      <text id="txt30003894" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">撒布斯</text>
+      <text id="txt30003894" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003893">
     <a xlink:href="http://evemaps.dotlan.net/system/Moro" class="sys link-5-30003893" target="_top">
       <rect id="rect30003893" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Moro</text>
-      <text id="txt30003893" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">摩洛</text>
+      <text id="txt30003893" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003882">
     <a xlink:href="http://evemaps.dotlan.net/system/Lansez" class="sys link-5-30003882" target="_top">
       <rect id="rect30003882" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Lansez</text>
-      <text id="txt30003882" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">兰瑟茨</text>
+      <text id="txt30003882" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003880">
     <a xlink:href="http://evemaps.dotlan.net/system/Reteka" class="sys link-5-30003880" target="_top">
       <rect id="rect30003880" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Reteka</text>
-      <text id="txt30003880" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">勒特卡</text>
+      <text id="txt30003880" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003891">
     <a xlink:href="http://evemaps.dotlan.net/system/Tzashrah" class="sys link-5-30003891" target="_top">
       <rect id="rect30003891" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Tzashrah</text>
-      <text id="txt30003891" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">查什拉</text>
+      <text id="txt30003891" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003890">
     <a xlink:href="http://evemaps.dotlan.net/system/Ashi" class="sys link-5-30003890" target="_top">
       <rect id="rect30003890" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ashi</text>
-      <text id="txt30003890" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">阿什伊</text>
+      <text id="txt30003890" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -613,36 +613,36 @@
   <symbol id="def30003895">
     <a xlink:href="http://evemaps.dotlan.net/system/Ainsan" class="sys link-5-30003895" target="_top">
       <rect id="rect30003895" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ainsan</text>
-      <text id="txt30003895" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">艾恩山</text>
+      <text id="txt30003895" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003871">
     <a xlink:href="http://evemaps.dotlan.net/system/Geztic" class="sys link-5-30003871" target="_top">
       <rect id="rect30003871" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Geztic</text>
-      <text id="txt30003871" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">各茨提克</text>
+      <text id="txt30003871" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003870">
     <a xlink:href="http://evemaps.dotlan.net/system/Osis" class="sys link-5-30003870" target="_top">
       <rect id="rect30003870" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Osis</text>
-      <text id="txt30003870" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">奥塞斯</text>
+      <text id="txt30003870" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003875">
     <a xlink:href="http://evemaps.dotlan.net/system/Hishai" class="sys link-5-30003875" target="_top">
       <rect id="rect30003875" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Hishai</text>
-      <text id="txt30003875" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">细莎伊</text>
+      <text id="txt30003875" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003878">
     <a xlink:href="http://evemaps.dotlan.net/system/Palas" class="sys link-5-30003878" target="_top">
       <rect id="rect30003878" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Palas</text>
-      <text id="txt30003878" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">帕拉斯</text>
+      <text id="txt30003878" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -652,23 +652,23 @@
   <symbol id="def30003866">
     <a xlink:href="http://evemaps.dotlan.net/system/Bukah" class="sys link-5-30003866" target="_top">
       <rect id="rect30003866" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Bukah</text>
-      <text id="txt30003866" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">波卡</text>
+      <text id="txt30003866" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003889">
     <a xlink:href="http://evemaps.dotlan.net/system/Talidal" class="sys link-5-30003889" target="_top">
     <rect id="ice30003889" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003889" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Talidal</text>
-      <text id="txt30003889" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">塔里达尔</text>
+      <text id="txt30003889" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003888">
     <a xlink:href="http://evemaps.dotlan.net/system/Badivefi" class="sys link-5-30003888" target="_top">
       <rect id="rect30003888" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Badivefi</text>
-      <text id="txt30003888" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">巴蒂维夫</text>
+      <text id="txt30003888" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -678,15 +678,15 @@
   <symbol id="def30003865">
     <a xlink:href="http://evemaps.dotlan.net/system/Sazre" class="sys link-5-30003865" target="_top">
       <rect id="rect30003865" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Sazre</text>
-      <text id="txt30003865" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">萨泽勒</text>
+      <text id="txt30003865" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003879">
     <a xlink:href="http://evemaps.dotlan.net/system/Safshela" class="sys link-5-30003879" target="_top">
       <rect id="rect30003879" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Safshela</text>
-      <text id="txt30003879" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">萨夫舍拉</text>
+      <text id="txt30003879" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -695,8 +695,8 @@
   <symbol id="def30003862">
     <a xlink:href="http://evemaps.dotlan.net/system/Agil" class="sys link-5-30003862" target="_top">
       <rect id="rect30003862" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Agil</text>
-      <text id="txt30003862" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">埃基尔</text>
+      <text id="txt30003862" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -706,29 +706,29 @@
   <symbol id="def30003877">
     <a xlink:href="http://evemaps.dotlan.net/system/Gidali" class="sys link-5-30003877" target="_top">
       <rect id="rect30003877" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Gidali</text>
-      <text id="txt30003877" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">基达ali</text>
+      <text id="txt30003877" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003864">
     <a xlink:href="http://evemaps.dotlan.net/system/Jachanu" class="sys link-5-30003864" target="_top">
       <rect id="rect30003864" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Jachanu</text>
-      <text id="txt30003864" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">贾查努</text>
+      <text id="txt30003864" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003872">
     <a xlink:href="http://evemaps.dotlan.net/system/Yezara" class="sys link-5-30003872" target="_top">
       <rect id="rect30003872" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Yezara</text>
-      <text id="txt30003872" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">耶扎尔</text>
+      <text id="txt30003872" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003861">
     <a xlink:href="http://evemaps.dotlan.net/system/Ipref" class="sys link-5-30003861" target="_top">
       <rect id="rect30003861" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ipref</text>
-      <text id="txt30003861" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">伊佩佛</text>
+      <text id="txt30003861" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -739,15 +739,15 @@
   <symbol id="def30003869">
     <a xlink:href="http://evemaps.dotlan.net/system/Sehsasez" class="sys link-5-30003869" target="_top">
       <rect id="rect30003869" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Sehsasez</text>
-      <text id="txt30003869" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">瑟尔萨瑟</text>
+      <text id="txt30003869" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003860">
     <a xlink:href="http://evemaps.dotlan.net/system/Kihtaled" class="sys link-5-30003860" target="_top">
       <rect id="rect30003860" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Kihtaled</text>
-      <text id="txt30003860" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">基塔里德</text>
+      <text id="txt30003860" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -758,22 +758,22 @@
   <symbol id="def30003876">
     <a xlink:href="http://evemaps.dotlan.net/system/Molea" class="sys link-5-30003876" target="_top">
       <rect id="rect30003876" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Molea</text>
-      <text id="txt30003876" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">莫利亚</text>
+      <text id="txt30003876" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003867">
     <a xlink:href="http://evemaps.dotlan.net/system/Ervekam" class="sys link-5-30003867" target="_top">
       <rect id="rect30003867" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ervekam</text>
-      <text id="txt30003867" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">伊维卡姆</text>
+      <text id="txt30003867" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003863">
     <a xlink:href="http://evemaps.dotlan.net/system/Khanid_Prime" class="sys link-5-30003863" target="_top">
       <rect id="rect30003863" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Khanid Prime</text>
-      <text id="txt30003863" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">卡尼迪首星</text>
+      <text id="txt30003863" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -785,8 +785,8 @@
   <symbol id="def30003873">
     <a xlink:href="http://evemaps.dotlan.net/system/Kahah" class="sys link-5-30003873" target="_top">
       <rect id="rect30003873" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Kahah</text>
-      <text id="txt30003873" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">卡尔哈</text>
+      <text id="txt30003873" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -795,22 +795,22 @@
   <symbol id="def30003858">
     <a xlink:href="http://evemaps.dotlan.net/system/Gousoviba" class="sys link-5-30003858" target="_top">
       <rect id="rect30003858" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Gousoviba</text>
-      <text id="txt30003858" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">古索维巴</text>
+      <text id="txt30003858" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003868">
     <a xlink:href="http://evemaps.dotlan.net/system/Mashtarmem" class="sys link-5-30003868" target="_top">
       <rect id="rect30003868" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Mashtarmem</text>
-      <text id="txt30003868" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">玛什塔蒙</text>
+      <text id="txt30003868" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30003859">
     <a xlink:href="http://evemaps.dotlan.net/system/Neyi" class="sys link-5-30003859" target="_top">
       <rect id="rect30003859" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Neyi</text>
-      <text id="txt30003859" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">勒伊i</text>
+      <text id="txt30003859" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -821,22 +821,22 @@
   <symbol id="def30003874">
     <a xlink:href="http://evemaps.dotlan.net/system/Saloti" class="sys link-5-30003874" target="_top">
       <rect id="rect30003874" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #FFF4CE;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Saloti</text>
-      <text id="txt30003874" x="28" y="21.7" class="st" text-anchor="middle">Khanid</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">赛罗提</text>
+      <text id="txt30003874" x="28" y="21.7" class="st" text-anchor="middle">卡尼迪</text>
     </a>
   </symbol>
   <symbol id="def30004301">
     <a xlink:href="http://evemaps.dotlan.net/map/Aridia/Anath" class="sys link-5-30004301" target="_top">
       <rect id="rect30004301" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Anath</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Aridia</text>
+      <text x="28" y="14" class="es" text-anchor="middle">埃纳th</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">艾里迪亚</text>
     </a>
   </symbol>
   <symbol id="def30005062">
     <a xlink:href="http://evemaps.dotlan.net/map/Kor-Azor/Abath" class="sys link-5-30005062" target="_top">
       <rect id="rect30005062" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Abath</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Kor-Azor</text>
+      <text x="28" y="14" class="es" text-anchor="middle">埃巴特</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">柯埃佐</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -848,21 +848,21 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Querious/A2-V27" class="sys link-5-30003942" target="_top">
       <rect id="rect30003942" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">A2-V27</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Querious</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">逑瑞斯</text>
     </a>
   </symbol>
   <symbol id="def30004019">
     <a xlink:href="http://evemaps.dotlan.net/map/Querious/3-FKCZ" class="sys link-5-30004019" target="_top">
       <rect id="rect30004019" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">3-FKCZ</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Querious</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">逑瑞斯</text>
     </a>
   </symbol>
   <symbol id="def30005050">
     <a xlink:href="http://evemaps.dotlan.net/map/Kor-Azor/Kulu" class="sys link-5-30005050" target="_top">
       <rect id="rect30005050" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Kulu</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Kor-Azor</text>
+      <text x="28" y="14" class="es" text-anchor="middle">库鲁</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">柯埃佐</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -874,14 +874,14 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Catch/HED-GP" class="sys link-5-30001161" target="_top">
       <rect id="rect30001161" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">HED-GP</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Catch</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡特ch</text>
     </a>
   </symbol>
   <symbol id="def30005041">
     <a xlink:href="http://evemaps.dotlan.net/map/Kor-Azor/Masanuh" class="sys link-5-30005041" target="_top">
       <rect id="rect30005041" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Masanuh</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Kor-Azor</text>
+      <text x="28" y="14" class="es" text-anchor="middle">马萨努</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">柯埃佐</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -893,8 +893,8 @@
   <symbol id="def30005043">
     <a xlink:href="http://evemaps.dotlan.net/map/Kor-Azor/Nakregde" class="sys link-5-30005043" target="_top">
       <rect id="rect30005043" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Nakregde</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Kor-Azor</text>
+      <text x="28" y="14" class="es" text-anchor="middle">纳奎格德</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">柯埃佐</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -904,8 +904,8 @@
   <symbol id="def30001691">
     <a xlink:href="http://evemaps.dotlan.net/map/Tash-Murkon/Mimime" class="sys link-5-30001691" target="_top">
       <rect id="rect30001691" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Mimime</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tash-Murkon</text>
+      <text x="28" y="14" class="es" text-anchor="middle">米迷梅</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">塔什蒙贡</text>
     </a>
   </symbol>
 

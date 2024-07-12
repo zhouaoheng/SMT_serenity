@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Geminate</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">对舞之域</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -311,7 +311,7 @@
   <symbol id="def30002426">
     <a xlink:href="http://evemaps.dotlan.net/system/Roua" class="sys link-5-30002426" target="_top">
       <rect id="rect30002426" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #ffffff;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Roua</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">若阿</text>
       <text id="txt30002426" x="28" y="21.7" class="st" text-anchor="middle">The Society</text>
     </a>
   </symbol>
@@ -433,7 +433,7 @@
   <symbol id="def30002443">
     <a xlink:href="http://evemaps.dotlan.net/system/RLSI-V" class="sys link-5-30002443" target="_top">
       <rect id="rect30002443" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #DFF1FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">RLSI-V</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">LSI-V</text>
       <text id="txt30002443" x="28" y="21.7" class="st so" text-anchor="middle">.-D-. (3)</text>
     </a>
   </symbol>
@@ -651,7 +651,7 @@
   <symbol id="def30002489">
     <a xlink:href="http://evemaps.dotlan.net/system/Atioth" class="sys link-5-30002489" target="_top">
       <rect id="rect30002489" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #FDFF00;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Atioth</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">艾蒂斯</text>
       <text id="txt30002489" x="28" y="21.7" class="st so" text-anchor="middle">REKTD (5)</text>
     </a>
   </symbol>
@@ -737,8 +737,8 @@
   <symbol id="def30000200">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Forge/Akkio" class="sys link-5-30000200" target="_top">
       <rect id="rect30000200" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Akkio</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Forge</text>
+      <text x="28" y="14" class="es" text-anchor="middle">埃加奥</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">伏尔戈</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -748,14 +748,14 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/1W-0KS" class="sys link-5-30000288" target="_top">
       <rect id="rect30000288" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">1W-0KS</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30003466">
     <a xlink:href="http://evemaps.dotlan.net/map/Metropolis/Eurgrana" class="sys link-5-30003466" target="_top">
       <rect id="rect30003466" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Eurgrana</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Metropolis</text>
+      <text x="28" y="14" class="es" text-anchor="middle">尤加拉那</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">美特伯里斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -767,35 +767,35 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/H-5GUI" class="sys link-5-30000225" target="_top">
       <rect id="rect30000225" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">H-5GUI</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000186">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Forge/Oijanen" class="sys link-5-30000186" target="_top">
       <rect id="rect30000186" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Oijanen</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Forge</text>
+      <text x="28" y="14" class="es" text-anchor="middle">欧加仑</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">伏尔戈</text>
     </a>
   </symbol>
   <symbol id="def30001000">
     <a xlink:href="http://evemaps.dotlan.net/map/Great_Wildlands/K-IYNW" class="sys link-5-30001000" target="_top">
       <rect id="rect30001000" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">K-IYNW</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Great Wildlands</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">大荒野</text>
     </a>
   </symbol>
   <symbol id="def30002866">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Kalevala_Expanse/1S-SU1" class="sys link-5-30002866" target="_top">
       <rect id="rect30002866" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">1S-SU1</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Kalevala Expanse</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡勒瓦拉阔地</text>
     </a>
   </symbol>
   <symbol id="def30000318">
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/9-GBPD" class="sys link-5-30000318" target="_top">
       <rect id="rect30000318" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">9-GBPD</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
 

@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Domain</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">多美</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -129,29 +129,29 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Bourar" class="sys link-5-30002238" target="_top">
     <rect id="ice30002238" x="1" y="0.5" rx="11.25" ry="10.25" width="43.5" height="22.5" class="i" />
       <rect id="rect30002238" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Bourar</text>
-      <text id="txt30002238" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">博拉尔</text>
+      <text id="txt30002238" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002237">
     <a xlink:href="http://evemaps.dotlan.net/system/Sobenah" class="sys link-5-30002237" target="_top">
       <rect id="rect30002237" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Sobenah</text>
-      <text id="txt30002237" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">索贝纳</text>
+      <text id="txt30002237" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002255">
     <a xlink:href="http://evemaps.dotlan.net/system/Miyeli" class="sys link-5-30002255" target="_top">
       <rect id="rect30002255" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Miyeli</text>
-      <text id="txt30002255" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">米耶利</text>
+      <text id="txt30002255" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002211">
     <a xlink:href="http://evemaps.dotlan.net/system/Pelkia" class="sys link-5-30002211" target="_top">
       <rect id="rect30002211" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Pelkia</text>
-      <text id="txt30002211" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">佩吉亚</text>
+      <text id="txt30002211" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -160,15 +160,15 @@
   <symbol id="def30002213">
     <a xlink:href="http://evemaps.dotlan.net/system/Mazitah" class="sys link-5-30002213" target="_top">
       <rect id="rect30002213" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Mazitah</text>
-      <text id="txt30002213" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">玛兹塔</text>
+      <text id="txt30002213" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002215">
     <a xlink:href="http://evemaps.dotlan.net/system/Sakhti" class="sys link-5-30002215" target="_top">
       <rect id="rect30002215" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Sakhti</text>
-      <text id="txt30002215" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">萨科提</text>
+      <text id="txt30002215" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -178,8 +178,8 @@
   <symbol id="def30002216">
     <a xlink:href="http://evemaps.dotlan.net/system/Aldali" class="sys link-5-30002216" target="_top">
       <rect id="rect30002216" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Aldali</text>
-      <text id="txt30002216" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">阿尔达里</text>
+      <text id="txt30002216" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -189,15 +189,15 @@
   <symbol id="def30002212">
     <a xlink:href="http://evemaps.dotlan.net/system/Raren" class="sys link-5-30002212" target="_top">
       <rect id="rect30002212" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Raren</text>
-      <text id="txt30002212" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">拉仁</text>
+      <text id="txt30002212" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002249">
     <a xlink:href="http://evemaps.dotlan.net/system/Ruchy" class="sys link-5-30002249" target="_top">
       <rect id="rect30002249" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Ruchy</text>
-      <text id="txt30002249" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">鲁赤</text>
+      <text id="txt30002249" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -208,8 +208,8 @@
   <symbol id="def30002235">
     <a xlink:href="http://evemaps.dotlan.net/system/Shumam" class="sys link-5-30002235" target="_top">
       <rect id="rect30002235" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Shumam</text>
-      <text id="txt30002235" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">舒曼</text>
+      <text id="txt30002235" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -218,29 +218,29 @@
   <symbol id="def30002218">
     <a xlink:href="http://evemaps.dotlan.net/system/Noli" class="sys link-5-30002218" target="_top">
       <rect id="rect30002218" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Noli</text>
-      <text id="txt30002218" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">诺里</text>
+      <text id="txt30002218" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002241">
     <a xlink:href="http://evemaps.dotlan.net/system/Rimbah" class="sys link-5-30002241" target="_top">
       <rect id="rect30002241" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Rimbah</text>
-      <text id="txt30002241" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">利姆巴</text>
+      <text id="txt30002241" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002236">
     <a xlink:href="http://evemaps.dotlan.net/system/Milal" class="sys link-5-30002236" target="_top">
       <rect id="rect30002236" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Milal</text>
-      <text id="txt30002236" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">密拉尔</text>
+      <text id="txt30002236" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002256">
     <a xlink:href="http://evemaps.dotlan.net/system/Reyi" class="sys link-5-30002256" target="_top">
       <rect id="rect30002256" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Reyi</text>
-      <text id="txt30002256" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">勒里</text>
+      <text id="txt30002256" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -250,22 +250,22 @@
   <symbol id="def30002240">
     <a xlink:href="http://evemaps.dotlan.net/system/Arodan" class="sys link-5-30002240" target="_top">
       <rect id="rect30002240" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Arodan</text>
-      <text id="txt30002240" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">埃罗丹</text>
+      <text id="txt30002240" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002239">
     <a xlink:href="http://evemaps.dotlan.net/system/Rammi" class="sys link-5-30002239" target="_top">
       <rect id="rect30002239" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Rammi</text>
-      <text id="txt30002239" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">拉姆米</text>
+      <text id="txt30002239" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002202">
     <a xlink:href="http://evemaps.dotlan.net/system/Narai" class="sys link-5-30002202" target="_top">
       <rect id="rect30002202" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Narai</text>
-      <text id="txt30002202" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">纳莱</text>
+      <text id="txt30002202" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -276,8 +276,8 @@
   <symbol id="def30002210">
     <a xlink:href="http://evemaps.dotlan.net/system/Joppaya" class="sys link-5-30002210" target="_top">
       <rect id="rect30002210" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Joppaya</text>
-      <text id="txt30002210" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">乔巴亚</text>
+      <text id="txt30002210" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -287,22 +287,22 @@
   <symbol id="def30002217">
     <a xlink:href="http://evemaps.dotlan.net/system/Hutian" class="sys link-5-30002217" target="_top">
       <rect id="rect30002217" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Hutian</text>
-      <text id="txt30002217" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">胡天</text>
+      <text id="txt30002217" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002214">
     <a xlink:href="http://evemaps.dotlan.net/system/Hiramu" class="sys link-5-30002214" target="_top">
       <rect id="rect30002214" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Hiramu</text>
-      <text id="txt30002214" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">西拉姆</text>
+      <text id="txt30002214" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002252">
     <a xlink:href="http://evemaps.dotlan.net/system/Bika" class="sys link-5-30002252" target="_top">
       <rect id="rect30002252" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Bika</text>
-      <text id="txt30002252" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">碧卡</text>
+      <text id="txt30002252" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -313,15 +313,15 @@
   <symbol id="def30002219">
     <a xlink:href="http://evemaps.dotlan.net/system/Nomash" class="sys link-5-30002219" target="_top">
       <rect id="rect30002219" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Nomash</text>
-      <text id="txt30002219" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">诺玛什</text>
+      <text id="txt30002219" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002246">
     <a xlink:href="http://evemaps.dotlan.net/system/Neziel" class="sys link-5-30002246" target="_top">
       <rect id="rect30002246" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Neziel</text>
-      <text id="txt30002246" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">勒茨尔</text>
+      <text id="txt30002246" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -331,8 +331,8 @@
   <symbol id="def30002201">
     <a xlink:href="http://evemaps.dotlan.net/system/Shuria" class="sys link-5-30002201" target="_top">
       <rect id="rect30002201" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Shuria</text>
-      <text id="txt30002201" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">舒利亚</text>
+      <text id="txt30002201" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -343,8 +343,8 @@
   <symbol id="def30002248">
     <a xlink:href="http://evemaps.dotlan.net/system/Knophtikoo" class="sys link-5-30002248" target="_top">
       <rect id="rect30002248" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Knophtikoo</text>
-      <text id="txt30002248" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">诺夫提科</text>
+      <text id="txt30002248" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -353,8 +353,8 @@
   <symbol id="def30002276">
     <a xlink:href="http://evemaps.dotlan.net/system/Isamm" class="sys link-5-30002276" target="_top">
       <rect id="rect30002276" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Isamm</text>
-      <text id="txt30002276" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">伊萨姆恩</text>
+      <text id="txt30002276" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -364,8 +364,8 @@
   <symbol id="def30002232">
     <a xlink:href="http://evemaps.dotlan.net/system/Gid" class="sys link-5-30002232" target="_top">
       <rect id="rect30002232" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Gid</text>
-      <text id="txt30002232" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">基达</text>
+      <text id="txt30002232" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -376,8 +376,8 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Jerma" class="sys link-5-30002254" target="_top">
     <rect id="ice30002254" x="1" y="0.5" rx="11.25" ry="10.25" width="43.5" height="22.5" class="i" />
       <rect id="rect30002254" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Jerma</text>
-      <text id="txt30002254" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">杰尔马</text>
+      <text id="txt30002254" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -387,15 +387,15 @@
   <symbol id="def30002250">
     <a xlink:href="http://evemaps.dotlan.net/system/Hai" class="sys link-5-30002250" target="_top">
       <rect id="rect30002250" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Hai</text>
-      <text id="txt30002250" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">哈伊</text>
+      <text id="txt30002250" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002200">
     <a xlink:href="http://evemaps.dotlan.net/system/Sukirah" class="sys link-5-30002200" target="_top">
       <rect id="rect30002200" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Sukirah</text>
-      <text id="txt30002200" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">苏基拉赫</text>
+      <text id="txt30002200" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -407,8 +407,8 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Bashakru" class="sys link-5-30002199" target="_top">
     <rect id="ice30002199" x="1" y="0.5" rx="11.25" ry="10.25" width="43.5" height="22.5" class="i" />
       <rect id="rect30002199" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Bashakru</text>
-      <text id="txt30002199" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">巴沙克鲁</text>
+      <text id="txt30002199" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -419,8 +419,8 @@
   <symbol id="def30002244">
     <a xlink:href="http://evemaps.dotlan.net/system/Arera" class="sys link-5-30002244" target="_top">
       <rect id="rect30002244" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Arera</text>
-      <text id="txt30002244" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">阿勒拉</text>
+      <text id="txt30002244" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -430,15 +430,15 @@
   <symbol id="def30002243">
     <a xlink:href="http://evemaps.dotlan.net/system/Seiradih" class="sys link-5-30002243" target="_top">
       <rect id="rect30002243" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Seiradih</text>
-      <text id="txt30002243" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">希尔拉迪</text>
+      <text id="txt30002243" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003496">
     <a xlink:href="http://evemaps.dotlan.net/system/Nakri" class="sys link-5-30003496" target="_top">
       <rect id="rect30003496" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Nakri</text>
-      <text id="txt30003496" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">那奎利</text>
+      <text id="txt30003496" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -449,15 +449,15 @@
   <symbol id="def30002251">
     <a xlink:href="http://evemaps.dotlan.net/system/Sadye" class="sys link-5-30002251" target="_top">
       <rect id="rect30002251" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Sadye</text>
-      <text id="txt30002251" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">萨德耶</text>
+      <text id="txt30002251" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003494">
     <a xlink:href="http://evemaps.dotlan.net/system/Ekid" class="sys link-5-30003494" target="_top">
       <rect id="rect30003494" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Ekid</text>
-      <text id="txt30003494" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">厄基德</text>
+      <text id="txt30003494" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -467,8 +467,8 @@
   <symbol id="def30002231">
     <a xlink:href="http://evemaps.dotlan.net/system/Ardishapur_Prime" class="sys link-5-30002231" target="_top">
       <rect id="rect30002231" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Ardishapur Prime</text>
-      <text id="txt30002231" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">阿狄莎波首星</text>
+      <text id="txt30002231" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -478,8 +478,8 @@
   <symbol id="def30002268">
     <a xlink:href="http://evemaps.dotlan.net/system/Adia" class="sys link-5-30002268" target="_top">
       <rect id="rect30002268" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Adia</text>
-      <text id="txt30002268" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">阿迪亚</text>
+      <text id="txt30002268" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -490,8 +490,8 @@
   <symbol id="def30002267">
     <a xlink:href="http://evemaps.dotlan.net/system/Shabura" class="sys link-5-30002267" target="_top">
       <rect id="rect30002267" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Shabura</text>
-      <text id="txt30002267" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">沙布拉</text>
+      <text id="txt30002267" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -503,8 +503,8 @@
   <symbol id="def30002265">
     <a xlink:href="http://evemaps.dotlan.net/system/Azizora" class="sys link-5-30002265" target="_top">
       <rect id="rect30002265" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Azizora</text>
-      <text id="txt30002265" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">阿茨左拉</text>
+      <text id="txt30002265" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -514,8 +514,8 @@
   <symbol id="def30002264">
     <a xlink:href="http://evemaps.dotlan.net/system/Hadonoo" class="sys link-5-30002264" target="_top">
       <rect id="rect30002264" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Hadonoo</text>
-      <text id="txt30002264" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">哈多诺</text>
+      <text id="txt30002264" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -526,8 +526,8 @@
   <symbol id="def30002253">
     <a xlink:href="http://evemaps.dotlan.net/system/Arshat" class="sys link-5-30002253" target="_top">
       <rect id="rect30002253" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Arshat</text>
-      <text id="txt30002253" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">埃尔沙特</text>
+      <text id="txt30002253" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -537,8 +537,8 @@
   <symbol id="def30003480">
     <a xlink:href="http://evemaps.dotlan.net/system/Amod" class="sys link-5-30003480" target="_top">
       <rect id="rect30003480" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Amod</text>
-      <text id="txt30003480" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">阿莫d</text>
+      <text id="txt30003480" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -549,8 +549,8 @@
   <symbol id="def30002203">
     <a xlink:href="http://evemaps.dotlan.net/system/Ziona" class="sys link-5-30002203" target="_top">
       <rect id="rect30002203" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Ziona</text>
-      <text id="txt30002203" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">左那</text>
+      <text id="txt30002203" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -561,8 +561,8 @@
   <symbol id="def30002198">
     <a xlink:href="http://evemaps.dotlan.net/system/Mikhir" class="sys link-5-30002198" target="_top">
       <rect id="rect30002198" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Mikhir</text>
-      <text id="txt30002198" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">米克希尔</text>
+      <text id="txt30002198" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -573,8 +573,8 @@
   <symbol id="def30002242">
     <a xlink:href="http://evemaps.dotlan.net/system/Mamenkhanar" class="sys link-5-30002242" target="_top">
       <rect id="rect30002242" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Mamenkhanar</text>
-      <text id="txt30002242" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">马蒙卡纳尔</text>
+      <text id="txt30002242" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -584,8 +584,8 @@
   <symbol id="def30003493">
     <a xlink:href="http://evemaps.dotlan.net/system/Youl" class="sys link-5-30003493" target="_top">
       <rect id="rect30003493" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Youl</text>
-      <text id="txt30003493" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">尤洱</text>
+      <text id="txt30003493" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -596,15 +596,15 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Raravoss" class="sys link-5-30003495" target="_top">
     <rect id="ice30003495" x="1" y="0.5" rx="11.25" ry="10.25" width="43.5" height="22.5" class="i" />
       <rect id="rect30003495" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Raravoss</text>
-      <text id="txt30003495" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">拉拉沃斯</text>
+      <text id="txt30003495" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002245">
     <a xlink:href="http://evemaps.dotlan.net/system/Hizhara" class="sys link-5-30002245" target="_top">
       <rect id="rect30002245" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Hizhara</text>
-      <text id="txt30002245" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">西扎拉</text>
+      <text id="txt30002245" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -614,8 +614,8 @@
   <symbol id="def30002247">
     <a xlink:href="http://evemaps.dotlan.net/system/Ahala" class="sys link-5-30002247" target="_top">
       <rect id="rect30002247" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Ahala</text>
-      <text id="txt30002247" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">阿哈拉</text>
+      <text id="txt30002247" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -625,8 +625,8 @@
   <symbol id="def30002234">
     <a xlink:href="http://evemaps.dotlan.net/system/Nifshed" class="sys link-5-30002234" target="_top">
       <rect id="rect30002234" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Nifshed</text>
-      <text id="txt30002234" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">尼夫沙德</text>
+      <text id="txt30002234" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -636,8 +636,8 @@
   <symbol id="def30002262">
     <a xlink:href="http://evemaps.dotlan.net/system/Nalu" class="sys link-5-30002262" target="_top">
       <rect id="rect30002262" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Nalu</text>
-      <text id="txt30002262" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">哪鲁</text>
+      <text id="txt30002262" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -649,8 +649,8 @@
   <symbol id="def30002261">
     <a xlink:href="http://evemaps.dotlan.net/system/Luromooh" class="sys link-5-30002261" target="_top">
       <rect id="rect30002261" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Luromooh</text>
-      <text id="txt30002261" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">努罗莫</text>
+      <text id="txt30002261" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -659,8 +659,8 @@
   <symbol id="def30002263">
     <a xlink:href="http://evemaps.dotlan.net/system/Jarshitsan" class="sys link-5-30002263" target="_top">
       <rect id="rect30002263" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Jarshitsan</text>
-      <text id="txt30002263" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">贾什赞</text>
+      <text id="txt30002263" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -672,8 +672,8 @@
   <symbol id="def30003498">
     <a xlink:href="http://evemaps.dotlan.net/system/Sharhelund" class="sys link-5-30003498" target="_top">
       <rect id="rect30003498" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Sharhelund</text>
-      <text id="txt30003498" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">沙尔赫伦德</text>
+      <text id="txt30003498" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -683,8 +683,8 @@
   <symbol id="def30003479">
     <a xlink:href="http://evemaps.dotlan.net/system/Akila" class="sys link-5-30003479" target="_top">
       <rect id="rect30003479" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Akila</text>
-      <text id="txt30003479" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">埃基拉</text>
+      <text id="txt30003479" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -694,8 +694,8 @@
   <symbol id="def30002228">
     <a xlink:href="http://evemaps.dotlan.net/system/Nererut" class="sys link-5-30002228" target="_top">
       <rect id="rect30002228" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Nererut</text>
-      <text id="txt30002228" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">尼勒鲁特</text>
+      <text id="txt30002228" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -707,8 +707,8 @@
   <symbol id="def30002197">
     <a xlink:href="http://evemaps.dotlan.net/system/Akhragan" class="sys link-5-30002197" target="_top">
       <rect id="rect30002197" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Akhragan</text>
-      <text id="txt30002197" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">埃克拉甘</text>
+      <text id="txt30002197" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -719,8 +719,8 @@
   <symbol id="def30002266">
     <a xlink:href="http://evemaps.dotlan.net/system/Ahmak" class="sys link-5-30002266" target="_top">
       <rect id="rect30002266" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Ahmak</text>
-      <text id="txt30002266" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">阿马科</text>
+      <text id="txt30002266" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -729,8 +729,8 @@
   <symbol id="def30003497">
     <a xlink:href="http://evemaps.dotlan.net/system/Zaimeth" class="sys link-5-30003497" target="_top">
       <rect id="rect30003497" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Zaimeth</text>
-      <text id="txt30003497" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">扎模什</text>
+      <text id="txt30003497" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -740,8 +740,8 @@
   <symbol id="def30002259">
     <a xlink:href="http://evemaps.dotlan.net/system/Sahdil" class="sys link-5-30002259" target="_top">
       <rect id="rect30002259" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Sahdil</text>
-      <text id="txt30002259" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">萨蒂尔</text>
+      <text id="txt30002259" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -752,8 +752,8 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Esteban" class="sys link-5-30002260" target="_top">
     <rect id="ice30002260" x="1" y="0.5" rx="11.25" ry="10.25" width="43.5" height="22.5" class="i" />
       <rect id="rect30002260" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Esteban</text>
-      <text id="txt30002260" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">厄斯特班</text>
+      <text id="txt30002260" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -763,8 +763,8 @@
   <symbol id="def30002277">
     <a xlink:href="http://evemaps.dotlan.net/system/Ebtesham" class="sys link-5-30002277" target="_top">
       <rect id="rect30002277" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Ebtesham</text>
-      <text id="txt30002277" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">埃贝特斯哈姆</text>
+      <text id="txt30002277" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -774,8 +774,8 @@
   <symbol id="def30002230">
     <a xlink:href="http://evemaps.dotlan.net/system/Vashkah" class="sys link-5-30002230" target="_top">
       <rect id="rect30002230" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Vashkah</text>
-      <text id="txt30002230" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">瓦什卡尔</text>
+      <text id="txt30002230" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -787,8 +787,8 @@
   <symbol id="def30003499">
     <a xlink:href="http://evemaps.dotlan.net/system/Mai" class="sys link-5-30003499" target="_top">
       <rect id="rect30003499" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Mai</text>
-      <text id="txt30003499" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">玛依</text>
+      <text id="txt30003499" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -797,15 +797,15 @@
   <symbol id="def30003478">
     <a xlink:href="http://evemaps.dotlan.net/system/Basan" class="sys link-5-30003478" target="_top">
       <rect id="rect30003478" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Basan</text>
-      <text id="txt30003478" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">巴姗</text>
+      <text id="txt30003478" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003492">
     <a xlink:href="http://evemaps.dotlan.net/system/Orkashu" class="sys link-5-30003492" target="_top">
       <rect id="rect30003492" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Orkashu</text>
-      <text id="txt30003492" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">欧卡舒</text>
+      <text id="txt30003492" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -815,15 +815,15 @@
   <symbol id="def30002273">
     <a xlink:href="http://evemaps.dotlan.net/system/Porsharrah" class="sys link-5-30002273" target="_top">
       <rect id="rect30002273" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Porsharrah</text>
-      <text id="txt30002273" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">波尔莎拉</text>
+      <text id="txt30002273" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002278">
     <a xlink:href="http://evemaps.dotlan.net/system/Artoun" class="sys link-5-30002278" target="_top">
       <rect id="rect30002278" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Artoun</text>
-      <text id="txt30002278" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">阿尔托恩</text>
+      <text id="txt30002278" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -833,8 +833,8 @@
   <symbol id="def30002279">
     <a xlink:href="http://evemaps.dotlan.net/system/Safizon" class="sys link-5-30002279" target="_top">
       <rect id="rect30002279" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Safizon</text>
-      <text id="txt30002279" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">萨费安</text>
+      <text id="txt30002279" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -844,22 +844,22 @@
   <symbol id="def30002227">
     <a xlink:href="http://evemaps.dotlan.net/system/Rasile" class="sys link-5-30002227" target="_top">
       <rect id="rect30002227" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Rasile</text>
-      <text id="txt30002227" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">拉希勒</text>
+      <text id="txt30002227" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002257">
     <a xlink:href="http://evemaps.dotlan.net/system/Moussou" class="sys link-5-30002257" target="_top">
       <rect id="rect30002257" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Moussou</text>
-      <text id="txt30002257" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">毛索</text>
+      <text id="txt30002257" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002258">
     <a xlink:href="http://evemaps.dotlan.net/system/Nadohman" class="sys link-5-30002258" target="_top">
       <rect id="rect30002258" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Nadohman</text>
-      <text id="txt30002258" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">那朵曼</text>
+      <text id="txt30002258" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -868,15 +868,15 @@
   <symbol id="def30002208">
     <a xlink:href="http://evemaps.dotlan.net/system/Ilonarav" class="sys link-5-30002208" target="_top">
       <rect id="rect30002208" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Ilonarav</text>
-      <text id="txt30002208" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">伊洛娜拉夫</text>
+      <text id="txt30002208" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002269">
     <a xlink:href="http://evemaps.dotlan.net/system/Ebo" class="sys link-5-30002269" target="_top">
       <rect id="rect30002269" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Ebo</text>
-      <text id="txt30002269" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">厄博</text>
+      <text id="txt30002269" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -888,8 +888,8 @@
   <symbol id="def30002226">
     <a xlink:href="http://evemaps.dotlan.net/system/Thebeka" class="sys link-5-30002226" target="_top">
       <rect id="rect30002226" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Thebeka</text>
-      <text id="txt30002226" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">特贝卡</text>
+      <text id="txt30002226" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -899,15 +899,15 @@
   <symbol id="def30003477">
     <a xlink:href="http://evemaps.dotlan.net/system/Shajarleg" class="sys link-5-30003477" target="_top">
       <rect id="rect30003477" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Shajarleg</text>
-      <text id="txt30003477" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">莎迦尔勒</text>
+      <text id="txt30003477" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002193">
     <a xlink:href="http://evemaps.dotlan.net/system/Kehour" class="sys link-5-30002193" target="_top">
       <rect id="rect30002193" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Kehour</text>
-      <text id="txt30002193" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">克霍尔</text>
+      <text id="txt30002193" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -917,8 +917,8 @@
   <symbol id="def30002271">
     <a xlink:href="http://evemaps.dotlan.net/system/Rayl" class="sys link-5-30002271" target="_top">
       <rect id="rect30002271" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Rayl</text>
-      <text id="txt30002271" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">莱尔</text>
+      <text id="txt30002271" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -930,8 +930,8 @@
   <symbol id="def30023489">
     <a xlink:href="http://evemaps.dotlan.net/system/Fora" class="sys link-5-30023489" target="_top">
       <rect id="rect30023489" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Fora</text>
-      <text id="txt30023489" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">弗纳</text>
+      <text id="txt30023489" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -942,8 +942,8 @@
   <symbol id="def30002191">
     <a xlink:href="http://evemaps.dotlan.net/system/Toshabia" class="sys link-5-30002191" target="_top">
       <rect id="rect30002191" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Toshabia</text>
-      <text id="txt30002191" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">托沙比雅</text>
+      <text id="txt30002191" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -953,8 +953,8 @@
   <symbol id="def30002192">
     <a xlink:href="http://evemaps.dotlan.net/system/Irnin" class="sys link-5-30002192" target="_top">
       <rect id="rect30002192" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Irnin</text>
-      <text id="txt30002192" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">伊明</text>
+      <text id="txt30002192" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -964,15 +964,15 @@
   <symbol id="def30002229">
     <a xlink:href="http://evemaps.dotlan.net/system/Sitanan" class="sys link-5-30002229" target="_top">
       <rect id="rect30002229" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Sitanan</text>
-      <text id="txt30002229" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">西塔南</text>
+      <text id="txt30002229" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002233">
     <a xlink:href="http://evemaps.dotlan.net/system/Dakba" class="sys link-5-30002233" target="_top">
       <rect id="rect30002233" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Dakba</text>
-      <text id="txt30002233" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">达卡巴</text>
+      <text id="txt30002233" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -983,8 +983,8 @@
   <symbol id="def30002281">
     <a xlink:href="http://evemaps.dotlan.net/system/Eba" class="sys link-5-30002281" target="_top">
       <rect id="rect30002281" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Eba</text>
-      <text id="txt30002281" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">埃巴</text>
+      <text id="txt30002281" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -994,8 +994,8 @@
   <symbol id="def30002270">
     <a xlink:href="http://evemaps.dotlan.net/system/Avair" class="sys link-5-30002270" target="_top">
       <rect id="rect30002270" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Avair</text>
-      <text id="txt30002270" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">埃瓦尔</text>
+      <text id="txt30002270" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1007,8 +1007,8 @@
   <symbol id="def30003474">
     <a xlink:href="http://evemaps.dotlan.net/system/Sahda" class="sys link-5-30003474" target="_top">
       <rect id="rect30003474" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Sahda</text>
-      <text id="txt30003474" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">萨哈达</text>
+      <text id="txt30003474" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1019,8 +1019,8 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Naguton" class="sys link-5-30003475" target="_top">
     <rect id="ice30003475" x="1" y="0.5" rx="11.25" ry="10.25" width="43.5" height="22.5" class="i" />
       <rect id="rect30003475" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Naguton</text>
-      <text id="txt30003475" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">纳古顿</text>
+      <text id="txt30003475" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1031,15 +1031,15 @@
   <symbol id="def30002280">
     <a xlink:href="http://evemaps.dotlan.net/system/Zatsyaki" class="sys link-5-30002280" target="_top">
       <rect id="rect30002280" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Zatsyaki</text>
-      <text id="txt30002280" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">杂特夏基</text>
+      <text id="txt30002280" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002195">
     <a xlink:href="http://evemaps.dotlan.net/system/Simbeloud" class="sys link-5-30002195" target="_top">
       <rect id="rect30002195" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Simbeloud</text>
-      <text id="txt30002195" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">西姆贝罗德</text>
+      <text id="txt30002195" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1050,8 +1050,8 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Warouh" class="sys link-5-30003553" target="_top">
     <rect id="ice30003553" x="1" y="0.5" rx="11.25" ry="10.25" width="43.5" height="22.5" class="i" />
       <rect id="rect30003553" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Warouh</text>
-      <text id="txt30003553" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">瓦若乌</text>
+      <text id="txt30003553" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1062,15 +1062,15 @@
   <symbol id="def30002207">
     <a xlink:href="http://evemaps.dotlan.net/system/Cailanar" class="sys link-5-30002207" target="_top">
       <rect id="rect30002207" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Cailanar</text>
-      <text id="txt30002207" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">柴兰纳尔</text>
+      <text id="txt30002207" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002204">
     <a xlink:href="http://evemaps.dotlan.net/system/Gaha" class="sys link-5-30002204" target="_top">
       <rect id="rect30002204" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Gaha</text>
-      <text id="txt30002204" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">伽哈</text>
+      <text id="txt30002204" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1081,8 +1081,8 @@
   <symbol id="def30002188">
     <a xlink:href="http://evemaps.dotlan.net/system/Boranai" class="sys link-5-30002188" target="_top">
       <rect id="rect30002188" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Boranai</text>
-      <text id="txt30002188" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">博拉那伊</text>
+      <text id="txt30002188" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1092,8 +1092,8 @@
   <symbol id="def30002272">
     <a xlink:href="http://evemaps.dotlan.net/system/Asoutar" class="sys link-5-30002272" target="_top">
       <rect id="rect30002272" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Asoutar</text>
-      <text id="txt30002272" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">奥索达</text>
+      <text id="txt30002272" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1103,8 +1103,8 @@
   <symbol id="def30003488">
     <a xlink:href="http://evemaps.dotlan.net/system/Penirgman" class="sys link-5-30003488" target="_top">
       <rect id="rect30003488" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Penirgman</text>
-      <text id="txt30003488" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">佩尼尔格曼</text>
+      <text id="txt30003488" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1116,8 +1116,8 @@
   <symbol id="def30003490">
     <a xlink:href="http://evemaps.dotlan.net/system/Khopa" class="sys link-5-30003490" target="_top">
       <rect id="rect30003490" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Khopa</text>
-      <text id="txt30003490" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">科帕</text>
+      <text id="txt30003490" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1128,15 +1128,15 @@
   <symbol id="def30002196">
     <a xlink:href="http://evemaps.dotlan.net/system/Ebidan" class="sys link-5-30002196" target="_top">
       <rect id="rect30002196" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Ebidan</text>
-      <text id="txt30002196" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">厄博丹</text>
+      <text id="txt30002196" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003554">
     <a xlink:href="http://evemaps.dotlan.net/system/Jambu" class="sys link-5-30003554" target="_top">
       <rect id="rect30003554" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Jambu</text>
-      <text id="txt30003554" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">贾姆布</text>
+      <text id="txt30003554" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1146,8 +1146,8 @@
   <symbol id="def30003543">
     <a xlink:href="http://evemaps.dotlan.net/system/Zanka" class="sys link-5-30003543" target="_top">
       <rect id="rect30003543" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Zanka</text>
-      <text id="txt30003543" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">赞喀</text>
+      <text id="txt30003543" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1158,15 +1158,15 @@
   <symbol id="def30002274">
     <a xlink:href="http://evemaps.dotlan.net/system/Tastela" class="sys link-5-30002274" target="_top">
       <rect id="rect30002274" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Tastela</text>
-      <text id="txt30002274" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">他斯特勒</text>
+      <text id="txt30002274" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003476">
     <a xlink:href="http://evemaps.dotlan.net/system/Ealur" class="sys link-5-30003476" target="_top">
       <rect id="rect30003476" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Ealur</text>
-      <text id="txt30003476" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">尤洱鲁尔</text>
+      <text id="txt30003476" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1175,15 +1175,15 @@
   <symbol id="def30002194">
     <a xlink:href="http://evemaps.dotlan.net/system/Martha" class="sys link-5-30002194" target="_top">
       <rect id="rect30002194" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Martha</text>
-      <text id="txt30002194" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">马耳他</text>
+      <text id="txt30002194" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002206">
     <a xlink:href="http://evemaps.dotlan.net/system/Murema" class="sys link-5-30002206" target="_top">
       <rect id="rect30002206" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Murema</text>
-      <text id="txt30002206" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">穆勒马</text>
+      <text id="txt30002206" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1193,15 +1193,15 @@
   <symbol id="def30002205">
     <a xlink:href="http://evemaps.dotlan.net/system/Armala" class="sys link-5-30002205" target="_top">
       <rect id="rect30002205" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Armala</text>
-      <text id="txt30002205" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">阿尔马拉</text>
+      <text id="txt30002205" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002209">
     <a xlink:href="http://evemaps.dotlan.net/system/Uchat" class="sys link-5-30002209" target="_top">
       <rect id="rect30002209" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Uchat</text>
-      <text id="txt30002209" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">尤查特</text>
+      <text id="txt30002209" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1211,8 +1211,8 @@
   <symbol id="def30003489">
     <a xlink:href="http://evemaps.dotlan.net/system/Chaven" class="sys link-5-30003489" target="_top">
       <rect id="rect30003489" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Chaven</text>
-      <text id="txt30003489" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">查文</text>
+      <text id="txt30003489" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1223,8 +1223,8 @@
   <symbol id="def30003556">
     <a xlink:href="http://evemaps.dotlan.net/system/Arton" class="sys link-5-30003556" target="_top">
       <rect id="rect30003556" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Arton</text>
-      <text id="txt30003556" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">阿尔通</text>
+      <text id="txt30003556" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1234,8 +1234,8 @@
   <symbol id="def30002190">
     <a xlink:href="http://evemaps.dotlan.net/system/Mabnen" class="sys link-5-30002190" target="_top">
       <rect id="rect30002190" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Mabnen</text>
-      <text id="txt30002190" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">玛布冷</text>
+      <text id="txt30002190" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1245,8 +1245,8 @@
   <symbol id="def30002282">
     <a xlink:href="http://evemaps.dotlan.net/system/Bhizheba" class="sys link-5-30002282" target="_top">
       <rect id="rect30002282" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Bhizheba</text>
-      <text id="txt30002282" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">必泽巴</text>
+      <text id="txt30002282" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1256,8 +1256,8 @@
   <symbol id="def30003558">
     <a xlink:href="http://evemaps.dotlan.net/system/Madimal" class="sys link-5-30003558" target="_top">
       <rect id="rect30003558" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Madimal</text>
-      <text id="txt30003558" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">马蒂玛尔</text>
+      <text id="txt30003558" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1266,8 +1266,8 @@
   <symbol id="def30003555">
     <a xlink:href="http://evemaps.dotlan.net/system/Bittanshal" class="sys link-5-30003555" target="_top">
       <rect id="rect30003555" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Bittanshal</text>
-      <text id="txt30003555" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">比丹莎尔</text>
+      <text id="txt30003555" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1278,8 +1278,8 @@
   <symbol id="def30002189">
     <a xlink:href="http://evemaps.dotlan.net/system/Hedion" class="sys link-5-30002189" target="_top">
       <rect id="rect30002189" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Hedion</text>
-      <text id="txt30002189" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">赫迪农</text>
+      <text id="txt30002189" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1289,8 +1289,8 @@
   <symbol id="def30002275">
     <a xlink:href="http://evemaps.dotlan.net/system/Clarelam" class="sys link-5-30002275" target="_top">
       <rect id="rect30002275" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Clarelam</text>
-      <text id="txt30002275" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">客拉瑞拉姆</text>
+      <text id="txt30002275" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1302,8 +1302,8 @@
   <symbol id="def30003542">
     <a xlink:href="http://evemaps.dotlan.net/system/Hayumtom" class="sys link-5-30003542" target="_top">
       <rect id="rect30003542" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Hayumtom</text>
-      <text id="txt30003542" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">哈扬托姆</text>
+      <text id="txt30003542" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1314,8 +1314,8 @@
   <symbol id="def30003473">
     <a xlink:href="http://evemaps.dotlan.net/system/Fahruni" class="sys link-5-30003473" target="_top">
       <rect id="rect30003473" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Fahruni</text>
-      <text id="txt30003473" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">法胡尔</text>
+      <text id="txt30003473" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1326,8 +1326,8 @@
   <symbol id="def30003557">
     <a xlink:href="http://evemaps.dotlan.net/system/Sieh" class="sys link-5-30003557" target="_top">
       <rect id="rect30003557" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Sieh</text>
-      <text id="txt30003557" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">希尔拉</text>
+      <text id="txt30003557" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1336,15 +1336,15 @@
   <symbol id="def30003544">
     <a xlink:href="http://evemaps.dotlan.net/system/Galeh" class="sys link-5-30003544" target="_top">
       <rect id="rect30003544" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Galeh</text>
-      <text id="txt30003544" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">伽勒</text>
+      <text id="txt30003544" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30043489">
     <a xlink:href="http://evemaps.dotlan.net/system/Horir" class="sys link-5-30043489" target="_top">
       <rect id="rect30043489" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Horir</text>
-      <text id="txt30043489" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">霍利尔</text>
+      <text id="txt30043489" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1355,8 +1355,8 @@
   <symbol id="def30003491">
     <a xlink:href="http://evemaps.dotlan.net/system/Ashab" class="sys link-5-30003491" target="_top">
       <rect id="rect30003491" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Ashab</text>
-      <text id="txt30003491" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">阿沙比</text>
+      <text id="txt30003491" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1366,8 +1366,8 @@
   <symbol id="def30002187">
     <a xlink:href="http://evemaps.dotlan.net/system/Amarr" class="sys link-5-30002187" target="_top">
       <rect id="rect30002187" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Amarr</text>
-      <text id="txt30002187" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">艾玛</text>
+      <text id="txt30002187" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1378,8 +1378,8 @@
   <symbol id="def30003541">
     <a xlink:href="http://evemaps.dotlan.net/system/Faswiba" class="sys link-5-30003541" target="_top">
       <rect id="rect30003541" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Faswiba</text>
-      <text id="txt30003541" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">法苏巴</text>
+      <text id="txt30003541" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1390,22 +1390,22 @@
   <symbol id="def30003564">
     <a xlink:href="http://evemaps.dotlan.net/system/Rephirib" class="sys link-5-30003564" target="_top">
       <rect id="rect30003564" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Rephirib</text>
-      <text id="txt30003564" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">勒非利布</text>
+      <text id="txt30003564" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003561">
     <a xlink:href="http://evemaps.dotlan.net/system/Biphi" class="sys link-5-30003561" target="_top">
       <rect id="rect30003561" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Biphi</text>
-      <text id="txt30003561" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">拜法</text>
+      <text id="txt30003561" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003511">
     <a xlink:href="http://evemaps.dotlan.net/system/Somouh" class="sys link-5-30003511" target="_top">
       <rect id="rect30003511" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Somouh</text>
-      <text id="txt30003511" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">索莫乌</text>
+      <text id="txt30003511" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1415,15 +1415,15 @@
   <symbol id="def30003540">
     <a xlink:href="http://evemaps.dotlan.net/system/Sirkahri" class="sys link-5-30003540" target="_top">
       <rect id="rect30003540" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Sirkahri</text>
-      <text id="txt30003540" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">斯卡利</text>
+      <text id="txt30003540" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30033489">
     <a xlink:href="http://evemaps.dotlan.net/system/Hanan" class="sys link-5-30033489" target="_top">
       <rect id="rect30033489" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Hanan</text>
-      <text id="txt30033489" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">哈南</text>
+      <text id="txt30033489" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1434,8 +1434,8 @@
   <symbol id="def30003512">
     <a xlink:href="http://evemaps.dotlan.net/system/Abaim" class="sys link-5-30003512" target="_top">
       <rect id="rect30003512" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Abaim</text>
-      <text id="txt30003512" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">艾拜m</text>
+      <text id="txt30003512" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1445,15 +1445,15 @@
   <symbol id="def30003539">
     <a xlink:href="http://evemaps.dotlan.net/system/Miakie" class="sys link-5-30003539" target="_top">
       <rect id="rect30003539" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Miakie</text>
-      <text id="txt30003539" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">米亚基</text>
+      <text id="txt30003539" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003559">
     <a xlink:href="http://evemaps.dotlan.net/system/Mamet" class="sys link-5-30003559" target="_top">
       <rect id="rect30003559" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Mamet</text>
-      <text id="txt30003559" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">玛美特</text>
+      <text id="txt30003559" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1463,15 +1463,15 @@
   <symbol id="def30003483">
     <a xlink:href="http://evemaps.dotlan.net/system/Valmu" class="sys link-5-30003483" target="_top">
       <rect id="rect30003483" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Valmu</text>
-      <text id="txt30003483" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">瓦尔姆</text>
+      <text id="txt30003483" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30013489">
     <a xlink:href="http://evemaps.dotlan.net/system/Deepari" class="sys link-5-30013489" target="_top">
       <rect id="rect30013489" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Deepari</text>
-      <text id="txt30013489" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">迪帕里</text>
+      <text id="txt30013489" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1482,8 +1482,8 @@
   <symbol id="def30003485">
     <a xlink:href="http://evemaps.dotlan.net/system/Andabiar" class="sys link-5-30003485" target="_top">
       <rect id="rect30003485" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Andabiar</text>
-      <text id="txt30003485" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">安达比尔</text>
+      <text id="txt30003485" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1495,8 +1495,8 @@
   <symbol id="def30003510">
     <a xlink:href="http://evemaps.dotlan.net/system/Sorzielang" class="sys link-5-30003510" target="_top">
       <rect id="rect30003510" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Sorzielang</text>
-      <text id="txt30003510" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">索尔泽兰</text>
+      <text id="txt30003510" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1506,22 +1506,22 @@
   <symbol id="def30003538">
     <a xlink:href="http://evemaps.dotlan.net/system/Merz" class="sys link-5-30003538" target="_top">
       <rect id="rect30003538" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Merz</text>
-      <text id="txt30003538" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">梅尔茨</text>
+      <text id="txt30003538" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30002223">
     <a xlink:href="http://evemaps.dotlan.net/system/Patzcha" class="sys link-5-30002223" target="_top">
       <rect id="rect30002223" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Patzcha</text>
-      <text id="txt30002223" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">帕茨查</text>
+      <text id="txt30002223" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003563">
     <a xlink:href="http://evemaps.dotlan.net/system/Misaba" class="sys link-5-30003563" target="_top">
       <rect id="rect30003563" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Misaba</text>
-      <text id="txt30003563" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">米萨巴</text>
+      <text id="txt30003563" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1531,15 +1531,15 @@
   <symbol id="def30003520">
     <a xlink:href="http://evemaps.dotlan.net/system/Mahrokht" class="sys link-5-30003520" target="_top">
       <rect id="rect30003520" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Mahrokht</text>
-      <text id="txt30003520" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">马霍克特</text>
+      <text id="txt30003520" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003521">
     <a xlink:href="http://evemaps.dotlan.net/system/Alkabsi" class="sys link-5-30003521" target="_top">
       <rect id="rect30003521" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Alkabsi</text>
-      <text id="txt30003521" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">埃卡比斯</text>
+      <text id="txt30003521" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1549,8 +1549,8 @@
   <symbol id="def30003522">
     <a xlink:href="http://evemaps.dotlan.net/system/Sarum_Prime" class="sys link-5-30003522" target="_top">
       <rect id="rect30003522" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Sarum Prime</text>
-      <text id="txt30003522" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">萨拉姆首星</text>
+      <text id="txt30003522" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1561,8 +1561,8 @@
   <symbol id="def30003524">
     <a xlink:href="http://evemaps.dotlan.net/system/Irnal" class="sys link-5-30003524" target="_top">
       <rect id="rect30003524" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Irnal</text>
-      <text id="txt30003524" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">伊那尔</text>
+      <text id="txt30003524" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1573,8 +1573,8 @@
   <symbol id="def30003507">
     <a xlink:href="http://evemaps.dotlan.net/system/Teshi" class="sys link-5-30003507" target="_top">
       <rect id="rect30003507" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Teshi</text>
-      <text id="txt30003507" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">忒什</text>
+      <text id="txt30003507" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1584,8 +1584,8 @@
   <symbol id="def30003484">
     <a xlink:href="http://evemaps.dotlan.net/system/Sibot" class="sys link-5-30003484" target="_top">
       <rect id="rect30003484" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Sibot</text>
-      <text id="txt30003484" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">希伯特</text>
+      <text id="txt30003484" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1595,15 +1595,15 @@
   <symbol id="def30003481">
     <a xlink:href="http://evemaps.dotlan.net/system/Unefsih" class="sys link-5-30003481" target="_top">
       <rect id="rect30003481" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Unefsih</text>
-      <text id="txt30003481" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">乌尼西</text>
+      <text id="txt30003481" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003560">
     <a xlink:href="http://evemaps.dotlan.net/system/Hoshoun" class="sys link-5-30003560" target="_top">
       <rect id="rect30003560" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Hoshoun</text>
-      <text id="txt30003560" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">霍朔恩</text>
+      <text id="txt30003560" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1613,8 +1613,8 @@
   <symbol id="def30002224">
     <a xlink:href="http://evemaps.dotlan.net/system/Charra" class="sys link-5-30002224" target="_top">
       <rect id="rect30002224" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Charra</text>
-      <text id="txt30002224" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">查尔拉</text>
+      <text id="txt30002224" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1624,8 +1624,8 @@
   <symbol id="def30003487">
     <a xlink:href="http://evemaps.dotlan.net/system/Arbaz" class="sys link-5-30003487" target="_top">
       <rect id="rect30003487" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Arbaz</text>
-      <text id="txt30003487" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">阿尔巴茨</text>
+      <text id="txt30003487" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1635,8 +1635,8 @@
   <symbol id="def30003508">
     <a xlink:href="http://evemaps.dotlan.net/system/Sayartchen" class="sys link-5-30003508" target="_top">
       <rect id="rect30003508" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Sayartchen</text>
-      <text id="txt30003508" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">萨亚尔臣</text>
+      <text id="txt30003508" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1646,15 +1646,15 @@
   <symbol id="def30003527">
     <a xlink:href="http://evemaps.dotlan.net/system/Chesoh" class="sys link-5-30003527" target="_top">
       <rect id="rect30003527" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Chesoh</text>
-      <text id="txt30003527" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">切索</text>
+      <text id="txt30003527" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003514">
     <a xlink:href="http://evemaps.dotlan.net/system/Yeeramoun" class="sys link-5-30003514" target="_top">
       <rect id="rect30003514" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Yeeramoun</text>
-      <text id="txt30003514" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">耶尔拉蒙</text>
+      <text id="txt30003514" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1664,8 +1664,8 @@
   <symbol id="def30002220">
     <a xlink:href="http://evemaps.dotlan.net/system/Aghesi" class="sys link-5-30002220" target="_top">
       <rect id="rect30002220" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Aghesi</text>
-      <text id="txt30002220" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">阿戈西</text>
+      <text id="txt30002220" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1675,8 +1675,8 @@
   <symbol id="def30003562">
     <a xlink:href="http://evemaps.dotlan.net/system/Ziriert" class="sys link-5-30003562" target="_top">
       <rect id="rect30003562" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Ziriert</text>
-      <text id="txt30003562" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">泽利尔特</text>
+      <text id="txt30003562" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1686,15 +1686,15 @@
   <symbol id="def30002225">
     <a xlink:href="http://evemaps.dotlan.net/system/Harva" class="sys link-5-30002225" target="_top">
       <rect id="rect30002225" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Harva</text>
-      <text id="txt30002225" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">哈洱瓦</text>
+      <text id="txt30002225" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003486">
     <a xlink:href="http://evemaps.dotlan.net/system/Kheram" class="sys link-5-30003486" target="_top">
       <rect id="rect30003486" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Kheram</text>
-      <text id="txt30003486" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">客拉姆</text>
+      <text id="txt30003486" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1706,15 +1706,15 @@
   <symbol id="def30003523">
     <a xlink:href="http://evemaps.dotlan.net/system/Hama" class="sys link-5-30003523" target="_top">
       <rect id="rect30003523" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Hama</text>
-      <text id="txt30003523" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">哈玛</text>
+      <text id="txt30003523" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003525">
     <a xlink:href="http://evemaps.dotlan.net/system/Bagodan" class="sys link-5-30003525" target="_top">
       <rect id="rect30003525" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Bagodan</text>
-      <text id="txt30003525" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">巴戈丹</text>
+      <text id="txt30003525" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1724,23 +1724,23 @@
   <symbol id="def30002222">
     <a xlink:href="http://evemaps.dotlan.net/system/Airshaz" class="sys link-5-30002222" target="_top">
       <rect id="rect30002222" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Airshaz</text>
-      <text id="txt30002222" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">厄尔莎茨</text>
+      <text id="txt30002222" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003513">
     <a xlink:href="http://evemaps.dotlan.net/system/Ides" class="sys link-5-30003513" target="_top">
       <rect id="rect30003513" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Ides</text>
-      <text id="txt30003513" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">埃德斯</text>
+      <text id="txt30003513" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003509">
     <a xlink:href="http://evemaps.dotlan.net/system/Gosalav" class="sys link-5-30003509" target="_top">
     <rect id="ice30003509" x="1" y="0.5" rx="11.25" ry="10.25" width="43.5" height="22.5" class="i" />
       <rect id="rect30003509" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Gosalav</text>
-      <text id="txt30003509" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">戈萨拉夫</text>
+      <text id="txt30003509" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1751,36 +1751,36 @@
   <symbol id="def30003519">
     <a xlink:href="http://evemaps.dotlan.net/system/Lahnina" class="sys link-5-30003519" target="_top">
       <rect id="rect30003519" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Lahnina</text>
-      <text id="txt30003519" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">拉妮拉</text>
+      <text id="txt30003519" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003518">
     <a xlink:href="http://evemaps.dotlan.net/system/Saheri" class="sys link-5-30003518" target="_top">
       <rect id="rect30003518" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Saheri</text>
-      <text id="txt30003518" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">萨赫利</text>
+      <text id="txt30003518" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003500">
     <a xlink:href="http://evemaps.dotlan.net/system/Sharji" class="sys link-5-30003500" target="_top">
       <rect id="rect30003500" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Sharji</text>
-      <text id="txt30003500" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">沙尔基</text>
+      <text id="txt30003500" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003526">
     <a xlink:href="http://evemaps.dotlan.net/system/Murzi" class="sys link-5-30003526" target="_top">
       <rect id="rect30003526" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Murzi</text>
-      <text id="txt30003526" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">穆尔茨</text>
+      <text id="txt30003526" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003482">
     <a xlink:href="http://evemaps.dotlan.net/system/Mista" class="sys link-5-30003482" target="_top">
       <rect id="rect30003482" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Mista</text>
-      <text id="txt30003482" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">密斯塔</text>
+      <text id="txt30003482" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1792,15 +1792,15 @@
   <symbol id="def30003515">
     <a xlink:href="http://evemaps.dotlan.net/system/Anila" class="sys link-5-30003515" target="_top">
       <rect id="rect30003515" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Anila</text>
-      <text id="txt30003515" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">安妮拉</text>
+      <text id="txt30003515" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003528">
     <a xlink:href="http://evemaps.dotlan.net/system/Herila" class="sys link-5-30003528" target="_top">
       <rect id="rect30003528" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Herila</text>
-      <text id="txt30003528" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">赫利拉</text>
+      <text id="txt30003528" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1810,8 +1810,8 @@
   <symbol id="def30003529">
     <a xlink:href="http://evemaps.dotlan.net/system/Chemilip" class="sys link-5-30003529" target="_top">
       <rect id="rect30003529" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Chemilip</text>
-      <text id="txt30003529" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">彻米里普</text>
+      <text id="txt30003529" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1821,8 +1821,8 @@
   <symbol id="def30003531">
     <a xlink:href="http://evemaps.dotlan.net/system/Hisoufad" class="sys link-5-30003531" target="_top">
       <rect id="rect30003531" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Hisoufad</text>
-      <text id="txt30003531" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">西索法德</text>
+      <text id="txt30003531" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1834,15 +1834,15 @@
   <symbol id="def30003548">
     <a xlink:href="http://evemaps.dotlan.net/system/Barira" class="sys link-5-30003548" target="_top">
       <rect id="rect30003548" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Barira</text>
-      <text id="txt30003548" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">巴尔ira</text>
+      <text id="txt30003548" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003517">
     <a xlink:href="http://evemaps.dotlan.net/system/Etav" class="sys link-5-30003517" target="_top">
       <rect id="rect30003517" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Etav</text>
-      <text id="txt30003517" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">伊塔</text>
+      <text id="txt30003517" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1852,15 +1852,15 @@
   <symbol id="def30003501">
     <a xlink:href="http://evemaps.dotlan.net/system/Kudi" class="sys link-5-30003501" target="_top">
       <rect id="rect30003501" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Kudi</text>
-      <text id="txt30003501" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">库迪</text>
+      <text id="txt30003501" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003505">
     <a xlink:href="http://evemaps.dotlan.net/system/Fabum" class="sys link-5-30003505" target="_top">
       <rect id="rect30003505" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Fabum</text>
-      <text id="txt30003505" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">发布恩</text>
+      <text id="txt30003505" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1869,8 +1869,8 @@
   <symbol id="def30003506">
     <a xlink:href="http://evemaps.dotlan.net/system/Saana" class="sys link-5-30003506" target="_top">
       <rect id="rect30003506" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Saana</text>
-      <text id="txt30003506" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">仙娜</text>
+      <text id="txt30003506" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1880,8 +1880,8 @@
   <symbol id="def30003503">
     <a xlink:href="http://evemaps.dotlan.net/system/Madirmilire" class="sys link-5-30003503" target="_top">
       <rect id="rect30003503" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Madirmilire</text>
-      <text id="txt30003503" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">马蒂米里若</text>
+      <text id="txt30003503" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1891,8 +1891,8 @@
   <symbol id="def30003532">
     <a xlink:href="http://evemaps.dotlan.net/system/Jesoyeh" class="sys link-5-30003532" target="_top">
       <rect id="rect30003532" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Jesoyeh</text>
-      <text id="txt30003532" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">耶索耶</text>
+      <text id="txt30003532" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1903,8 +1903,8 @@
   <symbol id="def30003516">
     <a xlink:href="http://evemaps.dotlan.net/system/Pedel" class="sys link-5-30003516" target="_top">
       <rect id="rect30003516" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Pedel</text>
-      <text id="txt30003516" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">培德尔</text>
+      <text id="txt30003516" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1914,8 +1914,8 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Afivad" class="sys link-5-30003535" target="_top">
     <rect id="ice30003535" x="1" y="0.5" rx="11.25" ry="10.25" width="43.5" height="22.5" class="i" />
       <rect id="rect30003535" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Afivad</text>
-      <text id="txt30003535" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">埃菲瓦德</text>
+      <text id="txt30003535" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1924,8 +1924,8 @@
   <symbol id="def30003533">
     <a xlink:href="http://evemaps.dotlan.net/system/Hahda" class="sys link-5-30003533" target="_top">
       <rect id="rect30003533" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Hahda</text>
-      <text id="txt30003533" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">哈达</text>
+      <text id="txt30003533" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1937,15 +1937,15 @@
   <symbol id="def30003536">
     <a xlink:href="http://evemaps.dotlan.net/system/Uzigh" class="sys link-5-30003536" target="_top">
       <rect id="rect30003536" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Uzigh</text>
-      <text id="txt30003536" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">乌兹格</text>
+      <text id="txt30003536" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003530">
     <a xlink:href="http://evemaps.dotlan.net/system/Raravath" class="sys link-5-30003530" target="_top">
       <rect id="rect30003530" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Raravath</text>
-      <text id="txt30003530" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">拉纳瓦斯</text>
+      <text id="txt30003530" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1957,8 +1957,8 @@
   <symbol id="def30003545">
     <a xlink:href="http://evemaps.dotlan.net/system/Yuhelia" class="sys link-5-30003545" target="_top">
       <rect id="rect30003545" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Yuhelia</text>
-      <text id="txt30003545" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">逾赫利亚</text>
+      <text id="txt30003545" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1968,15 +1968,15 @@
   <symbol id="def30003549">
     <a xlink:href="http://evemaps.dotlan.net/system/Lashkai" class="sys link-5-30003549" target="_top">
       <rect id="rect30003549" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Lashkai</text>
-      <text id="txt30003549" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">拉什凯</text>
+      <text id="txt30003549" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003534">
     <a xlink:href="http://evemaps.dotlan.net/system/Namaili" class="sys link-5-30003534" target="_top">
       <rect id="rect30003534" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sl" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Namaili</text>
-      <text id="txt30003534" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">娜玛丽</text>
+      <text id="txt30003534" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -1987,15 +1987,15 @@
   <symbol id="def30002221">
     <a xlink:href="http://evemaps.dotlan.net/system/Fabin" class="sys link-5-30002221" target="_top">
       <rect id="rect30002221" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Fabin</text>
-      <text id="txt30002221" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">法宾</text>
+      <text id="txt30002221" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003502">
     <a xlink:href="http://evemaps.dotlan.net/system/Bahromab" class="sys link-5-30003502" target="_top">
       <rect id="rect30003502" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Bahromab</text>
-      <text id="txt30003502" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">巴罗马布</text>
+      <text id="txt30003502" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2007,15 +2007,15 @@
   <symbol id="def30003504">
     <a xlink:href="http://evemaps.dotlan.net/system/Niarja" class="sys link-5-30003504" target="_top">
       <rect id="rect30003504" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Niarja</text>
-      <text id="txt30003504" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">米亚尔加</text>
+      <text id="txt30003504" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003537">
     <a xlink:href="http://evemaps.dotlan.net/system/Erzoh" class="sys link-5-30003537" target="_top">
       <rect id="rect30003537" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Erzoh</text>
-      <text id="txt30003537" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">洱左</text>
+      <text id="txt30003537" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2026,8 +2026,8 @@
   <symbol id="def30003550">
     <a xlink:href="http://evemaps.dotlan.net/system/Zhilshinou" class="sys link-5-30003550" target="_top">
       <rect id="rect30003550" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Zhilshinou</text>
-      <text id="txt30003550" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">支什诺</text>
+      <text id="txt30003550" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2037,8 +2037,8 @@
   <symbol id="def30003552">
     <a xlink:href="http://evemaps.dotlan.net/system/Ana" class="sys link-5-30003552" target="_top">
       <rect id="rect30003552" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Ana</text>
-      <text id="txt30003552" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">埃纳</text>
+      <text id="txt30003552" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2048,15 +2048,15 @@
   <symbol id="def30003551">
     <a xlink:href="http://evemaps.dotlan.net/system/Jaswelu" class="sys link-5-30003551" target="_top">
       <rect id="rect30003551" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Jaswelu</text>
-      <text id="txt30003551" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">贾苏鲁</text>
+      <text id="txt30003551" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
   </symbol>
   <symbol id="def30003546">
     <a xlink:href="http://evemaps.dotlan.net/system/Maiah" class="sys link-5-30003546" target="_top">
       <rect id="rect30003546" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Maiah</text>
-      <text id="txt30003546" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">玛依ah</text>
+      <text id="txt30003546" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2065,8 +2065,8 @@
   <symbol id="def30003547">
     <a xlink:href="http://evemaps.dotlan.net/system/Hamse" class="sys link-5-30003547" target="_top">
       <rect id="rect30003547" x="4" y="3.5" rx="8.25" ry="8.25" width="37.5" height="16.5"  class="sh" style="fill: #FFF4CE;" />
-      <text x="21.75" y="11.25" class="ss" text-anchor="middle">Hamse</text>
-      <text id="txt30003547" x="21.75" y="17.025" class="st" text-anchor="middle">Amarr</text>
+      <text x="21.75" y="11.25" class="ss" text-anchor="middle">哈姆瑟</text>
+      <text id="txt30003547" x="21.75" y="17.025" class="st" text-anchor="middle">艾玛</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2076,8 +2076,8 @@
   <symbol id="def30005030">
     <a xlink:href="http://evemaps.dotlan.net/map/Kor-Azor/Fensi" class="sys link-5-30005030" target="_top">
       <rect id="rect30005030" x="3.5" y="3.5" width="37.5" height="16.5" class="el" />
-      <text x="21.75" y="11.25" class="es" text-anchor="middle">Fensi</text>
-      <text x="21.75" y="17.025" class="er" text-anchor="middle">Kor-Azor</text>
+      <text x="21.75" y="11.25" class="es" text-anchor="middle">芬斯</text>
+      <text x="21.75" y="17.025" class="er" text-anchor="middle">柯埃佐</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2088,8 +2088,8 @@
   <symbol id="def30001696">
     <a xlink:href="http://evemaps.dotlan.net/map/Tash-Murkon/Iro" class="sys link-5-30001696" target="_top">
       <rect id="rect30001696" x="3.5" y="3.5" width="37.5" height="16.5" class="eh" />
-      <text x="21.75" y="11.25" class="es" text-anchor="middle">Iro</text>
-      <text x="21.75" y="17.025" class="er" text-anchor="middle">Tash-Murkon</text>
+      <text x="21.75" y="11.25" class="es" text-anchor="middle">伊洛</text>
+      <text x="21.75" y="17.025" class="er" text-anchor="middle">塔什蒙贡</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2101,8 +2101,8 @@
   <symbol id="def30005072">
     <a xlink:href="http://evemaps.dotlan.net/map/Kor-Azor/Gademam" class="sys link-5-30005072" target="_top">
       <rect id="rect30005072" x="3.5" y="3.5" width="37.5" height="16.5" class="el" />
-      <text x="21.75" y="11.25" class="es" text-anchor="middle">Gademam</text>
-      <text x="21.75" y="17.025" class="er" text-anchor="middle">Kor-Azor</text>
+      <text x="21.75" y="11.25" class="es" text-anchor="middle">加德曼</text>
+      <text x="21.75" y="17.025" class="er" text-anchor="middle">柯埃佐</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2111,8 +2111,8 @@
   <symbol id="def30001650">
     <a xlink:href="http://evemaps.dotlan.net/map/Tash-Murkon/Riramia" class="sys link-5-30001650" target="_top">
       <rect id="rect30001650" x="3.5" y="3.5" width="37.5" height="16.5" class="eh" />
-      <text x="21.75" y="11.25" class="es" text-anchor="middle">Riramia</text>
-      <text x="21.75" y="17.025" class="er" text-anchor="middle">Tash-Murkon</text>
+      <text x="21.75" y="11.25" class="es" text-anchor="middle">瑞拉米娅</text>
+      <text x="21.75" y="17.025" class="er" text-anchor="middle">塔什蒙贡</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2121,8 +2121,8 @@
   <symbol id="def30004136">
     <a xlink:href="http://evemaps.dotlan.net/map/Kador/Mod" class="sys link-5-30004136" target="_top">
       <rect id="rect30004136" x="3.5" y="3.5" width="37.5" height="16.5" class="el" />
-      <text x="21.75" y="11.25" class="es" text-anchor="middle">Mod</text>
-      <text x="21.75" y="17.025" class="er" text-anchor="middle">Kador</text>
+      <text x="21.75" y="11.25" class="es" text-anchor="middle">莫德</text>
+      <text x="21.75" y="17.025" class="er" text-anchor="middle">卡多尔</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2132,8 +2132,8 @@
   <symbol id="def30001667">
     <a xlink:href="http://evemaps.dotlan.net/map/Tash-Murkon/Shousran" class="sys link-5-30001667" target="_top">
       <rect id="rect30001667" x="3.5" y="3.5" width="37.5" height="16.5" class="eh" />
-      <text x="21.75" y="11.25" class="es" text-anchor="middle">Shousran</text>
-      <text x="21.75" y="17.025" class="er" text-anchor="middle">Tash-Murkon</text>
+      <text x="21.75" y="11.25" class="es" text-anchor="middle">舒斯然</text>
+      <text x="21.75" y="17.025" class="er" text-anchor="middle">塔什蒙贡</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2142,8 +2142,8 @@
   <symbol id="def30001654">
     <a xlink:href="http://evemaps.dotlan.net/map/Tash-Murkon/Matyas" class="sys link-5-30001654" target="_top">
       <rect id="rect30001654" x="3.5" y="3.5" width="37.5" height="16.5" class="eh" />
-      <text x="21.75" y="11.25" class="es" text-anchor="middle">Matyas</text>
-      <text x="21.75" y="17.025" class="er" text-anchor="middle">Tash-Murkon</text>
+      <text x="21.75" y="11.25" class="es" text-anchor="middle">马特亚斯</text>
+      <text x="21.75" y="17.025" class="er" text-anchor="middle">塔什蒙贡</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2153,8 +2153,8 @@
   <symbol id="def30003074">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Bleak_Lands/Sasiekko" class="sys link-5-30003074" target="_top">
       <rect id="rect30003074" x="3.5" y="3.5" width="37.5" height="16.5" class="eh" />
-      <text x="21.75" y="11.25" class="es" text-anchor="middle">Sasiekko</text>
-      <text x="21.75" y="17.025" class="er" text-anchor="middle">The Bleak Lands</text>
+      <text x="21.75" y="11.25" class="es" text-anchor="middle">萨塞克</text>
+      <text x="21.75" y="17.025" class="er" text-anchor="middle">幽暗之域</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2165,8 +2165,8 @@
   <symbol id="def30004081">
     <a xlink:href="http://evemaps.dotlan.net/map/Kador/Zororzih" class="sys link-5-30004081" target="_top">
       <rect id="rect30004081" x="3.5" y="3.5" width="37.5" height="16.5" class="eh" />
-      <text x="21.75" y="11.25" class="es" text-anchor="middle">Zororzih</text>
-      <text x="21.75" y="17.025" class="er" text-anchor="middle">Kador</text>
+      <text x="21.75" y="11.25" class="es" text-anchor="middle">佐尔茨</text>
+      <text x="21.75" y="17.025" class="er" text-anchor="middle">卡多尔</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2178,15 +2178,15 @@
   <symbol id="def30004148">
     <a xlink:href="http://evemaps.dotlan.net/map/Kador/Jennim" class="sys link-5-30004148" target="_top">
       <rect id="rect30004148" x="3.5" y="3.5" width="37.5" height="16.5" class="eh" />
-      <text x="21.75" y="11.25" class="es" text-anchor="middle">Jennim</text>
-      <text x="21.75" y="17.025" class="er" text-anchor="middle">Kador</text>
+      <text x="21.75" y="11.25" class="es" text-anchor="middle">简尼姆</text>
+      <text x="21.75" y="17.025" class="er" text-anchor="middle">卡多尔</text>
     </a>
   </symbol>
   <symbol id="def30002730">
     <a xlink:href="http://evemaps.dotlan.net/map/Sinq_Laison/Esmes" class="sys link-5-30002730" target="_top">
       <rect id="rect30002730" x="3.5" y="3.5" width="37.5" height="16.5" class="el" />
-      <text x="21.75" y="11.25" class="es" text-anchor="middle">Esmes</text>
-      <text x="21.75" y="17.025" class="er" text-anchor="middle">Sinq Laison</text>
+      <text x="21.75" y="11.25" class="es" text-anchor="middle">伊斯密斯</text>
+      <text x="21.75" y="17.025" class="er" text-anchor="middle">金纳泽</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2196,8 +2196,8 @@
   <symbol id="def30001651">
     <a xlink:href="http://evemaps.dotlan.net/map/Tash-Murkon/Nafomeh" class="sys link-5-30001651" target="_top">
       <rect id="rect30001651" x="3.5" y="3.5" width="37.5" height="16.5" class="eh" />
-      <text x="21.75" y="11.25" class="es" text-anchor="middle">Nafomeh</text>
-      <text x="21.75" y="17.025" class="er" text-anchor="middle">Tash-Murkon</text>
+      <text x="21.75" y="11.25" class="es" text-anchor="middle">纳夫梅</text>
+      <text x="21.75" y="17.025" class="er" text-anchor="middle">塔什蒙贡</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2207,8 +2207,8 @@
   <symbol id="def30004095">
     <a xlink:href="http://evemaps.dotlan.net/map/Kador/Kador_Prime" class="sys link-5-30004095" target="_top">
       <rect id="rect30004095" x="3.5" y="3.5" width="37.5" height="16.5" class="eh" />
-      <text x="21.75" y="11.25" class="es" text-anchor="middle">Kador Prime</text>
-      <text x="21.75" y="17.025" class="er" text-anchor="middle">Kador</text>
+      <text x="21.75" y="11.25" class="es" text-anchor="middle">卡多尔首星</text>
+      <text x="21.75" y="17.025" class="er" text-anchor="middle">卡多尔</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2220,8 +2220,8 @@
   <symbol id="def30001671">
     <a xlink:href="http://evemaps.dotlan.net/map/Tash-Murkon/Tash-Murkon_Prime" class="sys link-5-30001671" target="_top">
       <rect id="rect30001671" x="3.5" y="3.5" width="37.5" height="16.5" class="eh" />
-      <text x="21.75" y="11.25" class="es" text-anchor="middle">Tash-Murkon Prime</text>
-      <text x="21.75" y="17.025" class="er" text-anchor="middle">Tash-Murkon</text>
+      <text x="21.75" y="11.25" class="es" text-anchor="middle">塔什蒙贡首星</text>
+      <text x="21.75" y="17.025" class="er" text-anchor="middle">塔什蒙贡</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2233,15 +2233,15 @@
   <symbol id="def30004152">
     <a xlink:href="http://evemaps.dotlan.net/map/Kador/Kooreng" class="sys link-5-30004152" target="_top">
       <rect id="rect30004152" x="3.5" y="3.5" width="37.5" height="16.5" class="eh" />
-      <text x="21.75" y="11.25" class="es" text-anchor="middle">Kooreng</text>
-      <text x="21.75" y="17.025" class="er" text-anchor="middle">Kador</text>
+      <text x="21.75" y="11.25" class="es" text-anchor="middle">酷热恩</text>
+      <text x="21.75" y="17.025" class="er" text-anchor="middle">卡多尔</text>
     </a>
   </symbol>
   <symbol id="def30001668">
     <a xlink:href="http://evemaps.dotlan.net/map/Tash-Murkon/Yong" class="sys link-5-30001668" target="_top">
       <rect id="rect30001668" x="3.5" y="3.5" width="37.5" height="16.5" class="el" />
-      <text x="21.75" y="11.25" class="es" text-anchor="middle">Yong</text>
-      <text x="21.75" y="17.025" class="er" text-anchor="middle">Tash-Murkon</text>
+      <text x="21.75" y="11.25" class="es" text-anchor="middle">杨格</text>
+      <text x="21.75" y="17.025" class="er" text-anchor="middle">塔什蒙贡</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2251,8 +2251,8 @@
   <symbol id="def30004077">
     <a xlink:href="http://evemaps.dotlan.net/map/Kador/Hiroudeh" class="sys link-5-30004077" target="_top">
       <rect id="rect30004077" x="3.5" y="3.5" width="37.5" height="16.5" class="eh" />
-      <text x="21.75" y="11.25" class="es" text-anchor="middle">Hiroudeh</text>
-      <text x="21.75" y="17.025" class="er" text-anchor="middle">Kador</text>
+      <text x="21.75" y="11.25" class="es" text-anchor="middle">希罗德</text>
+      <text x="21.75" y="17.025" class="er" text-anchor="middle">卡多尔</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2262,8 +2262,8 @@
   <symbol id="def30001646">
     <a xlink:href="http://evemaps.dotlan.net/map/Tash-Murkon/Goram" class="sys link-5-30001646" target="_top">
       <rect id="rect30001646" x="3.5" y="3.5" width="37.5" height="16.5" class="eh" />
-      <text x="21.75" y="11.25" class="es" text-anchor="middle">Goram</text>
-      <text x="21.75" y="17.025" class="er" text-anchor="middle">Tash-Murkon</text>
+      <text x="21.75" y="11.25" class="es" text-anchor="middle">戈拉姆</text>
+      <text x="21.75" y="17.025" class="er" text-anchor="middle">塔什蒙贡</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2273,8 +2273,8 @@
   <symbol id="def30005038">
     <a xlink:href="http://evemaps.dotlan.net/map/Kor-Azor/Kor-Azor_Prime" class="sys link-5-30005038" target="_top">
       <rect id="rect30005038" x="3.5" y="3.5" width="37.5" height="16.5" class="eh" />
-      <text x="21.75" y="11.25" class="es" text-anchor="middle">Kor-Azor Prime</text>
-      <text x="21.75" y="17.025" class="er" text-anchor="middle">Kor-Azor</text>
+      <text x="21.75" y="11.25" class="es" text-anchor="middle">柯埃佐首星</text>
+      <text x="21.75" y="17.025" class="er" text-anchor="middle">柯埃佐</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2287,21 +2287,21 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Providence/R3-K7K" class="sys link-5-30003769" target="_top">
       <rect id="rect30003769" x="3.5" y="3.5" width="37.5" height="16.5" class="e" />
       <text x="21.75" y="11.25" class="es" text-anchor="middle">R3-K7K</text>
-      <text x="21.75" y="17.025" class="er" text-anchor="middle">Providence</text>
+      <text x="21.75" y="17.025" class="er" text-anchor="middle">普罗维登斯</text>
     </a>
   </symbol>
   <symbol id="def30003065">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Bleak_Lands/Otelen" class="sys link-5-30003065" target="_top">
       <rect id="rect30003065" x="3.5" y="3.5" width="37.5" height="16.5" class="eh" />
-      <text x="21.75" y="11.25" class="es" text-anchor="middle">Otelen</text>
-      <text x="21.75" y="17.025" class="er" text-anchor="middle">The Bleak Lands</text>
+      <text x="21.75" y="11.25" class="es" text-anchor="middle">欧特能</text>
+      <text x="21.75" y="17.025" class="er" text-anchor="middle">幽暗之域</text>
     </a>
   </symbol>
   <symbol id="def30004080">
     <a xlink:href="http://evemaps.dotlan.net/map/Kador/Romi" class="sys link-5-30004080" target="_top">
       <rect id="rect30004080" x="3.5" y="3.5" width="37.5" height="16.5" class="eh" />
-      <text x="21.75" y="11.25" class="es" text-anchor="middle">Romi</text>
-      <text x="21.75" y="17.025" class="er" text-anchor="middle">Kador</text>
+      <text x="21.75" y="11.25" class="es" text-anchor="middle">罗密</text>
+      <text x="21.75" y="17.025" class="er" text-anchor="middle">卡多尔</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2311,8 +2311,8 @@
   <symbol id="def30002994">
     <a xlink:href="http://evemaps.dotlan.net/map/Devoid/Hati" class="sys link-5-30002994" target="_top">
       <rect id="rect30002994" x="3.5" y="3.5" width="37.5" height="16.5" class="eh" />
-      <text x="21.75" y="11.25" class="es" text-anchor="middle">Hati</text>
-      <text x="21.75" y="17.025" class="er" text-anchor="middle">Devoid</text>
+      <text x="21.75" y="11.25" class="es" text-anchor="middle">哈提</text>
+      <text x="21.75" y="17.025" class="er" text-anchor="middle">破碎</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />
@@ -2321,8 +2321,8 @@
   <symbol id="def30002789">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Citadel/Kaaputenen" class="sys link-5-30002789" target="_top">
       <rect id="rect30002789" x="3.5" y="3.5" width="37.5" height="16.5" class="eh" />
-      <text x="21.75" y="11.25" class="es" text-anchor="middle">Kaaputenen</text>
-      <text x="21.75" y="17.025" class="er" text-anchor="middle">The Citadel</text>
+      <text x="21.75" y="11.25" class="es" text-anchor="middle">卡普特伦</text>
+      <text x="21.75" y="17.025" class="er" text-anchor="middle">赛塔德洱</text>
     </a>
     <rect x="38.2" y="8.125" height="8.25" width="8.25" class="o" />
     <polygon points="38.2,8.125 46.45,8.125 42.325,12.25 38.2,8.125" class="v1" />

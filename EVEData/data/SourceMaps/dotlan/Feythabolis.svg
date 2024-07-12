@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Feythabolis</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">非塔波利斯</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -765,42 +765,42 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Esoteria/C-PEWN" class="sys link-5-30003169" target="_top">
       <rect id="rect30003169" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">C-PEWN</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Esoteria</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">埃索特亚</text>
     </a>
   </symbol>
   <symbol id="def30002594">
     <a xlink:href="http://evemaps.dotlan.net/map/Impass/IV-UNR" class="sys link-5-30002594" target="_top">
       <rect id="rect30002594" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">IV-UNR</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Impass</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">绝径</text>
     </a>
   </symbol>
   <symbol id="def30003110">
     <a xlink:href="http://evemaps.dotlan.net/map/Esoteria/X-7BIX" class="sys link-5-30003110" target="_top">
       <rect id="rect30003110" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">X-7BIX</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Esoteria</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">埃索特亚</text>
     </a>
   </symbol>
   <symbol id="def30004884">
     <a xlink:href="http://evemaps.dotlan.net/map/Omist/9MWZ-B" class="sys link-5-30004884" target="_top">
       <rect id="rect30004884" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">9MWZ-B</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Omist</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">欧米斯特</text>
     </a>
   </symbol>
   <symbol id="def30004842">
     <a xlink:href="http://evemaps.dotlan.net/map/Tenerifis/T2-V8F" class="sys link-5-30004842" target="_top">
       <rect id="rect30004842" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">T2-V8F</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tenerifis</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特里菲斯</text>
     </a>
   </symbol>
   <symbol id="def30004924">
     <a xlink:href="http://evemaps.dotlan.net/map/Omist/OKEO-X" class="sys link-5-30004924" target="_top">
       <rect id="rect30004924" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">OKEO-X</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Omist</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">欧米斯特</text>
     </a>
   </symbol>
 

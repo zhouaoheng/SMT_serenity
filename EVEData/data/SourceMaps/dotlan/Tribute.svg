@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Tribute</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">特布特</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -295,7 +295,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Venal/Y-W1Q3" class="sys link-5-30001261" target="_top">
       <rect id="rect30001261" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">Y-W1Q3</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Venal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">维纳尔</text>
     </a>
   </symbol>
   <symbol id="def30000858">
@@ -324,7 +324,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Venal/Y6-HPG" class="sys link-5-30001262" target="_top">
       <rect id="rect30001262" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">Y6-HPG</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Venal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">维纳尔</text>
     </a>
   </symbol>
   <symbol id="def30000874">
@@ -339,7 +339,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Venal/KK-L97" class="sys link-5-30001264" target="_top">
       <rect id="rect30001264" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">KK-L97</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Venal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">维纳尔</text>
     </a>
   </symbol>
   <symbol id="def30000862">
@@ -360,7 +360,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Venal/N-Q5PW" class="sys link-5-30001267" target="_top">
       <rect id="rect30001267" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">N-Q5PW</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Venal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">维纳尔</text>
     </a>
   </symbol>
   <symbol id="def30000876">
@@ -389,7 +389,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Venal/P-FSQE" class="sys link-5-30001268" target="_top">
       <rect id="rect30001268" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">P-FSQE</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Venal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">维纳尔</text>
     </a>
   </symbol>
   <symbol id="def30000869">
@@ -440,7 +440,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Venal/H-PA29" class="sys link-5-30001269" target="_top">
       <rect id="rect30001269" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">H-PA29</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Venal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">维纳尔</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -489,14 +489,14 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Venal/N6G-H3" class="sys link-5-30001280" target="_top">
       <rect id="rect30001280" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">N6G-H3</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Venal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">维纳尔</text>
     </a>
   </symbol>
   <symbol id="def30001281">
     <a xlink:href="http://evemaps.dotlan.net/map/Venal/3A1P-N" class="sys link-5-30001281" target="_top">
       <rect id="rect30001281" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">3A1P-N</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Venal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">维纳尔</text>
     </a>
   </symbol>
   <symbol id="def30000872">
@@ -538,14 +538,14 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/9OO-LH" class="sys link-5-30000247" target="_top">
       <rect id="rect30000247" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">9OO-LH</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30001448">
     <a xlink:href="http://evemaps.dotlan.net/map/Lonetrek/Hakonen" class="sys link-5-30001448" target="_top">
       <rect id="rect30001448" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Hakonen</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Lonetrek</text>
+      <text x="28" y="14" class="es" text-anchor="middle">哈克农</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">长征</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -572,7 +572,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/0J3L-V" class="sys link-5-30000267" target="_top">
       <rect id="rect30000267" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">0J3L-V</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000896">
@@ -593,14 +593,14 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/P3EN-E" class="sys link-5-30000250" target="_top">
       <rect id="rect30000250" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">P3EN-E</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000249">
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/EIDI-N" class="sys link-5-30000249" target="_top">
       <rect id="rect30000249" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">EIDI-N</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000898">
@@ -614,7 +614,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/DAYP-G" class="sys link-5-30000253" target="_top">
       <rect id="rect30000253" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">DAYP-G</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000899">
@@ -629,91 +629,91 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/T-ZWA1" class="sys link-5-30000303" target="_top">
       <rect id="rect30000303" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">T-ZWA1</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000301">
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/1-GBBP" class="sys link-5-30000301" target="_top">
       <rect id="rect30000301" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">1-GBBP</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000264">
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/V-NL3K" class="sys link-5-30000264" target="_top">
       <rect id="rect30000264" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">V-NL3K</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000261">
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/T-GCGL" class="sys link-5-30000261" target="_top">
       <rect id="rect30000261" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">T-GCGL</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000263">
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/TVN-FM" class="sys link-5-30000263" target="_top">
       <rect id="rect30000263" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">TVN-FM</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000240">
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/4-HWWF" class="sys link-5-30000240" target="_top">
       <rect id="rect30000240" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">4-HWWF</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30001963">
     <a xlink:href="http://evemaps.dotlan.net/map/Pure_Blind/KQK1-2" class="sys link-5-30001963" target="_top">
       <rect id="rect30001963" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">KQK1-2</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Pure Blind</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">黑渊</text>
     </a>
   </symbol>
   <symbol id="def30001263">
     <a xlink:href="http://evemaps.dotlan.net/map/Venal/Z-GY5S" class="sys link-5-30001263" target="_top">
       <rect id="rect30001263" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">Z-GY5S</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Venal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">维纳尔</text>
     </a>
   </symbol>
   <symbol id="def30001284">
     <a xlink:href="http://evemaps.dotlan.net/map/Venal/92K-H2" class="sys link-5-30001284" target="_top">
       <rect id="rect30001284" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">92K-H2</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Venal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">维纳尔</text>
     </a>
   </symbol>
   <symbol id="def30001282">
     <a xlink:href="http://evemaps.dotlan.net/map/Venal/OZ-VAE" class="sys link-5-30001282" target="_top">
       <rect id="rect30001282" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">OZ-VAE</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Venal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">维纳尔</text>
     </a>
   </symbol>
   <symbol id="def30001283">
     <a xlink:href="http://evemaps.dotlan.net/map/Venal/A-AFGR" class="sys link-5-30001283" target="_top">
       <rect id="rect30001283" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">A-AFGR</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Venal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">维纳尔</text>
     </a>
   </symbol>
   <symbol id="def30001273">
     <a xlink:href="http://evemaps.dotlan.net/map/Venal/9-266Q" class="sys link-5-30001273" target="_top">
       <rect id="rect30001273" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">9-266Q</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Venal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">维纳尔</text>
     </a>
   </symbol>
   <symbol id="def30001447">
     <a xlink:href="http://evemaps.dotlan.net/map/Lonetrek/Taisy" class="sys link-5-30001447" target="_top">
       <rect id="rect30001447" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Taisy</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Lonetrek</text>
+      <text x="28" y="14" class="es" text-anchor="middle">塔伊斯</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">长征</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -722,8 +722,8 @@
   <symbol id="def30001446">
     <a xlink:href="http://evemaps.dotlan.net/map/Lonetrek/Otsasai" class="sys link-5-30001446" target="_top">
       <rect id="rect30001446" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Otsasai</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Lonetrek</text>
+      <text x="28" y="14" class="es" text-anchor="middle">欧塔萨塞</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">长征</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -735,21 +735,21 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Venal/1-Y6KI" class="sys link-5-30001270" target="_top">
       <rect id="rect30001270" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">1-Y6KI</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Venal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">维纳尔</text>
     </a>
   </symbol>
   <symbol id="def30000229">
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/UH-9ZG" class="sys link-5-30000229" target="_top">
       <rect id="rect30000229" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">UH-9ZG</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30001445">
     <a xlink:href="http://evemaps.dotlan.net/map/Lonetrek/Nalvula" class="sys link-5-30001445" target="_top">
       <rect id="rect30001445" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Nalvula</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Lonetrek</text>
+      <text x="28" y="14" class="es" text-anchor="middle">纳瓦拉</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">长征</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -761,21 +761,21 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/K8X-6B" class="sys link-5-30000244" target="_top">
       <rect id="rect30000244" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">K8X-6B</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30001348">
     <a xlink:href="http://evemaps.dotlan.net/map/Venal/G9D-XW" class="sys link-5-30001348" target="_top">
       <rect id="rect30001348" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">G9D-XW</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Venal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">维纳尔</text>
     </a>
   </symbol>
   <symbol id="def30000205">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Forge/Obe" class="sys link-5-30000205" target="_top">
       <rect id="rect30000205" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Obe</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Forge</text>
+      <text x="28" y="14" class="es" text-anchor="middle">欧贝</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">伏尔戈</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -787,105 +787,105 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/X445-5" class="sys link-5-30000245" target="_top">
       <rect id="rect30000245" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">X445-5</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000246">
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/KRUN-N" class="sys link-5-30000246" target="_top">
       <rect id="rect30000246" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">KRUN-N</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000266">
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/Z-8Q65" class="sys link-5-30000266" target="_top">
       <rect id="rect30000266" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">Z-8Q65</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000252">
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/IPAY-2" class="sys link-5-30000252" target="_top">
       <rect id="rect30000252" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">IPAY-2</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000308">
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/Y5J-EU" class="sys link-5-30000308" target="_top">
       <rect id="rect30000308" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">Y5J-EU</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000242">
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/8TPX-N" class="sys link-5-30000242" target="_top">
       <rect id="rect30000242" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">8TPX-N</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000265">
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/AZBR-2" class="sys link-5-30000265" target="_top">
       <rect id="rect30000265" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">AZBR-2</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000248">
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/V-OJEN" class="sys link-5-30000248" target="_top">
       <rect id="rect30000248" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">V-OJEN</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000238">
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/WBR5-R" class="sys link-5-30000238" target="_top">
       <rect id="rect30000238" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">WBR5-R</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000239">
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/4GYV-Q" class="sys link-5-30000239" target="_top">
       <rect id="rect30000239" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">4GYV-Q</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000241">
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/YMJG-4" class="sys link-5-30000241" target="_top">
       <rect id="rect30000241" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">YMJG-4</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000243">
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/PM-DWE" class="sys link-5-30000243" target="_top">
       <rect id="rect30000243" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">PM-DWE</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000302">
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/C-FP70" class="sys link-5-30000302" target="_top">
       <rect id="rect30000302" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">C-FP70</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000304">
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/ZA0L-U" class="sys link-5-30000304" target="_top">
       <rect id="rect30000304" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">ZA0L-U</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000262">
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/0MV-4W" class="sys link-5-30000262" target="_top">
       <rect id="rect30000262" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">0MV-4W</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
 

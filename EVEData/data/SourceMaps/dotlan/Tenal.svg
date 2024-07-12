@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Tenal</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">特纳</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -617,49 +617,49 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Branch/ZIU-EP" class="sys link-5-30004363" target="_top">
       <rect id="rect30004363" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">ZIU-EP</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Branch</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">血脉</text>
     </a>
   </symbol>
   <symbol id="def30004352">
     <a xlink:href="http://evemaps.dotlan.net/map/Branch/T-Q2DD" class="sys link-5-30004352" target="_top">
       <rect id="rect30004352" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">T-Q2DD</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Branch</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">血脉</text>
     </a>
   </symbol>
   <symbol id="def30004401">
     <a xlink:href="http://evemaps.dotlan.net/map/Branch/CH9L-K" class="sys link-5-30004401" target="_top">
       <rect id="rect30004401" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">CH9L-K</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Branch</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">血脉</text>
     </a>
   </symbol>
   <symbol id="def30004334">
     <a xlink:href="http://evemaps.dotlan.net/map/Branch/OJ-A8M" class="sys link-5-30004334" target="_top">
       <rect id="rect30004334" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">OJ-A8M</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Branch</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">血脉</text>
     </a>
   </symbol>
   <symbol id="def30001346">
     <a xlink:href="http://evemaps.dotlan.net/map/Venal/B3QP-K" class="sys link-5-30001346" target="_top">
       <rect id="rect30001346" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">B3QP-K</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Venal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">维纳尔</text>
     </a>
   </symbol>
   <symbol id="def30004228">
     <a xlink:href="http://evemaps.dotlan.net/map/Cobalt_Edge/HB-5L3" class="sys link-5-30004228" target="_top">
       <rect id="rect30004228" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">HB-5L3</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Cobalt Edge</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">钴蓝边域</text>
     </a>
   </symbol>
   <symbol id="def30001349">
     <a xlink:href="http://evemaps.dotlan.net/map/Venal/42XJ-N" class="sys link-5-30001349" target="_top">
       <rect id="rect30001349" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">42XJ-N</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Venal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">维纳尔</text>
     </a>
   </symbol>
 

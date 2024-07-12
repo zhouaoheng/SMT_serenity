@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">The Forge</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">伏尔戈</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -129,7 +129,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Outuni" class="sys link-5-30000135" target="_top">
     <rect id="ice30000135" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30000135" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Outuni</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">欧图尼</text>
       <text id="txt30000135" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -140,7 +140,7 @@
   <symbol id="def30010141">
     <a xlink:href="http://evemaps.dotlan.net/system/Sakenta" class="sys link-5-30010141" target="_top">
       <rect id="rect30010141" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Sakenta</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">萨肯达</text>
       <text id="txt30010141" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -152,7 +152,7 @@
   <symbol id="def30000137">
     <a xlink:href="http://evemaps.dotlan.net/system/Eskunen" class="sys link-5-30000137" target="_top">
       <rect id="rect30000137" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Eskunen</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">尤斯库仑</text>
       <text id="txt30000137" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -163,7 +163,7 @@
   <symbol id="def30000134">
     <a xlink:href="http://evemaps.dotlan.net/system/Hykkota" class="sys link-5-30000134" target="_top">
       <rect id="rect30000134" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Hykkota</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">西卡塔</text>
       <text id="txt30000134" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -174,7 +174,7 @@
   <symbol id="def30000132">
     <a xlink:href="http://evemaps.dotlan.net/system/Ansila" class="sys link-5-30000132" target="_top">
       <rect id="rect30000132" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ansila</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">安斯拉</text>
       <text id="txt30000132" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -186,7 +186,7 @@
   <symbol id="def30000136">
     <a xlink:href="http://evemaps.dotlan.net/system/Ohmahailen" class="sys link-5-30000136" target="_top">
       <rect id="rect30000136" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ohmahailen</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">奥马海仑</text>
       <text id="txt30000136" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -197,7 +197,7 @@
   <symbol id="def30000138">
     <a xlink:href="http://evemaps.dotlan.net/system/Ikuchi" class="sys link-5-30000138" target="_top">
       <rect id="rect30000138" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ikuchi</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">伊库奇</text>
       <text id="txt30000138" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -208,7 +208,7 @@
   <symbol id="def30000139">
     <a xlink:href="http://evemaps.dotlan.net/system/Urlen" class="sys link-5-30000139" target="_top">
       <rect id="rect30000139" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Urlen</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">乌尔仑</text>
       <text id="txt30000139" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -219,7 +219,7 @@
   <symbol id="def30000133">
     <a xlink:href="http://evemaps.dotlan.net/system/Hirtamon" class="sys link-5-30000133" target="_top">
       <rect id="rect30000133" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Hirtamon</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">希尔塔蒙</text>
       <text id="txt30000133" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -231,7 +231,7 @@
   <symbol id="def30000129">
     <a xlink:href="http://evemaps.dotlan.net/system/Unpas" class="sys link-5-30000129" target="_top">
       <rect id="rect30000129" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Unpas</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">乌恩帕斯</text>
       <text id="txt30000129" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -243,7 +243,7 @@
   <symbol id="def30021407">
     <a xlink:href="http://evemaps.dotlan.net/system/Aokannitoh" class="sys link-5-30021407" target="_top">
       <rect id="rect30021407" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Aokannitoh</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">奥坎尼托</text>
       <text id="txt30021407" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -255,7 +255,7 @@
   <symbol id="def30000144">
     <a xlink:href="http://evemaps.dotlan.net/system/Perimeter" class="sys link-5-30000144" target="_top">
       <rect id="rect30000144" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Perimeter</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">皮尔米特</text>
       <text id="txt30000144" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -266,7 +266,7 @@
   <symbol id="def30000143">
     <a xlink:href="http://evemaps.dotlan.net/system/Niyabainen" class="sys link-5-30000143" target="_top">
       <rect id="rect30000143" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Niyabainen</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">尼亚拜伦</text>
       <text id="txt30000143" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -279,7 +279,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Obe" class="sys link-5-30000205" target="_top">
     <rect id="ice30000205" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30000205" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Obe</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">欧贝</text>
       <text id="txt30000205" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -291,7 +291,7 @@
   <symbol id="def30000141">
     <a xlink:href="http://evemaps.dotlan.net/system/Kisogo" class="sys link-5-30000141" target="_top">
       <rect id="rect30000141" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Kisogo</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">基索加</text>
       <text id="txt30000141" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -303,7 +303,7 @@
   <symbol id="def30030141">
     <a xlink:href="http://evemaps.dotlan.net/system/Uitra" class="sys link-5-30030141" target="_top">
       <rect id="rect30030141" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Uitra</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">乌伊特里拉</text>
       <text id="txt30030141" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -315,7 +315,7 @@
   <symbol id="def30000130">
     <a xlink:href="http://evemaps.dotlan.net/system/Shihuken" class="sys link-5-30000130" target="_top">
       <rect id="rect30000130" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Shihuken</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">什胡肯</text>
       <text id="txt30000130" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -327,7 +327,7 @@
   <symbol id="def30000142">
     <a xlink:href="http://evemaps.dotlan.net/system/Jita" class="sys link-5-30000142" target="_top">
       <rect id="rect30000142" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Jita</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">吉他</text>
       <text id="txt30000142" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -339,7 +339,7 @@
   <symbol id="def30000204">
     <a xlink:href="http://evemaps.dotlan.net/system/Ohkunen" class="sys link-5-30000204" target="_top">
       <rect id="rect30000204" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ohkunen</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">欧库仑</text>
       <text id="txt30000204" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -351,7 +351,7 @@
   <symbol id="def30000206">
     <a xlink:href="http://evemaps.dotlan.net/system/Wirashoda" class="sys link-5-30000206" target="_top">
       <rect id="rect30000206" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Wirashoda</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">维拉希达</text>
       <text id="txt30000206" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -361,7 +361,7 @@
   <symbol id="def30000145">
     <a xlink:href="http://evemaps.dotlan.net/system/New_Caldari" class="sys link-5-30000145" target="_top">
       <rect id="rect30000145" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">New Caldari</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">新加达里</text>
       <text id="txt30000145" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -373,7 +373,7 @@
   <symbol id="def30000140">
     <a xlink:href="http://evemaps.dotlan.net/system/Maurasi" class="sys link-5-30000140" target="_top">
       <rect id="rect30000140" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Maurasi</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">玛乌纳斯</text>
       <text id="txt30000140" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -385,7 +385,7 @@
   <symbol id="def30000121">
     <a xlink:href="http://evemaps.dotlan.net/system/Jatate" class="sys link-5-30000121" target="_top">
       <rect id="rect30000121" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Jatate</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">贾塔特</text>
       <text id="txt30000121" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -395,7 +395,7 @@
   <symbol id="def30000123">
     <a xlink:href="http://evemaps.dotlan.net/system/Vaankalen" class="sys link-5-30000123" target="_top">
       <rect id="rect30000123" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Vaankalen</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">瓦安卡伦</text>
       <text id="txt30000123" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -406,7 +406,7 @@
   <symbol id="def30020141">
     <a xlink:href="http://evemaps.dotlan.net/system/Senda" class="sys link-5-30020141" target="_top">
       <rect id="rect30020141" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Senda</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">森达</text>
       <text id="txt30020141" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -419,7 +419,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Sirseshin" class="sys link-5-30000127" target="_top">
     <rect id="ice30000127" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30000127" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Sirseshin</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">希尔瑟新</text>
       <text id="txt30000127" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -431,7 +431,7 @@
   <symbol id="def30000202">
     <a xlink:href="http://evemaps.dotlan.net/system/Mastakomon" class="sys link-5-30000202" target="_top">
       <rect id="rect30000202" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Mastakomon</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">马斯塔克蒙</text>
       <text id="txt30000202" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -444,7 +444,7 @@
   <symbol id="def30000201">
     <a xlink:href="http://evemaps.dotlan.net/system/Uchoshi" class="sys link-5-30000201" target="_top">
       <rect id="rect30000201" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Uchoshi</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">乌查什</text>
       <text id="txt30000201" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -456,7 +456,7 @@
   <symbol id="def30000119">
     <a xlink:href="http://evemaps.dotlan.net/system/Itamo" class="sys link-5-30000119" target="_top">
       <rect id="rect30000119" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Itamo</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">伊塔莫</text>
       <text id="txt30000119" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -468,7 +468,7 @@
   <symbol id="def30000128">
     <a xlink:href="http://evemaps.dotlan.net/system/Tuuriainas" class="sys link-5-30000128" target="_top">
       <rect id="rect30000128" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Tuuriainas</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">图乌瑞纳</text>
       <text id="txt30000128" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -479,7 +479,7 @@
   <symbol id="def30000177">
     <a xlink:href="http://evemaps.dotlan.net/system/Ukkalen" class="sys link-5-30000177" target="_top">
       <rect id="rect30000177" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ukkalen</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">乌卡伦</text>
       <text id="txt30000177" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -491,7 +491,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Mitsolen" class="sys link-5-30000120" target="_top">
     <rect id="ice30000120" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30000120" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Mitsolen</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">密茨伦</text>
       <text id="txt30000120" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -502,7 +502,7 @@
   <symbol id="def30000203">
     <a xlink:href="http://evemaps.dotlan.net/system/Eruka" class="sys link-5-30000203" target="_top">
       <rect id="rect30000203" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Eruka</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">伊卢卡</text>
       <text id="txt30000203" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -513,14 +513,14 @@
   <symbol id="def30000124">
     <a xlink:href="http://evemaps.dotlan.net/system/Kylmabe" class="sys link-5-30000124" target="_top">
       <rect id="rect30000124" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Kylmabe</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">基尔玛贝</text>
       <text id="txt30000124" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
   </symbol>
   <symbol id="def30000122">
     <a xlink:href="http://evemaps.dotlan.net/system/Mahtista" class="sys link-5-30000122" target="_top">
       <rect id="rect30000122" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Mahtista</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">马哈蒂sta</text>
       <text id="txt30000122" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
   </symbol>
@@ -528,14 +528,14 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Ahtulaima" class="sys link-5-30000125" target="_top">
     <rect id="ice30000125" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30000125" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ahtulaima</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">阿图莱玛</text>
       <text id="txt30000125" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
   </symbol>
   <symbol id="def30000207">
     <a xlink:href="http://evemaps.dotlan.net/system/Osaa" class="sys link-5-30000207" target="_top">
       <rect id="rect30000207" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Osaa</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">奥斯阿</text>
       <text id="txt30000207" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -545,7 +545,7 @@
   <symbol id="def30000176">
     <a xlink:href="http://evemaps.dotlan.net/system/Keikaken" class="sys link-5-30000176" target="_top">
       <rect id="rect30000176" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Keikaken</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">科伊卡肯</text>
       <text id="txt30000176" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -557,7 +557,7 @@
   <symbol id="def30000193">
     <a xlink:href="http://evemaps.dotlan.net/system/Vouskiaho" class="sys link-5-30000193" target="_top">
       <rect id="rect30000193" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Vouskiaho</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">沃斯基奥</text>
       <text id="txt30000193" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -570,7 +570,7 @@
   <symbol id="def30000126">
     <a xlink:href="http://evemaps.dotlan.net/system/Geras" class="sys link-5-30000126" target="_top">
       <rect id="rect30000126" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Geras</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">基尔拉斯</text>
       <text id="txt30000126" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -580,7 +580,7 @@
   <symbol id="def30000148">
     <a xlink:href="http://evemaps.dotlan.net/system/Jakanerva" class="sys link-5-30000148" target="_top">
       <rect id="rect30000148" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Jakanerva</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">贾卡纳尔维</text>
       <text id="txt30000148" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -592,7 +592,7 @@
   <symbol id="def30000146">
     <a xlink:href="http://evemaps.dotlan.net/system/Saisio" class="sys link-5-30000146" target="_top">
       <rect id="rect30000146" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Saisio</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">赛西奥</text>
       <text id="txt30000146" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -605,7 +605,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Gekutami" class="sys link-5-30000149" target="_top">
     <rect id="ice30000149" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30000149" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Gekutami</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">格昆塔米</text>
       <text id="txt30000149" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -617,7 +617,7 @@
   <symbol id="def30000174">
     <a xlink:href="http://evemaps.dotlan.net/system/Onuse" class="sys link-5-30000174" target="_top">
       <rect id="rect30000174" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Onuse</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">温努斯</text>
       <text id="txt30000174" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -628,7 +628,7 @@
   <symbol id="def30000151">
     <a xlink:href="http://evemaps.dotlan.net/system/Uoyonen" class="sys link-5-30000151" target="_top">
       <rect id="rect30000151" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Uoyonen</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">欧约伦</text>
       <text id="txt30000151" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -639,7 +639,7 @@
   <symbol id="def30000190">
     <a xlink:href="http://evemaps.dotlan.net/system/Vasala" class="sys link-5-30000190" target="_top">
       <rect id="rect30000190" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Vasala</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">瓦萨拉</text>
       <text id="txt30000190" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -652,7 +652,7 @@
   <symbol id="def30000131">
     <a xlink:href="http://evemaps.dotlan.net/system/Nomaa" class="sys link-5-30000131" target="_top">
       <rect id="rect30000131" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Nomaa</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">诺玛尔</text>
       <text id="txt30000131" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -663,7 +663,7 @@
   <symbol id="def30000147">
     <a xlink:href="http://evemaps.dotlan.net/system/Abagawa" class="sys link-5-30000147" target="_top">
       <rect id="rect30000147" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Abagawa</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">埃巴加瓦</text>
       <text id="txt30000147" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -675,7 +675,7 @@
   <symbol id="def30000152">
     <a xlink:href="http://evemaps.dotlan.net/system/Hampinen" class="sys link-5-30000152" target="_top">
       <rect id="rect30000152" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Hampinen</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">哈比伦</text>
       <text id="txt30000152" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -687,7 +687,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Vattuolen" class="sys link-5-30000173" target="_top">
     <rect id="ice30000173" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30000173" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Vattuolen</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">瓦托伦</text>
       <text id="txt30000173" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -699,7 +699,7 @@
   <symbol id="def30000178">
     <a xlink:href="http://evemaps.dotlan.net/system/Akkilen" class="sys link-5-30000178" target="_top">
       <rect id="rect30000178" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Akkilen</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">埃吉伦</text>
       <text id="txt30000178" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -713,7 +713,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Hurtoken" class="sys link-5-30000150" target="_top">
     <rect id="ice30000150" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30000150" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Hurtoken</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">胡尔托肯</text>
       <text id="txt30000150" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -726,7 +726,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Otanuomi" class="sys link-5-30000192" target="_top">
     <rect id="ice30000192" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30000192" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Otanuomi</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">欧塔诺米</text>
       <text id="txt30000192" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -739,14 +739,14 @@
   <symbol id="def30000191">
     <a xlink:href="http://evemaps.dotlan.net/system/Walvalin" class="sys link-5-30000191" target="_top">
       <rect id="rect30000191" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Walvalin</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">瓦尔瓦林</text>
       <text id="txt30000191" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
   </symbol>
   <symbol id="def30000189">
     <a xlink:href="http://evemaps.dotlan.net/system/Kiainti" class="sys link-5-30000189" target="_top">
       <rect id="rect30000189" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Kiainti</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">吉安提</text>
       <text id="txt30000189" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -759,7 +759,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Hentogaira" class="sys link-5-30000188" target="_top">
     <rect id="ice30000188" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30000188" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Hentogaira</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">恒托加拉</text>
       <text id="txt30000188" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -771,7 +771,7 @@
   <symbol id="def30000156">
     <a xlink:href="http://evemaps.dotlan.net/system/Josameto" class="sys link-5-30000156" target="_top">
       <rect id="rect30000156" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Josameto</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">乔萨密陀</text>
       <text id="txt30000156" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -784,7 +784,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Otela" class="sys link-5-30000157" target="_top">
     <rect id="ice30000157" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30000157" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Otela</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">乌特拉</text>
       <text id="txt30000157" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -795,7 +795,7 @@
   <symbol id="def30000200">
     <a xlink:href="http://evemaps.dotlan.net/system/Akkio" class="sys link-5-30000200" target="_top">
       <rect id="rect30000200" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Akkio</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">埃加奥</text>
       <text id="txt30000200" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -805,7 +805,7 @@
   <symbol id="def30000175">
     <a xlink:href="http://evemaps.dotlan.net/system/Soshin" class="sys link-5-30000175" target="_top">
       <rect id="rect30000175" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Soshin</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">索什恩</text>
       <text id="txt30000175" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -818,7 +818,7 @@
   <symbol id="def30000194">
     <a xlink:href="http://evemaps.dotlan.net/system/Otsela" class="sys link-5-30000194" target="_top">
       <rect id="rect30000194" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Otsela</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">欧特色拉</text>
       <text id="txt30000194" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -831,7 +831,7 @@
   <symbol id="def30000154">
     <a xlink:href="http://evemaps.dotlan.net/system/Liekuri" class="sys link-5-30000154" target="_top">
       <rect id="rect30000154" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Liekuri</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">列库里</text>
       <text id="txt30000154" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -842,14 +842,14 @@
   <symbol id="def30000198">
     <a xlink:href="http://evemaps.dotlan.net/system/Paala" class="sys link-5-30000198" target="_top">
       <rect id="rect30000198" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Paala</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">帕拉</text>
       <text id="txt30000198" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
   </symbol>
   <symbol id="def30000161">
     <a xlink:href="http://evemaps.dotlan.net/system/Purjola" class="sys link-5-30000161" target="_top">
       <rect id="rect30000161" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Purjola</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">普尔乔拉</text>
       <text id="txt30000161" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -860,7 +860,7 @@
   <symbol id="def30000153">
     <a xlink:href="http://evemaps.dotlan.net/system/Poinen" class="sys link-5-30000153" target="_top">
       <rect id="rect30000153" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Poinen</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">波耶伦</text>
       <text id="txt30000153" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -872,7 +872,7 @@
   <symbol id="def30000159">
     <a xlink:href="http://evemaps.dotlan.net/system/Ikami" class="sys link-5-30000159" target="_top">
       <rect id="rect30000159" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ikami</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">伊卡密</text>
       <text id="txt30000159" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -884,7 +884,7 @@
   <symbol id="def30000196">
     <a xlink:href="http://evemaps.dotlan.net/system/Otosela" class="sys link-5-30000196" target="_top">
       <rect id="rect30000196" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Otosela</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">奥塔希拉</text>
       <text id="txt30000196" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -897,7 +897,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Silen" class="sys link-5-30000179" target="_top">
     <rect id="ice30000179" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30000179" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Silen</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">斯勒恩</text>
       <text id="txt30000179" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -910,7 +910,7 @@
   <symbol id="def30000162">
     <a xlink:href="http://evemaps.dotlan.net/system/Maila" class="sys link-5-30000162" target="_top">
       <rect id="rect30000162" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Maila</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">马伊拉</text>
       <text id="txt30000162" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -922,14 +922,14 @@
   <symbol id="def30000155">
     <a xlink:href="http://evemaps.dotlan.net/system/Obanen" class="sys link-5-30000155" target="_top">
       <rect id="rect30000155" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Obanen</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">奥班伦</text>
       <text id="txt30000155" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
   </symbol>
   <symbol id="def30000197">
     <a xlink:href="http://evemaps.dotlan.net/system/Uemon" class="sys link-5-30000197" target="_top">
       <rect id="rect30000197" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Uemon</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">尤蒙</text>
       <text id="txt30000197" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -941,7 +941,7 @@
   <symbol id="def30000160">
     <a xlink:href="http://evemaps.dotlan.net/system/Reisen" class="sys link-5-30000160" target="_top">
       <rect id="rect30000160" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Reisen</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">莱伊森</text>
       <text id="txt30000160" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -952,7 +952,7 @@
   <symbol id="def30000195">
     <a xlink:href="http://evemaps.dotlan.net/system/Tasti" class="sys link-5-30000195" target="_top">
       <rect id="rect30000195" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Tasti</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">塔瑟提</text>
       <text id="txt30000195" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -964,14 +964,14 @@
   <symbol id="def30000166">
     <a xlink:href="http://evemaps.dotlan.net/system/Airmia" class="sys link-5-30000166" target="_top">
       <rect id="rect30000166" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Airmia</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">艾尔米亚</text>
       <text id="txt30000166" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
   </symbol>
   <symbol id="def30000169">
     <a xlink:href="http://evemaps.dotlan.net/system/Ihakana" class="sys link-5-30000169" target="_top">
       <rect id="rect30000169" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ihakana</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">以哈坎拿</text>
       <text id="txt30000169" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -981,7 +981,7 @@
   <symbol id="def30000164">
     <a xlink:href="http://evemaps.dotlan.net/system/Messoya" class="sys link-5-30000164" target="_top">
       <rect id="rect30000164" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Messoya</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">米瑟约亚</text>
       <text id="txt30000164" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -992,7 +992,7 @@
   <symbol id="def30000168">
     <a xlink:href="http://evemaps.dotlan.net/system/Friggi" class="sys link-5-30000168" target="_top">
       <rect id="rect30000168" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Friggi</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">弗瑞吉</text>
       <text id="txt30000168" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -1005,7 +1005,7 @@
   <symbol id="def30000165">
     <a xlink:href="http://evemaps.dotlan.net/system/Ishisomo" class="sys link-5-30000165" target="_top">
       <rect id="rect30000165" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Ishisomo</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">伊什索蒙</text>
       <text id="txt30000165" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -1018,7 +1018,7 @@
   <symbol id="def30000158">
     <a xlink:href="http://evemaps.dotlan.net/system/Olo" class="sys link-5-30000158" target="_top">
       <rect id="rect30000158" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Olo</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">欧罗</text>
       <text id="txt30000158" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -1030,7 +1030,7 @@
   <symbol id="def30000163">
     <a xlink:href="http://evemaps.dotlan.net/system/Akora" class="sys link-5-30000163" target="_top">
       <rect id="rect30000163" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Akora</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">爱科拉</text>
       <text id="txt30000163" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -1042,7 +1042,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Fuskunen" class="sys link-5-30000199" target="_top">
     <rect id="ice30000199" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30000199" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Fuskunen</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">夫斯库仑</text>
       <text id="txt30000199" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
   </symbol>
@@ -1050,7 +1050,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Osmon" class="sys link-5-30000180" target="_top">
     <rect id="ice30000180" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30000180" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Osmon</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">欧斯蒙</text>
       <text id="txt30000180" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -1063,7 +1063,7 @@
   <symbol id="def30000181">
     <a xlink:href="http://evemaps.dotlan.net/system/Korsiki" class="sys link-5-30000181" target="_top">
       <rect id="rect30000181" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Korsiki</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">库尔斯基</text>
       <text id="txt30000181" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -1076,7 +1076,7 @@
   <symbol id="def30000185">
     <a xlink:href="http://evemaps.dotlan.net/system/Airaken" class="sys link-5-30000185" target="_top">
       <rect id="rect30000185" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Airaken</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">艾拉肯</text>
       <text id="txt30000185" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -1088,14 +1088,14 @@
   <symbol id="def30000186">
     <a xlink:href="http://evemaps.dotlan.net/system/Oijanen" class="sys link-5-30000186" target="_top">
       <rect id="rect30000186" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sl" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Oijanen</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">欧加仑</text>
       <text id="txt30000186" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
   </symbol>
   <symbol id="def30000167">
     <a xlink:href="http://evemaps.dotlan.net/system/Sakkikainen" class="sys link-5-30000167" target="_top">
       <rect id="rect30000167" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Sakkikainen</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">萨基凯伦</text>
       <text id="txt30000167" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -1108,14 +1108,14 @@
   <symbol id="def30000172">
     <a xlink:href="http://evemaps.dotlan.net/system/Otomainen" class="sys link-5-30000172" target="_top">
       <rect id="rect30000172" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Otomainen</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">欧塔迈伦</text>
       <text id="txt30000172" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
   </symbol>
   <symbol id="def30000182">
     <a xlink:href="http://evemaps.dotlan.net/system/Inaya" class="sys link-5-30000182" target="_top">
       <rect id="rect30000182" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Inaya</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">因纳亚</text>
       <text id="txt30000182" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -1128,7 +1128,7 @@
   <symbol id="def30000183">
     <a xlink:href="http://evemaps.dotlan.net/system/Nuken" class="sys link-5-30000183" target="_top">
       <rect id="rect30000183" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Nuken</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">鲁肯</text>
       <text id="txt30000183" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -1140,7 +1140,7 @@
   <symbol id="def30000171">
     <a xlink:href="http://evemaps.dotlan.net/system/Otitoh" class="sys link-5-30000171" target="_top">
       <rect id="rect30000171" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Otitoh</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">欧提托</text>
       <text id="txt30000171" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -1154,7 +1154,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Wuos" class="sys link-5-30000187" target="_top">
     <rect id="ice30000187" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30000187" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Wuos</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">乌欧斯</text>
       <text id="txt30000187" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -1166,7 +1166,7 @@
   <symbol id="def30000170">
     <a xlink:href="http://evemaps.dotlan.net/system/Vahunomi" class="sys link-5-30000170" target="_top">
       <rect id="rect30000170" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Vahunomi</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">瓦胡诺米</text>
       <text id="txt30000170" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -1176,7 +1176,7 @@
   <symbol id="def30000184">
     <a xlink:href="http://evemaps.dotlan.net/system/Uminas" class="sys link-5-30000184" target="_top">
       <rect id="rect30000184" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="sh" style="fill: #CEE7FF;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Uminas</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">乌米纳斯</text>
       <text id="txt30000184" x="28" y="21.7" class="st" text-anchor="middle">Caldari</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
@@ -1186,8 +1186,8 @@
   <symbol id="def30002802">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Citadel/Kusomonmon" class="sys link-5-30002802" target="_top">
       <rect id="rect30002802" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Kusomonmon</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Citadel</text>
+      <text x="28" y="14" class="es" text-anchor="middle">库索蒙莫</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">赛塔德洱</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1198,8 +1198,8 @@
   <symbol id="def30002642">
     <a xlink:href="http://evemaps.dotlan.net/map/Sinq_Laison/Iyen-Oursta" class="sys link-5-30002642" target="_top">
       <rect id="rect30002642" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Iyen-Oursta</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Sinq Laison</text>
+      <text x="28" y="14" class="es" text-anchor="middle">伊恩-奥斯塔</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">金纳泽</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1209,8 +1209,8 @@
   <symbol id="def30002791">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Citadel/Sirppala" class="sys link-5-30002791" target="_top">
       <rect id="rect30002791" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Sirppala</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Citadel</text>
+      <text x="28" y="14" class="es" text-anchor="middle">希尔帕拉</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">赛塔德洱</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1222,8 +1222,8 @@
   <symbol id="def30001379">
     <a xlink:href="http://evemaps.dotlan.net/map/Lonetrek/Tunttaras" class="sys link-5-30001379" target="_top">
       <rect id="rect30001379" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Tunttaras</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Lonetrek</text>
+      <text x="28" y="14" class="es" text-anchor="middle">吞塔拉斯</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">长征</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1233,8 +1233,8 @@
   <symbol id="def30001448">
     <a xlink:href="http://evemaps.dotlan.net/map/Lonetrek/Hakonen" class="sys link-5-30001448" target="_top">
       <rect id="rect30001448" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Hakonen</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Lonetrek</text>
+      <text x="28" y="14" class="es" text-anchor="middle">哈克农</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">长征</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1246,8 +1246,8 @@
   <symbol id="def30002788">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Citadel/Inaro" class="sys link-5-30002788" target="_top">
       <rect id="rect30002788" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Inaro</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Citadel</text>
+      <text x="28" y="14" class="es" text-anchor="middle">伊纳洛</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">赛塔德洱</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1260,14 +1260,14 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/P3EN-E" class="sys link-5-30000250" target="_top">
       <rect id="rect30000250" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">P3EN-E</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30001393">
     <a xlink:href="http://evemaps.dotlan.net/map/Lonetrek/Malkalen" class="sys link-5-30001393" target="_top">
       <rect id="rect30001393" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Malkalen</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Lonetrek</text>
+      <text x="28" y="14" class="es" text-anchor="middle">莫卡冷</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">长征</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1279,8 +1279,8 @@
   <symbol id="def30002780">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Citadel/Muvolailen" class="sys link-5-30002780" target="_top">
       <rect id="rect30002780" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Muvolailen</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Citadel</text>
+      <text x="28" y="14" class="es" text-anchor="middle">姆沃莱伦</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">赛塔德洱</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1290,8 +1290,8 @@
   <symbol id="def30002754">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Citadel/Alikara" class="sys link-5-30002754" target="_top">
       <rect id="rect30002754" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Alikara</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Citadel</text>
+      <text x="28" y="14" class="es" text-anchor="middle">阿里卡拉</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">赛塔德洱</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1301,8 +1301,8 @@
   <symbol id="def30001363">
     <a xlink:href="http://evemaps.dotlan.net/map/Lonetrek/Sobaseki" class="sys link-5-30001363" target="_top">
       <rect id="rect30001363" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Sobaseki</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Lonetrek</text>
+      <text x="28" y="14" class="es" text-anchor="middle">索巴色基</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">长征</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1315,14 +1315,14 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Geminate/EOA-ZC" class="sys link-5-30002475" target="_top">
       <rect id="rect30002475" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">EOA-ZC</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Geminate</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">对舞之域</text>
     </a>
   </symbol>
   <symbol id="def30002062">
     <a xlink:href="http://evemaps.dotlan.net/map/Metropolis/Todifrauan" class="sys link-5-30002062" target="_top">
       <rect id="rect30002062" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Todifrauan</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Metropolis</text>
+      <text x="28" y="14" class="es" text-anchor="middle">托蒂弗伦</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">美特伯里斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -1334,21 +1334,21 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Etherium_Reach/LXQ2-T" class="sys link-5-30002355" target="_top">
       <rect id="rect30002355" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">LXQ2-T</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Etherium Reach</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">琉蓝之穹</text>
     </a>
   </symbol>
   <symbol id="def30003446">
     <a xlink:href="http://evemaps.dotlan.net/map/Metropolis/Ofage" class="sys link-5-30003446" target="_top">
       <rect id="rect30003446" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Ofage</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Metropolis</text>
+      <text x="28" y="14" class="es" text-anchor="middle">欧法戈</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">美特伯里斯</text>
     </a>
   </symbol>
   <symbol id="def30002440">
     <a xlink:href="http://evemaps.dotlan.net/map/Geminate/BWF-ZZ" class="sys link-5-30002440" target="_top">
       <rect id="rect30002440" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">BWF-ZZ</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Geminate</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">对舞之域</text>
     </a>
   </symbol>
 

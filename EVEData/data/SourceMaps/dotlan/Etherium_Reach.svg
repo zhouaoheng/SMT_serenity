@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Etherium Reach</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">琉蓝之穹</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -833,8 +833,8 @@
   <symbol id="def30002411">
     <a xlink:href="http://evemaps.dotlan.net/map/Molden_Heath/Skarkon" class="sys link-5-30002411" target="_top">
       <rect id="rect30002411" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Skarkon</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Molden Heath</text>
+      <text x="28" y="14" class="es" text-anchor="middle">斯卡尔克恩</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">摩登赫斯</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -845,91 +845,91 @@
     <a xlink:href="http://evemaps.dotlan.net/map/The_Kalevala_Expanse/FZX-PU" class="sys link-5-30002878" target="_top">
       <rect id="rect30002878" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">FZX-PU</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Kalevala Expanse</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡勒瓦拉阔地</text>
     </a>
   </symbol>
   <symbol id="def30000986">
     <a xlink:href="http://evemaps.dotlan.net/map/Great_Wildlands/BRT-OP" class="sys link-5-30000986" target="_top">
       <rect id="rect30000986" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">BRT-OP</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Great Wildlands</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">大荒野</text>
     </a>
   </symbol>
   <symbol id="def30000783">
     <a xlink:href="http://evemaps.dotlan.net/map/Insmother/EFM-C4" class="sys link-5-30000783" target="_top">
       <rect id="rect30000783" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">EFM-C4</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Insmother</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">因斯姆尔</text>
     </a>
   </symbol>
   <symbol id="def30000198">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Forge/Paala" class="sys link-5-30000198" target="_top">
       <rect id="rect30000198" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Paala</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Forge</text>
+      <text x="28" y="14" class="es" text-anchor="middle">帕拉</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">伏尔戈</text>
     </a>
   </symbol>
   <symbol id="def30001533">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Spire/C6C-K9" class="sys link-5-30001533" target="_top">
       <rect id="rect30001533" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">C6C-K9</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Spire</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">螺旋之域</text>
     </a>
   </symbol>
   <symbol id="def30002836">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Kalevala_Expanse/A-YB15" class="sys link-5-30002836" target="_top">
       <rect id="rect30002836" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">A-YB15</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Kalevala Expanse</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡勒瓦拉阔地</text>
     </a>
   </symbol>
   <symbol id="def30002835">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Kalevala_Expanse/SY-0AM" class="sys link-5-30002835" target="_top">
       <rect id="rect30002835" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">SY-0AM</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Kalevala Expanse</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡勒瓦拉阔地</text>
     </a>
   </symbol>
   <symbol id="def30001563">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Spire/RXA-W1" class="sys link-5-30001563" target="_top">
       <rect id="rect30001563" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">RXA-W1</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Spire</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">螺旋之域</text>
     </a>
   </symbol>
   <symbol id="def30001111">
     <a xlink:href="http://evemaps.dotlan.net/map/Malpais/6-WMKE" class="sys link-5-30001111" target="_top">
       <rect id="rect30001111" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">6-WMKE</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Malpais</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">玛尔pais</text>
     </a>
   </symbol>
   <symbol id="def30001092">
     <a xlink:href="http://evemaps.dotlan.net/map/Malpais/63-7Q6" class="sys link-5-30001092" target="_top">
       <rect id="rect30001092" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">63-7Q6</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Malpais</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">玛尔pais</text>
     </a>
   </symbol>
   <symbol id="def30001091">
     <a xlink:href="http://evemaps.dotlan.net/map/Malpais/Z0H2-4" class="sys link-5-30001091" target="_top">
       <rect id="rect30001091" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">Z0H2-4</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Malpais</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">玛尔pais</text>
     </a>
   </symbol>
   <symbol id="def30005129">
     <a xlink:href="http://evemaps.dotlan.net/map/Perrigen_Falls/BEG-RL" class="sys link-5-30005129" target="_top">
       <rect id="rect30005129" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">BEG-RL</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Perrigen Falls</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">佩利根弗</text>
     </a>
   </symbol>
   <symbol id="def30002847">
     <a xlink:href="http://evemaps.dotlan.net/map/The_Kalevala_Expanse/L-GY1B" class="sys link-5-30002847" target="_top">
       <rect id="rect30002847" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">L-GY1B</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">The Kalevala Expanse</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡勒瓦拉阔地</text>
     </a>
   </symbol>
 

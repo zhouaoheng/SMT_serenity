@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Deklein</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">德克廉</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -361,14 +361,14 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/K4YZ-Y" class="sys link-5-30003687" target="_top">
       <rect id="rect30003687" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">K4YZ-Y</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30003689">
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/L-C3O7" class="sys link-5-30003689" target="_top">
       <rect id="rect30003689" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">L-C3O7</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30002894">
@@ -427,14 +427,14 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/O1Y-ED" class="sys link-5-30003686" target="_top">
       <rect id="rect30003686" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">O1Y-ED</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30003688">
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/X36Y-G" class="sys link-5-30003688" target="_top">
       <rect id="rect30003688" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">X36Y-G</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30002924">
@@ -555,7 +555,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/P-33KR" class="sys link-5-30003680" target="_top">
       <rect id="rect30003680" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">P-33KR</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30002908">
@@ -569,7 +569,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/DO6H-Q" class="sys link-5-30003681" target="_top">
       <rect id="rect30003681" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">DO6H-Q</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30002919">
@@ -661,84 +661,84 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Branch/Y-1918" class="sys link-5-30004396" target="_top">
       <rect id="rect30004396" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">Y-1918</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Branch</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">血脉</text>
     </a>
   </symbol>
   <symbol id="def30003697">
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/C4C-Z4" class="sys link-5-30003697" target="_top">
       <rect id="rect30003697" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">C4C-Z4</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30003690">
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/YKSC-A" class="sys link-5-30003690" target="_top">
       <rect id="rect30003690" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">YKSC-A</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30003684">
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/L-SCBU" class="sys link-5-30003684" target="_top">
       <rect id="rect30003684" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">L-SCBU</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30001266">
     <a xlink:href="http://evemaps.dotlan.net/map/Venal/9-R6GU" class="sys link-5-30001266" target="_top">
       <rect id="rect30001266" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">9-R6GU</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Venal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">维纳尔</text>
     </a>
   </symbol>
   <symbol id="def30003683">
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/O-CNPR" class="sys link-5-30003683" target="_top">
       <rect id="rect30003683" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">O-CNPR</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30003685">
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/VRH-H7" class="sys link-5-30003685" target="_top">
       <rect id="rect30003685" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">VRH-H7</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30003682">
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/DW-T2I" class="sys link-5-30003682" target="_top">
       <rect id="rect30003682" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">DW-T2I</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30003678">
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/CR-IFM" class="sys link-5-30003678" target="_top">
       <rect id="rect30003678" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">CR-IFM</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30003679">
     <a xlink:href="http://evemaps.dotlan.net/map/Fade/HHK-VL" class="sys link-5-30003679" target="_top">
       <rect id="rect30003679" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">HHK-VL</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Fade</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">斐德</text>
     </a>
   </symbol>
   <symbol id="def30001997">
     <a xlink:href="http://evemaps.dotlan.net/map/Pure_Blind/U-INPD" class="sys link-5-30001997" target="_top">
       <rect id="rect30001997" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">U-INPD</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Pure Blind</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">黑渊</text>
     </a>
   </symbol>
   <symbol id="def30001336">
     <a xlink:href="http://evemaps.dotlan.net/map/Venal/WLF-D3" class="sys link-5-30001336" target="_top">
       <rect id="rect30001336" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">WLF-D3</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Venal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">维纳尔</text>
     </a>
   </symbol>
 

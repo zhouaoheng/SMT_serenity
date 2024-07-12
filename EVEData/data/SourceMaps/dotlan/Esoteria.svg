@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Esoteria</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">埃索特亚</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -741,42 +741,42 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Stain/U-WLT9" class="sys link-5-30001865" target="_top">
       <rect id="rect30001865" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">U-WLT9</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Stain</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">混浊</text>
     </a>
   </symbol>
   <symbol id="def30004667">
     <a xlink:href="http://evemaps.dotlan.net/map/Paragon_Soul/JI-K5H" class="sys link-5-30004667" target="_top">
       <rect id="rect30004667" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">JI-K5H</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Paragon Soul</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">摄魂之域</text>
     </a>
   </symbol>
   <symbol id="def30004671">
     <a xlink:href="http://evemaps.dotlan.net/map/Paragon_Soul/O-MCZR" class="sys link-5-30004671" target="_top">
       <rect id="rect30004671" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">O-MCZR</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Paragon Soul</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">摄魂之域</text>
     </a>
   </symbol>
   <symbol id="def30004691">
     <a xlink:href="http://evemaps.dotlan.net/map/Paragon_Soul/O4T-Z5" class="sys link-5-30004691" target="_top">
       <rect id="rect30004691" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">O4T-Z5</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Paragon Soul</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">摄魂之域</text>
     </a>
   </symbol>
   <symbol id="def30004491">
     <a xlink:href="http://evemaps.dotlan.net/map/Feythabolis/D4-2XN" class="sys link-5-30004491" target="_top">
       <rect id="rect30004491" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">D4-2XN</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Feythabolis</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">非塔波利斯</text>
     </a>
   </symbol>
   <symbol id="def30004452">
     <a xlink:href="http://evemaps.dotlan.net/map/Feythabolis/TR07-S" class="sys link-5-30004452" target="_top">
       <rect id="rect30004452" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">TR07-S</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Feythabolis</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">非塔波利斯</text>
     </a>
   </symbol>
 

@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Venal</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">维纳尔</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -841,70 +841,70 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Branch/MA-VDX" class="sys link-5-30004369" target="_top">
       <rect id="rect30004369" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">MA-VDX</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Branch</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">血脉</text>
     </a>
   </symbol>
   <symbol id="def30002889">
     <a xlink:href="http://evemaps.dotlan.net/map/Deklein/4U90-Z" class="sys link-5-30002889" target="_top">
       <rect id="rect30002889" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">4U90-Z</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Deklein</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">德克廉</text>
     </a>
   </symbol>
   <symbol id="def30002920">
     <a xlink:href="http://evemaps.dotlan.net/map/Deklein/DKUK-G" class="sys link-5-30002920" target="_top">
       <rect id="rect30002920" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">DKUK-G</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Deklein</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">德克廉</text>
     </a>
   </symbol>
   <symbol id="def30000858">
     <a xlink:href="http://evemaps.dotlan.net/map/Tribute/UMI-KK" class="sys link-5-30000858" target="_top">
       <rect id="rect30000858" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">UMI-KK</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tribute</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特布特</text>
     </a>
   </symbol>
   <symbol id="def30004310">
     <a xlink:href="http://evemaps.dotlan.net/map/Branch/UQ9-3C" class="sys link-5-30004310" target="_top">
       <rect id="rect30004310" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">UQ9-3C</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Branch</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">血脉</text>
     </a>
   </symbol>
   <symbol id="def30000872">
     <a xlink:href="http://evemaps.dotlan.net/map/Tribute/Q-CAB2" class="sys link-5-30000872" target="_top">
       <rect id="rect30000872" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">Q-CAB2</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tribute</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特布特</text>
     </a>
   </symbol>
   <symbol id="def30005189">
     <a xlink:href="http://evemaps.dotlan.net/map/Perrigen_Falls/MTO2-2" class="sys link-5-30005189" target="_top">
       <rect id="rect30005189" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">MTO2-2</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Perrigen Falls</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">佩利根弗</text>
     </a>
   </symbol>
   <symbol id="def30000896">
     <a xlink:href="http://evemaps.dotlan.net/map/Tribute/NJ4X-S" class="sys link-5-30000896" target="_top">
       <rect id="rect30000896" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">NJ4X-S</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tribute</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特布特</text>
     </a>
   </symbol>
   <symbol id="def30003657">
     <a xlink:href="http://evemaps.dotlan.net/map/Tenal/OE-4HB" class="sys link-5-30003657" target="_top">
       <rect id="rect30003657" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">OE-4HB</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tenal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特纳</text>
     </a>
   </symbol>
   <symbol id="def30003612">
     <a xlink:href="http://evemaps.dotlan.net/map/Tenal/EOY-BG" class="sys link-5-30003612" target="_top">
       <rect id="rect30003612" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">EOY-BG</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tenal</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">特纳</text>
     </a>
   </symbol>
 

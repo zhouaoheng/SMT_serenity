@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">Providence</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">普罗维登斯</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -320,7 +320,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Catch/IS-R7P" class="sys link-5-30001236" target="_top">
       <rect id="rect30001236" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">IS-R7P</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Catch</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡特ch</text>
     </a>
   </symbol>
   <symbol id="def30003776">
@@ -341,7 +341,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Catch/BR-N97" class="sys link-5-30001235" target="_top">
       <rect id="rect30001235" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">BR-N97</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Catch</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡特ch</text>
     </a>
   </symbol>
   <symbol id="def30003715">
@@ -384,7 +384,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Catch/ERVK-P" class="sys link-5-30001233" target="_top">
       <rect id="rect30001233" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">ERVK-P</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Catch</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡特ch</text>
     </a>
   </symbol>
   <symbol id="def30003720">
@@ -464,7 +464,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Catch/G-AOTH" class="sys link-5-30001227" target="_top">
       <rect id="rect30001227" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">G-AOTH</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Catch</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡特ch</text>
     </a>
   </symbol>
   <symbol id="def30003717">
@@ -617,7 +617,7 @@
     <a xlink:href="http://evemaps.dotlan.net/system/Shintaht" class="sys link-5-30003725" target="_top">
     <rect id="ice30003725" x="1" y="0.5" rx="14" ry="13" width="56" height="28" class="i" />
       <rect id="rect30003725" x="4" y="3.5" rx="11" ry="11" width="50" height="22"  class="s" style="fill: #F2CB00;" />
-      <text x="28" y="14" class="ss" text-anchor="middle">Shintaht</text>
+      <text x="28" y="14" class="ss" text-anchor="middle">辛塔特</text>
       <text id="txt30003725" x="28" y="21.7" class="st so" text-anchor="middle">T.R.C (5)</text>
     </a>
   </symbol>
@@ -761,8 +761,8 @@
   <symbol id="def30003563">
     <a xlink:href="http://evemaps.dotlan.net/map/Domain/Misaba" class="sys link-5-30003563" target="_top">
       <rect id="rect30003563" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Misaba</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Domain</text>
+      <text x="28" y="14" class="es" text-anchor="middle">米萨巴</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">多美</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -773,56 +773,56 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Catch/S25C-K" class="sys link-5-30001237" target="_top">
       <rect id="rect30001237" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">S25C-K</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Catch</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡特ch</text>
     </a>
   </symbol>
   <symbol id="def30001232">
     <a xlink:href="http://evemaps.dotlan.net/map/Catch/7MD-S1" class="sys link-5-30001232" target="_top">
       <rect id="rect30001232" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">7MD-S1</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Catch</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡特ch</text>
     </a>
   </symbol>
   <symbol id="def30001234">
     <a xlink:href="http://evemaps.dotlan.net/map/Catch/UL-7I8" class="sys link-5-30001234" target="_top">
       <rect id="rect30001234" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">UL-7I8</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Catch</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡特ch</text>
     </a>
   </symbol>
   <symbol id="def30001153">
     <a xlink:href="http://evemaps.dotlan.net/map/Catch/F9E-KX" class="sys link-5-30001153" target="_top">
       <rect id="rect30001153" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">F9E-KX</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Catch</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡特ch</text>
     </a>
   </symbol>
   <symbol id="def30001226">
     <a xlink:href="http://evemaps.dotlan.net/map/Catch/ZQ-Z3Y" class="sys link-5-30001226" target="_top">
       <rect id="rect30001226" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">ZQ-Z3Y</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Catch</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡特ch</text>
     </a>
   </symbol>
   <symbol id="def30001228">
     <a xlink:href="http://evemaps.dotlan.net/map/Catch/TA3T-3" class="sys link-5-30001228" target="_top">
       <rect id="rect30001228" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">TA3T-3</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Catch</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">卡特ch</text>
     </a>
   </symbol>
   <symbol id="def30001742">
     <a xlink:href="http://evemaps.dotlan.net/map/Tash-Murkon/Kari" class="sys link-5-30001742" target="_top">
       <rect id="rect30001742" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Kari</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Tash-Murkon</text>
+      <text x="28" y="14" class="es" text-anchor="middle">卡利</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">塔什蒙贡</text>
     </a>
   </symbol>
   <symbol id="def30000075">
     <a xlink:href="http://evemaps.dotlan.net/map/Derelik/Assah" class="sys link-5-30000075" target="_top">
       <rect id="rect30000075" x="3.5" y="3.5" width="50" height="22" class="el" />
-      <text x="28" y="14" class="es" text-anchor="middle">Assah</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Derelik</text>
+      <text x="28" y="14" class="es" text-anchor="middle">艾沙哈</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">德里克</text>
     </a>
     <rect x="49.6" y="9.5" height="11" width="11" class="o" />
     <polygon points="49.6,9.5 60.6,9.5 55.1,15 49.6,9.5" class="v1" />
@@ -832,8 +832,8 @@
   <symbol id="def30002968">
     <a xlink:href="http://evemaps.dotlan.net/map/Devoid/Dital" class="sys link-5-30002968" target="_top">
       <rect id="rect30002968" x="3.5" y="3.5" width="50" height="22" class="eh" />
-      <text x="28" y="14" class="es" text-anchor="middle">Dital</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Devoid</text>
+      <text x="28" y="14" class="es" text-anchor="middle">迪塔尔</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">破碎</text>
     </a>
   </symbol>
 

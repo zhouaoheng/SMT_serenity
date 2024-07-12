@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
@@ -97,7 +97,7 @@
 <g id="legend">
 <rect x="860.5" y="575.5" width="160" height="188" class="lb" />
 <rect x="860.5" y="860.5" width="160" height="20" class="lbt" />
-<text x="942.5" y="590.5" class="lt" text-anchor="middle">The Kalevala Expanse</text>
+<text x="942.5" y="590.5" class="lt" text-anchor="middle">卡勒瓦拉阔地</text>
 <rect x="860.5" y="595.5" width="160" height="148" class="lb" />
 <rect x="860.5" y="743.5" width="160" height="20" class="lb" />
 <text x="942.5" y="757.5" class="lc" text-anchor="middle"> 	&#169; by Wollari &amp; CCP</text>
@@ -136,14 +136,14 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Geminate/9P4O-F" class="sys link-5-30002472" target="_top">
       <rect id="rect30002472" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">9P4O-F</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Geminate</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">对舞之域</text>
     </a>
   </symbol>
   <symbol id="def30002471">
     <a xlink:href="http://evemaps.dotlan.net/map/Geminate/Q-TBHW" class="sys link-5-30002471" target="_top">
       <rect id="rect30002471" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">Q-TBHW</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Geminate</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">对舞之域</text>
     </a>
   </symbol>
   <symbol id="def30002865">
@@ -164,14 +164,14 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Geminate/P-E9GN" class="sys link-5-30002467" target="_top">
       <rect id="rect30002467" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">P-E9GN</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Geminate</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">对舞之域</text>
     </a>
   </symbol>
   <symbol id="def30002470">
     <a xlink:href="http://evemaps.dotlan.net/map/Geminate/L-TOFR" class="sys link-5-30002470" target="_top">
       <rect id="rect30002470" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">L-TOFR</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Geminate</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">对舞之域</text>
     </a>
   </symbol>
   <symbol id="def30002867">
@@ -214,14 +214,14 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/9-GBPD" class="sys link-5-30000318" target="_top">
       <rect id="rect30000318" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">9-GBPD</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30000317">
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/A3-RQ3" class="sys link-5-30000317" target="_top">
       <rect id="rect30000317" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">A3-RQ3</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30002871">
@@ -263,7 +263,7 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/LS-JEP" class="sys link-5-30000319" target="_top">
       <rect id="rect30000319" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">LS-JEP</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30002879">
@@ -670,77 +670,77 @@
     <a xlink:href="http://evemaps.dotlan.net/map/Geminate/HJO-84" class="sys link-5-30002468" target="_top">
       <rect id="rect30002468" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">HJO-84</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Geminate</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">对舞之域</text>
     </a>
   </symbol>
   <symbol id="def30002469">
     <a xlink:href="http://evemaps.dotlan.net/map/Geminate/4D9-66" class="sys link-5-30002469" target="_top">
       <rect id="rect30002469" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">4D9-66</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Geminate</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">对舞之域</text>
     </a>
   </symbol>
   <symbol id="def30002450">
     <a xlink:href="http://evemaps.dotlan.net/map/Geminate/9-KWXC" class="sys link-5-30002450" target="_top">
       <rect id="rect30002450" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">9-KWXC</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Geminate</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">对舞之域</text>
     </a>
   </symbol>
   <symbol id="def30000316">
     <a xlink:href="http://evemaps.dotlan.net/map/Vale_of_the_Silent/PX5-LR" class="sys link-5-30000316" target="_top">
       <rect id="rect30000316" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">PX5-LR</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Vale of the Silent</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">瓦勒 of the 斯勒恩t</text>
     </a>
   </symbol>
   <symbol id="def30002353">
     <a xlink:href="http://evemaps.dotlan.net/map/Etherium_Reach/TZ-74M" class="sys link-5-30002353" target="_top">
       <rect id="rect30002353" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">TZ-74M</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Etherium Reach</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">琉蓝之穹</text>
     </a>
   </symbol>
   <symbol id="def30002321">
     <a xlink:href="http://evemaps.dotlan.net/map/Etherium_Reach/FB-MPY" class="sys link-5-30002321" target="_top">
       <rect id="rect30002321" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">FB-MPY</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Etherium Reach</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">琉蓝之穹</text>
     </a>
   </symbol>
   <symbol id="def30002289">
     <a xlink:href="http://evemaps.dotlan.net/map/Etherium_Reach/AID-9T" class="sys link-5-30002289" target="_top">
       <rect id="rect30002289" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">AID-9T</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Etherium Reach</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">琉蓝之穹</text>
     </a>
   </symbol>
   <symbol id="def30001097">
     <a xlink:href="http://evemaps.dotlan.net/map/Malpais/Z-EKCY" class="sys link-5-30001097" target="_top">
       <rect id="rect30001097" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">Z-EKCY</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Malpais</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">玛尔pais</text>
     </a>
   </symbol>
   <symbol id="def30002285">
     <a xlink:href="http://evemaps.dotlan.net/map/Etherium_Reach/J7M-3W" class="sys link-5-30002285" target="_top">
       <rect id="rect30002285" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">J7M-3W</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Etherium Reach</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">琉蓝之穹</text>
     </a>
   </symbol>
   <symbol id="def30001057">
     <a xlink:href="http://evemaps.dotlan.net/map/Malpais/7-YHRX" class="sys link-5-30001057" target="_top">
       <rect id="rect30001057" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">7-YHRX</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Malpais</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">玛尔pais</text>
     </a>
   </symbol>
   <symbol id="def30001084">
     <a xlink:href="http://evemaps.dotlan.net/map/Malpais/V3P-AZ" class="sys link-5-30001084" target="_top">
       <rect id="rect30001084" x="3.5" y="3.5" width="50" height="22" class="e" />
       <text x="28" y="14" class="es" text-anchor="middle">V3P-AZ</text>
-      <text x="28" y="21.7" class="er" text-anchor="middle">Malpais</text>
+      <text x="28" y="21.7" class="er" text-anchor="middle">玛尔pais</text>
     </a>
   </symbol>
 
