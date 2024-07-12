@@ -327,9 +327,11 @@ namespace SMT
             }
 
             // Listen to notification activation and select the character if clicked on
+            // 监听通知激活并选择角色
             ToastNotificationManagerCompat.OnActivated += toastArgs =>
             {
                 // Obtain the arguments from the notification
+                // 从通知中获取参数
                 ToastArguments args = ToastArguments.Parse(toastArgs.Argument);
 
                 if (args.Contains("character"))
@@ -341,6 +343,7 @@ namespace SMT
                         if (lc.Name == charName)
                         {
                             // Need to dispatch to UI thread if performing UI operations
+                            // 需要在执行 UI 操作时分派到 UI 线程
                             Application.Current.Dispatcher.Invoke(delegate
                             {
                                 ActiveCharacter = lc;
@@ -2692,21 +2695,21 @@ namespace SMT
             var elapsed = now - timeFound;
 
             if (elapsed.TotalDays >= 1.0 && elapsed.TotalDays < 2.0)
-                return $"{(int)elapsed.TotalDays} day";
+                return $"{(int)elapsed.TotalDays} 天";
             else if (elapsed.TotalDays >= 2.0)
-                return $"{(int)elapsed.TotalDays} days";
+                return $"{(int)elapsed.TotalDays} 天";
 
             if (elapsed.TotalHours >= 1.0 && elapsed.TotalHours < 2.0)
-                return $"{(int)elapsed.TotalHours} hour";
+                return $"{(int)elapsed.TotalHours} 小时";
             else if (elapsed.TotalHours >= 2.0)
-                return $"{(int)elapsed.TotalHours} hours";
+                return $"{(int)elapsed.TotalHours} 小时";
 
             if (elapsed.TotalMinutes < 1.0)
-                return "Now";
+                return "现在";
             else if (elapsed.TotalMinutes < 2.0)
-                return $"{(int)elapsed.TotalMinutes} minute";
+                return $"{(int)elapsed.TotalMinutes} 分钟";
             else
-                return $"{(int)elapsed.TotalMinutes} minutes";
+                return $"{(int)elapsed.TotalMinutes} 分钟";
         }
 
         public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)

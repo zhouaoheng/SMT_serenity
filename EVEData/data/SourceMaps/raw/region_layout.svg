@@ -12,8 +12,8 @@
         x="1040.00" y="100.00">血脉</text>
     <rect height="5.00" width="5.00" Name="地窖" y="800.00" id="34715" Type="region" x="1930.00" /><text id="34716"
         x="1930.00" y="800.00">地窖</text>
-    <rect height="5.00" width="5.00" Name="卡特ch" y="1280.00" id="34718" Type="region" x="1110.00" /><text id="34719"
-        x="1110.00" y="1280.00">卡特ch</text>
+    <rect height="5.00" width="5.00" Name="卡特" y="1280.00" id="34718" Type="region" x="1110.00" /><text id="34719"
+        x="1110.00" y="1280.00">卡特</text>
     <rect height="5.00" width="5.00" Name="赛塔德洱" y="620.00" id="34721" Type="region" x="1010.00" /><text
         id="34722" x="1010.00" y="620.00">赛塔德洱</text>
     <rect height="5.00" width="5.00" Name="云环" y="240.00" id="34724" Type="region" x="500.00" /><text id="34725"
@@ -130,12 +130,12 @@
         id="34890" x="490.00" y="660.00">维格温铎</text>
     <rect height="5.00" width="5.00" Name="邪恶湾流" y="1230.00" id="34892" Type="region" x="1580.00" /><text
         id="34893" x="1580.00" y="1230.00">邪恶湾流</text>
-    <rect height="5.00" width="5.00" Name="Pochven" y="50.00" id="34895" Type="region" x="50.00" /><text id="34896"
-        x="50.00" y="50.00">Pochven</text>
+    <rect height="5.00" width="5.00" Name="波赫文" y="50.00" id="34895" Type="region" x="50.00" /><text id="34896"
+        x="50.00" y="50.00">波赫文</text>
     <rect height="5.00" width="5.00" Name="势力战争 - 艾玛 vs 米玛塔尔" y="120.00" id="34898" Type="region" x="50.00" />
-    <text id="34899" x="50.00" y="120.00"> - 艾玛 vs 米玛塔尔</text>
+    <text id="34899" x="50.00" y="120.00">势力战争 - 艾玛 vs 米玛塔尔</text>
     <rect height="5.00" width="5.00" Name="势力战争 - 加达里 vs 盖伦特" y="190.00" id="34901" Type="region"
         x="50.00" /><text id="34902" x="50.00" y="190.00">势力战争 - 加达里 vs 盖伦特</text>
-    <rect height="5.00" width="5.00" Name="Yasna Zakh" y="260.00" id="34904" Type="region" x="50.00" /><text id="34905"
-        x="50.00" y="260.00">Yasna Zakh</text>
+    <rect height="5.00" width="5.00" Name="伊甸乐园边境" y="260.00" id="34904" Type="region" x="50.00" /><text id="34905"
+        x="50.00" y="260.00">伊甸乐园边境</text>
 </svg>

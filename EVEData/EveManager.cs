@@ -1777,7 +1777,9 @@ namespace SMT.EVEData
                     LocalCharacterUpdateEvent();
                 }
             }
-
+            
+            // 修改到期时间为15天后
+            acd.ExpiresOn = DateTime.UtcNow.AddSeconds(15 * 24 * 60 * 60);
             esiChar.ESIRefreshToken = acd.RefreshToken;
             esiChar.ESILinked = true;
             esiChar.ESIAccessToken = acd.Token;
