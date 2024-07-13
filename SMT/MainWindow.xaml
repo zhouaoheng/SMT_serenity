@@ -300,7 +300,9 @@
                                                     </StackPanel>
 
                                                     <CheckBox Content="使用跳桥" IsChecked="{Binding ActiveCharacter.UseAnsiblexGates, ElementName=RegionUC}" Margin="2" />
+                                                    <!--
                                                     <CheckBox Content="经过希拉" IsChecked="{Binding ActiveCharacter.UseTheraRouting, ElementName=RegionUC}" Margin="2" />
+                                                    -->
                                                     <CheckBox Content="经过赞颂之域" IsChecked="{Binding ActiveCharacter.UseZarzakhRouting, ElementName=RegionUC}" Margin="2" />
                                                 </StackPanel>
                                             </GroupBox>
@@ -544,7 +546,7 @@
                                 </Grid>
                             </xcadl:LayoutAnchorable>
 
-                            <xcadl:LayoutAnchorable Title="希拉" CanClose="False" CanAutoHide="True" CanHide="false" ContentId="TheraContentID" AutoHideMinHeight="200" AutoHideMinWidth="280">
+                            <!--<xcadl:LayoutAnchorable Title="希拉" CanClose="False" CanAutoHide="True" CanHide="false" ContentId="TheraContentID" AutoHideMinHeight="200" AutoHideMinWidth="280">
                                 <ScrollViewer>
                                     <StackPanel>
 
@@ -588,7 +590,7 @@
                                         </DataGrid>
                                     </StackPanel>
                                 </ScrollViewer>
-                            </xcadl:LayoutAnchorable>
+                            </xcadl:LayoutAnchorable>-->
 
                             <xcadl:LayoutAnchorable Title="SOV 活动" CanClose="False" CanAutoHide="True" CanHide="false" ContentId="SOVCampaignsID" AutoHideMinHeight="200" AutoHideMinWidth="280">
                                 <ScrollViewer>

@@ -2343,7 +2343,7 @@ namespace SMT.EVEData
         public async void UpdateTheraConnections()
         {
             // 欧服专属 国服没有
-            string theraApiURL = "https://api.eve-scout.com/v2/public/signatures?system_name=Thera";
+            /*string theraApiURL = "https://api.eve-scout.com/v2/public/signatures?system_name=Thera";
             string strContent = string.Empty;
 
             try
@@ -2386,7 +2386,7 @@ namespace SMT.EVEData
                     "in_region_id": 10000020,
                     "in_region_name": "Tash-Murkon",
                     "in_signature": "LPI-677"
-                 */
+                 #1#
 
                 while (jsr.Read())
                 {
@@ -2417,7 +2417,7 @@ namespace SMT.EVEData
             if (TheraUpdateEvent != null)
             {
                 TheraUpdateEvent();
-            }
+            }*/
         }
 
         public void UpdateMetaliminalStorms()
@@ -3141,7 +3141,7 @@ namespace SMT.EVEData
                                 }
                             }
                             // TODO - 暂时不知道国服怎么显示
-                            if (line.Contains("cloak deactivates due to a pulse from a Mobile Observatory") || line.Contains("Your cloak deactivates due to proximity to"))
+                            if (line.Contains("cloak deactivates due to a pulse from a Mobile Observatory") || line.Contains("你的隐形状态已解除"))
                             {
                                 if (ShipDecloakedEvent != null)
                                 {

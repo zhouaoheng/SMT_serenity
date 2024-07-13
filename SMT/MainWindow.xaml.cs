@@ -190,7 +190,8 @@ namespace SMT
             EVEManager.InitNavigation();
 
 
-            EVEManager.UpdateMetaliminalStorms();
+            // TODO 关闭风暴显示
+            /*EVEManager.UpdateMetaliminalStorms();*/
 
             EVEManager.LocalCharacterUpdateEvent += LocalCharacters_CollectionChanged;
 
@@ -199,11 +200,11 @@ namespace SMT
 
             FleetMembersList.DataContext = this;
 
-            TheraConnectionsList.ItemsSource = EVEManager.TheraConnections;
+            /*TheraConnectionsList.ItemsSource = EVEManager.TheraConnections;*/
             EVEManager.TheraUpdateEvent += TheraConnections_CollectionChanged;
 
             JumpBridgeList.ItemsSource = EVEManager.JumpBridges;
-            MetaliminalStormList.ItemsSource = EVEManager.MetaliminalStorms;
+            /*MetaliminalStormList.ItemsSource = EVEManager.MetaliminalStorms;*/
             EVEManager.StormsUpdateEvent += Storms_CollectionChanged;
 
             SovCampaignList.ItemsSource = EVEManager.ActiveSovCampaigns;
@@ -429,7 +430,7 @@ namespace SMT
         {
             Application.Current.Dispatcher.Invoke((Action)(() =>
             {
-                CollectionViewSource.GetDefaultView(MetaliminalStormList.ItemsSource).Refresh();
+                /*CollectionViewSource.GetDefaultView(MetaliminalStormList.ItemsSource).Refresh();*/
             }), DispatcherPriority.Normal);
         }
 
@@ -437,7 +438,7 @@ namespace SMT
         {
             Application.Current.Dispatcher.Invoke((Action)(() =>
             {
-                CollectionViewSource.GetDefaultView(TheraConnectionsList.ItemsSource).Refresh();
+                /*CollectionViewSource.GetDefaultView(TheraConnectionsList.ItemsSource).Refresh();*/
             }), DispatcherPriority.Normal);
         }
 
@@ -931,6 +932,7 @@ namespace SMT
 
         private async void CheckGitHubVersion()
         {
+            // https://api.github.com/repos/zhouaoheng/SMT_serenity/releases/latest
             string url = @"https://api.github.com/repos/slazanger/smt/releases/latest";
             string strContent = string.Empty;
 
@@ -1100,9 +1102,9 @@ namespace SMT
         {
             string ActiveWindowText = Utils.Misc.GetCaptionOfActiveWindow();
 
-            if (ActiveWindowText.Contains("EVE - "))
+            if (ActiveWindowText.Contains("星战前夜：晨曦 [Serenity] - "))
             {
-                string characterName = ActiveWindowText.Substring(6);
+                string characterName = ActiveWindowText.Substring(21);
                 foreach (EVEData.LocalCharacter lc in EVEManager.LocalCharacters)
                 {
                     if (lc.Name == characterName)
