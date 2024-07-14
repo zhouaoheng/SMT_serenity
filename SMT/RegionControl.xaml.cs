@@ -3481,7 +3481,7 @@ namespace SMT
                         string cname = c.Name;
                         if (!c.IsOnline)
                         {
-                            cname += " (Offline)";
+                            cname += " (离线)";
                         }
                         charNames.Add(cname);
                     }
@@ -3546,7 +3546,7 @@ namespace SMT
                     Label data = new Label();
                     data.Padding = one;
                     data.Margin = one;
-                    data.Content = $"NPC 击毁数量\t:  {selectedSys.ActualSystem.NPCKillsLastHour}, Delta ({selectedSys.ActualSystem.NPCKillsDeltaLastHour})";
+                    data.Content = $"NPC 击毁数量\t:  {selectedSys.ActualSystem.NPCKillsLastHour}, 增量 ({selectedSys.ActualSystem.NPCKillsDeltaLastHour})";
                     data.Foreground = new SolidColorBrush(MapConf.ActiveColourScheme.PopupText);
                     SystemInfoPopupSP.Children.Add(data);
                 }

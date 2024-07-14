@@ -604,7 +604,7 @@ namespace SMT
             if (sys.HasNPCStation)
             {
                 MenuItem mi = new MenuItem();
-                mi.Header = "NPC Station(s)";
+                mi.Header = "NPC 空间站数量";
                 StatsHeader.IsEnabled = true;
                 StatsHeader.Items.Add(mi);
             }
@@ -612,7 +612,7 @@ namespace SMT
             if (sys.HasIceBelt)
             {
                 MenuItem mi = new MenuItem();
-                mi.Header = "Ice Belts";
+                mi.Header = "冰带";
                 StatsHeader.IsEnabled = true;
                 StatsHeader.Items.Add(mi);
             }
@@ -620,7 +620,7 @@ namespace SMT
             if (sys.HasJoveObservatory)
             {
                 MenuItem mi = new MenuItem();
-                mi.Header = "Jove Observatory";
+                mi.Header = "朱庇特天文台";
                 StatsHeader.IsEnabled = true;
                 StatsHeader.Items.Add(mi);
             }
@@ -628,7 +628,7 @@ namespace SMT
             if (sys.JumpsLastHour > 0)
             {
                 MenuItem mi = new MenuItem();
-                mi.Header = "Jumps : " + sys.JumpsLastHour;
+                mi.Header = "跳跃次数 : " + sys.JumpsLastHour;
                 StatsHeader.IsEnabled = true;
                 StatsHeader.Items.Add(mi);
             }
@@ -636,7 +636,7 @@ namespace SMT
             if (sys.ShipKillsLastHour > 0)
             {
                 MenuItem mi = new MenuItem();
-                mi.Header = "Ship Kills : " + sys.ShipKillsLastHour;
+                mi.Header = "舰船击毁数 : " + sys.ShipKillsLastHour;
                 StatsHeader.IsEnabled = true;
                 StatsHeader.Items.Add(mi);
             }
@@ -644,7 +644,7 @@ namespace SMT
             if (sys.PodKillsLastHour > 0)
             {
                 MenuItem mi = new MenuItem();
-                mi.Header = "Pod Kills : " + sys.PodKillsLastHour;
+                mi.Header = "太空舱击毁数 : " + sys.PodKillsLastHour;
                 StatsHeader.IsEnabled = true;
                 StatsHeader.Items.Add(mi);
             }
@@ -652,7 +652,7 @@ namespace SMT
             if (sys.NPCKillsLastHour > 0)
             {
                 MenuItem mi = new MenuItem();
-                mi.Header = "NPC Kills : " + sys.NPCKillsLastHour + " (Delta: " + sys.NPCKillsDeltaLastHour + ")";
+                mi.Header = "NPC 击毁数 : " + sys.NPCKillsLastHour + " (增量: " + sys.NPCKillsDeltaLastHour + ")";
                 StatsHeader.IsEnabled = true;
                 StatsHeader.Items.Add(mi);
             }
@@ -660,7 +660,7 @@ namespace SMT
             if (sys.RadiusAU > 0)
             {
                 MenuItem mi = new MenuItem();
-                mi.Header = "Radius : " + sys.RadiusAU.ToString("#.##") + " (AU)";
+                mi.Header = "星系半径 : " + sys.RadiusAU.ToString("#.##") + " (AU)";
                 StatsHeader.IsEnabled = true;
                 StatsHeader.Items.Add(mi);
             }
@@ -668,14 +668,14 @@ namespace SMT
 
         private void VHSystems_SOV_Clicked(object sender, RoutedEventArgs e)
         {
-            /*MenuItem mi = sender as MenuItem;
+            MenuItem mi = sender as MenuItem;
             long ID = (long)mi.DataContext;
 
             if (ID != 0)
             {
-                string uRL = string.Format("https://evewho.com/alliance/{0}", ID);
+                string uRL = string.Format("https://evemaps.ceve-market.org/alliance/{0}/", ID);
                 System.Diagnostics.Process.Start(new System.Diagnostics.ProcessStartInfo(uRL) { UseShellExecute = true });
-            }*/
+            }
         }
 
         private void UniverseControl_PropertyChanged(object sender, PropertyChangedEventArgs e)

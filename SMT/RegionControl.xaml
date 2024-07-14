@@ -51,8 +51,8 @@
             </MenuItem>
 
             <Separator />
-            <MenuItem Header="DotLan" Click="SysContexMenuItemDotlan_Click" />
-            <MenuItem Header="ZKillBoard" Click="SysContexMenuItemZKB_Click" />
+            <!--<MenuItem Header="DotLan" Click="SysContexMenuItemDotlan_Click" />
+            <MenuItem Header="ZKillBoard" Click="SysContexMenuItemZKB_Click" />-->
             <MenuItem Header="复制名称" Click="SysContexMenuItemCopy_Click" />
             <MenuItem Header="在宇宙中显示" Click="SysContexMenuItemShowInUniverse_Click" />
         </ContextMenu>
@@ -230,7 +230,7 @@
                                     </Image>
                                 </ToggleButton>
 
-                                <ToggleButton x:Name="ToggleStandingsBtn" Margin="0" Background="{x:Null}" BorderThickness="0" IsChecked="{Binding Path=ShowStandings}" ToolTip="展示身份" Width="30" Height="30">
+                                <ToggleButton x:Name="ToggleStandingsBtn" Margin="0" Background="{x:Null}" BorderThickness="0" IsChecked="{Binding Path=ShowStandings}" ToolTip="显示声望" Width="30" Height="30">
                                     <ToggleButton.Style>
                                         <Style TargetType="{x:Type ToggleButton}">
                                             <Setter Property="Background">

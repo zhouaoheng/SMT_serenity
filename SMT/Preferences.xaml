@@ -81,8 +81,8 @@
                                     <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowTrueSec}" Content="显示真实安全性" />
                                     <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowSystemPopup}" Content="显示系统菜单" />
                                     <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowZKillData}" Content="显示KB数据" />
-                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowNegativeRattingDelta}" Content="Show Negative Ratting Delta" />
-                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowRattingDataAsDelta}" Content="Show Ratting Data as Delta" />
+                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowNegativeRattingDelta}" Content="显示负增量" />
+                                    <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowRattingDataAsDelta}" Content="使用增量代替显示数据" />
                                     <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowSimpleSecurityView}" Content="简写安全情况（仅 高安全/低安全/无）" />
                                     <CheckBox Margin="0,3" IsChecked="{Binding Path=ShowTrigInvasions}" Content="显示三神裔入侵" />
 

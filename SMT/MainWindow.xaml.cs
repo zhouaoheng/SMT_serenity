@@ -932,8 +932,7 @@ namespace SMT
 
         private async void CheckGitHubVersion()
         {
-            // https://api.github.com/repos/zhouaoheng/SMT_serenity/releases/latest
-            string url = @"https://api.github.com/repos/slazanger/smt/releases/latest";
+            string url = @"https://api.github.com/repos/zhouaoheng/SMT_serenity/releases/latest";
             string strContent = string.Empty;
 
             try

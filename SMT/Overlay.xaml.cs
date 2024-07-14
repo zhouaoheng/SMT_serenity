@@ -1013,13 +1013,13 @@ namespace SMT
 
             // Todo: NPC Kills == 0, delta == 0, jumps, hunter/gatherer
             string toolTipText = $"{systemData.system.Name} ({systemData.system.TrueSec.ToString("n2")})";
-            if (!gathererMode) toolTipText += $"\nNPC Kills: {systemData.system.NPCKillsLastHour}\nDelta: {systemData.system.NPCKillsDeltaLastHour}";
-            if (systemData.intelData != null) toolTipText += $"\nReported: {systemData.intelData.RawIntelString}";
+            if (!gathererMode) toolTipText += $"\nNPC 被击毁数: {systemData.system.NPCKillsLastHour}\n增量: {systemData.system.NPCKillsDeltaLastHour}";
+            if (systemData.intelData != null) toolTipText += $"\n报告: {systemData.intelData.RawIntelString}";
             var jumpBridges = mainWindow.EVEManager.JumpBridges.Where(t => t.From == systemData.system.Name || t.To == systemData.system.Name);
             if (jumpBridges.Any()) {
                 foreach ( var jumpBridge in jumpBridges )
                 {
-                    toolTipText += $"\nBridge: {jumpBridge.From} - {jumpBridge.To}";
+                    toolTipText += $"\n跳桥: {jumpBridge.From} - {jumpBridge.To}";
                 }
             }
             // Todo: Add Thera
@@ -1564,13 +1564,13 @@ namespace SMT
                 if (OverlayCharacter.ESILinked)
                 {
                     MenuItem setRouteTarget = new MenuItem();
-                    setRouteTarget.Header = "Set Destination";
+                    setRouteTarget.Header = "设定目的地";
                     setRouteTarget.Click += SetDestination_Click;
                     setRouteTarget.DataContext = sysData.system.Name;
                     systemContextMenu.Items.Add(setRouteTarget);
 
                     MenuItem addRouteWaypoint = new MenuItem();
-                    addRouteWaypoint.Header = "Add Waypoint";
+                    addRouteWaypoint.Header = "添加航标";
                     addRouteWaypoint.DataContext = sysData.system.Name;
                     addRouteWaypoint.Click += AddWaypoint_Click;
                     systemContextMenu.Items.Add(addRouteWaypoint);
@@ -1578,7 +1578,7 @@ namespace SMT
                 else
                 {
                     MenuItem esiNote = new MenuItem();
-                    esiNote.Header = "ESI auth required to set route.";
+                    esiNote.Header = "设定路线需进行ESI授权。";
                     esiNote.IsEnabled = false;
                     systemContextMenu.Items.Add(esiNote);
                 }
@@ -1947,7 +1947,7 @@ namespace SMT
             }
             else
             {
-                overlay_CharNameTextblock.Text = "No char selected";
+                overlay_CharNameTextblock.Text = "没有选择角色";
             }
         }
 

@@ -1916,6 +1916,8 @@ namespace SMT.EVEData
 
             try
             {
+                // UnknownIDs 去重
+                UnknownIDs = UnknownIDs.Distinct().ToList();
                 ESI.NET.EsiResponse<List<ESI.NET.Models.Universe.ResolvedInfo>> esra = await ESIClient.Universe.Names(UnknownIDs);
                 if (ESIHelpers.ValidateESICall<List<ESI.NET.Models.Universe.ResolvedInfo>>(esra))
                 {
@@ -2626,7 +2628,8 @@ namespace SMT.EVEData
                 "esi-location.read_online.v1",
                 "esi-characters.read_fatigue.v1",
                 "esi-corporations.read_contacts.v1",
-                "esi-alliances.read_contacts.v1"
+                "esi-alliances.read_contacts.v1",
+                "esi-characters.read_contacts.v1"
             };
 
             foreach (MapRegion rr in Regions)
@@ -2779,7 +2782,7 @@ namespace SMT.EVEData
                 }
             }
 
-            if (changedFile.Contains("Local_"))
+            if (changedFile.Contains("本地_"))
             {
                 localChat = true;
                 processFile = true;
@@ -3033,7 +3036,7 @@ namespace SMT.EVEData
                         fileReadFrom++;
 
                         // explicitly skip just "local"
-                        if (l.Contains("Gamelog"))
+                        if (l.Contains("游戏记录"))
                         {
                             // now can read the next line
                             l = file.ReadLine(); // should be the "Listener : <CharName>"
@@ -3140,8 +3143,7 @@ namespace SMT.EVEData
                                     CombatEvent(characterName, line);
                                 }
                             }
-                            // TODO - 暂时不知道国服怎么显示
-                            if (line.Contains("cloak deactivates due to a pulse from a Mobile Observatory") || line.Contains("你的隐形状态已解除"))
+                            if (line.Contains("移动式观测站的脉冲波影响，你的隐形状态已解除。") || line.Contains("你的隐形状态已解除"))
                             {
                                 if (ShipDecloakedEvent != null)
                                 {
