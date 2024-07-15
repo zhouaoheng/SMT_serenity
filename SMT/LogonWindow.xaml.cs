@@ -57,7 +57,9 @@ namespace SMT
         private void SubmitButton_Click(object sender, RoutedEventArgs e)
         {
             string url = urlTextBox.Text;
-            if (!string.IsNullOrWhiteSpace(url))
+            // 对url进行初步验证
+            string expectedUrl = "https://ali-esi.evepc.163.com/ui/oauth2-redirect.html?code=";
+            if (!string.IsNullOrWhiteSpace(url) && url.StartsWith(expectedUrl))
             {
                 // 在这里处理输入的URL
                 HandleURL(url);
