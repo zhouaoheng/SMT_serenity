@@ -23,12 +23,12 @@ namespace SMT.EVEData
         /// <summary>
         /// SMT Version Tagline
         /// </summary>
-        public const string SMT_TITLE = "Equinoctial .";
+        public const string SMT_TITLE = "夏至 .";
 
         /// <summary>
         /// SMT Version
         /// </summary>
-        public const string SMT_VERSION = "SMT_134";
+        public const string SMT_VERSION = "SMT_Serenity_134";
 
         /// <summary>
         /// Folder to store all of the data from
